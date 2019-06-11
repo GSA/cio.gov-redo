@@ -59,6 +59,8 @@ primary_navigation:
     url: /resources/
   - name: News
     url: /news/
+  - name: Government IT Jobs
+    url: /government-IT-jobs/
 
 secondary_navigation:
   - name: Secondary link
