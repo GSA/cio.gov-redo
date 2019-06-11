@@ -18,7 +18,7 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: CIO.gov
+title: CIO.GOV
 email:  feedback@cio.gov
 description: >- # this means to ignore newlines until "baseurl:"
   Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -39,26 +39,26 @@ dap_agency: GSA
 primary_navigation:
   - name: Home
     url: /
-  - name: About our Council
+  - name: About Our Council
     children:
       - name: Our Mission
-        url: '#mission'
+        url: /mission/
       - name: Our Team and Leadership
-        url: '#team-and-leadership'
-      - name: Meetings and Operations
-        url: '#meetings-and-operations'
-  - name: News
-    url: /news/
+        url: /team-and-leadership/
+      - name: Our Meetings and Operations
+        url: /meetings-and-operations/
   - name: Policies & Priorities
     url: /policies-and-priorities/
   - name: Programs & Events
     children:
       - name: Reskilling
-        url: '#reskilling'
+        url: /reskilling/
       - name: Code Challenge
-        url: '#codechallenge'
+        url: /codechallenge/
   - name: Resources
     url: /resources/
+  - name: News
+    url: /news/
 
 secondary_navigation:
   - name: Secondary link
