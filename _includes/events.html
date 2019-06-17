@@ -1,6 +1,14 @@
 <!--this section is for upcoming events for the cio council. The events pull from  ......-->
 <h3>Upcoming events</h3>
 
+{% for events in site.events %}
+  <p class="date">{{ events.date | date: "%b %d, %y" }}</p>
+  <p class="title">{{ events.title }}</p>
+  <p class="description">{{ events.description }}</p>
+{% endfor %}
+
+
+<!--
 <p style="color:white;"><b>July 7</b> <br>
 CIO Code Challenge 2 Ends: The Core CS challenge comes to a close.
 </p>
@@ -12,4 +20,4 @@ CIO Code Challenge 2 Ends: The Core CS challenge comes to a close.
 </p>
 <p style="color:white;"><b>Aug 7:</b> <br>
   CIO Code Challenge 3 Ends: The Dev/Ops challenge comes to a close.
-</p>
+</p>-->

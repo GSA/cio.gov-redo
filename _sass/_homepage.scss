@@ -54,5 +54,30 @@
 }
 
 .blue-gradient h3 {
-  color: #FFFFFF
+  color: #FFFFFF;
+}
+
+.blue-gradient p {
+  color: #ffffff;
+  margin: 0px
+}
+
+.blue-gradient .title {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin: 0px;
+}
+
+.blue-gradient .date {
+  color: #00bde3;
+  text-transform: uppercase;
+  font-size: .9rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  margin: 0px;
+}
+
+.blue-gradient .description {
+  margin-bottom: 25px;
 }
