@@ -37,8 +37,6 @@ dap_agency: GSA
 
 # Site Navigation
 primary_navigation:
-  - name: Home
-    url: /
   - name: About Our Council
     children:
       - name: Our Mission
@@ -61,6 +59,8 @@ primary_navigation:
     url: /news/
 
 secondary_navigation:
+  - name: Contact Us
+    url: "mailto:name@email.com"
   - name: Government IT Jobs
     url: /government-it-jobs
 
