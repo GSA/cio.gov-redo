@@ -59,14 +59,10 @@ primary_navigation:
     url: /resources/
   - name: News
     url: /news/
-  - name: Government IT Jobs
-    url: /government-IT-jobs/
 
 secondary_navigation:
-  - name: Secondary link
-    url: '#main-content'
-  - name: Another secondary link
-    url: '#main-content'
+  - name: Government IT Jobs
+    url: /government-it-jobs
 
 # Search.gov configuration
 #
