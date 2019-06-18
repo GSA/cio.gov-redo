@@ -3,9 +3,21 @@
     <div class="tablet:grid-col-4">
       {% include twitter.html %}
     </div>
+    {% for project in site.posts limit:1 %}
     <div class="tablet:grid-col-4">
-      {% include home-news.html %}
+      {% include home-news.html
+        image_src=project.image
+        image_alt=project.image_accessibility
+        image_icon=project.image_icon
+        agency=project.agency
+        tagline=project.title
+        date=project.date
+        description=project.excerpt
+        link=project.permalink
+        tags=project.tags
+        %}
     </div>
+    {% endfor %}
     <div class="tablet:grid-col-4 blue-gradient">
       {% include events.html %}
     </div>

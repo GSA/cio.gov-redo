@@ -23,7 +23,11 @@
     letter-spacing: 0.5px;
   }
 
-.bg-primary-darker h2, h3 {
+.bg-primary-darker h2 {
+    color: #FFFFFF;
+  }
+
+.bg-primary-darker h3 {
     color: #FFFFFF;
   }
 
@@ -78,3 +82,148 @@
 .blue-gradient .description {
   margin-bottom: 25px;
 }
+
+.bg-base-lightest h1 {
+  color: #171717
+}
+
+.bg-base-lightest p {
+  color: #171717
+}
+
+
+/*styling for news card*/
+.usa-flex {
+  display: flex;
+}
+
+.usa-flex-wrap {
+  flex-wrap: wrap;
+}
+
+
+.card[aria-hidden=true] {
+ display: none; }
+
+.card {
+ margin-bottom: 0rem; }
+ .card:hover svg g,
+ .card:hover svg path,
+ .card:hover svg ellipse,
+ .card:hover svg polygon,
+ .card:hover svg polyline, .card:focus svg g,
+ .card:focus svg path,
+ .card:focus svg ellipse,
+ .card:focus svg polygon,
+ .card:focus svg polyline {
+   stroke: #00547A; }
+ @media screen and (min-width: 768px) {
+   .card:nth-last-of-type(1), .card:nth-last-of-type(2), .card:nth-last-of-type(3) {
+     margin-bottom: 0; }
+   .card:nth-of-type(1), .card:nth-of-type(2), .card:nth-of-type(3) {
+     margin-bottom: 0rem; } }
+
+.card-link {
+ background-color: #ffffff;
+ color: #ffffff;
+ /*border: 1px solid white;*/
+ cursor: pointer;
+ display: flex;
+ flex-direction: column;
+ height: 100%;
+ text-decoration: none;
+ width: 100%;
+ -webkit-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2);
+ -moz-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2);
+ -ms-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2);
+ -o-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2);
+ box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2); }
+ .card-link:hover {
+   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+   -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+   -o-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2); }
+ .card-link:active {
+   box-shadow: 0 0 3px #3e94cf, 0 0 7px #3e94cf; }
+ @media screen and (min-width: 600px) {
+   .card-link {
+     margin-bottom: 0; } }
+
+.card-link-tagline {
+ text-decoration: none;
+ color: #205493;
+ }
+
+
+.card-banner-homepage {
+   background-color: #ffffff;
+   flex: 1 0 auto;
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: auto;
+   float: left;
+   padding: 2rem;
+   width: 100%;
+   height: 15rem;
+ }
+
+.card-image {
+ float: left; }
+
+.card-description {
+ color: black;
+ font-size: 1rem; }
+
+.card-tag {
+ font-size: .9rem;
+ margin-top: .2em;
+ margin-bottom: .15em;
+ font-weight: 700;
+ letter-spacing: 0.5px;
+ text-transform: uppercase;
+ color: #323a45;
+}
+
+ .card-date {
+  color: #323a45;
+  font-size: 1.4rem;
+ }
+
+.card-image-bg {
+  background-color: #f1f1f1;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+ }
+
+.card-image-svg svg {
+ height: 100%;
+ width: 100%;
+ padding: 3rem; }
+
+.card-cta {
+   padding: 2rem;
+   padding-top: 0;
+}
+
+.card-cta p {
+  color: #323a45;
+  font-size: .75em;
+ }
+.link-arrow-left, .link-arrow-right {
+   font-weight: 700;
+   font-size: 1.4rem;
+   text-decoration: none;
+  }
+
+.link-arrow-right svg {
+  display: inline-block;
+  height: 1.2rem;
+  margin-bottom: -1px;
+  width: 1.2rem;
+  margin-left: 4px;
