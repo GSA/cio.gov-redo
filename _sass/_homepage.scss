@@ -14,22 +14,22 @@
     background-color: #1C304A;
   }
 
-.background-gray {
-  background-color: #f1f1f1;
-}
-
-.background-dark p {
+.bg-primary-darker p {
     color: #FFFFFF;
   }
 
-.background-dark h1 {
+.bg-primary-darker h1 {
     color: #00cfff;
     letter-spacing: 0.5px;
   }
 
-.background-dark h2 {
+.bg-primary-darker h2, h3 {
     color: #FFFFFF;
   }
+
+.top-tasks {
+  text-align: center;
+}
 
 .section-intro {
   font-size: 1.5rem;
@@ -41,12 +41,9 @@
   margin-bottom: 0;
 }
 
-.lt-gray-background {
-  background-color: #dcdee0;
-}
-
 .homepage-icon {
-  width:40px;
+  width:66px;
+  padding-bottom: 10px;
 }
 
 .blue-gradient {
