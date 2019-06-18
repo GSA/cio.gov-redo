@@ -14,17 +14,16 @@
     background-color: #1C304A;
   }
 
-.bg-primary-darker p {
-    color: #FFFFFF;
-  }
+.bg-primary-dark h3 {
+  color: #ffffff;
+}
 
-.bg-primary-darker h1 {
-    color: #00cfff;
-    letter-spacing: 0.5px;
+.bg-primary-darker p {
+    color: #dcdee0;
   }
 
 .bg-primary-darker h2 {
-    color: #FFFFFF;
+    color: #dcdee0;
   }
 
 .bg-primary-darker h3 {
@@ -38,11 +37,14 @@
 .section-intro {
   font-size: 1.5rem;
   margin-bottom: 0;
+  color:  #00bde3;
 }
 
 .section-intro h1 {
   font-size: 1.5rem;
   margin-bottom: 0;
+  color:  #00bde3;
+  letter-spacing: 0.5px;
 }
 
 .homepage-icon {
@@ -227,3 +229,5 @@
   margin-bottom: -1px;
   width: 1.2rem;
   margin-left: 4px;
+
+}
