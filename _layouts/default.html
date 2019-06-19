@@ -1,5 +1,5 @@
-{% comment %} 
-This is used for just about every page. It provides the border around the content. 
+{% comment %}
+This is used for just about every page. It provides the border around the content.
 The home page uses wide.html layout, since it extends full width of page
 {% endcomment %}
 
@@ -9,6 +9,12 @@ The home page uses wide.html layout, since it extends full width of page
 
 <main class="usa-layout-docs usa-section" id="main-content">
   <div class="grid-container">
+    <div id="blog" class="bg-primary-darker usa-content font-serif-lg padding-y-6">
+      <div class="grid-container">
+        <h1 class="text-normal text-white margin-0"> {{page.title}} </h1>
+        <span class="text-base-lighter display-block padding-top-1 text-light">This is a description of the page.</span>
+      </div>
+    </div>
     {{ content }}
   </div>
 </main>
