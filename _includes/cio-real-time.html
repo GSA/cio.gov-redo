@@ -3,6 +3,9 @@
     <div class="tablet:grid-col-4">
       {% include twitter.html %}
     </div>
+    <div class="tablet:grid-col-4 blue-gradient">
+      {% include events.html %}
+    </div>
     {% for project in site.posts limit:1 %}
     <div class="tablet:grid-col-4">
       {% include home-news.html
@@ -18,8 +21,5 @@
         %}
     </div>
     {% endfor %}
-    <div class="tablet:grid-col-4 blue-gradient">
-      {% include events.html %}
-    </div>
   </div>
 </section>
