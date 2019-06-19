@@ -52,27 +52,27 @@
   padding-bottom: 10px;
 }
 
-.gray-gradient {
+.white-feature-box {
   background-image: linear-gradient(#dcdee0, #f0f0f0)
 }
 
-.gray-gradient h3 {
-  color: #FFFFFF;
+.white-feature-box h3 {
+  color: #162e51;
 }
 
-.gray-gradient p {
-  color: #ffffff;
+.white-feature-box p {
+  color: #3d4551;
   margin: 0px
 }
 
-.gray-gradient .title {
-  color: #ffffff;
+.white-feature-box .title {
+  color: #162e51;
   font-weight: 700;
   font-size: 1.1rem;
   margin: 0px;
 }
 
-.gray-gradient .date {
+.white-feature-box .date {
   color: #00bde3;
   text-transform: uppercase;
   font-size: .9rem;
@@ -81,7 +81,7 @@
   margin: 0px;
 }
 
-.gray-gradient .description {
+.white-feature-box .description {
   margin-bottom: 25px;
 }
 
