@@ -7,10 +7,14 @@ This template is used when you want to fill the width of the page, but for a lan
 
 <main class="usa-layout-docs usa-section" id="main-content">
   <div class="grid-container">
-    <h1 class="text-normal text-white margin-0">{{ page.title }}</h1>
-    <span class="text-base-lighter display-block padding-top-1 text-light">This is a description of the page.</span>
+    <div id="blog" class="bg-primary-darker usa-content font-serif-lg padding-y-6">
+      <div class="grid-container">
+        <h1 class="text-normal text-white margin-0"> {{page.title}} </h1>
+        <span class="text-base-lighter display-block padding-top-1 text-light">This is a description of the page.</span>
+      </div>
+    </div>
+    {{ content }}
   </div>
-  {{ content }}
 </main>
 
 {% include footer.html %}
