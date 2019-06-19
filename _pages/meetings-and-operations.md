@@ -1,7 +1,7 @@
 ---
-title: Our Team and Leadership
+title: Our Meetings and Operations
 layout: wide
-permalink: /team-and-leadership/
+permalink: /operations/
 ---
 
 #This is a header

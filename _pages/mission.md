@@ -1,6 +1,6 @@
 ---
 title: Our Mission
-layout: default
+layout: wide
 permalink: /mission/
 ---
 
