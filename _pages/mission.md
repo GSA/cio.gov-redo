@@ -1,8 +1,7 @@
 ---
 title: About Our Council
 subtitle: Our Mission
-layout: landing
-sidenav: true
+layout: page
 permalink: /mission/
 ---
 

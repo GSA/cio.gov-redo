@@ -1,8 +1,7 @@
 ---
 title: About Our Council
 subtitle: Our Meetings and Operations
-layout: landing
-sidenav: true
+layout: page
 permalink: /operations/
 ---
 

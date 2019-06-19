@@ -1,8 +1,7 @@
 ---
 title: About Our Council
 subtitle: Our Team and Leadership
-layout: landing
-sidenav: true
+layout: page
 permalink: /team-and-leadership/
 ---
 
