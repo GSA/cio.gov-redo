@@ -1,5 +1,5 @@
 ---
-title: President's Management Agenda
+title: The President's Management Agenda (PMA)
 subtitle: A Guidepost for Council Priorities
 layout: page
 permalink: /pma/
