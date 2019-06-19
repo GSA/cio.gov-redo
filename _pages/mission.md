@@ -1,5 +1,6 @@
 ---
-title: Our Mission
+title: About Our Council
+subtitle: Our Mission
 layout: landing
 permalink: /mission/
 ---

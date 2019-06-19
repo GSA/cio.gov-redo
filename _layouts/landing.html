@@ -5,16 +5,19 @@ This template is used when you want to fill the width of the page, but for a lan
 {% include header.html %}
 {% include menu.html primary_navigation=site.primary_navigation  secondary_navigation=site.secondary_navigation %}
 
-<main class="usa-layout-docs usa-section" id="main-content">
-  <div class="grid-container">
-    <div id="blog" class="bg-primary-darker usa-content font-serif-lg padding-y-6">
-      <div class="grid-container">
-        <h1 class="text-normal text-white margin-0"> {{page.title}} </h1>
-        <span class="text-base-lighter display-block padding-top-1 text-light">This is a description of the page.</span>
+  <section class="usa-graphic-list usa-section bg-primary-darker sml-margin">
+    <div class="grid-container">
+      <div class="grid-row grid-gap">
+        <div class="tablet:grid">
+          <h1 class="section-intro"> {{ page.title }} </h1>
+          <h2 class="font-heading-xl margin-top-0 tablet:margin-bottom-0"> {{ page.subtitle}} </h2>
+        </div>
       </div>
     </div>
+  </section>
+
+<main class="usa-layout-docs usa-section" id="main-content">
     {{ content }}
-  </div>
 </main>
 
 {% include footer.html %}

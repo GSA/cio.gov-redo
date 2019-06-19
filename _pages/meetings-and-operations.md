@@ -1,5 +1,6 @@
 ---
-title: Our Meetings and Operations
+title: About Our Council
+subtitle: Our Meetings and Operations
 layout: landing
 permalink: /operations/
 ---

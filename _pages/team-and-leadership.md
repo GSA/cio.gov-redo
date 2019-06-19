@@ -1,5 +1,6 @@
 ---
-title: Our Team and Leadership
+title: About Our Council
+subtitle: Our Team and Leadership
 layout: landing
 permalink: /team-and-leadership/
 ---
