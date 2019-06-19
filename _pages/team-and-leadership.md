@@ -1,6 +1,6 @@
 ---
 title: Our Team and Leadership
-layout: wide-landing-pg
+layout: landing
 permalink: /team-and-leadership/
 ---
 

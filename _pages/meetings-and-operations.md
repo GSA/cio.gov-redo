@@ -1,6 +1,6 @@
 ---
 title: Our Meetings and Operations
-layout: wide
+layout: landing
 permalink: /operations/
 ---
 
