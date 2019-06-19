@@ -9,7 +9,18 @@
             </a>
           </div>
         </div>
-        <div class="tablet:grid-col"></div>
+        <div class="tablet:grid-col">
+          <ul class="add-list-reset">
+          {% if site.footer.contact.facebook %}
+            <li><a class="usa-link-facebook" href="https://facebook.com/{{ facebook }}"><font color="white">Facebook</font></a></li>
+          {% endif %}
+          {% if site.footer.contact.youtube %}
+            <li><a class="usa-link-youtube" href="https://youtube.com/{{ youtube }}"><font color="white">YouTube</font></a></li>
+          {% endif %}
+            <li><a class="usa-link-rss" href="{{ site.baseurl }}/feed.xml"><font color="white">RSS feed</font></a></li>
+            <li><a href="{{ site.baseurl}}/privacy-statement/"style="color: #FFFFFF;">Privacy Statement </a> <br> <a href="{{site.baseurl}}/accessibility-policy/"  style="color: #FFFFFF;">Accessibility Policy</a></li>
+          </ul>
+        </div>
         <div class="tablet:grid-col">
           <ul class="add-list-reset">
             <li><a href="https://cfo.gov/"><font color="white">Federal CFO Council</font></li>
@@ -25,17 +36,6 @@
           </ul>
         </div>
       </div>
-    </div>
-    <div class="usa-footer-contact-links usa-width-one-half">
-        {% if site.footer.contact.facebook %}
-        <a class="usa-link-facebook" href="https://facebook.com/{{ facebook }}"><font color="white">Facebook</font></a>
-        {% endif %}
-        {% if site.footer.contact.youtube %}
-        <a class="usa-link-youtube" href="https://youtube.com/{{ youtube }}"><font color="white">YouTube</font></a>
-        {% endif %}
-        <a class="usa-link-rss" href="{{ site.baseurl }}/feed.xml"><font color="white">RSS feed</font></a>
-        <p>
-      <a href="{{ site.baseurl}}/privacy-statement/"style="color: #FFFFFF;">Privacy Statement </a> | <a href="{{site.baseurl}}/accessibility-policy/"  style="color: #FFFFFF;">Accessibility Policy</a></p>
     </div>
   </div>
 </footer>
