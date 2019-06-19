@@ -1,0 +1,169 @@
+---
+layout: default
+---
+
+{% comment %}
+This template is for the policy catalog.
+{% endcomment %}
+
+
+{% comment %}
+
+<!-- hide gog 
+
+</code><section id="image-GoG" class="usa-section usa-graphic_list" style="padding-top:0px;padding-bottom:0px;">
+ <div class="usa-grid usa-graphic_list-row">
+         <img class="media-GoG" src="{{ site.baseurl }}/img/GoG/GoG-logo-presidents.png" style="height:142px;float:left;margin-right:15px;margin-top:20px;margin-bottom:20px;">
+    </div>
+</section>
+<section class="usa-section usa-graphic_list">
+   <div class="usa-grid usa-graphic_list-row">
+      <div class="usa-width-one-whole usa-media_block" style="margin-bottom:15px;">
+        <a href="{{ site.baseurl }}/gearawards/winners" style="text-decoration:none;margin-bottom:20px;color:black">
+          <b>&#10094; &nbsp; Back to Hall of Winners</b></a>
+            <div class="usa-media_block-body">
+              <center><h2 style="margin-top:45px;">{{ page.name }}<br>
+              <span class="card-tag" style="font-size:1.7rem;">{{ page.agency }}</span></h2>
+              {% if page.office%}
+              <h2>{{ page.office }}</h2>
+              {% endif %}
+            </div>
+      </div>
+    </div>
+-->
+
+
+    <div class="usa-grid usa-graphic_list-row" style="text-align:center;" id="desktop-pres">
+      {% if page.image%} <!--checks for single winner-->
+        <img src="{{ site.baseurl }}{{ page.image }}" style="width:200px;height:200px;object-fit:cover;margin-right:10px;margin-top:10px;border-radius:50%;">
+      {% endif %}
+      {% if page.image-1 %}
+      <div  style="display:inline-block; width:17%">
+        <img src="{{ site.baseurl }}{{ page.image-1 }}" style="width:150px;height:150px;object-fit:cover;margin-right:10px;margin-top:10px;border-radius:50%;">
+        <b>{{ page.image-1-name }}</b>
+        </div>
+      {% endif %}
+      {% if page.image-2 %}
+      <div  style="display:inline-block; width:17%">
+        <img src="{{ site.baseurl }}{{ page.image-2 }}" style="width:150px;height:150px;object-fit:cover;margin-right:10px;margin-top:10px;border-radius:50%;">
+        <b>{{ page.image-2-name }}</b>
+      </div>
+      {% endif %}
+      {% if page.image-3 %}
+      <div  style="display:inline-block; width:17%">
+        <img src="{{ site.baseurl }}{{ page.image-3 }}" style="width:150px;height:150px;object-fit:cover;margin-right:10px;margin-top:10px;border-radius:50%;">
+      <b>{{ page.image-3-name }}</b>
+    </div>
+      {% endif %}
+      {% if page.image-4 %}
+      <div  style="display:inline-block; width:17%">
+        <img src="{{ site.baseurl }}{{ page.image-4 }}" style="width:150px;height:150px;object-fit:cover;margin-right:10px;margin-top:10px;border-radius:50%;display:inline-block">
+        <b>{{ page.image-4-name }}</b>
+      </div>
+      {% endif %}
+      {% if page.image-5 %}
+      <div  style="display:inline-block; width:17%">
+        <img src="{{ site.baseurl }}{{ page.image-5 }}" style="width:150px;height:150px;object-fit:cover;margin-right:10px;margin-top:10px;border-radius:50%;display:inline-block">
+      <b>{{ page.image-5-name }}</b>
+      </div>
+      {% endif %}
+
+  </div>
+
+ <div class="usa-grid usa-graphic_list-row" style="text-align:center;" id="mobile-pres">
+    {% if page.image%} <!--checks for single winner-->
+   <img src="{{ site.baseurl }}{{ page.image }}" style="width:200px;height:200px;object-fit:cover;margin-right:10px;margin-top:10px;border-radius:50%;">
+    {% endif %}
+    {% if page.image-1 %}
+    <div class="usa-width-one-sixth">
+      <img src="{{ site.baseurl }}{{ page.image-1 }}" style="width:150px;height:150px;object-fit:cover;margin-top:10px;border-radius:50%;">
+      <p><b>{{ page.image-1-name }}</b></p>
+      </div>
+    {% endif %}
+    {% if page.image-2 %}
+    <div class="usa-width-one-sixth">
+      <img src="{{ site.baseurl }}{{ page.image-2 }}" style="width:150px;height:150px;object-fit:cover;margin-top:10px;border-radius:50%;">
+      <p><b>{{ page.image-2-name }}</b></p>
+    </div>
+    {% endif %}
+    {% if page.image-3 %}
+    <div class="usa-width-one-sixth">
+      <img src="{{ site.baseurl }}{{ page.image-3 }}" style="width:150px;height:150px;object-fit:cover;margin-top:10px;border-radius:50%;">
+      <p><b>{{ page.image-3-name }}</b></p>
+  </div>
+    {% endif %}
+    {% if page.image-4 %}
+    <div class="usa-width-one-sixth">
+      <img src="{{ site.baseurl }}{{ page.image-4 }}" style="width:150px;height:150px;object-fit:cover;margin-top:10px;border-radius:50%;">
+      <p><b>{{ page.image-4-name }}</b></p>
+    </div>
+    {% endif %}
+    {% if page.image-5 %}
+    <div class="usa-width-one-sixth">
+      <img src="{{ site.baseurl }}{{ page.image-5 }}" style="width:150px;height:150px;object-fit:cover;margin-top:10px;border-radius:50%;">
+      <p><b>{{ page.image-5-name }}</b></p>
+    </div>
+    {% endif %}
+
+</div>
+
+</section>
+
+
+    <section class="usa-section usa-graphic_list">
+       <div class="usa-grid usa-graphic_list-row">
+          <div class="usa-width-one-whole usa-media_block">
+            <hr>
+            <div class="usa-media_block-body">
+              <center>{{ content }}</center>
+        </div>
+      </div>
+    <!--  <div class="usa-width-one-whole usa-media_block">
+        <center><img src="{{ site.baseurl }}{{ page.location }}" style="width:150px;border-radius:8%;" >
+          {% if page.location-2 %}
+          <img src="{{ site.baseurl }}{{ page.location-2 }}" style="width:150px;border-radius:8%;" >
+          {% endif %}
+        </center>
+      </div>-->
+    </div>
+    <div class="usa-grid usa-graphic_list-row">
+      <div class="usa-width-one-whole usa-media_block">
+        <div class="usa-media_block-body" style="text-align:center">
+          {% if page.mission-photo-1 %}
+          <img src="{{ site.baseurl }}{{ page.mission-photo-1 }}" style="width:300px;height:300px;object-fit:cover;margin-right:10px;margin-top:10px;border-radius:8%;display:inline-block">
+          {% endif %}
+          {% if page.mission-photo-2 %}
+          <img src="{{ site.baseurl }}{{ page.mission-photo-2 }}" style="width:300px;height:300px;object-fit:cover;margin-right:10px;margin-top:10px;border-radius:8%;display:inline-block">
+          {% endif %}
+          {% if page.mission-photo-3 %}
+          <img src="{{ site.baseurl }}{{ page.mission-photo-3 }}" style="width:300px;height:300px;object-fit:cover;margin-right:10px;margin-top:10px;border-radius:8%;display:inline-block">
+          {% endif %}
+      </div>
+    </div>
+    </div>
+  </section>
+<br />
+
+        <section class="post-pagination usa-grid">
+          <div class="usa-width-one-half">
+            {% if page.previous-title %}
+              <b><a href="{{ site.baseurl }}{{ page.previous-url }}" style="text-decoration:none;">
+                <span class="link-arrow-left">
+                &#10094;  Previous Winner
+                </span>
+                <h4>&ldquo;{{ page.previous-title }}&rdquo;</h4>
+              </a></b>
+            {% endif %}
+          </div>
+          <div class="usa-width-one-half" style="text-align:right;"">
+            {% if page.next-title %}
+                <b><a href="{{ site.baseurl }}{{ page.next-url }}" style="text-decoration:none;">
+                  <span class="link-arrow-right">
+                    Next Winner &#10095;
+                                    </span>
+                  <h4>&ldquo;{{ page.next-title }}&rdquo;</h4>
+                </a></b>
+            {% endif %}
+          </div>
+        </section>
+  </section>
