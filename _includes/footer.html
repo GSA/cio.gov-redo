@@ -26,6 +26,27 @@
         </div>
       </div>
     </div>
+    <div class="usa-footer-contact-links usa-width-one-half">
+        <a class="usa-link-twitter" href="https://twitter.com/ciodotgov"><span>Twitter</span></a>
+        {% if site.footer.contact.facebook %}
+        <a class="usa-link-facebook" href="https://facebook.com/{{ facebook }}"><span>Facebook</span></a>
+        {% endif %}
+        {% if site.footer.contact.youtube %}
+        <a class="usa-link-youtube" href="https://youtube.com/{{ youtube }}"><span>YouTube</span></a>
+        {% endif %}
+        <a class="usa-link-rss" href="{{ site.baseurl }}/feed.xml"><span>RSS feed</span></a>
+
+      <address>
+        {% if site.footer.contact.name %}
+          <h3 class="usa-footer-contact-heading" style="color: #212121;">{{ site.footer.contact.name }}</h3>
+        {% endif %}
+        {% if site.footer.contact.phonenumber %}
+          <p><a href="tel:{{ site.footer.contact.phonenumber }}">{{ site.footer.contact.phonenumber }}</a></p>
+        {% endif %}
+      </address>
+      <p><a href="mailto:{{ site.footer.contact.email }}">{{ site.footer.contact.email }}</a><br>
+      <a href="{{ site.baseurl}}/privacy-statement/"style="color: #212121;">Privacy Statement </a> | <a href="{{site.baseurl}}/accessibility-policy/"  style="color: #212121;">Accessibility Policy</a></p>
+    </div>
   </div>
 </footer>
 
