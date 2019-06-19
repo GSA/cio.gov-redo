@@ -1,13 +1,13 @@
 <section class="grid-container usa-section usa-prose">
   <div class="grid-row grid-gap">
-    <div class="tablet:grid-col-4 border-left-1 border-accent-cool-dark">
+    <div class="tablet:grid-col-4 border-top-1 border-accent-cool-dark">
       {% include twitter.html %}
     </div>
-    <div class="tablet:grid-col-4 white-feature-box border-left-1 border-accent-cool-dark">
+    <div class="tablet:grid-col-4 white-feature-box border-top-1 border-accent-cool-dark">
       {% include events.html %}
     </div>
     {% for project in site.posts limit:1 %}
-    <div class="tablet:grid-col-4 border-left-1 border-accent-cool-dark">
+    <div class="tablet:grid-col-4 border-top-1 border-accent-cool-dark">
       {% include home-news.html
         image_src=project.image
         image_alt=project.image_accessibility
