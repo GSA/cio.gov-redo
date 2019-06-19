@@ -7,7 +7,6 @@ excerpt: This is an excerpt for this post. This is an excerpt for this post. Thi
 image: rocket.jpg
 permalink: /2019/01/16/third-post/
 ---
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dapibus interdum pellentesque. Integer eu vehicula elit. Sed cursus magna in dui suscipit rhoncus.
 
 Curabitur sed elit viverra, fermentum massa non, hendrerit ex. Vivamus eget mattis tortor, eu elementum sapien. Praesent elementum feugiat nisi venenatis vestibulum. Nulla pretium ipsum orci, ut feugiat arcu facilisis sit amet.
