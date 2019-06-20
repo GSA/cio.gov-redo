@@ -1,0 +1,14 @@
+---
+title: Resources
+subtitle: Resources Library
+layout: page
+permalink: /resources/
+---
+
+<h3>Resources</h3>
+
+{% for resources in site.resources %}
+  <p class="date">{{ resources.date | date: "%b %d, %y" }}</p>
+  <p class="title">{{ resources.title }}</p>
+  <p class="description">{{ resources.description }}</p>
+{% endfor %}
