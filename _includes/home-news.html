@@ -1,7 +1,8 @@
 {% assign card_link = include.link | prepend: site.baseurl %}
 
-
-      <img
+<article class="card">
+  <div class="card-link" data-href="{{ card_link }}" tabindex="-1">
+    <img
        alt="{{ include.image_alt }}"
        class="card-image-bg"
        src="{{ site.baseurl }}/assets/images/blog/{{ include.image_src }}"
@@ -15,3 +16,6 @@
     <div class="card-cta link-arrow-right">
       <p>Read more</p>
     </div>
+  </div>
+
+</article>

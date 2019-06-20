@@ -1,18 +1,13 @@
 <section class="grid-container usa-section usa-prose">
-  <div class="grid-row grid-gap" style="padding:0">
-    <div class="tablet:grid-col  ">
-      <div class="card-link ">
+  <div class="grid-row grid-gap">
+    <div class="tablet:grid-col border-banner ">
       {% include twitter.html %}
-      </div>
     </div>
-    <div class="tablet:grid-col white-feature-box" >
-      <div class="card-link padding" >
+    <div class="tablet:grid-col white-feature-box border-banner">
       {% include events.html %}
-      </div>
     </div>
     {% for project in site.posts limit:1 %}
-    <div class="tablet:grid-col" >
-      <div class="card-link ">
+    <div class="tablet:grid-col border-banner">
       {% include home-news.html
         image_src=project.image
         image_alt=project.image_accessibility
@@ -24,7 +19,6 @@
         link=project.permalink
         tags=project.tags
         %}
-      </div>
     </div>
     {% endfor %}
   </div>
