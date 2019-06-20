@@ -1,14 +1,41 @@
+<!--this section is for resources and documents for the cio council. The resources pull from  ......-->
 ---
 title: Resources
-subtitle: Resource Library
+subtitle: Resources Library
 layout: page
 permalink: /resources/
 ---
 
+<h3>Resources</h3>
+
+{% for resources in site.resources %}
+  <p class="date">{{ resources.date | date: "%b %d, %y" }}</p>
+  <p class="title">{{ resources.title }}</p>
+  <p class="description">{{ resources.description }}</p>
+{% endfor %}
+
+
+<!--
+<p style="color:white;"><b>July 7</b> <br>
+CIO Code Challenge 2 Ends: The Core CS challenge comes to a close.
+</p>
+<p style="color:white;"><b>July 8</b> <br>
+  CIO Code Challenge 3 Begins: The Dev/Ops challenge kicks off!
+</p>
+<p style="color:white;"><b>Aug 15:</b> <br>
+  Sample CIO Council Meeting: This is the monthly meeting of Federal CIOs.
+</p>
+<p style="color:white;"><b>Aug 7:</b> <br>
+  CIO Code Challenge 3 Ends: The Dev/Ops challenge comes to a close.
+</p>-->
+
+
+
+<!--
 <div class="usa-accordion">
 
     <!-- Use the accurate heading level to maintain the document outline -->
-    <h2 class="usa-accordion__heading">
+  <!--  <h2 class="usa-accordion__heading">
         <button class="usa-accordion__button" aria-expanded="true" aria-controls="a1">
       First Amendment
     </button>
@@ -20,7 +47,7 @@ permalink: /resources/
     </div>
 
     <!-- Use the accurate heading level to maintain the document outline -->
-    <h2 class="usa-accordion__heading">
+  <!--  <h2 class="usa-accordion__heading">
         <button class="usa-accordion__button" aria-expanded="false" aria-controls="a2">
       Second Amendment
     </button>
@@ -35,7 +62,7 @@ permalink: /resources/
     </div>
 
     <!-- Use the accurate heading level to maintain the document outline -->
-    <h2 class="usa-accordion__heading">
+  <!--  <h2 class="usa-accordion__heading">
         <button class="usa-accordion__button" aria-expanded="false" aria-controls="a3">
       Third Amendment
     </button>
@@ -46,7 +73,7 @@ permalink: /resources/
     </div>
 
     <!-- Use the accurate heading level to maintain the document outline -->
-    <h2 class="usa-accordion__heading">
+  <!--  <h2 class="usa-accordion__heading">
         <button class="usa-accordion__button" aria-expanded="false" aria-controls="a4">
       Fourth Amendment
     </button>
@@ -58,7 +85,7 @@ permalink: /resources/
     </div>
 
     <!-- Use the accurate heading level to maintain the document outline -->
-    <h2 class="usa-accordion__heading">
+  <!--  <h2 class="usa-accordion__heading">
         <button class="usa-accordion__button" aria-expanded="false" aria-controls="a5">
       Fifth Amendment
     </button>
@@ -71,3 +98,4 @@ permalink: /resources/
     </div>
 
 </div>
+-->

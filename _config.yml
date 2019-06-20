@@ -85,6 +85,8 @@ collections:
     permalink: /:path/
   events:
     output: true
+  resources:
+    output: true
 
 permalink: pretty
 
