@@ -19,11 +19,11 @@
 }
 
 .bg-primary-darker p {
-    color: #dcdee0;
+    color: #ffffff;
   }
 
 .bg-primary-darker h2 {
-    color: #dcdee0;
+    color: #ffffff;
   }
 
 .bg-primary-darker h3 {
@@ -58,7 +58,7 @@
 
 .white-feature-box {
   background-image: linear-gradient(#ffffff, #ffffff);
-  box-shadow: 4px 4px 2px #dcdee0;
+  /*box-shadow: 4px 4px 2px #dcdee0;*/
 }
 
 .white-feature-box h3 {
@@ -140,17 +140,17 @@
  height: 100%;
  text-decoration: none;
  width: 100%;
- -webkit-box-shadow: 0 1px 9px rgba(0, 0, 0, 0);
- -moz-box-shadow: 0 1px 9px rgba(0, 0, 0, 0);
- -ms-box-shadow: 0 1px 9px rgba(0, 0, 0, 0);
- -o-box-shadow: 0 1px 9px rgba(0, 0, 0, 0);
- box-shadow: 0 1px 9px rgba(0, 0, 0, 0); }
+ -webkit-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2);
+ -moz-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2);
+ -ms-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2);
+ -o-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2);
+ box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2); }
  .card-link:hover {
-   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0);
-   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0);
-   -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, 0);
-   -o-box-shadow: 0 1px 1px rgba(0, 0, 0, 0);
-   box-shadow: 0 1px 1px rgba(0, 0, 0, 0); }
+   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+   -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+   -o-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2); }
  .card-link:active {
    box-shadow: 0 0 3px #3e94cf, 0 0 7px #3e94cf; }
  @media screen and (min-width: 600px) {
@@ -234,5 +234,12 @@
   margin-bottom: -1px;
   width: 1.2rem;
   margin-left: 4px;
+}
+
+.border-banner {
+border-top: 1rem solid #00bde3;
+border-color: #00bde3;
+padding-top: .5rem;
+margin: 10px;
 
 }
