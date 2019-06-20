@@ -1,5 +1,5 @@
 <section class="grid-container usa-section usa-prose">
-  <div class="grid-row grid-gap">
+  <div class="grid-row grid-gap" style="padding:0">
     <div class="tablet:grid-col  card-link ">
       {% include twitter.html %}
     </div>
@@ -7,7 +7,7 @@
       {% include events.html %}
     </div>
     {% for project in site.posts limit:1 %}
-    <div class="tablet:grid-col card-link" style="padding:0px">
+    <div class="tablet:grid-col card-link" >
       {% include home-news.html
         image_src=project.image
         image_alt=project.image_accessibility
