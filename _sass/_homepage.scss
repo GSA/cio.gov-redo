@@ -144,7 +144,14 @@
  -moz-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2);
  -ms-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2);
  -o-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2);
- box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2); }
+ box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2);
+ border-top: 1rem solid #00bde3;
+ border-color: #00bde3;
+ padding: 0;
+ margin: 10px;
+
+
+}
  .card-link:hover {
    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
@@ -234,12 +241,4 @@
   margin-bottom: -1px;
   width: 1.2rem;
   margin-left: 4px;
-}
-
-.border-banner {
-border-top: 1rem solid #00bde3;
-border-color: #00bde3;
-padding: 0;
-margin: 10px;
-
 }
