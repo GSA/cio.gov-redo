@@ -5,10 +5,79 @@ layout: page
 permalink: /resources/
 ---
 
-<h3>Resources</h3>
+<!--<h3>Resources</h3>
 
 {% for resources in site.resources %}
   <p class="date">{{ resources.date | date: "%b %d, %y" }}</p>
   <p class="title">{{ resources.title }}</p>
   <p class="description">{{ resources.description }}</p>
-{% endfor %}
+{% endfor %}-->
+
+<div class="usa-accordion usa-accordion--bordered">
+
+  <!-- Use the accurate heading level to maintain the document outline -->
+  <h2 class="usa-accordion__heading">
+    <button class="usa-accordion__button"
+      aria-expanded="true"
+      aria-controls="b-a1">
+      Resource Category 1
+    </button>
+  </h2>
+  <div id="b-a1" class="usa-accordion__content usa-prose">
+    <p>Placeholder content with brief description & link to open resource.</p>
+
+  </div>
+
+  <!-- Use the accurate heading level to maintain the document outline -->
+  <h2 class="usa-accordion__heading">
+    <button class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="b-a2">
+      Resource Category 2
+    </button>
+  </h2>
+  <div id="b-a2" class="usa-accordion__content usa-prose">
+    <p>Placeholder content.</p> <ul><li>This is a list item</li><li>Another list item</li></ul>
+
+  </div>
+
+  <!-- Use the accurate heading level to maintain the document outline -->
+  <h2 class="usa-accordion__heading">
+    <button class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="b-a3">
+      Resource Category 3
+    </button>
+  </h2>
+  <div id="b-a3" class="usa-accordion__content usa-prose">
+    <p>Placeholder content.</p>
+
+  </div>
+
+  <!-- Use the accurate heading level to maintain the document outline -->
+  <h2 class="usa-accordion__heading">
+    <button class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="b-a4">
+      Resource Category 4
+    </button>
+  </h2>
+  <div id="b-a4" class="usa-accordion__content usa-prose">
+    <p>Placeholder content.</p>
+
+  </div>
+
+  <!-- Use the accurate heading level to maintain the document outline -->
+  <h2 class="usa-accordion__heading">
+    <button class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="b-a5">
+      Resource Category 5
+    </button>
+  </h2>
+  <div id="b-a5" class="usa-accordion__content usa-prose">
+    <p>Placeholder content.</p>
+
+  </div>
+
+</div>
