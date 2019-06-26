@@ -5,7 +5,7 @@ date: May 8, 2019
 author: Performance.gov Team
 excerpt: The General Services Administration and Office of Management and Budget are excited to launch the Government Effectiveness Advanced Research (GEAR) Center Challenge!
 permalink: /GEAR-center-challenge-now-open/
-image-thumbnail: /assets/img/blog/gear-logo-blog.png
+image: gear-logo-blog.png
 img-alt: 18F Logo
 ---
 
