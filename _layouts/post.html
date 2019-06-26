@@ -17,4 +17,15 @@ This is used in blog posts. The index page can be found at blog/index.html
       </div>
     {{ content }}
   </div>
+      <aside class="usa-width-one-fourth">
+          <h5>Tags:</h5>
+          {% assign tags = site.tags | sort %}
+           <ul class="tags">
+          {% for tag in tags %}
+              <a href="{{ site.baseurl }}/tags/{{ tag | first | slugify }}/">
+                      <li class="tag">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})</li></a>
+          </ul>
+          {% endfor %}
+          <br><br>
+      </aside>
 </div>
