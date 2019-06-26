@@ -4,15 +4,28 @@ subtitle: Beta Policy Catalog
 layout: page
 permalink: /policies-and-priorities/
 ---
+<div class="container">
 
-## This is a header
+<div class="grid-row grid-gap" style="padding:0">
+{% for policies in site.policies %}
 
-This is where content will go.
+{% if policies.category == "publication" %}
+  <div class="tablet:grid-col-3 item">
+    <div class="shadow-1 ">
+      <div class="text-container">
+    <!--<p class="date">{{ resources.date | date: "%b %d, %y" }}</p> NOT SURE WE NEED DATE-->
+        <div class="seprate-line"></div>
+        <span class="title">{{ policies.title }}</span><br>
+        <!--<p class="description">{{ resources.description }}</p>-->
+      </div>
+    <!--  <div class="more">
+         Read more ❯
+       </div>-->
+    </div>
+  </div>
+{% endif %}
 
-## This is another header
+{% endfor %}
+</div>
 
-This is where content will go.
-
-<h1>Isotope - combination filters</h1>
-
-<h1>Isotope - filtering</h1>
+</div>
