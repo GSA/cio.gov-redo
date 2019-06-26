@@ -1,21 +1,9 @@
+---
+layout: postwithbanner
+---
 {% comment %}
 This is used in blog posts. The index page can be found at blog/index.html
 {% endcomment %}
-
-
-{% include header.html %}
-{% include menu.html primary_navigation=site.primary_navigation  secondary_navigation=site.secondary_navigation %}
-
-<section class="usa-graphic-list usa-section bg-primary-darker sml-margin">
-  <div class="grid-container">
-    <div class="grid-row grid-gap">
-      <div class="tablet:grid">
-        <h1 class="section-intro"> {{ page.date }} </h1>
-        <h2 class="font-heading-xl margin-top-0 tablet:margin-bottom-0"> {{ page.title}} </h2>
-      </div>
-    </div>
-  </div>
-</section>
 
 <div class="grid-row grid-gap">
   <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
@@ -38,5 +26,3 @@ This is used in blog posts. The index page can be found at blog/index.html
           <br><br>
       </aside>
 </div>
-
-{% include footer.html %}
