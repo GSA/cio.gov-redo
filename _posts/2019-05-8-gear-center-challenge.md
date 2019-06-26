@@ -6,7 +6,7 @@ author: Performance.gov Team
 permalink: /GEAR-center-challenge-now-open/
 image: gear-logo-blog.png
 img-alt: Gears Logo
-tags: GEAR, Challenge, 2019
+tags: 2019
 ---
 
 The General Services Administration and Office of Management and Budget are excited to launch the Government Effectiveness Advanced Research (GEAR) Center Challenge!
