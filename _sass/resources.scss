@@ -1,10 +1,9 @@
 .border-pub {
-  border-top: .3em solid #D83933;
-  width: 20% ;
+  border-left: .2em solid #D83933;
 }
 
 .seprate-line {
-	width: 20px;
+	width: 30px;
   height: 3px;
   margin-top: 10px;
   margin-bottom: 6px;
@@ -16,11 +15,12 @@
 }
 
 .text-container {
-  height: 137px;
+  height: 100px;
 }
 
 .title {
 font-weight: 400;
+font-size: 14px;
 }
 
 .description {
