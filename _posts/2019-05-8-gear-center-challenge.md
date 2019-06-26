@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The GEAR Center Challenge is Now Open - Submit Your Ideas Today!
+excerpt: The General Services Administration and Office of Management and Budget are excited to launch the Government Effectiveness Advanced Research (GEAR) Center Challenge!
 date: May 8, 2019
 author: Performance.gov Team
 permalink: /GEAR-center-challenge-now-open/
