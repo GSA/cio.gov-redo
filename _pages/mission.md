@@ -3,6 +3,7 @@ title: About Our Council
 subtitle: Our Mission
 layout: page
 permalink: /mission/
+sidenav: true
 ---
 
 ## Mission

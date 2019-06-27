@@ -3,6 +3,7 @@ title: About Our Council
 subtitle: Our Team and Leadership
 layout: page
 permalink: /team-and-leadership/
+sidenav: true
 ---
 
 ## This is a header

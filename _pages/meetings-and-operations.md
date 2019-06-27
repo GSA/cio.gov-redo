@@ -3,6 +3,7 @@ title: About Our Council
 subtitle: Our Meetings and Operations
 layout: page
 permalink: /operations/
+sidenav: true
 ---
 
 ## This is a header
