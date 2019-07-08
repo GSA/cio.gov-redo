@@ -90,6 +90,10 @@ collections:
     output: true
   policies:
     output: true
+  members:
+    output: true
+  leadership:
+    output: true
 
 permalink: pretty
 
