@@ -1,7 +1,7 @@
 ---
 title: About Our Council
 subtitle: Our Team and Leadership
-layout: page
+layout: defaultwithbanner
 permalink: /team-and-leadership/
 sidenav: true
 
@@ -10,5 +10,6 @@ sidenav: true
 The Office of Management and Budget’s Deputy Director for Management, Margaret Weichert, is the Chairperson of the Council. Suzette Kent, Federal Chief Information Officer, is the Director of the Council and leads its activities on behalf of the Chairperson.  
 
 {% include leadership.html %}
-# MEMBERS
+
+# Members
 {% include members.html %}
