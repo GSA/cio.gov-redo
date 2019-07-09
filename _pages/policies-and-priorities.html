@@ -9,48 +9,8 @@ sidenav: false
   <div class="grid-container">
     <div class="usa-graphic-list__row grid-row grid-gap">
 
-      <div class="usa-media-block tablet:grid-col-3">
-        <nav id="filter" class="filters">
-            <ul class="filter-list" data-filter-group="global">
-                <li class="big link-active"><a href="javascript:void(0)" data-filter="*">Show All</a></li>
-            </ul><!-- .global-controls -->
-            <h5 class="filter-title">Filter by Category</h5>
-            <ul class="filter-list" data-filter-group="subject">
-                <li><a href="javascript:void(0)" data-filter=".category-1">Category 1</a></li>
-                <li><a href="javascript:void(0)" data-filter=".category-2">Category 2</a></li>
-            </ul>
-            <h5 class="filter-title">Filter by Role</h5>
-            <ul class="filter-list" data-filter-group="subject">
-                <li><a href="javascript:void(0)" data-filter=".role-1">Role 1</a></li>
-                <li><a href="javascript:void(0)" data-filter=".role-2">Role 2</a></li>
-            </ul>
-            <h5 class="filter-title">Filter by Status</h5>
-            <ul class="filter-list" data-filter-group="subject">
-                <li><a href="javascript:void(0)" data-filter=".active">Active</a></li>
-                <li><a href="javascript:void(0)" data-filter=".closed">Closed</a></li>
-            </ul>
-        </nav>
-      </div>
-
-      <div class="usa-media-block tablet:grid-col-9">
-        <div class="policies">
-        {% for policies in site.policies %}
-          <div class="tablet:grid-col-3 grid-spacing policy {{ policies.filters }}">
-            <div class="shadow-1 ">
-              <div class="text-container">
-            <!--<p class="date">{{ resources.date | date: "%b %d, %y" }}</p> NOT SURE WE NEED DATE-->
-                <div class="seprate-line"></div>
-                <span class="title">{{ policies.title }}</span><br>
-                <p class="description">{{ policies.description }}</p>
-              </div>
-            <!--  <div class="more">
-                 Read more ❯
-               </div>-->
-            </div>
-          </div>
-        {% endfor %}
-          </div>
-        </div>
+      {% include policy-button.html %}
+      {% includ policy-catalog.html %}
 
       </div>
     </div>
