@@ -3,8 +3,7 @@ title: This is a sample title
 layout: post
 date: January 16, 2019
 author: Benjamin Franklin
-excerpt: This is an excerpt for this post. This is an excerpt for this post. This is an excerpt for this post. This is an excerpt for this post.
-image: rocket.jpg
+excerpt: This is an excerpt for this post. This is an excerpt for this post. This is an excerpt for this post. This is an excerpt for this post.This is an excerpt for this post. This is an excerpt for this post. This is an excerpt for this post. This is an excerpt for this post.
 permalink: /2019/01/16/third-post/
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dapibus interdum pellentesque. Integer eu vehicula elit. Sed cursus magna in dui suscipit rhoncus.
