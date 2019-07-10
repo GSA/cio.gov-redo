@@ -6,20 +6,12 @@ layout: defaultwithbanner
 This template is for a single policy landing page.
 {% endcomment %}
 
-<section class="usa-section usa-section-dark">
-        <div class="usa-grid">
-        {% if policies.subtitle %}
-          <h1>{{ policies.subtitle }}</h1>
-       {% endif %}
-      </div>
-</section>
-
 <section class="usa-section">
    <div class="usa-grid">
      <div class="usa-width-one-fourth">
        <p><img src="{{ policies.policy-icon-url | prepend: site.baseurl }}" alt="{{ policies.policy-icon-alt-text }}"><BR>
       {% if policies.policy-publish-date %}
-        <b>Phone:</b> {{ policies.policy-publish-date }}<BR>
+        <b>Publish Date:</b> {{ policies.policy-publish-date }}<BR>
       {% endif %}
       </p>
       <br>
