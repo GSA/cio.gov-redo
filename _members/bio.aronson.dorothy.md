@@ -1,12 +1,11 @@
 ---
 layout: bio
-title: Ms. Dorothy Aronson
+name: Ms. Dorothy Aronson
 permalink: /about/members-and-leadership/aronson-dorothy/
 background-image: /assets/img/grey.background.png
-bio-name-text: MS. DOROTHY ARONSON
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. NATIONAL SCIENCE FOUNDATION
-bio-image-url: /assets/img/members/bio_Aronson.png
+title: Chief Information Officer
+agency: National Science Foundation
+bio-image: /aronson.png
 bio-image-alt-text: Dorothy Aronson
 bio-phone:
 bio-email:

@@ -2,10 +2,10 @@
 layout: bio
 permalink: /about/members-and-leadership/ahluwalia-gundeep/
 background-image: /assets/img/grey.background.png
-bio-name-text: MR. GUNDEEP AHLUWALIA
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. DEPARTMENT OF LABOR
-bio-image-url: /assets/img/members/bio_Ahluwalia.png
+name: Mr. Gundeep Ahluwalia
+title: Chief Information Officer
+agency: Department of Labor
+bio-image: /ahluwalia.png
 bio-image-alt-text: GUNDEEP AHLUWALIA
 bio-phone: 202-693-4446
 bio-email: ahluwalia.gundeep@dol.gov

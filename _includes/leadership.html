@@ -5,7 +5,7 @@
     <div class="usa-graphic-list__row grid-row grid-gap" style="padding:0;">
 
       {% for bio in site.leadership %}
-          <div class="container tablet:grid-col-6" style="padding:10px;">
+          <div class="tablet:grid-col-6" style="padding:10px;">
             <div class="left">
               <img src="{{ site.baseurl }}/assets/images/members{{ bio.bio-image }}">
             </div>
@@ -19,74 +19,3 @@
     </div>
   </div>
 </section>
-
-<style>
-
-
-}
-.container {
-  width:100%;
-}
-
-.left{
-  width: 35%;
-  float:left;
-  height: 100px;
-}
-
-.left img {
-  width: 100%;
-  object-fit: cover;
-  height: 100px;
-}
-.right{
-  background-color:#7887AB;
-  width:65%;
-  float: right;
-  height: 100px;
-}
-
-.right p {
-  padding: 10px;
-  margin-top: 0px;
-  font-size: 14px;
-}
-
-.bio-name {
-  font-weight: bold;
-}
-
-.bio-container {
-  background-color: #ffffff;
-  color: #ffffff;
-  /*border: 1px solid white;*/
-  cursor: pointer;
-  display: flex;
-  flex-direction: column;
-  text-decoration: none;
-  -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
-  -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
-  -ms-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
-  -o-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1s);
-  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
-  border-left: 1rem solid #00bde3;
-  border-color: #00bde3;
-
-}
-
-.bio-image {
-  width:40%
-  object-fit: cover;
-  float:left;
-  height: 100%
-}
-
-.bio-text {
-  float:right;
-  width:60%
-}
-
-.bio-text p {
-  color: black;
-}
-</style>
