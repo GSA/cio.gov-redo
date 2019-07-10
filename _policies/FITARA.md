@@ -7,12 +7,12 @@ layout: policy-landing
 policy-publish-date: January 1, 2018
 filters: category-2 closed
 
-related-resource-1: Section508.gov
-related-resource-1-link: https://section508.gov/
-related-resource-2: SOFIT Report
-related-resource-2-link: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/05/CIO-Council-State-of-Federal-IT-Report-January-2017-1.pdf
-related-resource-3:
-related-resource-3-link:
+related-resources-1: Section508.gov
+related-resources-1-link: https://section508.gov/
+related-resources-2: SOFIT Report
+related-resources-2-link: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/05/CIO-Council-State-of-Federal-IT-Report-January-2017-1.pdf
+related-resources-3:
+related-resources-3-link:
 
 
 ---
