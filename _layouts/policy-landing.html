@@ -6,16 +6,16 @@ layout: defaultwithbanner
 This template is for a single policy landing page.
 {% endcomment %}
 
-<section class="usa-section">
-   <div class="usa-grid">
-     <div class="usa-width-one-fourth">
-      <a href="{{site.baseurl}}/policies-and-priorities/"><h5>&#10094; &nbsp; Back to Policies</h5></a>
-  </div>
-  <div class="usa-width-three-fourths">
+<div class="grid-row grid-gap">
+  {% if page.sidenav == true %}
+    {% include sidenav.html %}
+  {% endif %}
+
+  <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
+    <a href="{{site.baseurl}}/policies-and-priorities/"><h5>&#10094; &nbsp; Back to Policies</h5></a><br>
     {{ content }}
   </div>
 </div>
-</section>
 
 <!--HIDING ORIGINAL FOR NOW
   <div class="grid-row grid-gap">

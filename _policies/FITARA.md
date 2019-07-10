@@ -4,8 +4,6 @@ subtitle: Federal Information Technology Acquisition Reform Act (FITARA)
 description: Enhances the Authority of the CIO, enhances transparency and improved risk management in IT Investments...etc.
 permalink: /policies-and-priorities/FITARA/
 layout: policy-landing
-policy-icon-url: /assets/images/CIO-council-Logo-Silver.png
-policy-icon-alt-text: placeholder pic
 policy-publish-date: January 1, 2018
 filters: category-2 closed
 ---
@@ -29,4 +27,4 @@ FITARA does the following:
 ## Resources
 
 * [Policy Link](https://www.nist.gov/sites/default/files/documents/2017/05/11/doc2017financialmanagementconference-fitara.pdf)
-* Item 2 
+* Item 2
