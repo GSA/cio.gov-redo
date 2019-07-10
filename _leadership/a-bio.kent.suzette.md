@@ -1,12 +1,11 @@
 ---
 layout: bio
-title: Ms. Suzette Kent
+name: Ms. Suzette Kent
 permalink: /about/members-and-leadership/kent-suzette/
 background-image: /assets/img/grey.background.png
-bio-name-text: MS. SUZETTE KENT
-bio-title-text: FEDERAL CHIEF INFORMATION OFFICER,
-bio-agency-text: OFFICE OF MANAGEMENT AND BUDGET
-bio-image-url: /assets/img/members/bio_Kent.png
+title: Federal Chief Information Officer
+agency: Office of Management and Budget
+bio-image: /kent-suzette.jpg
 bio-image-alt-text: Suzette Kent
 bio-phone:
 bio-email:

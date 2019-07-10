@@ -5,18 +5,16 @@
     <div class="usa-graphic-list__row grid-row grid-gap" style="padding:0;">
 
       {% for bio in site.leadership %}
-          <div class="container tablet:grid-col-6">
+          <div class="container tablet:grid-col-6" style="padding:10px;">
             <div class="left">
-              <img
-               style="height:100px;obect-fit:cover;"
-               src="{{ site.baseurl }}/assets/images/members/placeholder.png">
+              <img src="{{ site.baseurl }}/assets/images/members{{ bio.bio-image }}">
             </div>
             <div class="right">
-            <p>{{ bio.title }}</p>
+            <p>{{ bio.name }}<br>
+            {{ bio.title }}, {{ bio.agency }}</p>
             </div>
           </div>
       {% endfor %}
-
 
     </div>
   </div>
@@ -27,21 +25,37 @@
 
 }
 .container {
-    width: 100%
-
+  width:100%;
 }
+
 .left{
-    background-color:#4F628E;
-    width: 35%;
-    float:left;
-    height: 100px;
+  width: 35%;
+  float:left;
+  height: 100px;
+}
+
+.left img {
+  width: 100%;
+  object-fit: cover;
+  height: 100px;
 }
 .right{
-    background-color:#7887AB;
-    width:65%;
-    float: right;
-    height: 100px;
+  background-color:#7887AB;
+  width:65%;
+  float: right;
+  height: 100px;
 }
+
+.right p {
+  padding: 10px;
+  margin-top: 0px;
+  font-size: 14px;
+}
+
+.bio-name {
+  font-weight: bold;
+}
+
 .bio-container {
   background-color: #ffffff;
   color: #ffffff;

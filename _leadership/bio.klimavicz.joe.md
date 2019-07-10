@@ -1,13 +1,13 @@
 ---
 layout: bio
-title: Mr. Joe Klimavcz
+name: Mr. Joe Klimavcz
 permalink: /about/members-and-leadership/klimavicz-joseph/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. JOSEPH KLIMAVICZ
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. DEPARTMENT OF JUSTICE
-bio-leadership: Council Vice-Chair 
-bio-image-url: /assets/img/members/bio_Klimavicz.png
+title: Chief Information Officer
+agency: Department of Justice
+bio-leadership: Council Vice-Chair
+bio-image: /placeholder.png
 bio-image-alt-text: Joe Klimavicz
 bio-phone: 202-514-0507
 bio-email: joseph.klimavicz@usdoj.gov
