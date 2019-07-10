@@ -1,5 +1,6 @@
 ---
-title: policy 2
+title: Policies & Priorities
+subtitle: policy 2
 layout: page
 description: description here
 permalink: /policies-and-priorities/policy-2/
