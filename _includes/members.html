@@ -1,20 +1,13 @@
-<div class="project-container">
-{% for bio in site.members %}
-  {% unless bio.featured %}
-    <article class="card usa-width-one-third">
-      <a class="card-link" href="{{ bio.url | prepend: site.baseurl }}" aria-hidden="true" tabindex="-1"></a>
-      <div class="bio-card-image"
-        style="background-image: url(
-          {{ bio.bio-image-url | prepend: site.baseurl }}
-        );">
-      </div>
-      <div class="bio-card-banner">
-        <h3 class="bio-card-description">
-          <span>{{ bio.bio-name-text }}</span>
-        </h3>
-        <p class="bio-card-summary">{{ bio.bio-title-text }}<br>{{ bio.bio-agency-text }}</p>
-      </div>
-    </article>
-  {% endunless %}
-{% endfor %}
-</div>
+<section class="usa-graphic-list usa-section" style="padding-top:0">
+  <div class="grid-container">
+    <div class="usa-graphic-list__row grid-row grid-gap">
+
+      {% for bio in site.members %}
+          <div class="tablet:grid-col-3">
+            <p>{{ bio.bio-name-text}}</p>
+          </div>
+      {% endfor %}
+
+    </div>
+  </div>
+</section>

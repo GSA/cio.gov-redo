@@ -3,9 +3,10 @@
 <div class="usa-media-block tablet:grid-col-9">
   <div class="policies">
   {% for policies in site.policies %}
-    <div class="tablet:grid-col-3 grid-spacing policy {{ policies.filters }}">
+      <div class="tablet:grid-col-3 grid-spacing policy {{ policies.filters }}">
       <div class="shadow-1 ">
-        <div class="text-container">
+        <a class="no-style" href="{{ site.baseurl }}{{ policies.permalink }}">
+          <div class="text-container">
       <!--<p class="date">{{ resources.date | date: "%b %d, %y" }}</p> NOT SURE WE NEED DATE-->
           <div class="seprate-line"></div>
           <span class="title">{{ policies.title }}</span><br>
@@ -14,6 +15,7 @@
       <!--  <div class="more">
            Read more ❯
          </div>-->
+         </a>
       </div>
     </div>
   {% endfor %}

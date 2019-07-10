@@ -1,20 +1,78 @@
-<div class="project-container">
-{% for bio in site.leadership %}
-  {% unless bio.featured %}
-    <article class="leadership-card usa-width-one-half">
-      <a class="card-link" href="{{ bio.url | prepend: site.baseurl }}" aria-hidden="true" tabindex="-1"></a>
-      <div class="bio-card-image"
-        style="background-image: url(
-          {{ bio.bio-image-url | prepend: site.baseurl }}
-        );">
-      </div>
-      <div class="bio-card-banner">
-        <h3 class="bio-card-description">
-          <span>{{ bio.bio-name-text }}</span>
-        </h3>
-        <p class="bio-card-summary">{{ bio.bio-title-text }}<br>{{ bio.bio-agency-text }}<br>{{bio.bio-leadership}}</p>
-      </div>
-    </article>
-  {% endunless %}
-{% endfor %}
-</div>
+
+
+<section class="usa-graphic-list usa-section" style="padding-top:0">
+  <div class="grid-container">
+    <div class="usa-graphic-list__row grid-row grid-gap" style="padding:0;">
+
+      {% for bio in site.leadership %}
+          <div class="container tablet:grid-col-6">
+            <div class="left">
+              <img
+               style="height:100px;obect-fit:cover;"
+               src="{{ site.baseurl }}/assets/images/members/placeholder.png">
+            </div>
+            <div class="right">
+            <p>{{ bio.title }}</p>
+            </div>
+          </div>
+      {% endfor %}
+
+
+    </div>
+  </div>
+</section>
+
+<style>
+
+
+}
+.container {
+    width: 100%
+
+}
+.left{
+    background-color:#4F628E;
+    width: 35%;
+    float:left;
+    height: 100px;
+}
+.right{
+    background-color:#7887AB;
+    width:65%;
+    float: right;
+    height: 100px;
+}
+.bio-container {
+  background-color: #ffffff;
+  color: #ffffff;
+  /*border: 1px solid white;*/
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+  -ms-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+  -o-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1s);
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+  border-left: 1rem solid #00bde3;
+  border-color: #00bde3;
+
+}
+
+.bio-image {
+  width:40%
+  object-fit: cover;
+  float:left;
+  height: 100%
+}
+
+.bio-text {
+  float:right;
+  width:60%
+}
+
+.bio-text p {
+  color: black;
+}
+</style>
