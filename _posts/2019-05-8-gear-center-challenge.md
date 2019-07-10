@@ -3,7 +3,7 @@ title: The GEAR Center Challenge is Now Open - Submit Your Ideas Today!
 layout: post
 date: May 8, 2019
 author: Performance.gov Team
-excerpt: The General Services Administration and Office of Management and Budget are excited to launch the Government Effectiveness Advanced Research (GEAR) Center Challenge! The challenge is the next step toward establishing an innovation hub for Government known as the GEAR Center which will aim to tackle the toughest management challenges facing government.
+excerpt: The General Services Administration and Office of Management and Budget are excited to launch the Government Effectiveness Advanced Research (GEAR) Center Challenge! 
 image: gear-logo-blog.png
 img-alt: Gears Logo
 tags: GEAR
