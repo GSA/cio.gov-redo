@@ -2,9 +2,11 @@
 title: policy 1
 layout: page
 description: description here
-link: https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/05/CIO-Council-State-of-Federal-IT-Report-January-2017-1.pdf
 filters: category-1 role-2 active
-layout: policy-landing
 permalink: /policies-and-priorities/policy-1/
+
+policy-publish-date: Jan 1, 2018
+policy-icon-url: /assets/images/CIO council COLOR vector seal logo blue and silver.png
+policy-icon-alt-text: placeholder
 ---
 text here
