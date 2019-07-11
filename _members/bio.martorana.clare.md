@@ -1,12 +1,10 @@
 ---
 layout: bio
-title: Ms. Clare Martorana
+name: Ms. Clare Martorana
 permalink: /about/members-and-leadership/clare-martorana/
-background-image: /assets/img/Personnel_Management_Seal.png
-bio-name-text: Ms. Clare Martorana
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. OFFICE OF PERSONNEL MANAGEMENT
-bio-image-url: /assets/img/members/Personnel_Management_Seal.png
+title: Chief Information Officer
+bio-agency-text: Office of Personnel Management
+bio-image: /placeholder.png
 bio-image-alt-text: Clare Martorana
 bio-phone:
 bio-email:

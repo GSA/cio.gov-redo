@@ -1,12 +1,11 @@
 ---
 layout: bio
-title: Mr. Max Everett
+name: Mr. Max Everett
 permalink: /about/members-and-leadership/everett-max/
 background-image: /assets/img/grey.background.png
-bio-name-text: MR. MAX EVERETT
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: DEPARTMENT OF ENERGY
-bio-image-url: /assets/img/members/bio_Everett.png
+title: Chief Information Officer
+agency: Department of Energy
+bio-image: /everett.png
 bio-image-alt-text: Max Everett
 bio-phone:
 bio-email:  

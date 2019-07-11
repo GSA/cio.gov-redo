@@ -1,12 +1,10 @@
 ---
 layout: bio
-title: Renee P. Wynn
+name: Renee P. Wynn
 permalink: /about/members-and-leadership/wynn-renee/
-background-image: /assets/img/grey.background.png
-bio-name-text: MS. RENEE WYNN
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
-bio-image-url: /assets/img/members/bio_Wynn.png
+title: Chief Information Officer
+agency: National Aeronautics and Space Administration
+bio-image: /wynn.png
 bio-image-alt-text: Renee P. Wynn
 bio-phone: 202-358-1824
 bio-email:

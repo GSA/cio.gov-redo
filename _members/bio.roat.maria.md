@@ -1,12 +1,10 @@
 ---
 layout: bio
-title: MS. MARIA ROAT
+name: MS. MARIA ROAT
 permalink: /about/members-and-leadership/roat-maria/
-background-image: /assets/img/grey.background.png
-bio-name-text: MS. MARIA ROAT
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. SMALL BUSINESS ADMINISTRATION
-bio-image-url: /assets/img/members/bio_Roat.png
+title: Chief Information Officer
+agency: Small Business Administration
+bio-image: /roat.png
 bio-image-alt-text: Maria Roat
 bio-phone:
 bio-email:

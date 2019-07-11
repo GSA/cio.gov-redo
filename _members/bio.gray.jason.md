@@ -1,12 +1,10 @@
 ---
 layout: bio
-title: Mr. Jason Gray
+name: Mr. Jason Gray
 permalink: /about/members-and-leadership/gray-jason/
-background-image: /assets/img/grey.background.png
-bio-name-text: MR. JASON GRAY
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. DEPARTMENT OF EDUCATION
-bio-image-url: /assets/img/members/bio_Gray.png
+title: Chief Information Officer
+agency: Department of Education
+bio-image: /gray.png
 bio-image-alt-text: Jason Gray
 bio-phone:
 bio-email:

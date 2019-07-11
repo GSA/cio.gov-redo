@@ -2,10 +2,10 @@
 layout: bio
 permalink: /about/members-and-leadership/deasy-dana/
 background-image: /assets/img/grey.background.png
-bio-name-text: MR. DANA DEASY
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. DEPARTMENT OF DEFENSE
-bio-image-url: /assets/img/members/bio_Deasy.png
+name: MR. Dana Deasy
+title: Chief Information Officer
+agency: Department of Defense
+bio-image: /deasy.png
 bio-image-alt-text: Dana Deasy
 bio-phone: 703-614-7323
 bio-email: osd.pentagon.dod-cio.mbx.front-office@mail.mil
@@ -16,4 +16,4 @@ Mr. Deasy previously held several private sector senior leadership positions, mo
 
 Earlier in his career, Mr. Deasy served as CIO for General Motors North America, Tyco International, and Siemens Americas. He also held several senior leadership positions at Rockwell Space Systems Division, including as Director of Information Management for Rockwell’s space shuttle program.
 
-He was inducted into the CIO Hall of Fame in 2012 and the International Association of Outsourcing Professionals Hall of Fame in 2013 and also named Transformational CIO in 2017. 
+He was inducted into the CIO Hall of Fame in 2012 and the International Association of Outsourcing Professionals Hall of Fame in 2013 and also named Transformational CIO in 2017.

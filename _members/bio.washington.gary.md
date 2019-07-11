@@ -1,13 +1,11 @@
 ---
 layout: bio
 body-class: home
-title: MR. GARY WASHINGTON
+name: MR. Gary Washington
 permalink: /about/members-and-leadership/washington-gary/
-background-image: /assets/img/grey.background.png
-bio-name-text: MR. GARY WASHINGTON
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. DEPARTMENT OF AGRICULTURE
-bio-image-url: /assets/img/members/bio_Washington.png
+title: Chief Information Officer
+agency: Department of Agriculture
+bio-image: /washington.png
 bio-image-alt-text: Gary Washington
 banner-heading:
 banner-text:

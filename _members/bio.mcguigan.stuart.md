@@ -1,13 +1,11 @@
 ---
 layout: bio
-title: MR. STUART MCGUIGAN
+name: Mr. Stuart McGuigan
 permalink: /about/members-and-leadership/mcguigan-stuart/
-background-image: /assets/img/grey.background.png
-bio-name-text: Mr. STUART MCGUIGAN
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. DEPARTMENT OF STATE
-bio-image-url: /assets/img/members/bio.mcguigan.stuart.jpg
-bio-image-alt-text: STUART MCGUIGAN
+title: Chief Information Officer
+agency: Department of State
+bio-image: /placeholder.png
+bio-image-alt-text: Mr. Stuart McGuigan
 bio-phone: Coming soon
 bio-email: CIO@state.gov
 ---

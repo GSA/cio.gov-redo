@@ -1,12 +1,10 @@
 ---
 layout: bio
-title:  Mr. James Gfrerer
+name:  Mr. James Gfrerer
 permalink: /about/members-and-leadership/gfrerer-james/
-background-image: /assets/img/grey.background.png
-bio-name-text: Mr. James Gfrerer
-bio-title-text: ASSISTANT SECRETARY FOR INFORMATION AND TECHNOLOGY AND CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. DEPARTMENT OF VETERAN AFFAIRS
-bio-image-url: /assets/img/members/bio.gfrerer.jpg
+title: Assistant Secretary for Information and Technology and Chief Information Officer
+agency: Department of Veteran Affairs
+bio-image: /gfrerer.jpg
 bio-image-alt-text: James Gfrerer
 bio-phone: 202-461-6910
 bio-email: vacocioexe@va.gov

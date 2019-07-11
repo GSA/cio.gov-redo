@@ -17,16 +17,16 @@ This template is for a single policy landing page.
       <a href="{{site.baseurl}}/policies-and-priorities/"><h5>&#10094; &nbsp; Back to Policies</h5></a><br>
   </div>
 
-{% for policies in site.policies %}
   <div class="usa-layout-docs__main desktop:grid-col-3 usa-prose">
     <h3>Recommended Resources</h3>
     <ul>
+      {% for policies in site.policies %}
       <li>{{ policies.related-resources-1 }} </li>
       <li>{{ policies.related-resources-2 }}</li>
       <li><a href= "{{ policies.related-resources-3-link }}">{{ policies.related-resources-3 }}</a></li>
+      {% endfor %}
     </ul>
   </div>
-{% endfor %}
 
 </div>
 

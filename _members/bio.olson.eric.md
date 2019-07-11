@@ -1,12 +1,10 @@
 ---
 layout: bio
-title: Mr. ERIC OLSON 
+name: Mr. Eric Olson
 permalink: /about/members-and-leadership/olson-eric/
-background-image: /assets/img/grey.background.png
-bio-name-text: MR. ERIC OLSON
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. DEPARTMENT OF TREASURY
-bio-image-url: /assets/img/members/bio_Olson.png
+title: Chief Information Officer
+bio-agency-text: Department of Treasury
+bio-image: /olson.png
 bio-image-alt-text: Eric Olson
 bio-phone:
 bio-email:

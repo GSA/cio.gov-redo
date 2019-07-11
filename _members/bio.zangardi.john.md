@@ -1,12 +1,10 @@
 ---
 layout: bio
-title: Dr. John Zangardi
+name: Dr. John Zangardi
 permalink: /about/members-and-leadership/zangardi-john/
-background-image: /assets/img/grey.background.png
-bio-name-text: DR. JOHN ZANGARDI
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. DEPARTMENT OF HOMELAND SECURITY
-bio-image-url: /assets/img/members/bio.zangardi.jpg
+title: Chief Information Officer
+agency: Department of Homeland Security
+bio-image: /zangardi.png
 bio-image-alt-text: Dr. John Zangardi
 bio-phone:
 bio-email:

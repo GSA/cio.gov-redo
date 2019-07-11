@@ -1,11 +1,10 @@
 ---
 layout: bio
 permalink: /about/members-and-leadership/nelson-david/
-background-image: /assets/img/grey.background.png
-bio-name-text: MR. DAVID NELSON
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. NUCLEAR REGULATORY COMMISSION
-bio-image-url: /assets/img/members/bio_Nelson.png
+name: Mr. David Nelson
+title: Chief Information Officer
+agency: Nuclear Regulatory Commission
+bio-image: /nelson.png
 bio-image-alt-text: David Nelson
 bio-phone:
 bio-email:

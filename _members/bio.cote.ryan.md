@@ -1,15 +1,13 @@
 ---
 layout: bio
-title: Mr. Ryan Cote
+name: Mr. Ryan Cote
 permalink: /about/members-and-leadership/cote-ryan/
-background-image: /assets/img/members/ryan-cote.jpg
-bio-name-text: MR. Ryan Cote
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. Department of Transportation
-bio-image-url: /assets/img/members/ryan-cote.jpg
+title: Chief Information Officer,
+agency: Department of Transportation
+bio-image: /cote.jpg
 bio-image-alt-text: RYAN COTE
-bio-phone: 
-bio-email: 
+bio-phone:
+bio-email:
 
 ---
 Ryan Cote was named Chief Information Officer (CIO) of the U.S. Department of Transportation by United States Department of Transportation Secretary Elaine L. Chao. As the CIO, he is the principle advisor to the Secretary on all information technology related matters.

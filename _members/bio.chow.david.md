@@ -1,11 +1,10 @@
 ---
 layout: bio
-title: MR. David C. Chow
+name: Mr. David C. Chow
 permalink: /about/members-and-leadership/chow-david/
-bio-name-text: MR. David C. Chow
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
-bio-image-url: /assets/img/members/bio_Chow.png
+title: Chief Information Officer,
+agency: Department of Housing and Urban Development
+bio-image: /chow.png
 bio-image-alt-text: David Chow
 ---
 

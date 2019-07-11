@@ -1,11 +1,10 @@
 ---
 layout: bio
 permalink: /about/members-and-leadership/mahanand-jay/
-background-image: /assets/img/grey.background.png
-bio-name-text: MR. JAY MAHANAND
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. AGENCY FOR INTERNATIONAL DEVELOPMENT
-bio-image-url: /assets/img/members/bio_Mahanand.png
+name: MR. JAY MAHANAND
+title: Chief Information Officer
+agency: U.S. Agency for International Development
+bio-image: /mahanand.png
 bio-image-alt-text: Jay Mahanand
 bio-phone:
 bio-email:

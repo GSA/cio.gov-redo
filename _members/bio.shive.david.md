@@ -1,12 +1,10 @@
 ---
 layout: bio
-title: MR. DAVID SHIVE
+name: Mr. David Shiv
 permalink: /about/members-and-leadership/shive-david/
-background-image: /assets/img/grey.background.png
-bio-name-text: MR. DAVID SHIVE
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: GENERAL SERVICES ADMINISTRATION
-bio-image-url: /assets/img/members/bio_Shive.png
+title: Chief Information Officer
+agency: General Services Administration
+bio-image: /shive.png
 bio-image-alt-text: David Shive
 bio-phone: 202-501-6468
 bio-email:

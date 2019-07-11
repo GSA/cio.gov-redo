@@ -1,12 +1,10 @@
 ---
 layout: bio
-title: Ms. Swarnali Haldar
+name: Ms. Swarnali Haldar
 permalink: /about/members-and-leadership/haldar-swarnali/
-background-image: /assets/img/grey.background.png
-bio-name-text: MS. SWARNALI HALDAR
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. NATIONAL ARCHIVES AND RECORDS ADMINISTRATION
-bio-image-url: /assets/img/members/bio_Haldar.png
+title: Chief Information Officer
+agency: National Archives and Records Administration
+bio-image: /haldar.png
 bio-phone: 301-837-2027
 bio-email:
 ---

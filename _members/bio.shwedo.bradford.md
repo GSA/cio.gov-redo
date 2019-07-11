@@ -1,13 +1,10 @@
 ---
 layout: bio
-body-class: home
-title: LT. GEN. BRADFORD J. "B.J." SHWEDO
+name: LT. Gen. Bradford J. Shwedo
 permalink: /about/members-and-leadership/shwedo-bradford/
-background-image: /assets/img/grey.background.png
-bio-name-text: LT. GEN. BRADFORD J. "B.J." SHWEDO
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. DEPARTMENT OF THE AIR FORCE
-bio-image-url: /assets/img/members/bio_Shwedo.png
+title: Chief Information Officer
+agency: U.S. Department of the Air Force
+bio-image: /shwedo.png
 bio-image-alt-text: LT. GEN. BRADFORD J. "B.J." SHWEDO
 bio-phone:
 bio-email:

@@ -1,12 +1,10 @@
 ---
 layout: bio
-title: Mr. Dovarius L. Peoples
+name: Mr. Dovarius L. Peoples
 permalink: /about/members-and-leadership/peoples-dovarius/
-background-image: /assets/img/grey.background.png
-bio-name-text: MR. DOVARIUS L. PEOPLES
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. ARMY CORPS OF ENGINEERS
-bio-image-url: /assets/img/members/bio_Peoples.png
+title: Chief Information Officer
+agency: U.S. Army Corps of Engineers
+bio-image: /peoples.png
 bio-image-alt-text: Dovarius Peoples
 bio-phone: 202-761-0273
 bio-email: Dovarius.l.peoples@usace.army.mil

@@ -1,11 +1,10 @@
 ---
 layout: bio
 permalink: /about/members-and-leadership/mathur-rajive/
-background-image: /assets/img/grey.background.png
-bio-name-text: MR. RAJIVE MATHUR
-bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. SOCIAL SECURITY ADMINISTRATION
-bio-image-url: /assets/img/members/bio_Mathur.png
+name: Mr. Rajive Mathur
+title: Chief Information Officer
+agency: Social Security Administration
+bio-image: /mathur.png
 bio-image-alt-text: Rajive Mathur
 bio-phone:
 bio-email:

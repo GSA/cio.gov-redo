@@ -6,7 +6,7 @@ background-image: /assets/img/grey.background.png
 bio-name-text: MS. MARGIE GRAVES
 title: Federal Deputy Chief Information Officer
 agency: Office of Management and Budget
-bio-image: /placeholder.png
+bio-image: /graves.png
 bio-image-alt-text: Margie Graves
 bio-phone:
 bio-email:
