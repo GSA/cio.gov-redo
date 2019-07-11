@@ -2,9 +2,10 @@
 layout: bio
 permalink: /about/members-and-leadership/ahluwalia-gundeep/
 background-image: /assets/img/grey.background.png
+subtitle: Team and Leadership
 
 name: Mr. Gundeep Ahluwalia
-title: Chief Information Officer
+position: Chief Information Officer
 agency: Department of Labor
 bio-image: /ahluwalia.png
 alt-text: GUNDEEP AHLUWALIA

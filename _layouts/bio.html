@@ -1,34 +1,39 @@
 ---
 layout: defaultwithbanner
 ---
-<section class="usa-graphic-list usa-section" style="padding-top:0">
+<section class="usa-graphic-list usa-section" style="padding-top:0;padding-bottom:1rem">
+  <div class="grid-container" style="padding-left:0">
+    <div class="grid-row">
+      <div class="desktop:grid-col-3">
+          <img src="{{ site.baseurl }}/assets/images/members{{ page.bio-image }}" alt="{{ page.bio-image-alt-text }}" style="float:left;width:175px;margin-right:24px;">
+      </div>
+      <div class="desktop:grid-col-9">
+        {% if page.name %}
+          <h1 style="margin: 0">{{ page.name }}</h1>
+         {% endif %}
+         {% if page.position %}
+           <h2 style="margin-top:8px; margin-bottom:10px;">{{ page.position }},
+         {% endif %}
+         {% if page.agency %}
+          {{ page.agency }}</h2>
+        {% endif %}
 
-  <div class="desktop:grid-col-12">
-      <img src="{{ site.baseurl }}/assets/images/members{{ page.bio-image }}" alt="{{ page.bio-image-alt-text }}" style="float:left;width:175px;margin-right:24px;">
-
-      {% if page.name %}
-          <h1>{{ page.name }}</h1>
-       {% endif %}
-       {% if page.title %}
-         <h3 style="margin-top:0px; margin-bottom:0px;">{{ page.title }},</h3>
-       {% endif %}
-       {% if page.agency %}
-        <h3 style="margin-top: 5px;">{{ page.agency }}</h3>
-      {% endif %}
-
-      {% if page.bio-email  %}
-       <b>Email:  </b><A HREF="mailto:{{ page.bio-email }}">{{ page.bio-email }}</A><BR>
-      {% endif %}
-      {% if page.bio-phone %}
-       <b>Phone:</b> {{ page.bio-phone }}<BR>
-      {% endif %}
+        {% if page.bio-email  %}
+         <b>Email:  </b><A HREF="mailto:{{ page.bio-email }}">{{ page.bio-email }}</A><BR>
+        {% endif %}
+        {% if page.bio-phone %}
+         <b>Phone:</b> {{ page.bio-phone }}<BR>
+        {% endif %}
+      </div>
     </div>
+  </div>
+</section>
 
+<section class="usa-graphic-list usa-section" style="padding-top:0">
   <div class="desktop:grid-col-12">
     {{ content }}
   </div>
 
   <br>
   <a href="{{site.baseurl}}/team-and-leadership/"><h5>&#10094; &nbsp; Back to Members</h5></a>
-
 </section>

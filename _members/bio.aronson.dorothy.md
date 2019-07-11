@@ -2,8 +2,9 @@
 layout: bio
 name: Ms. Dorothy Aronson
 permalink: /about/members-and-leadership/aronson-dorothy/
-background-image: /assets/img/grey.background.png
-title: Chief Information Officer
+title: Team and Leadership
+
+position: Chief Information Officer
 agency: National Science Foundation
 bio-image: /aronson.png
 bio-image-alt-text: Dorothy Aronson
