@@ -3,7 +3,7 @@ layout: bio
 name: Mr. Eric Olson
 permalink: /about/members-and-leadership/olson-eric/
 title: Chief Information Officer
-bio-agency-text: Department of Treasury
+agency: Department of Treasury
 bio-image: /olson.png
 bio-image-alt-text: Eric Olson
 bio-phone:

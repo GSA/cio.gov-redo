@@ -1,6 +1,6 @@
 ---
 layout: bio
-name: MR. Bill Vajda
+name: Mr. Bill Vajda
 permalink: /about/members-and-leadership/bill-vajda/
 title: Chief Information Officer
 agency: U.S. Department of Interior

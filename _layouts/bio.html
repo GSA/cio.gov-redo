@@ -1,37 +1,34 @@
 ---
 layout: defaultwithbanner
 ---
+<section class="usa-graphic-list usa-section" style="padding-top:0">
 
-<section class="usa-section usa-section-dark">
-  <div class="usa-grid">
-    {% if page.bio-name-text %}
-      <h1>{{ page.bio-name-text }}</h1>
-   {% endif %}
-   {% if page.bio-title-text %}
-     <h3 style="margin-top:0px; margin-bottom:0px;">{{ page.bio-title-text }}</h3>
-   {% endif %}
-   {% if page.bio-agency-text %}
-    <h3 style="margin-top: 5px;">{{ page.bio-agency-text }}</h3>
-  {% endif %}
-  </div>
-</section>
+  <div class="desktop:grid-col-12">
+      <img src="{{ site.baseurl }}/assets/images/members{{ page.bio-image }}" alt="{{ page.bio-image-alt-text }}" style="float:left;width:175px;margin-right:24px;">
 
-<section class="usa-section">
-   <div class="usa-grid">
-     <div class="usa-width-one-fourth">
-       <p><img src="{{ page.bio-image-url | prepend: site.baseurl }}" alt="{{ page.bio-image-alt-text }}"><BR>
-        {% if page.bio-email  %}
-         <b>Email:  </b><A HREF="mailto:{{ page.bio-email }}">{{ page.bio-email }}</A><BR>
-        {% endif %}
-        {% if page.bio-phone %}
-         <b>Phone:</b> {{ page.bio-phone }}<BR>
-        {% endif %}
-      </p>
-      <br>
-      <a href="{{site.baseurl}}/about/members-and-leadership/"><h5>&#10094; &nbsp; Back to Members</h5></a>
-  </div>
-  <div class="usa-width-three-fourths">
+      {% if page.name %}
+          <h1>{{ page.name }}</h1>
+       {% endif %}
+       {% if page.title %}
+         <h3 style="margin-top:0px; margin-bottom:0px;">{{ page.title }},</h3>
+       {% endif %}
+       {% if page.agency %}
+        <h3 style="margin-top: 5px;">{{ page.agency }}</h3>
+      {% endif %}
+
+      {% if page.bio-email  %}
+       <b>Email:  </b><A HREF="mailto:{{ page.bio-email }}">{{ page.bio-email }}</A><BR>
+      {% endif %}
+      {% if page.bio-phone %}
+       <b>Phone:</b> {{ page.bio-phone }}<BR>
+      {% endif %}
+    </div>
+
+  <div class="desktop:grid-col-12">
     {{ content }}
   </div>
-</div>
+
+  <br>
+  <a href="{{site.baseurl}}/team-and-leadership/"><h5>&#10094; &nbsp; Back to Members</h5></a>
+
 </section>

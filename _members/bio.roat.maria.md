@@ -1,6 +1,6 @@
 ---
 layout: bio
-name: MS. MARIA ROAT
+name: MS. Maria Roat
 permalink: /about/members-and-leadership/roat-maria/
 title: Chief Information Officer
 agency: Small Business Administration

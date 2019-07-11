@@ -4,17 +4,31 @@
     <div class="usa-graphic-list__row grid-row grid-gap" style="padding:0;">
 
       {% for bio in site.members %}
-          <div class="tablet:grid-col-4" style="padding:10px;">
+          <div class="tablet:grid-col-4 container" style="padding:10px;">
+            <a style="color:black" href="{{ site.baseurl }}{{ bio.permalink }}">
             <div class="left">
               <img src="{{ site.baseurl }}/assets/images/members{{ bio.bio-image }}">
             </div>
             <div class="right">
-            <p>{{ bio.name }}<br>
-            {{ bio.title }}, {{ bio.agency }}</p>
+              <p><span class="name">{{ bio.name }}<br></span>
+              <span class="title">{{ bio.title }}, {{ bio.agency }}</span></p>
             </div>
-          </div>
+          </a>
+        </div>
       {% endfor %}
 
     </div>
   </div>
 </section>
+
+<style>
+.name {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.title {
+  font-size: 12px;
+  line-height: 10px;
+}
+</style>

@@ -2,7 +2,7 @@
 layout: bio
 name:  Mr. James Gfrerer
 permalink: /about/members-and-leadership/gfrerer-james/
-title: Assistant Secretary for Information and Technology and Chief Information Officer
+title: Asst. Sec. for IT and Chief Information Officer
 agency: Department of Veteran Affairs
 bio-image: /gfrerer.jpg
 bio-image-alt-text: James Gfrerer
