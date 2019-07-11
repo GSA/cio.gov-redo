@@ -2,7 +2,8 @@
 layout: bio
 name: Mr. Jose Arrieta
 permalink: /about/members-and-leadership/arrieta-jose/
-title: Team and Leadership
+subtitle: Team and Leadership
+title: About Our Council
 
 position: Deputy Asst. Sec. for IT & Chief Information Officer
 agency: Department of Health and Human Services

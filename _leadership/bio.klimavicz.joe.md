@@ -2,9 +2,10 @@
 layout: bio
 name: Mr. Joe Klimavcz
 permalink: /about/members-and-leadership/klimavicz-joseph/
-background-image: /assets/img/grey.background.png
-bio-name-text: MR. JOSEPH KLIMAVICZ
-title: Chief Information Officer
+subtitle: Team and Leadership
+title: About Our Council
+
+position: Chief Information Officer
 agency: Department of Justice
 bio-leadership: Council Vice-Chair
 bio-image: /klimavicz.png

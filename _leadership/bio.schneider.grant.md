@@ -2,7 +2,10 @@
 layout: bio
 name: Mr. Grant Schneider
 permalink: /about/members-and-leadership/schneider-grant/
-title: Chief Information Security Officer
+subtitle: Team and Leadership
+title: About Our Council
+
+position: Chief Information Security Officer
 agency: Office of Management and Budget
 bio-image: /schneider.png
 bio-image-alt-text: Mr. Grant Schneider

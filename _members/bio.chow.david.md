@@ -2,12 +2,15 @@
 layout: bio
 name: Mr. David C. Chow
 permalink: /about/members-and-leadership/chow-david/
-title: Team and Leadership
+subtitle: Team and Leadership
+title: About Our Council
 
 position: Chief Information Officer
 agency: Department of Housing and Urban Development
 bio-image: /chow.png
 bio-image-alt-text: David Chow
+bio-phone:
+bio-email:
 ---
 
 David Chow was sworn in as HUD’s Chief Information Officer (CIO) on Monday, August 20, 2018, coming to the Department with 18 years of government experience, including a decade of executive-level work, in information technology and cybersecurity.

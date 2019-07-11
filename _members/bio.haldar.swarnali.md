@@ -2,7 +2,10 @@
 layout: bio
 name: Ms. Swarnali Haldar
 permalink: /about/members-and-leadership/haldar-swarnali/
-title: Chief Information Officer
+subtitle: Team and Leadership
+title: About Our Council
+
+position: Chief Information Officer
 agency: National Archives and Records Administration
 bio-image: /haldar.png
 bio-phone: 301-837-2027

@@ -2,7 +2,10 @@
 layout: bio
 name: Dr. John Zangardi
 permalink: /about/members-and-leadership/zangardi-john/
-title: Chief Information Officer
+subtitle: Team and Leadership
+title: About Our Council
+
+position: Chief Information Officer
 agency: Department of Homeland Security
 bio-image: /zangardi.png
 bio-image-alt-text: Dr. John Zangardi

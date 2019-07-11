@@ -2,7 +2,10 @@
 layout: bio
 name: Mr. Vaughn Noga
 permalink: /about/members-and-leadership/noga-vaughn/
-title: Chief Information Officer
+subtitle: Team and Leadership
+title: About Our Council
+
+position: Chief Information Officer
 agency: Environmental Protection Agency
 bio-image: /noga.png
 bio-image-alt-text: Mr. Vaughn Noga

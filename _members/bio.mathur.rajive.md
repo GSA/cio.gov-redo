@@ -2,7 +2,10 @@
 layout: bio
 permalink: /about/members-and-leadership/mathur-rajive/
 name: Mr. Rajive Mathur
-title: Chief Information Officer
+subtitle: Team and Leadership
+title: About Our Council
+
+position: Chief Information Officer
 agency: Social Security Administration
 bio-image: /mathur.png
 bio-image-alt-text: Rajive Mathur

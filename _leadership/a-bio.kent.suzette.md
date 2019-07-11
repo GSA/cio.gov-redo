@@ -2,8 +2,10 @@
 layout: bio
 name: Ms. Suzette Kent
 permalink: /members-and-leadership/kent-suzette/
-background-image: /assets/img/grey.background.png
-title: Federal Chief Information Officer
+subtitle: Team and Leadership
+title: About Our Council
+
+position: Federal Chief Information Officer
 agency: Office of Management and Budget
 bio-image: /kent-suzette.jpg
 bio-image-alt-text: Suzette Kent

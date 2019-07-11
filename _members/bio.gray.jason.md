@@ -2,7 +2,10 @@
 layout: bio
 name: Mr. Jason Gray
 permalink: /about/members-and-leadership/gray-jason/
-title: Chief Information Officer
+subtitle: Team and Leadership
+title: About Our Council
+
+position: Chief Information Officer
 agency: Department of Education
 bio-image: /gray.png
 bio-image-alt-text: Jason Gray

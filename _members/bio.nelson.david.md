@@ -2,7 +2,10 @@
 layout: bio
 permalink: /about/members-and-leadership/nelson-david/
 name: Mr. David Nelson
-title: Chief Information Officer
+subtitle: Team and Leadership
+title: About Our Council
+
+position: Chief Information Officer
 agency: Nuclear Regulatory Commission
 bio-image: /nelson.png
 bio-image-alt-text: David Nelson

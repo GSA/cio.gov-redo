@@ -2,7 +2,10 @@
 layout: bio
 name: Mr. Dovarius L. Peoples
 permalink: /about/members-and-leadership/peoples-dovarius/
-title: Chief Information Officer
+subtitle: Team and Leadership
+title: About Our Council
+
+position: Chief Information Officer
 agency: U.S. Army Corps of Engineers
 bio-image: /peoples.png
 bio-image-alt-text: Dovarius Peoples

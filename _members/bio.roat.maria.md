@@ -2,7 +2,10 @@
 layout: bio
 name: MS. Maria Roat
 permalink: /about/members-and-leadership/roat-maria/
-title: Chief Information Officer
+subtitle: Team and Leadership
+title: About Our Council
+
+position: Chief Information Officer
 agency: Small Business Administration
 bio-image: /roat.png
 bio-image-alt-text: Maria Roat

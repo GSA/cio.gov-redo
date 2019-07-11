@@ -2,7 +2,10 @@
 layout: bio
 name: Mr. Stuart McGuigan
 permalink: /about/members-and-leadership/mcguigan-stuart/
-title: Chief Information Officer
+subtitle: Team and Leadership
+title: About Our Council
+
+position: Chief Information Officer
 agency: Department of State
 bio-image: /placeholder.png
 bio-image-alt-text: Mr. Stuart McGuigan

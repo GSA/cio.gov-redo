@@ -2,7 +2,8 @@
 layout: bio
 name: Ms. Dorothy Aronson
 permalink: /about/members-and-leadership/aronson-dorothy/
-title: Team and Leadership
+subtitle: Team and Leadership
+title: About Our Council
 
 position: Chief Information Officer
 agency: National Science Foundation

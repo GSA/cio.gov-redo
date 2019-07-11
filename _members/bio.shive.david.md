@@ -2,7 +2,10 @@
 layout: bio
 name: Mr. David Shiv
 permalink: /about/members-and-leadership/shive-david/
-title: Chief Information Officer
+subtitle: Team and Leadership
+title: About Our Council
+
+position: Chief Information Officer
 agency: General Services Administration
 bio-image: /shive.png
 bio-image-alt-text: David Shive

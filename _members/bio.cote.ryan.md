@@ -2,7 +2,10 @@
 layout: bio
 name: Mr. Ryan Cote
 permalink: /about/members-and-leadership/cote-ryan/
-title: Chief Information Officer,
+subtitle: Team and Leadership
+title: About Our Council
+
+position: Chief Information Officer
 agency: Department of Transportation
 bio-image: /cote.jpg
 bio-image-alt-text: RYAN COTE

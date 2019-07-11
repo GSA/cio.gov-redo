@@ -3,6 +3,7 @@ layout: bio
 permalink: /about/members-and-leadership/ahluwalia-gundeep/
 background-image: /assets/img/grey.background.png
 subtitle: Team and Leadership
+title: About Our Council
 
 name: Mr. Gundeep Ahluwalia
 position: Chief Information Officer

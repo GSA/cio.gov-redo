@@ -2,6 +2,9 @@
 layout: bio
 permalink: /about/members-and-leadership/mahanand-jay/
 name: Mr. Jay Mahanand
+subtitle: Team and Leadership
+title: About Our Council
+
 position: Chief Information Officer
 agency: U.S. Agency for International Development
 bio-image: /mahanand.png
