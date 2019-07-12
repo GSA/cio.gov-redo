@@ -5,7 +5,7 @@ layout: defaultwithbanner
   <div class="grid-container" style="padding-left:0">
     <div class="grid-row">
       <div class="desktop:grid-col-3">
-          <img src="{{ site.baseurl }}/assets/images/members{{ page.bio-image }}" alt="{{ page.bio-image-alt-text }}" style="float:left;width:175px;margin-right:24px;">
+          <img class="bio-photo" src="{{ site.baseurl }}/assets/images/members{{ page.bio-image }}" alt="{{ page.bio-image-alt-text }}">
       </div>
       <div class="desktop:grid-col-9">
         {% if page.name %}
@@ -19,7 +19,7 @@ layout: defaultwithbanner
         {% endif %}
 
         {% if page.bio-email  %}
-         <b>Email:  </b><A HREF="mailto:{{ page.bio-email }}">{{ page.bio-email }}</A><BR>
+         <b>Email:  </b><a href="mailto:{{ page.bio-email }}">{{ page.bio-email }}</a><br>
         {% endif %}
         {% if page.bio-phone %}
          <b>Phone:</b> {{ page.bio-phone }}<BR>
