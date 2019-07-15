@@ -1,7 +1,7 @@
 jQuery(document).ready( function($) {
 
 
-// Grab the .courses container
+// Grab the .policies container
 var $container = $('.policies');
 
 var $policies = $($container).isotope({
@@ -26,8 +26,6 @@ $('.sort').on('click', function() {
         $(this).addClass('checked');
     }
 });
-
-  // Filter content based on two factors.
 
   // Array to store filter from each group.
   var filters = {};
