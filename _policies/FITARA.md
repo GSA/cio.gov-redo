@@ -5,7 +5,7 @@ description: Enhances the Authority of the CIO, enhances transparency and improv
 permalink: /policies-and-priorities/FITARA/
 layout: policy-landing
 policy-publish-date: January 1, 2018
-filters: category-2 closed
+filters: category-2 active role-2
 
 related-resources-1: Section508.gov
 related-resources-1-link: https://section508.gov/
