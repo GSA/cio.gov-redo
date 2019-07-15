@@ -1,12 +1,15 @@
 ---
-title: The GEAR Center Challenge is Now Open - Submit Your Ideas Today!
 layout: post
+title: The GEAR Center Challenge is Now Open - Submit Your Ideas Today!
+excerpt: The General Services Administration and Office of Management and Budget are excited to launch the Government Effect
 date: May 8, 2019
 author: Performance.gov Team
-excerpt: The General Services Administration and Office of Management and Budget are excited to launch the Government Effectiveness Advanced Research (GEAR) Center Challenge! 
-image: gear-logo-blog.png
-img-alt: Gears Logo
+iveness Advanced Research (GEAR) Center Challenge!
 tags: GEAR
+
+image-thumbnail: /assets/images/blog/gear-logo-blog.png
+img-alt: Gears Logo
+
 permalink: /2019/05/08/GEAR-center-challenge-now-open/
 ---
 

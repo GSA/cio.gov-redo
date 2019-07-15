@@ -1,14 +1,14 @@
 ---
-layout: blog
-title: 'Administration Announces First Federal Cyber Reskilling Pilot Program'
-description:
-date: 2018-11-30
+layout: post
+title: Administration Announces First Federal Cyber Reskilling Pilot Program
+excerpt: Today, the Office of Management and Budget, the CIO Council and the Department of Education announced the first Federal Cyber Reskilling Academy (FCRA) pilot program. This program offers Federal employees the opportunity for hands-on training in cybersecurity, one of the fastest growing fields in the country.
+date: November 30, 2018
 display-date: 30 November 2018
 author: CIO Council Operations
 permalink:
 tags: cybersecurity 2018 workforce
-image: /assets/img/blog/2018.11.30.fcra.jpg
-image-thumbnail: /assets/img/blog/2018.11.30.fcra.jpg
+
+image-thumbnail: /assets/images/blog/2018.11.30.fcra.jpg
 img-alt: Image of the United States from a NASA satellite
 ---
 

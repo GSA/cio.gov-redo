@@ -1,15 +1,16 @@
 ---
-layout: blog
-title: 'National Cybersecurity Awareness Month, 2018'
-description:
-date: 2018-10-01
+layout: post
+title: National Cybersecurity Awareness Month, 2018
+excerpt: Americans are spending more time online than ever before. As more people use the Internet for online shopping, banking, financial management, and socializing, they also expose themselves to increased cyber risks. Online threats and cyber-attacks threaten the future of our national and economic security.
+date: October 1, 2018
 display-date: 01 October 2018
-author: "CIO Council Operations"
-permalink: /national-cybersecurity-month-2018/
+author: CIO Council Operations
 tags: cybersecurity 2018 ncsam
-image: /assets/img/blog/2018.10.01.ncsam.png
+
 image-thumbnail: /assets/img/blog/2018.10.01.ncsam.png
 img-alt: October is National Cybersecurity Awareness Month. Learn more at staysafeonline.org/ncsam
+
+permalink: /national-cybersecurity-month-2018/
 ---
 
 Americans are spending more time online than ever before. As more people use the Internet for online shopping, banking, financial management, and socializing, they also expose themselves to increased cyber risks. Online threats and cyber-attacks threaten the future of our national and economic security. Because cybersecurity is important to our Nation, the Federal Chief Information Officers (CIO) Council and the Federal Chief Information Security Officers (CISO) Council are joining with the Department of Homeland Security to raise cybersecurity awareness across the Nation during National Cybersecurity Awareness Month this October.

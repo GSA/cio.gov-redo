@@ -1,14 +1,16 @@
 ---
-layout: blog
-title: 'Defining IT Centralization'
-description: Why prioritizing users is important during IT centralization
-date: 2019-4-8
+layout: post
+title: Defining IT Centralization
+excerpt: Ever wonder why prioritizing users is so important during IT centralization? This is the first in a series of posts on the importance of human-centered design when evaluating IT centralization. As part of a 10x project, they synthesized 18F's learnings from agency partners that have been through centralization efforts before and have wisdom to share. 
+date: April 8, 2019
 display-date: 8 April 2019
 author: Erin Strenio, Content Designer at 18F and Amy Ashida, UX Designer at 18F
-permalink: /Defining-IT-Centralization/
 tags:
-image-thumbnail: /assets/img/18F-Logo-M.png
+
+image-thumbnail: /assets/images/blog/18F-Logo-M.png
 img-alt: 18F Logo
+
+permalink: /Defining-IT-Centralization/
 ---
 *The President’s Management Agenda rightly focuses on the need to modernize IT to better serve citizens and support agency missions in the digital age. There is also a heavy emphasis on the opportunity to reduce costs, redundancies and free up valuable work hours through increased standards and shared services. But putting people at the center of every step of these efforts isn’t just “good change management”, it is essential to find the right solution and making it stick.  This guest blog series by Erin Strenio and Amy Ashida of 18F showcases the benefits of human-centered design as one of the tools to achieve the goals of the PMA.*
 
