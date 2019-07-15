@@ -1,12 +1,12 @@
 ---
-
+layout: post
 title: CIO Council to Sponsor First Annual IT Solutions Challenge
 excerpt: The CIO Council’s Workforce Committee and the Chief Acquisition Officers Council recently requested Agencies nominate their best and brightest IT staff to participate in the first annual CIO Council IT Solutions Challenge.
-layout: post
 date: March 4, 2015
 display-date: 04 March 2015
 author: Tony Scott
 tags: innovation workforce 2015
+
 image:
 image-thumbnail: /assets/images/CIO-council-Logo-Silver.png
 img-alt: CIOC Logo

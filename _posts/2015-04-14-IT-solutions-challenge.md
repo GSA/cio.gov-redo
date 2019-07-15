@@ -1,11 +1,12 @@
 ---
+layout: post
 title: IT Solutions Challenge
 excerpt: The IT Solutions Challenge consists of several small working groups of rising stars within the IT and IT acquisition communities who will identify issues within the Federal Government and work together over the course of six months to develop solutions to those problems.
-layout: post
 date: April 14, 2015
 display-date: 14 April 2015
 author: CIO Council Operations
 tags: innovation workforce 2015
+
 image:
 image-thumbnail: /assets/images/CIO-council-Logo-Silver.png
 img-alt: CIOC Logo
@@ -17,27 +18,23 @@ The CIO Council’s Workforce Committee and the Chief Acquisition Officers Counc
 Teams work with mentors to assist in brainstorming sessions, problem identification, workplan development, and execution. Each team will also have access to subject matter experts who can provide feedback and expertise as they work to develop solutions. In the fall, teams will present their solutions and work with IT leaders to discuss next steps on implementing these solutions across the Federal Government.
 
 **Team 1**  
-IT Solutions Challenge 2015 Problem Description: [Inez Maguire]({{site.baseurl}}/2015/05/20/IT-solutions-challenge-IM.html)
+IT Solutions Challenge 2015 Problem Description: Inez Maguire
 
 **Team 2**  
-IT Solutions Challenge 2015 First Impressions: [Jeremy Greenland]({{site.baseurl}}/2015/04/22/IT-solutions-challenge-JG.html)
-IT Solutions Challenge 2015 Problem Description: [Kimberly McCarthy]({{site.baseurl}}/2015/05/13/IT-solutions-challenge-KM.html)
-
-
-**Team 3**  
-IT Solutions Challenge 2015 First Impressions: [Lori Zimet]({{site.baseurl}}/2015/04/24/IT-solutions-challenge-LZ.html)
-IT Solutions Challenge 2015 Problem Description: [Christopher Paris]({{site.baseurl}}/2015/05/14/IT-solutions-challenge-CP.html)
-
+IT Solutions Challenge 2015 First Impressions: Jeremy Greenland
+IT Solutions Challenge 2015 Problem Description: Kimberly McCarthy
 
 **Team 3**  
-IT Solutions Challenge 2015 First Impressions: [Tonya Eaton]({{site.baseurl}}/2015/04/23/IT-solutions-challenge-TE.html)
+IT Solutions Challenge 2015 First Impressions: Lori Zimet
+IT Solutions Challenge 2015 Problem Description: Christopher Paris
 
+**Team 3**  
+IT Solutions Challenge 2015 First Impressions: Tonya Eaton
 
 **Team 4**  
-IT Solutions Challenge 2015 First Impressions: [Gibran Mills]({{site.baseurl}}/2015/04/30/IT-solutions-challenge-GM.html)
-IT Solutions Challenge 2015 Problem Description: [Lori Alfred]({{site.baseurl}}/2015/05/15/IT-solutions-challenge-LA.html)
-
+IT Solutions Challenge 2015 First Impressions: Gibran Mills
+IT Solutions Challenge 2015 Problem Description: Lori Alfred
 
 **Team 5**  
-IT Solutions Challenge 2015 First Impressions: [Edgar Pedroza]({{site.baseurl}}/2015/04/23/IT-solutions-challenge-EP.html)
-IT Solutions Challenge 2015 Problem Description: [Ursula Nkwantabisa]({{site.baseurl}}/2015/05/18/IT-solutions-challenge-UN.html)
+IT Solutions Challenge 2015 First Impressions: Edgar Pedroza
+IT Solutions Challenge 2015 Problem Description: Ursula Nkwantabisa
