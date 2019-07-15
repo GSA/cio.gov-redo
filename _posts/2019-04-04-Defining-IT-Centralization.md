@@ -7,7 +7,7 @@ display-date: 8 April 2019
 author: Erin Strenio, Content Designer at 18F and Amy Ashida, UX Designer at 18F
 tags:
 
-image-thumbnail: /assets/img/18F-Logo-M.png
+image-thumbnail: /assets/images/blog/18F-Logo-M.png
 img-alt: 18F Logo
 
 permalink: /Defining-IT-Centralization/

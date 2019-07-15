@@ -6,7 +6,6 @@ date: March 13, 2019
 author: Jason Gray, CIO, DEPARTMENT OF EDUCATION and David Shive, CIO, GENERAL SERVICES ADMINISTRATION
 tags: 2019 cio-council
 
-image: /assets/images/blog/TBM.jpeg
 image-thumbnail: /assets/images/blog/TBM.jpeg
 img-alt: Man with laptop
 

@@ -7,7 +7,7 @@ author: Performance.gov Team
 iveness Advanced Research (GEAR) Center Challenge!
 tags: GEAR
 
-image: gear-logo-blog.png
+image-thumbnail: /assets/images/blog/gear-logo-blog.png
 img-alt: Gears Logo
 
 permalink: /2019/05/08/GEAR-center-challenge-now-open/
