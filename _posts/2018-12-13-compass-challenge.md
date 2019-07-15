@@ -1,13 +1,12 @@
 ---
 layout: post
 title: NSF Looks for Innovative Technology to Prepare for the Workforce of the Future via the Career Compass Challenge
-excerpt: Technology is changing the way we do our work, and the work itself. To keep up, the National Science Foundation (NSF) plans to invest in its most critical resource – the workforce.
+excerpt: Technology is changing the way we do our work, and the work itself. To keep up, the National Science Foundation (NSF) plans to invest in its most critical resource – the workforce. And it's not just NSF. The need for an adaptable and ready workforce extends to other Federal agencies and beyond.
 date: December 12, 2018
 display-date: 12 December 2018
-author: Dorothy Aronson, Chief Information Officer of the National Science Foundation
+author: Dorothy Aronson, CIO of the National Science Foundation
 tags: 2018 workforce innovation
 
-image: /assets/images/blog/2018.12.13.compass.banner.png
 image-thumbnail: /assets/img/blog/2018.12.13.compass.png
 img-alt: National Science Foundation's Career Compass Challenge
 

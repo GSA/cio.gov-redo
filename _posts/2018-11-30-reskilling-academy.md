@@ -8,7 +8,6 @@ author: CIO Council Operations
 permalink:
 tags: cybersecurity 2018 workforce
 
-image: /assets/images/blog/2018.11.30.fcra.jpg
 image-thumbnail: /assets/images/blog/2018.11.30.fcra.jpg
 img-alt: Image of the United States from a NASA satellite
 ---

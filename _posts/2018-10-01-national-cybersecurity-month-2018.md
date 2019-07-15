@@ -7,7 +7,6 @@ display-date: 01 October 2018
 author: CIO Council Operations
 tags: cybersecurity 2018 ncsam
 
-image: /assets/img/blog/2018.10.01.ncsam.png
 image-thumbnail: /assets/img/blog/2018.10.01.ncsam.png
 img-alt: October is National Cybersecurity Awareness Month. Learn more at staysafeonline.org/ncsam
 
