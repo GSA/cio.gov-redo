@@ -1,13 +1,17 @@
 ---
-layout: blog
-title: "Hiring for the 21st Century: Strengthening the Federal Cyber Workforce"
-date: 2018-10-12
+layout: post
+title: Hiring for the 21st Century: Strengthening the Federal Cyber Workforce
+excerpt: October is National Cybersecurity Awareness Month (NCSAM). This week’s NCSAM theme is “Millions of Rewarding Jobs: Educating For a Career in Cybersecurity.”
+date: October 12, 2018
 display-date: 12 October 2018
 author: Jason Gray, CIO of the Dept. of Education and Co-Chair of the CIO Council's Workforce Committee
 tags: workforce ncsam 2018
+
 image: /assets/img/blog/2018.10.12.rewarding.jobs.jpg
 image-thumbnail: /assets/img/blog/2018.10.12.rewarding.jobs.jpg
 img-alt: Image of a person coding on a laptop
+
+permalink:
 ---
 
 October is National Cybersecurity Awareness Month (NCSAM). This week’s NCSAM theme is [“Millions of Rewarding Jobs: Educating For a Career in Cybersecurity”](https://staysafeonline.org/ncsam/themes/). Since its inception, the [CIO Council Workforce Committee](https://www.cio.gov/about/workforce-committee/) has worked in partnership with the federal human capital community to develop, implement and communicate strategies to recruit, retain, and manage a fully trained and qualified IT and cyber workforce. As Co-Chair of the CIO Council Workforce Committee, I want to highlight some of the recent achievements the committee has made towards addressing federal cybersecurity workforce gaps and provide resources for those seeking a dynamic and rewarding career within the federal government.
