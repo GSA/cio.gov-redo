@@ -1,21 +1,21 @@
-<div class="grid-row grid-gap" style="padding:0">
-{% for resources in site.resources %}
-
-{% if resources.category == "publication" %}
-  <div class="tablet:grid-col-3">
-    <div class="shadow-1 ">
-      <div class="text-container">
-    <!--<p class="date">{{ resources.date | date: "%b %d, %y" }}</p> NOT SURE WE NEED DATE-->
-        <div class="seprate-line"></div>
-        <span class="title">{{ resources.title }}</span><br>
-        <!--<p class="description">{{ resources.description }}</p>-->
+<div class="usa-media-block tablet:grid-col-9">
+  <div class="policies">
+  {% for resources in site.resources %}
+      <div class="tablet:grid-col-3 grid-spacing policy {{ policies.filters }}">
+      <div class="shadow-1 ">
+        <a class="no-style" href="{{ site.baseurl }}{{ policies.permalink }}">
+          <div class="text-container">
+      <!--<p class="date">{{ resources.date | date: "%b %d, %y" }}</p> NOT SURE WE NEED DATE-->
+          <div class="seprate-line"></div>
+          <span class="title">{{ resources.title }}</span><br>
+          <!--  <p class="description">{{ policies.description }}</p>-->
+        </div></a>
+      <!--  <div class="more">
+           Read more ❯
+         </div>-->
+         </a>
       </div>
-    <!--  <div class="more">
-         Read more ❯
-       </div>-->
+    </div>
+  {% endfor %}
     </div>
   </div>
-{% endif %}
-
-{% endfor %}
-</div>
