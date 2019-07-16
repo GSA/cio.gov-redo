@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hiring for the 21st Century - Strengthening the Federal Cyber Workforce
-excerpt: October is National Cybersecurity Awareness Month (NCSAM). This week’s NCSAM theme is Millions of Rewarding Jobs: Educating For a Career in Cybersecurity.
+excerpt: October is National Cybersecurity Awareness Month (NCSAM). This week’s NCSAM theme is Millions of Rewarding Jobs - Educating For a Career in Cybersecurity.
 date: October 12, 2018
 display-date: 12 October 2018
 author: Jason Gray, CIO of the Dept. of Education and Co-Chair of the CIO Council's Workforce Committee
