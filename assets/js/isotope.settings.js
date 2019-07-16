@@ -10,24 +10,18 @@ var $policies = $($container).isotope({
     layoutMode: 'masonry',
 
     getSortData: {
-      name: 'span'
-  }
-});
-
-// Sort based on various factors
-$('.sort').on('click', function() {
-    if ( $(this).hasClass('checked')) {
-        $(this).removeClass('checked');
-        $container.isotope({ sortBy: 'original-order' } );
-    } else {
-        $('.sort').removeClass('checked');
-        var sortValue = $(this).attr('data-sort-value');
-        $container.isotope({ sortBy: sortValue });
-        $(this).addClass('checked');
+      name: 'h2'
     }
 });
 
-  // Array to store filter from each group.
+
+// Sort based on various factors
+$('.sort').on('click', function() {
+  var sortValue = $(this).attr('data-sort-value');
+  $container.isotope({ sortBy: sortValue });
+  });
+
+// Array to store filter from each group.
   var filters = {};
 
   $('.filter-list a').on('click', function() {
