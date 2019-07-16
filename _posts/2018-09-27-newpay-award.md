@@ -1,14 +1,17 @@
 ---
-layout: blog
-title: 'GSA Awards NewPay BPA for Software-as-a-Service for Payroll and Work Schedule and Leave Management'
-description: 10-year, $2.5 billion BPA provides agencies with technology and services to modernize and improve payroll processing across government
-date: 2018-09-27
+layout: post
+title: GSA Awards NewPay BPA for Software-as-a-Service for Payroll and Work Schedule and Leave Management
+excerpt: Today, the U.S. General Services Administration (GSA) announced the award of a 10-year, $2.5 billion NewPay Blanket Purchase Agreement (BPA) that will provide payroll and work schedule and leave management Software-as-a-Service (SaaS) solutions and services.
+date: September 27, 2018
 display-date: 27 September 2018
-author: "CIO Council Operations"
+author: CIO Council Operations
 tags: newpay 2018 shared-services gsa  
-image: /assets/img/blog/2018.09.27newpay.jpg
+
 image-thumbnail: /assets/img/blog/2018.09.27newpay.jpg
 img-alt: Small numbers forming a dollar sign
+
+permalink:
+
 ---
 
 _This press release was first posted on [GSA](https://www.gsa.gov/about-us/newsroom/news-releases/gsa-awards-newpay-bpa-for-softwareasaservice-for-payroll-and-work-schedule-and-leave-management) on September 27th, 2018_
@@ -27,7 +30,7 @@ BPAs were awarded to the following teams:
 
 * Team Carahsoft: Carahsoft Technology Corporation, Immix Technology, and Deloitte Consulting LLP
 * Solution: Kronos and SAP
-* Team Grant Thornton: Grant Thornton, The Arcanum Group, Inc., and CGI Federal 
+* Team Grant Thornton: Grant Thornton, The Arcanum Group, Inc., and CGI Federal
 * Solution: Infor.
 
 **About GSA**

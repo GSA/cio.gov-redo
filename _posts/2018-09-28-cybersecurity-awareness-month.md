@@ -1,19 +1,21 @@
 ---
-layout: blog
-title: 'Presidential Proclamation on National Cybersecurity Awareness Month, 2018'
-description: 
-date: 2018-09-28
+layout: post
+title: Presidential Proclamation on National Cybersecurity Awareness Month, 2018
+excerpt: This proclamation was first posted on White House.gov on September 28th, 2018. During National Cybersecurity Awareness Month, we acknowledge the danger that cyber threats pose to our economy and public infrastructure, and raise awareness about steps we can take to mitigate and prevent future attacks. 
+date: September 28, 2018
 display-date: 28 September 2018
-author: "CIO Council Operations"
+author: CIO Council Operations
 tags: cybersecurity 2018 ncsam
-image: /assets/img/blog/2018.09.28.cybersecurity.png
+
 image-thumbnail: /assets/img/blog/2018.09.28.cybersecurity.png
-img-alt: White House .gov logo 
+img-alt: White House .gov logo
+
+permalink:
 ---
 
 _This proclamation was first posted on [White House.gov](https://www.whitehouse.gov/presidential-actions/presidential-proclamation-national-cybersecurity-awareness-month-2018/) on September 28th, 2018._
 
-During National Cybersecurity Awareness Month, we acknowledge the danger that cyber threats pose to our economy and public infrastructure, and raise awareness about steps we can take to mitigate and prevent future attacks.  As these threats have continued to increase year after year, my Administration remains committed to bolstering our Nation’s cyber defenses and strengthening our national security.
+During National Cybersecurity Awareness Month, we acknowledge the danger that cyber threats pose to our economy and public infrastructure, and raise awareness about steps we can take to mitigate and prevent future attacks. As these threats have continued to increase year after year, my Administration remains committed to bolstering our Nation’s cyber defenses and strengthening our national security.
 
 Under my Administration, our Nation’s cybersecurity is a Government-wide effort.  Collaboration among all United States Government departments and agencies, including the Departments of State, Defense, Justice, Commerce, and Homeland Security, have improved Federal network cybersecurity, enhanced coordination with the private sector to protect critical infrastructure, strengthened our ability to detect and deter cyber threats, and expanded efforts to build the world’s best cybersecurity workforce.  To advance these efforts, on September 20, 2018, I released the National Cyber Strategy, the first fully articulated cyber strategy for the United States in 15 years.  This strategy makes clear that the Federal Government will use all means available to keep our country safe from cyber threats and to protect the American people in the digital domain.
 

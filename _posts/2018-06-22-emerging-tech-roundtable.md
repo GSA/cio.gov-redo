@@ -1,13 +1,16 @@
 ---
-layout: blog
+layout: post
 title: Digital Transformation Artificial Intelligence and the Workforce
-date: 2018-06-22
+excerpt: In the late 1800’s, nearly 50% of the American workforce was employed through agriculture. According to the Bureau of Labor Statistics, that figure dropped to less than 2% by 2008 [1]. This major restructuring of the economy happened over a period of decades, leading to the emergence of new occupations, fundamental shifts in how the workforce was deployed and inherent changes to the social fabric of the country.
+date: June 22, 2018
 display-date: 22 June 2018
 author: Maria Roat, CIO of the Small Business Administration and Chair of the CIO Council's Innovation Committee
 tags: innovation workforce 2018
-image:
+
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC logo
+
+permalink: 
 ---
 
 In the late 1800’s, nearly 50% of the American workforce was employed through agriculture. According to the Bureau of Labor Statistics, that figure dropped to less than 2% by 2008 [1]. This major restructuring of the economy happened over a period of decades, leading to the emergence of new occupations, fundamental shifts in how the workforce was deployed and inherent changes to the social fabric of the country.

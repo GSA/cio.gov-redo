@@ -1,14 +1,16 @@
 ---
-layout: blog
-title: 'Collaborating for Better Design, Technology and User Experience'
-description: In February 2018, the White House released its implementation plan to modernize IT infrastructure across the federal government.
-date: 2018-08-13
+layout: post
+title: Collaborating for Better Design, Technology and User Experience
+excerpt: In February 2018, the White House released its implementation plan to modernize IT infrastructure across the federal government. As a result, several initiatives are underway to achieve this goal. Paying specific attention to mobile friendliness, customer experience, and innovation, the federal government is changing how we approach design, development and user experience.
+date: August 13, 2018
 display-date: 13 August 2018
-author: "John Sullivan, Director, Government-wide IT Accessibility"
+author: John Sullivan, Director, Government-wide IT Accessibility
 tags: accessibility 2018
-image: /assets/img/blog/2018.08.13.collaborating.design.jpg
+
 image-thumbnail: /assets/img/blog/2018.08.13.collaborating.design.jpg
 img-alt: Image of two individuals planning on a whiteboard
+
+permalink:
 ---
 
 _This blog was first posted on [GSABlog](https://www.gsa.gov/blog/2018/08/07/Collaborating-for-Better-Design-Technology-and-User-Experience-0) on August 7th, 2018_

@@ -1,15 +1,16 @@
 ---
-layout: blog
-title: 'Help Wanted: Increase the Effectiveness of your Tax Dollar!'
-description:
-date: 2018-05-31
+layout: post
+title: Help Wanted: Increase the Effectiveness of your Tax Dollar!
+excerpt: This blog entry was previously published in Performance.gov. The Federal government spends at least $90 billion annually on IT. The announcement of the President’s Management Agenda included a cross-agency priority goal specifically focused on increasing transparency in spend and performance metrics associated with IT across the enterprise.
+date: May 31, 2018
 display-date: 31 May 2018
-author: 'Margaret Weichert, OMB Deputy Director of Management'
+author: Margaret Weichert, OMB Deputy Director of Management
 tags: tbm 2018
-image:
+
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt:
-image-credit:
+
+permalink:
 ---
 This blog entry was previously published in [Performance.gov](https://performance.gov/news/).
 
