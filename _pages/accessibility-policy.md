@@ -11,30 +11,30 @@ The General Services Administration (GSA) is committed to making all of our Inte
 ## Accessibility Aids: Plug-ins and File Viewers
 All applets, plug-ins, or other applications required by GSA webpages that are not included on the specific page are found as links from this page. Most of these links are to non-government sources. GSA does not endorse any of these products; they are listed below for the convenience of our visitors. Address questions about the particular plug-in or file viewer to the respective vendor.
 
-**Adobe Reader**
+**Adobe Reader**&nbsp;
 Use Adobe Acrobat to read Portable Document Format (PDF) files.
 [Download Adobe Reader](http://get.adobe.com/reader/otherversions/)
 
-**Flash Player**
+**Flash Player**&nbsp;
 [Download Flash Player](http://get.adobe.com/flashplayer/)
 
-**Microsoft Word**
+**Microsoft Word**<br/>
 Microsoft offers Word file viewer and converter programs to enable those who do not have MS-Word or have another version of MS-Word to open and view MS-Word files.
 [Download Word File Viewer](http://www.microsoft.com/downloads/details.aspx?familyid=3657CE88-7CFA-457A-9AEC-F4F827F20CAC&displaylang=en)
 
-**Microsoft Excel**
+**Microsoft Excel**&nbsp;
 Microsoft offers Excel file viewer and converter programs to enable those who do not have MS-Excel or have another version of MS-Excel to view MS-Excel files.
 [Download Excel File Viewer](http://www.microsoft.com/downloads/details.aspx?familyid=1CD6ACF9-CE06-4E1C-8DCF-F33F669DBC3A&displaylang=en)
 
-**Microsoft PowerPoint**
+**Microsoft PowerPoint**&nbsp;
 Microsoft offers PowerPoint file viewer and converter programs to enable those who do not have MS-PowerPoint or have another version of MS-PowerPoint to view MS-PowerPoint files.
 [Download PowerPoint File Viewer](http://www.microsoft.com/en-us/download/details.aspx?id=6)
 
-**Accessible FormNet Software**
+**Accessible FormNet Software**&nbsp;
 GSA’s forms server uses the Accessible FormNet Software
 [Download Accessible FormNet software](http://www.gsa.gov/Portal/gsa/ep/contentView.do?contentId=12455&bodyOnly=true&contentType=GSA_BASIC)
 
-**“Unzip” Utility**
+**“Unzip” Utility**&nbsp;
 Some large documents on this site may be compressed using a utility called WinZip. These files may be uncompressed using one of the utilities available for download. Since there are many options, this link takes you to a list of possible viewers at download.com.
 [View list of zip utilities](http://download.cnet.com/1770-20_4-0.html?searchtype=downloads&query=zip&tg=dl-2001&search=+Go%25252521+)
 
