@@ -4,7 +4,7 @@ title: Automatic HTTPS Enforcement for New Executive Branch .Gov Domains
 excerpt: HTTPS is a necessary baseline for security on the modern web. Non-secure HTTP connections lack integrity protection, and can be used to attack citizens, foreign nationals, and government staff. HTTPS provides increased confidentiality, authenticity, and integrity that mitigate these attacks.
 date: January 19, 2017
 display-date: 19 January 2017
-author: Marina Fox & Eric Mill
+author: Marina Fox and Eric Mill
 tags: cybersecurity 2017
 
 permalink:
