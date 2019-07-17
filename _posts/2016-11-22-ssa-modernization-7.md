@@ -1,13 +1,13 @@
 ---
-layout: blog
+layout: post
 title: Modernizing Federal IT Part 7 - What Does a Modern Application Look Like?
-date: 2016-11-22
+excerpt: This is the seventh in a series describing how the Social Security Administration is working towards a more modern IT infrastructure.
+date: November 22, 2016
 display-date: 22 November 2016
 author: Rob Klopp, CIO, Social Security Administration
 tags: it-modernization ssa 2016
-image: /assets/img/blog/2016.11.22.ssa.modernization.png
-image-thumbnail: /assets/img/blog/2016.11.22.ssa.modernization.png
-img-alt: Image of a digital globe on a iPad
+
+permalink:
 ---
 _This is the seventh in a series describing how the Social Security Administration is working towards a more modern IT infrastructure._
 

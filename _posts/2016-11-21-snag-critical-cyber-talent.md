@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'How to Snag Talent to Fill Critical Cybersecurity Positions at Your Agency'
-description:
-date: 2016-11-21
+layout: post
+title: How to Snag Talent to Fill Critical Cybersecurity Positions at Your Agency
+excerpt: The Department of Homeland Security (DHS) recently held a highly successful cybersecurity hiring event and I want to share some of the lessons we learned in hopes that others might be inspired to try it for their agencies.
+date: November 21, 2016
 display-date: 21 November 2016
 author: Angela Bailey, Chief Human Capital Officer, DHS
 tags: cybersecurity workforce 2016
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink:
 ---
 The Department of Homeland Security (DHS) recently held a highly successful cybersecurity hiring event and I want to share some of the lessons we learned in hopes that others might be inspired to try it for their agencies. The most important lesson learned from our experience is the value of acting collaboratively, quickly, and decisively. My best advice is to just do it. Don’t spend your precious time deliberating over potential barriers or complications; stop asking Congress for yet another hiring authority or new personnel system, instead capitalize on the existing rules, regulations and hiring authorities available today.
 

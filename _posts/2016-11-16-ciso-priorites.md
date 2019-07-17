@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: ' My Priorities as the First U.S. Chief Information Security Officer'
-description:
-date: 2016-11-16
+layout: post
+title: My Priorities as the First U.S. Chief Information Security Officer
+excerpt: As the first U.S. Chief Information Security Officer (CISO), I am honored to be a part of a dynamic community across government working to improve our country’s cybersecurity posture.
+date: November 16, 2016
 display-date: 16 November 2016
 author: Gen. Greg Touhill
 tags: cybersecurity 2016
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink: 
 ---
 As the first U.S. Chief Information Security Officer (CISO), I am honored to be a part of a dynamic community across government working to improve our country’s cybersecurity posture.
 

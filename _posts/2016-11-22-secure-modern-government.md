@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'Laying the Foundation for a More Secure and Modern Government'
-description:
-date: 2016-11-22
+layout: post
+title: Laying the Foundation for a More Secure and Modern Government
+excerpt: This blog entry was originally published on October 27th, 2016 on the White House blog. America’s spirit of ingenuity and entrepreneurship created the world’s most innovative economy and keeps us dominant in today’s digital age.
+date: November 22, 2016
 display-date: 22 November 2016
 author: Tony Scott
 tags: data-center 2016
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink:
 ---
 This [blog](https://www.whitehouse.gov/blog/2016/10/26/laying-foundation-more-secure-modern-government) entry was originally published on October 27th, 2016 on the White House blog.
 

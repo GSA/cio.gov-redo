@@ -1,13 +1,13 @@
 ---
-layout: blog
+layout: post
 title: Automatic HTTPS Enforcement for New Executive Branch .Gov Domains
-date: 2017-01-19
+excerpt: HTTPS is a necessary baseline for security on the modern web. Non-secure HTTP connections lack integrity protection, and can be used to attack citizens, foreign nationals, and government staff. HTTPS provides increased confidentiality, authenticity, and integrity that mitigate these attacks.
+date: January 19, 2017
 display-date: 19 January 2017
 author: Marina Fox & Eric Mill
 tags: cybersecurity 2017
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIO Council Logo
+
+permalink:
 ---
 HTTPS is a necessary baseline for security on the modern web. Non-secure HTTP connections lack integrity protection, and can be used to attack citizens, foreign nationals, and government staff. HTTPS provides increased confidentiality, authenticity, and integrity that mitigate these attacks.
 

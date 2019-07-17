@@ -1,13 +1,13 @@
 ---
-layout: blog
+layout: post
 title: Modernizing Federal IT Part 6 - Agility and Evolving a Minimal Viable Product
-date: 2016-11-07
+excerpt: This is the sixth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure.
+date: November 7, 2016
 display-date: 07 November 2016
 author: Rob Klopp, CIO, Social Security Administration
 tags: it-modernization ssa 2016
-image: /assets/img/blog/2016.11.07.ssa.modernization.png
-image-thumbnail: /assets/img/blog/2016.11.07.ssa.modernization.png
-img-alt: Image of a dictionary definition of the word agile
+
+permalink: 
 ---
 _This is the sixth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure._
 

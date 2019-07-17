@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'Why I’m Joining the Technology Transformation Service'
-description:
-date: 2016-11-04
+layout: post
+title: Why I’m Joining the Technology Transformation Service
+excerpt: This blog entry was originally published on October 31st, 2016 on the GSA blog. Some of my friends have asked what could possibly have gotten me to leave the life I love in the Bay Area and take a government job in DC.
+date: November 4, 2016
 display-date: 04 November 2016
 author: Rob Cook, Commissioner of the Technology Transformation Service
 tags: tts 2016
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink: 
 ---
 This [blog](https://gsablogs.gsa.gov/gsablog/2016/10/31/why-im-joining-the-technology-transformation-service/) entry was originally published on October 31st, 2016 on the GSA blog.
 

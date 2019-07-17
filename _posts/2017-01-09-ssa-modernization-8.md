@@ -1,13 +1,13 @@
 ---
-layout: blog
+layout: post
 title: Modernizing Federal IT Part 8 - The Proof is in the Pudding, Disability Case Processing System 2 (DCPS2) goes Live
-date: 2017-01-09
+excerpt: This is the eighth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure. 
+date: January 9, 2017
 display-date: 09 January 2017
 author: Rob Klopp, CIO, Social Security Administration
 tags: it-modernization ssa 2017
-image: /assets/img/blog/2017.01.09.ssa.modernization.png
-image-thumbnail: /assets/img/blog/2017.01.09.ssa.modernization.png
-img-alt: A baked pudding sits on a wood table
+
+permalink:
 ---
 _This is the eighth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure._
 
