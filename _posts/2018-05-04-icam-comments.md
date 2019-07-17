@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'Strengthening the Cybersecurity of Federal Agencies through Improved Identity, Credential, and Access Management (ICAM)'
-description:
-date: 2018-05-04
+layout: post
+title: Strengthening the Cybersecurity of Federal Agencies through Improved Identity, Credential, and Access Management (ICAM)
+excerpt: The Office of Management and Budget (OMB) is proposing a new policy to address Federal agencies’ implementation of Identity, Credential, and Access Management (ICAM) - the security disciplines that enable the right individual to access the right resource, at the right time, for the right reason. This updated policy reflects OMB’s commitment to the direction and vision outlined in the December 2017 Report to the President on IT Modernization.
+date: May 4, 2018
 display-date: 4 May 2018
-author: 'Office of the Federal Chief Information Officer'
+author: Office of the Federal Chief Information Officer
 tags: icam 2018
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink:
 ---
 _Due to technical difficulties, OMB may not have received comments submitted to [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov) on May 3rd (Thursday) or May 4th (Friday). If you submitted a comment on either of these days, or if you would like to submit a new comment via email, please send a message with any attachments to Jordan Burris at [Jordan.C.Burris@omb.eop.gov](mailto:Jordan.C.Burris@omb.eop.gov). We apologize for any inconvenience this may have caused and are extending the submission window for this comment period through 11:59pm Monday, May 7th._
 

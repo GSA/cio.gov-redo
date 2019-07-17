@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: NewPay Pre-Soliciation Notice Release
-description:
-date: 2018-05-04
+layout: post
+title: NewPay Pre-Solicitation Notice Release
+excerpt: The Federal Government pays over two million civilian federal employees every two-weeks, on time and at a relatively low cost. Some of the payroll systems running today, however, are in their fourth decade of operation and lack the ability to adapt and address the ever evolving legislative changes.
+date: May 4, 2018
 display-date: 04 May 2018
 author: CIO Council Operations
 tags: newpay shared-services 2018
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink:
 ---
 The Federal Government pays over two million civilian federal employees every two-weeks, on time and at a relatively low cost. Some of the payroll systems running today, however, are in their fourth decade of operation and lack the ability to adapt and address the ever evolving legislative changes. They also lack self-service and mobile features readily available in industry payroll systems. Making these self-service and mobile features available to the federal employee will improve efficiency and customer service.
 
