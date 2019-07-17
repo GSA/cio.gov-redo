@@ -4,7 +4,7 @@ title: Release of the Federal Cybersecurity Risk Determination Report and Action
 excerpt: The President has made it clear that America’s security and public accountability of government officials are foundational pillars for this Administration. One year ago, the President issued Executive Order 13800 (EO 13800) on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure.
 date: May 30, 2018
 display-date: 30 May 2018
-author: Suzette Kent, Federal Chief Information Officer & Grant Schneider, Acting Federal Chief Information Security Officer and Senior Director for Cybersecurity Policy
+author: Suzette Kent, Federal Chief Information Officer and Grant Schneider, Acting Federal Chief Information Security Officer and Senior Director for Cybersecurity Policy
 tags: eo-13800 it-modernization 2018
 
 permalink: /2018/05/30/Risk-Report/

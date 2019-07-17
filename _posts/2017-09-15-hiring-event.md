@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Federal CIO Council Sponsors Federal Tech and Cyber Hiring and Recruitment Event
-date: 2017-09-15
-display-date: September 15, 2017
+excerpt: On November 6th and 7th, the Federal Chief Information Officers Council will host the first-ever, government-wide Federal Tech/Cyber Hiring and Recruitment Event at the Silver Spring Civic Building at Veterans Plaza in Silver Spring, MD.
+date: September 15, 2017
+display-date: 15 September 2017
 author: CIO Council Operations
 tags: workforce 2017
 

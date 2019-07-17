@@ -7,9 +7,7 @@ display-date: 04 March 2015
 author: Tony Scott
 tags: innovation workforce 2015
 
-image:
-image-thumbnail: /assets/images/CIO-council-Logo-Silver.png
-img-alt: CIOC Logo
+permalink: 
 
 ---
 It’s great to be up and running in my new job as Federal CIO. I’m looking forward to be working with Agency CIOs through the CIO Council, but I’m also interested in working with all levels of Federal IT and IT Acquisition workforces. That’s why I’m excited to announce the 2015 CIO Council IT Solutions Challenge.

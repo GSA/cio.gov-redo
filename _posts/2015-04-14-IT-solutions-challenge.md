@@ -7,9 +7,7 @@ display-date: 14 April 2015
 author: CIO Council Operations
 tags: innovation workforce 2015
 
-image:
-image-thumbnail: /assets/images/CIO-council-Logo-Silver.png
-img-alt: CIOC Logo
+permalink: 
 ---
 The IT Solutions Challenge consists of several small working groups of rising stars within the IT and IT acquisition communities who will identify issues within the Federal Government and work together over the course of six months to develop solutions to those problems. The goal was to tap into the hands-on experiences of front lines and find innovative solutions based on their fresh perspectives.
 
