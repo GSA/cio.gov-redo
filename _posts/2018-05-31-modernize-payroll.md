@@ -1,15 +1,13 @@
 ---
-layout: blog
+layout: post
 title: The time to modernize government payroll systems is now
-description:
-date: 2018-05-31
+excerpt: This blog entry was previously published in FCW on May 30, 2018. The federal government faces a pressing need to modernize and improve the way it runs its payroll business.
+date: May 31, 2018
 display-date: 31 May 2018
-author: 'Beth Angerman, Deputy Associate Administrator, Office of Shared Solutions and Performance Improvement, GSA'
+author: Beth Angerman, Deputy Associate Administrator, Office of Shared Solutions and Performance Improvement, GSA
 tags: shared-services 2018
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt:
-image-credit:
+
+permalink: 
 ---
 This blog entry was previously published in [FCW](https://fcw.com/articles/2018/05/30/comment-payroll-cloud-gsa-angerman.aspx) on May 30, 2018.
 

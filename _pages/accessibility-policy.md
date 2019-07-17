@@ -1,7 +1,7 @@
 ---
 title: CIO.gov
 subtitle: Accessibility Policy
-layout: landing
+layout: page
 permalink: /accessibility-policy/
 ---
 

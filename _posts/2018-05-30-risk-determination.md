@@ -1,15 +1,13 @@
 ---
-layout: blog
+layout: post
 title: Release of the Federal Cybersecurity Risk Determination Report and Action Plan to the President of the United States
-description:
-date: 2018-05-30
+excerpt: The President has made it clear that America’s security and public accountability of government officials are foundational pillars for this Administration. One year ago, the President issued Executive Order 13800 (EO 13800) on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure.
+date: May 30, 2018
 display-date: 30 May 2018
-author: Suzette Kent, Federal Chief Information Officer, & Grant Schneider, Acting Federal Chief Information Security Officer, and Senior Director for Cybersecurity Policy
+author: Suzette Kent, Federal Chief Information Officer & Grant Schneider, Acting Federal Chief Information Security Officer and Senior Director for Cybersecurity Policy
 tags: eo-13800 it-modernization 2018
-image:
+
 permalink: /2018/05/30/Risk-Report/
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
 ---
 The President has made it clear that America’s security and public accountability of government officials are foundational pillars for this Administration. One year ago, the President issued [Executive Order 13800 (EO 13800) on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure](https://www.whitehouse.gov/presidential-actions/presidential-executive-order-strengthening-cybersecurity-federal-networks-critical-infrastructure/), emphasizing the importance of reducing cybersecurity risks to the Nation while providing exceptional service to the public.
 

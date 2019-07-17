@@ -1,16 +1,15 @@
 ---
-layout: blog
+layout: post
 title: Technology Modernization Board Awards First Round Of Funding For Modernizing Agency Technology
-description: The Technology Modernization Board, chaired by the Federal Chief Information Officer in the Office of Management and Budget, announced its first round of funding awards under the Technology Modernization Fund (TMF).
-date: 2018-06-07
+excerpt: The Technology Modernization Board, chaired by the Federal Chief Information Officer in the Office of Management and Budget, announced its first round of funding awards under the Technology Modernization Fund (TMF).
+date: June 7, 2018
 display-date: 07 June 2018
 author: Office of the Federal Chief Information Officer
 tags: tmf 2018
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink:
 ---
-Washington, D.C. - The Technology Modernization Board, chaired by the Federal Chief Information Officer in the Office of Management and Budget, announced its first round of funding awards under the Technology Modernization Fund (TMF). TMF was authorized by Congress as a mechanism to finance technology modernization efforts across the Federal Government.
+**Washington, D.C.** - The Technology Modernization Board, chaired by the Federal Chief Information Officer in the Office of Management and Budget, announced its first round of funding awards under the Technology Modernization Fund (TMF). TMF was authorized by Congress as a mechanism to finance technology modernization efforts across the Federal Government.
 
 The Board approved proposals submitted by the Department of Energy, the Department of Housing and Urban Development and the Department of Agriculture. "The Technology Modernization Fund is an innovative funding model that allows Agencies to accelerate key IT modernization projects in support of the President's Management Agenda." Said Margaret Weichert, Deputy Director of Management at the Office of Management and Budget, "I am proud to see these first projects go through the rigorous TMF Board evaluation process and be awarded funding so quickly."
 
