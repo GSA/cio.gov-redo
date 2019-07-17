@@ -10,7 +10,7 @@ var $policies = $($container).isotope({
     layoutMode: 'masonry',
 
     getSortData: {
-      name: 'h2'
+      name: '.h2'
     }
 });
 
@@ -49,11 +49,7 @@ $('.sort').on('click', function() {
       $container.isotope({ filter: filterValue });
   });
 
-  $(".isotope-reset").click(function(){
-    $(".content ul.sort").isotope({
-        filter: '*'
-    });
-});
+
 
   // Concatenate values from array to a single string.
   function concatenateValues( object ) {
