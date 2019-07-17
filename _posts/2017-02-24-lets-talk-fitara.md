@@ -1,13 +1,13 @@
 ---
-layout: blog
+layout: post
 title: Let's Talk FITARA
-date: 2017-02-24
+excerpt: This blog entry was originally published on December 9th, 2016 on LinkedIn. Earlier this week, I testified before the House Committee on Oversight and Government Reform Subcommittee on Information Technology about the Department of State’s progress in implementing the Federal Information Technology Acquisition Reform Act (FITARA).
+date: February 24, 2017
 display-date: 24 February 2017
 author: Frontis Wiggins, State Department CIO
 tags: fitara 2017
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIO Council Logo
+
+permalink: 
 ---
 _This blog entry was originally published on December 9th, 2016 on LinkedIn._
 

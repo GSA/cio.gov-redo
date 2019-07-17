@@ -1,13 +1,13 @@
 ---
-layout: blog
+layout: post
 title: New CIO Council Report on Developer Platforms and Common APIs and Services
-date: 2017-03-06
+excerpt: The CIO Council has released a report, Developer Platforms: Shared Services for Common Developer-Focused APIs and Services, developed by an interagency collaboration that seeks to identify and share best practices for Federal departments and agencies on how to internally leverage a new generation of common platform capabilities powered by cloud and hosted application programming interfaces (APIs).
+date: March 6, 2017
 display-date: 06 March 2017
 author: Margie Graves, Federal Deputy Chief Information Officer
 tags: it-infrastructure 2017
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIO Council Logo
+
+permalink:
 ---
 The CIO Council has released a report, [Developer Platforms: Shared Services for Common Developer-Focused APIs and Services](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/06/Developer-Platforms.pdf), developed by an interagency collaboration that seeks to identify and share best practices for Federal departments and agencies on how to internally leverage a new generation of common platform capabilities powered by cloud and hosted application programming interfaces (APIs).  The report was developed to support interagency coordination and provide technical and policy innovations to accelerate the Federal Government’s transition from legacy processes and infrastructure to modern approaches.
 

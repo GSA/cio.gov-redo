@@ -1,13 +1,13 @@
 ---
-layout: blog
+layout: post
 title:  Modernizing Federal IT Part 9 - Modernization Begets Modernization
-date: 2017-03-27
+excerpt: This is the ninth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure.
+date: March 27, 2017
 display-date: 27 March 2017
 author: Rob Klopp, CIO, SSA
 tags: it-modernization ssa 2017
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIO Council Logo
+
+permalink:
 ---
 _This is the nineth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure._
 

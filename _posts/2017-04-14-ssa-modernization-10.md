@@ -1,13 +1,13 @@
 ---
-layout: blog
+layout: post
 title: Modernizing Federal IT Part 10 - Modernizing with a Buy or Build
-date: 2017-04-14
+excerpt: This is the tenth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure.
+date: April 14, 2017
 display-date: 14 April 2017
 author: Rob Klopp, CIO, Social Security Administration
 tags: it-modernization ssa 2017
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIO Council Logo
+
+permalink:
 ---
 _This is the tenth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure._
 

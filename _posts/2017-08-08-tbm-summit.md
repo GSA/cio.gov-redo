@@ -1,14 +1,13 @@
 ---
-layout: blog
+layout: post
 title: White House Summit - Technology Business Management
-description: On July 20, Office of Management and Budget (OMB) co-sponsored an event with the TBM Council designed to foster collaboration and knowledge exchange between some of the leading minds in government and commercial technology leadership.
-date: 2017-08-08
+excerpt: On July 20, Office of Management and Budget (OMB) co-sponsored an event with the TBM Council designed to foster collaboration and knowledge exchange between some of the leading minds in government and commercial technology leadership.
+date: August 8, 2017
 display-date: 8 August 2017
 author: Margie Graves
 tags: tbm 2017
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink: 
 ---
 On July 20, Office of Management and Budget (OMB) co-sponsored an event with the TBM Council designed to foster collaboration and knowledge exchange between some of the leading minds in government and commercial technology leadership.
 

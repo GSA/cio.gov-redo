@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'CIO Council Releases State of Federal IT Report'
-description:
-date: 2017-01-19
-display-date: 19 November 2017
+layout: post
+title: CIO Council Releases State of Federal IT Report
+excerpt: Over the past six months, the Federal CIO Council (CIOC), in partnership with GSA’s Office of Government-wide Policy, worked to author a report that would provide an understanding of where Federal IT is and how to continue to improve on managing and modernizing it. That report – the State of Federal Information Technology (SOFIT) Report is now released.
+date: January 19, 2017
+display-date: 19 January 2017
 author: CIO Council Operations
-tags: data-center 2017
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+tags: SOFIT 2017
+
+permalink:
 ---
 Over the past six months, the Federal CIO Council (CIOC), in partnership with GSA’s Office of Government-wide Policy, worked to author a report that would provide an understanding of where Federal IT is and how to continue to improve on managing and modernizing it. That report – the State of Federal Information Technology (SOFIT) Report is now released.
 
@@ -20,7 +19,7 @@ State of Federal IT Report with background image of a desk with a computer scree
 
 **Where we are going.** The changes required to move to a digital government will significantly impact every Federal agency and its employees. Such a transformation will require changes to both culture and policy. We’re at a crossroads – opportunities abound, but so do challenges and outside threats. Our IT infrastructure supports all aspects of government operations. How we respond to these challenges and embrace these opportunities will determine the effectiveness of our government for years to come.
 
-**How we can get there.** The path to a successful transformation is possible through better internal collaboration, improvements to human resources and procurement operations, a shift away from legacy systems, and a continued push towards transparency and open data. CIOs must think beyond their traditional roles and responsibilities, about their place in the broader Federal IT ecosystem.This report provides a comprehensive review of key IT initiatives and challenges, along with actionable recommendations that Federal IT leaders may want to undertake to improve and transform the state of Federal IT.
+**How we can get there.** The path to a successful transformation is possible through better internal collaboration, improvements to human resources and procurement operations, a shift away from legacy systems, and a continued push towards transparency and open data. CIOs must think beyond their traditional roles and responsibilities, about their place in the broader Federal IT ecosystem. This report provides a comprehensive review of key IT initiatives and challenges, along with actionable recommendations that Federal IT leaders may want to undertake to improve and transform the state of Federal IT.
 
 You can read the SOFIT report [here](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/05/CIO-Council-State-of-Federal-IT-Report-January-2017-1.pdf).
 

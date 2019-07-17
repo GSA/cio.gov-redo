@@ -1,13 +1,13 @@
 ---
-layout: blog
+layout: post
 title: How to be Cloud Smart
-date: 2017-06-06
-display-date: June 6, 2017
+excerpt: Recently, GSA’s Data Center Optimization Initiative (DCOI) Program Management Office (PMO) published a whitepaper on Infrastructure as a Service (IaaS) Considerations for the Data Center Community. The purpose of the paper is to share successes, lessons learned and feedback from agencies about cloud transformation.
+date: June 6, 2017
+display-date: 8 June 6 2017
 author: Dan Pomeroy, DCOI Managing Partner PMO, GSA
 tags: data-center 2017
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIO Council Logo
+
+permalink:
 ---
 _This blog entry was originally published on June 14th, 2016 on the GSA blog._
 
