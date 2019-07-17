@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'Making the Acquisition of Mobile Devices and Services More Efficient'
-description:
-date: 2016-08-11
+layout: post
+title: Making the Acquisition of Mobile Devices and Services More Efficient
+excerpt: Today, the Office of Management and Budget (OMB) issued the third in a series of information technology (IT) policies aimed at making the acquisition and management of common IT goods and services more efficient and saving taxpayer dollars.
+date: August 11, 2016
 display-date: 11 August 2016
 author: Tony Scott and Anne Rung
 tags: acquisition mobility 2016
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink: 
 ---
 Today, the Office of Management and Budget (OMB) [issued](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_20.pdf) the third in a series of information technology (IT) policies aimed at making the acquisition and management of common IT goods and services more efficient and saving taxpayer dollars. Joining the Administration’s policies on [workstations](https://www.whitehouse.gov/blog/2015/10/16/improving-way-government-buys-it) and [software](https://www.whitehouse.gov/blog/2016/06/02/applying-category-management-principles-software-management-practices), today’s [memorandum](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_20.pdf) will help drive greater efficiencies in the approximately $1 billion spent each year on mobile devices and services through the implementation of Category Management. Specifically, it will help simplify the Federal marketplace for mobile devices and services by reducing fragmentation and duplication of the over 1,200 separate mobile agreements and more than 200 unique service plans managed by the Federal Government.
 

@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'New Federal Cybersecurity Workforce Strategy Released'
-description:
-date: 2016-07-18
+layout: post
+title: New Federal Cybersecurity Workforce Strategy Released
+excerpt: On Tuesday, July 12th OMB and OPM published the first ever Federal Cybersecurity Workforce Strategy, which is now available on the WhiteHouse.gov.
+date: July 18, 2016
 display-date: 18 July 2016
 author: CIO Council Operations
 tags: cybersecurity workforce 2016
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink: 
 ---
 On Tuesday, July 12th OMB and OPM published the first ever Federal Cybersecurity Workforce Strategy, which is now available on the WhiteHouse.gov. The Federal Cybersecurity Workforce Strategy details a series of near-term actions to identify, expand, recruit, develop, retain, and sustain a capable and competent workforce in key functional areas to address complex and ever-evolving cyber threats.
 

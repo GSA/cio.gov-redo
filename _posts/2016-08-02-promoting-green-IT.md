@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'Promoting the Use of Green IT'
-description:
-date: 2016-08-02
+layout: post
+title: Promoting the Use of Green IT
+excerpt: This blog entry by Tony Scott was originally published on August 1st, 2016 on the White House blog. Today, the Administration is taking action to accelerate efforts to increase the efficiency of Federal data centers, reduce costs, and improve the overall information technology (IT) security posture of the Federal Government.
+date: August 2, 2016
 display-date: 02 August 2016
 author: Tony Scott
 tags: data-center 2016
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink: 
 ---
 This [blog](https://www.whitehouse.gov/blog/2016/08/01/promoting-use-green-it) entry by Tony Scott was originally published on August 1st, 2016 on the White House blog.
 

@@ -1,13 +1,13 @@
 ---
 layout: blog
 title: Modernizing Federal IT Part 4 - Building a Modern Data Foundation
-date: 2016-03-21
+excerpt: This is the fourth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure.
+date: March 21, 2016
 display-date: 21 March 2016
 author: Rob Klopp, CIO, Social Security Administration
 tags: it-modernization ssa 2016
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIO Council Logo
+
+permalink: 
 ---
 _This is the fourth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure._
 

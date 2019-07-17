@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'Building a Data Center Community of Practice'
-description:
-date: 2016-10-20
+layout: post
+title: Building a Data Center Community of Practice
+excerpt: This blog entry was originally published on October 19th, 2016 on the GSA blog. This month over one hundred government data center representatives from around the country participated in the second meeting of the Data Center Optimization Initiative (DCOI).
+date: October 20, 2016
 display-date: 20 October 2016
 author: Dan Pomeroy, DCOI Managing Partner PMO, GSA
 tags: data-center 2016
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink:
 ---
 This blog entry was originally published on October 19th, 2016 on the GSA blog.
 

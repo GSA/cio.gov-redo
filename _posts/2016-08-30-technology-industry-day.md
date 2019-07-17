@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'Sign-Up for the Technology Industry Day'
-description:
-date: 2016-08-30
+layout: post
+title: Sign-Up for the Technology Industry Day
+excerpt: This blog entry by the GSA Blog Team was originally published on August 29th, 2016 on the GSA blog. The General Services Administration (GSA) is known for managing federal real estate and leveraging the government’s buying power to get the best deal for taxpayers, but it also drives and leads technology and innovation within the federal government.
+date: August 30, 2016
 display-date: 30 August 2016
 author: CIO Council Operations
 tags: workforce 2016
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink: 
 ---
 This [blog](https://gsablogs.gsa.gov/gsablog/2016/08/29/sign-up-for-the-technology-industry-day/) entry by the GSA Blog Team was originally published on August 29th, 2016 on the GSA blog.
 

@@ -1,14 +1,13 @@
 ---
-layout: blog
+layout: post
 title: The People's Code
-description:
-date: 2016-08-11
+excerpt: This blog entry was originally published on August 1st, 2016 on the White House blog. The President is committed to a 21st Century digital government – one that is designed to improve the lives of Americans and spur innovation with the best that technology has to offer.
+date: August 11, 2016
 display-date: 11 August 2016
 author: Tony Scott
 tags: policy 2016
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink:
 ---
 This [blog](https://www.whitehouse.gov/blog/2016/08/08/peoples-code) entry was originally published on August 1st, 2016 on the White House blog.
 

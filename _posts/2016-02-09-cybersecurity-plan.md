@@ -1,13 +1,13 @@
 ---
-layout: blog
-title: "The President's National Cybersecurity Plan: What You Need to Know"
-date: 2016-02-09
+layout: post
+title: The President's National Cybersecurity Plan - What You Need to Know
+excerpt: This blog entry was originally published on the White House blog. Here are a few answers to questions you might have about the President’s new Cybersecurity National Action Plan.
+date: February 9, 2016
 display-date: 09 February 2016
-author: 'Micheal Daniel, Tony Scott & Ed Felten'
+author: Michael Daniel, Tony Scott, and Ed Felten
 tags: cybersecurity 2016
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIO Council Logo
+
+permalink:
 ---
 _This blog entry was originally published on the White House [blog](https://www.whitehouse.gov/blog/2016/02/09/presidents-national-cybersecurity-plan-what-you-need-know)._
 

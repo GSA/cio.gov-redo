@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'Announcing the First Federal Chief Information Security Officer'
-description:
-date: 2016-09-08
+layout: post
+title: Announcing the First Federal Chief Information Security Officer
+excerpt: In February, President Obama announced a Cybersecurity National Action Plan (CNAP) that takes a series of short-term and long-term actions to improve our cybersecurity posture within the Federal Government and across the country.
+date: September 8, 2016
 display-date: 08 September 2016
 author: Tony Scott
 tags: cybersecurity 2016
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink:
 ---
 In February, President Obama announced a [Cybersecurity National Action Plan (CNAP)](https://www.whitehouse.gov/the-press-office/2016/02/09/fact-sheet-cybersecurity-national-action-plan) that takes a series of short-term and long-term actions to improve our cybersecurity posture within the Federal Government and across the country. The CNAP builds upon a comprehensive series of actions over the last nearly eight years that have fundamentally shifted the way we approach security in the digital age and raised the level of cybersecurity across the country.
 

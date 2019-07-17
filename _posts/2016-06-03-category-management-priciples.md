@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'Applying Category Management Principles to Software Management Practices'
-description:
-date: 2016-06-03
+layout: post
+title: Applying Category Management Principles to Software Management Practices
+excerpt: This blog entry by Tony Scott and Anne Rung was originally published on June 2nd, 2016 on the White House blog. Today, the Office of Management and Budget (OMB) issued the second in a series of information technology (IT) policies to make the acquisition and management of common IT goods and services more efficient and save taxpayer dollars.
+date: June 3, 2016
 display-date: 03 June 2016
-author: Tony Scott & Anne Rung
+author: Tony Scott and Anne Rung
 tags: category-management 2016
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink: 
 ---
 _This [blog](https://www.whitehouse.gov/blog/2016/06/02/applying-category-management-principles-software-management-practices) entry by Tony Scott and Anne Rung was originally published on June 2nd, 2016 on the White House blog._
 

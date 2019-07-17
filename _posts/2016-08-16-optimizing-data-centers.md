@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'A Fresh Approach to Optimizing Federal Data Centers'
-description:
-date: 2016-08-16
+layout: post
+title: A Fresh Approach to Optimizing Federal Data Centers
+excerpt: This blog entry was originally published on August 10, 2016 on the GSA blog. Last week, we announced that GSA’s Office of Government-wide Policy (OGP) will serve as the Managing Partner for OMB’s Data Center Optimization Initiative (DCOI) to help federal agencies implement the data center provisions of the [Federal Information Technology Acquisition Reform Act (FITARA).
+date: August 16, 2016
 display-date: 16 August 2016
 author: Dominic Sale, Office of Government-wide Policy, GSA
 tags: data-center 2016
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink:
 ---
 This [blog](https://gsablogs.gsa.gov/gsablog/2016/08/10/a-fresh-approach-to-optimizing-federal-data-centers/) entry was originally published on August 10, 2016 on the GSA blog.
 
@@ -28,7 +27,7 @@ The DCOI is the next logical step in the history of federal data centers, follow
 To date, OGP has made great progress in this new role to empower agencies in creating their own path to data center optimization. Results include:
 * Data Center Infrastructure Management (DCIM) Tool Assessment: Identifying and reviewing tools that agencies can use to monitor, measure, manage and/or control data center utilization and energy consumption of all IT-related equipment.
 * Marketplace ground-breaking: Drawing the blueprint for agencies to access shared services and acquire DCIM tools/products in a robust marketplace by collaborating with the Federal Acquisition Service (FAS) on contract vehicles and the Acquisition Gateway platform, and leveraging expertise from the Unified Shared Services Management (USSM).
-* Identifying and preparing Inter-Agency Shared Service Providers (ISSP) for marketplace participation:Creating a qualification process for agencies and private sector companies to become ISSPs (e.g., expression of interest, application process, operating standards) and developing common service and financial models to guide marketplace activity.
+* Identifying and preparing Inter-Agency Shared Service Providers (ISSP) for marketplace participation: Creating a qualification process for agencies and private sector companies to become ISSPs (e.g., expression of interest, application process, operating standards) and developing common service and financial models to guide marketplace activity.
 * Moving to the cloud: Investigating best practices in selecting cloud services to store data online vs. on-premise. OGP is collaborating with GSA’s Federal Acquisition Service (FAS) and FedRAMP to make information available on cloud service providers (CSPs), as well as collaborating with the National Institute of Standards and Technology (NIST) and FAS to provide agencies with guidance on how to comply with mandates for transitioning to cloud services.
 * Private sector partnering: Reaching out to industry to identify best practices for shared services and tools to support automated infrastructure management.
 * Building a Data Center Community of Practice: Putting plans in place to establish a forum for policy managers, data center program managers, facilities managers, and sustainability officers at executive agencies to collaborate on optimization strategies and discuss topics such as DCOI annual strategic plans.

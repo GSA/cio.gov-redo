@@ -1,13 +1,13 @@
 ---
-layout: blog
+layout: post
 title: Modernizing Federal IT Part 5 - Modernizing Software Architecture
-date: 2016-05-23
+excerpt: This is the fifth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure.
+date: May 23, 2016
 display-date: 23 May 2016
 author: Rob Klopp, CIO, Social Security Administration
 tags: it-modernization ssa 2016
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIO Council Logo
+
+permalink:
 ---
 _This is the fifth in a series describing how the Social Security Administration is working towards a more modern IT infrastructure._
 

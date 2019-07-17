@@ -1,15 +1,15 @@
 ---
-layout: blog
+layout: post
 title: Modernizing Federal IT Part 3 - Teasing Apart the Problem
-date: 2016-03-07
+excerpt: This is the third in a series describing how the Social Security Administration is working towards a more modern IT infrastructure.
+date: March 7, 2016
 display-date: 07 March 2016
 author: Rob Klopp, CIO, Social Security Administration
 tags: it-modernization ssa 2016
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIO Council Logo
+
+permalink: 
 ---
-_This is the 3rd in a series describing how the Social Security Administration is working towards a more modern IT infrastructure._
+_This is the third in a series describing how the Social Security Administration is working towards a more modern IT infrastructure._
 
 This post will start to tease out the different technologies that we might modernize. In the previous two posts of this series, we considered how the advance of technology made it imperative that we start modernizing as soon as possible. We also considered how we might get things started by getting gravity on our side. You can see these posts here and here.
 

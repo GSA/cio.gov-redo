@@ -1,14 +1,13 @@
 ---
-layout: blog
+layout: post
 title: Talent Gap - OPM's Collaboration on the Cybersecurity Workforce Strategy
-description:
-date: 2016-08-22
+excerpt: The Office of Personnel Management (OPM) is working with the Office of Management and Budget (OMB) and workforce experts across the Federal Government to implement dynamic initiatives to recruit, hire and develop the cybersecurity workforce necessary to tackle persistent cyber threats to the nation’s information technology networks and data.
+date: August 22, 2016
 display-date: 22 August 2016
 author: Veronica Villalobos, Principal Deputy Associate Director for Employee Services at the Office of Personnel Management
 tags: workforce 2016
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink:
 ---
 The Office of Personnel Management (OPM) is working with the Office of Management and Budget (OMB) and workforce experts across the Federal Government to implement dynamic initiatives to recruit, hire and develop the cybersecurity workforce necessary to tackle persistent cyber threats to the nation’s information technology networks and data. This work is part of the Administration’s Cybersecurity National Action Plan (CNAP), which details ongoing initiatives to reduce the critical cybersecurity skills shortage that persists in each Federal agency.
 
