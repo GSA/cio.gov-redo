@@ -1,14 +1,13 @@
 ---
-layout: blog
+layout: post
 title: Final IT Modernization Report
-description: The report is a key piece in this Administration’s efforts to modernize Federal IT. The actions articulated in the report will compliment Agency efforts to modernize citizen facing services – by moving to a more secure, agile, and cost effective infrastructure, much of which will be provided by shared services.
-date: 2017-12-15
+excerpt: The report is a key piece in this Administration’s efforts to modernize Federal IT. The actions articulated in the report will compliment Agency efforts to modernize citizen facing services – by moving to a more secure, agile, and cost effective infrastructure, much of which will be provided by shared services.
+date: December 15, 2017
 display-date: 15 December 2017
 author: Chris Liddell
 tags: it-modernization 2017
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink: 
 ---
 _This [blog post](https://www.whitehouse.gov/articles/final-modernization-report/) was originally posted on the White House blog on December 13, 2017._
 

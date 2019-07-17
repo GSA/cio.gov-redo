@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'Federal CIO Council 2017 Accomplishments'
-description:
-date: 2017-12-29
+layout: post
+title: Federal CIO Council 2017 Accomplishments
+excerpt: This post highlights the CIOC's Accomplishments from 2017.
+date: December 29, 2017
 display-date: 29 December 2017
 author: CIO Council Operations
 tags: cio-council 2017
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink: 
 ---
 
 ![Infographic of the CIOC's Accomplishments from 2017]({{site.baseurl}}/assets/img/blog/2017.12.29.Accomplishments.png)

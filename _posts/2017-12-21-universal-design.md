@@ -1,19 +1,19 @@
 ---
-layout: blog
+layout: post
 title: Universal Design - What's in it for me??
-date: 2017-12-21
+excerpt: In private and public spaces, the role of the CIO is morphing in line with changing technologies and priorities. Today, CIOs now operate more as business managers or brokers, responsible for defining information technology (IT) strategy and administering and implementing digital services.
+date: December 21, 2017
 display-date: 21 December 2017
 author: CIO Council Operations
 tags: accessibility 2017
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink:
 ---
 _This blog entry was originally published on December 20, 2017 on GSA’s Section 508 blog. This is the second part of a two-part series about Universal Design_
 
 ## Chief Information Officers
 
-In private and public spaces,the role of the CIO is morphing in line with changing technologies and priorities. Today, CIOs now operate more as business managers or brokers, responsible for defining information technology (IT) strategy and administering and implementing digital services.
+In private and public spaces, the role of the CIO is morphing in line with changing technologies and priorities. Today, CIOs now operate more as business managers or brokers, responsible for defining information technology (IT) strategy and administering and implementing digital services.
 
 A recent survey conducted by the National Association of State Chief Information Officers (NASCIO) highlighted that an overwhelming 78 percent of respondents said the CIO is responsible for leading  or participating in policy setting when it comes to digital services. CIOs have the power to shape IT accessibility policy in the digital services conversation.
 

@@ -1,14 +1,13 @@
 ---
-layout: blog
+layout: post
 title: Universal Design - What is it?
-description:
-date: 2017-12-20
+excerpt: The year is 2017. The advancement of technology, led by key players in the private sector, has introduced innovations that have made applications more accessible for people with disabilities. Companies have pledged to implement accessible technology, pushing the technology industry to prioritize accessibility.
+date: December 20, 2017
 display-date: December 20, 2017
 author: CIO Council Operations
 tags: accessibility 2017
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIO Council Logo
+
+permalink:
 ---
 _This blog entry was originally published on December 13, 2017 on GSA’s Section 508 blog._
 

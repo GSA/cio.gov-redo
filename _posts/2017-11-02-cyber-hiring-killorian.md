@@ -1,12 +1,13 @@
 ---
-layout: blog
+layout: post
 title: Federal CIO Council Sponsors Federal Tech/Cyber Hiring and Recruitment Event
-date: 2017-11-02
+excerpt: I chose to co-chair the Federal Chief Information Officer (CIO) Council Workforce Committee because I am compassionate about the people I serve, and I believe that a fortified workforce is the most critical component to success. Without significant, ongoing investment in and commitment to people, we do not only run the risk of losing a return on our technology investments, we also jeopardize our ability to effectively protect the interests of our American constituents.
+date: November 2, 2017
 display-date: 02 November 2017
 author: Beth Killoran, Chief Information Officer of the U.S. Department of Health and Human Services
 tags: workforce 2017
-image-thumbnail: /assests/img/CIO-council-Logo-silver1.png
-img-alt: CIO Council Logo
+
+permalink:
 ---
 I chose to co-chair the Federal Chief Information Officer (CIO) Council Workforce Committee because I am compassionate about the people I serve, and I believe that a fortified workforce is the most critical component to success. Without significant, ongoing investment in and commitment to people, we do not only run the risk of losing a return on our technology investments, we also jeopardize our ability to effectively protect the interests of our American constituents. As its mission is to serve the American people, the Federal Government must be on the forefront to ensure that the United States has a dedicated workforce capable of protecting American interests in cyberspace. This is essential, as IT and cybersecurity are woven into every aspect of our lives.
 
