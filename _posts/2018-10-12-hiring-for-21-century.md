@@ -7,10 +7,6 @@ display-date: 12 October 2018
 author: Jason Gray, CIO of the Dept. of Education and Co-Chair of the CIO Council's Workforce Committee
 tags: workforce ncsam 2018
 
-image: /assets/img/blog/2018.10.12.rewarding.jobs.jpg
-image-thumbnail: /assets/img/blog/2018.10.12.rewarding.jobs.jpg
-img-alt: Image of a person coding on a laptop
-
 permalink:
 ---
 
