@@ -1,18 +1,17 @@
 ---
-layout: blog
-title: 'Strengthening and Enhancing Cybersecurity for the 21st Century'
-description:
-date: 2015-08-03
+layout: post
+title: Strengthening and Enhancing Cybersecurity for the 21st Century
+excerpt: From the beginning of the Administration, the President has made it clear that cybersecurity is one of the most important challenges we face as a Nation. It is also an ever-growing and constantly changing challenge. For years, whenever I’ve spoken with private and public sector leaders, I’ve regularly asked them how much time they spend on cyber and related issues.
+date: August 3, 2015
 display-date: 03 August 2015
 author: Tony Scott
 tags: cybersecurity 2015
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink:
 ---
 From the beginning of the Administration, the President has made it clear that cybersecurity is one of the most important challenges we face as a Nation. It is also an ever-growing and constantly changing challenge. For years, whenever I’ve spoken with private and public sector leaders, I’ve regularly asked them how much time they spend on cyber and related issues. And each year, the answers have been a higher proportion of their time than the year before. Today, any responsible leader of an organization – public or private sector – is dedicating significant attention and resources to addressing evolving cyber threats. And for good reason.
 
-Malicious actors take advantage of relatively inexpensive and easily accessible tools to attack systems and infrastructure – targeting applications and computing environments that weren’t designed to withstand the diversity and severity of the cyber threats we face today. Nowhere is this problem more acute than in government, where antiquated systems and processes are still pervasive. That is why the Administration is executing a broad strategy to enhance the Federal Government’s cybersecurity, including both our defensive and offensive capabilities, to tackle today’s increasingly sophisticated cyber actors. Since 2009, the Administration has shifted the paradigm of how our government views the defense of its networks: Directing a comprehensive Cyberspace Policy Review in order to assess U.S. policies and structures for cybersecurity; Making cybersecurity one of the Administration’s first cross-agency priority managementgoals; Leveraging cutting edge tools like the Department of Homeland Security’s (DHS) EINSTEIN and Continuous Diagnostics & Mitigation (CDM) program; and, Proposing commonsense legislation that enhances information sharing and establishes data breach standards while also protecting the personal data and privacy of citizens.
+Malicious actors take advantage of relatively inexpensive and easily accessible tools to attack systems and infrastructure – targeting applications and computing environments that weren’t designed to withstand the diversity and severity of the cyber threats we face today. Nowhere is this problem more acute than in government, where antiquated systems and processes are still pervasive. That is why the Administration is executing a broad strategy to enhance the Federal Government’s cybersecurity, including both our defensive and offensive capabilities, to tackle today’s increasingly sophisticated cyber actors. Since 2009, the Administration has shifted the paradigm of how our government views the defense of its networks: Directing a comprehensive Cyberspace Policy Review in order to assess U.S. policies and structures for cybersecurity; Making cybersecurity one of the Administration’s first cross-agency priority management goals; Leveraging cutting edge tools like the Department of Homeland Security’s (DHS) EINSTEIN and Continuous Diagnostics & Mitigation (CDM) program; and, Proposing commonsense legislation that enhances information sharing and establishes data breach standards while also protecting the personal data and privacy of citizens.
 
 Last month, the Office of Management and Budget (OMB) launched a 30-day Cybersecurity Sprint to assess and improve the health of all Federal assets and networks, both civilian and military. As part of the Sprint, OMB directed agencies to further protect Federal information, improve the resilience of our networks, and report on their successes and challenges. Agencies were instructed to immediately patch critical vulnerabilities, review and tightly limit the number of privileged users with access to authorized systems, and dramatically accelerate the use of strong authentication, especially for privileged users. All of these actions reduce the risk of adversaries penetrating Federal networks.
 

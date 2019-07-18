@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'IT Solutions Challenge 2015 Expert Panel Feedback - Inez Maguire'
-description:
-date: 2015-05-20
+layout: post
+title: IT Solutions Challenge 2015 Expert Panel Feedback - Inez Maguire
+excerpt: Team ONE was born on April 9, 2015 at the end of a long day of brainstorming ideas around government-wide IT and IT acquisition problems. After much wrangling, our team’s initial problem statement revolved around the overarching need for federal agency standardization in the areas of processes, applications, and data.
+date: May 20, 2015
 display-date: 20 May 2015
 author: Inez Maguire
 tags: innovation workforce 2015
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink: 
 ---
 Team ONE was born on April 9, 2015 at the end of a long day of brainstorming ideas around government-wide IT and IT acquisition problems. After much wrangling, our team’s initial problem statement revolved around the overarching need for federal agency standardization in the areas of processes, applications, and data.
 

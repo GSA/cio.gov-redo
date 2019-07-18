@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'IT Solutions Challenge 2015 Expert Panel Feedback - Joshua Brightwell'
-description:
-date: 2015-07-21
+layout: post
+title: IT Solutions Challenge 2015 Expert Panel Feedback - Joshua Brightwell
+excerpt: Going into the midpoint meeting, my team felt confident. We were on a good track and had a solid problem statement and proposed solution. We feel there is poor resource management when it comes to email and other collaboration tools in the federal government.
+date: July 21, 2015
 display-date: 21 July 2015
 author: Joshua Brightwell
 tags: innovation workforce 2015
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink: 
 ---
 Going into the midpoint meeting, my team felt confident. We were on a good track and had a solid problem statement and proposed solution. We feel there is poor resource management when it comes to email and other collaboration tools in the federal government. There is limited access to government email and the documents that are stored on our office workstations. We believe that moving government email to a standardized cloud solution and adding modern collaboration tools will solve this issue. One thing we knew we would have to overcome are the many security misconceptions in government with regards to transitioning to the cloud. Our solution was to gather the data and facts and create a business plan that outlines the value of transitioning to a cloud environment. We also planned on finding a way to educate agencies on security concerns as they relate to the cloud. The key metrics we put together were:
 

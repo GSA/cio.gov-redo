@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'Building on Progress: Improving the Way the Government Buys IT'
-description:
-date: 2015-12-23
+layout: post
+title: Building on Progress - Improving the Way the Government Buys IT
+excerpt: This blog entry was co-authored with Anne Rung, U.S. Chief Acquisition Officer, and originally published on the White House blog. Today, the Office of the Federal Chief Acquisition Officer and the Office of the Federal Chief Information Officer released for public comment a directive to Federal agencies to drive greater efficiency into how we manage and buy software.
+date: December 23, 2015
 display-date: 23 December 2015
 author: Tony Scott
 tags: acquisition 2015
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink: 
 ---
 _This blog entry was co-authored with Anne Rung, U.S. Chief Acquisition Officer, and originally published on the White House blog._
 

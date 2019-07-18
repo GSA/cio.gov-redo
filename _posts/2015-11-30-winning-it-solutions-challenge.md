@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'Congratulating the Winning IT Solutions Challenge Teams'
-description:
-date: 2015-11-30
+layout: post
+title: Congratulating the Winning IT Solutions Challenge Teams
+excerpt: Earlier this year, I announced the first-ever CIO Council IT Solutions Challenge to find innovative solutions based on the fresh perspectives of the best and brightest up-and-coming IT staff Federal agencies had to offer. In late October, we concluded the 2015 Challenge and I want to congratulate the two winning teams as well as all the teams for their remarkable work in developing innovative solutions for some of IT’s and IT Acquisition’s most challenging problems.
+date: November 30, 2015
 display-date: 30 November 2015
 author: Tony Scott
 tags: innovation workforce 2015
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink: 
 ---
 Earlier this year, I announced the first-ever CIO Council IT Solutions Challenge to find innovative solutions based on the fresh perspectives of the best and brightest up-and-coming IT staff Federal agencies had to offer.
 

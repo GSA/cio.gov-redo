@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'IT Solutions Challenge 2015 Problem Description - Ursula Nkwantabisa'
-description:
-date: 2015-05-18
+layout: post
+title: IT Solutions Challenge 2015 Problem Description - Ursula Nkwantabisa
+excerpt: On April 9th, team FALCON (Team 6) ended the first IT Solutions Challenge workshop with an idea of creating a common IT acquisition platform where acquisition and IT professionals may exchange knowledge on past acquisitions, best practices, and other useful information.
+date: May 18, 2015
 display-date: 18 May 2015
 author: Ursula Nkwantabisa
 tags: innovation workforce 2015
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink:
 ---
 On April 9th, team FALCON (Team 6) ended the first IT Solutions Challenge workshop with an idea of creating a common IT acquisition platform where acquisition and IT professionals may exchange knowledge on past acquisitions, best practices, and other useful information. Between April 9th and April 28th, our team met to draft interview questions as well as to share research information related to our proposed idea.
 

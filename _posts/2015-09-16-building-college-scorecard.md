@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'Under the Hood - Building a New College Scorecard with Students'
-description:
-date: 2015-09-16
+layout: post
+title: Under the Hood - Building a New College Scorecard with Students
+excerpt: Back in March, the CIO Council Innovation Committee released an open data case study on the Department of Education. The department continues to use open data to better serve the U.S. public by recently releasing the ‘College Scorecard.’
+date: September 16, 2015
 display-date: 16 September 2015
 author: Lisa Gelobter, Chief U.S. Digital Service Officer, Department of Education
 tags: innovation 2015
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink: 
 ---
 _Back in March, the CIO Council Innovation Committee released an open data case study on the Department of Education. The department continues to use open data to better serve the U.S. public by recently releasing the ‘College Scorecard’._
 

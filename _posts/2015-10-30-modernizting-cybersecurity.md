@@ -1,20 +1,19 @@
 ---
-layout: blog
-title: 'Modernizing Federal Cybersecurity'
-description:
-date: 2015-10-30
+layout: post
+title: Modernizing Federal Cybersecurity
+excerpt: Strengthening the cybersecurity of Federal networks, systems, and data is one of the most important challenges we face as a Nation. Every day, public and private sector leaders – my team included – are directing significant resources to address this ever-growing problem.
+date: October 30, 2015
 display-date: 30 October 2015
 author: Tony Scott
 tags: cybersecurity it-modernization 2015
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink:
 ---
 Strengthening the cybersecurity of Federal networks, systems, and data is one of the most important challenges we face as a Nation. Every day, public and private sector leaders – my team included – are directing significant resources to address this ever-growing problem. Yet as cyber threats increase in severity, so does the pace of this Administration’s efforts. Since 2009, the U.S. Government has implemented a wide range of policies, both domestic and international, to improve our cyber defenses, enhance our response capabilities, and upgrade our incident management tools by: Directing a comprehensive Cyberspace Policy Review in order to assess U.S. policies and structures for cybersecurity; Making cybersecurity one of the Administration’s first cross-agency priority management goals; Spurring information sharing through the President’s executive order to encourage the development of Information Sharing and Analysis Organizations (ISAOs) to serve as the hubs for sharing critical cybersecurity information and promoting collaboration for analyzing this information both within and across industry sectors; Leveraging cutting edge tools like the Department of Homeland Security’s (DHS) EINSTEIN and Continuous Diagnostics & Mitigation (CDM) program; and, Proposing targeted investments across a range of Federal departments and agencies that improve cybersecurity and protect government networks from cyber-threats.
 
 Earlier this year, the White House Office of Management and Budget (OMB) launched a 30-day Cybersecurity Sprint, building upon the Administration’s whole-of-government strategy, to assess and improve the health of all Federal information technology (IT) assets and networks, both civilian and military. As part of the Sprint, OMB directed agencies to immediately patch critical vulnerabilities, identify high-value assets, review and tightly limit the number of privileged users with access to authorized systems, and dramatically accelerate the use of Personal Identity Verification (PIV) cards or an alternative form of strong authentication for accessing networks and systems. We saw significant progress in these areas. During the course of the Sprint, Federal Civilian agencies increased their use of strong authentication for all users from 42 percent to 72 percent – an increase of 30 percent. And today, agencies have increased their use of strong authentication to over 80%.
 
-![Progress Resulting from 30-Day Cybersprint]({{site.baseurl}}/assets/img/blog/2015.10.30.modernizing.cybersecurity.png "Chart of Cross Agency Priority Goal Progress with Cybersecurity Sprint Results")
+![Progress Resulting from 30-Day Cybersprint]({{site.baseurl}}/assets/images/blog/2015.10.30.modernizing.cybersecurity.png "Chart of Cross Agency Priority Goal Progress with Cybersecurity Sprint Results")
 
 While these statistics demonstrate marked improvement in identifying and closing the gaps in the Federal cyber infrastructure, we still have more work to do. We must acknowledge the modern reality that the work of addressing cyber risks is never finished and is ever changing.
 

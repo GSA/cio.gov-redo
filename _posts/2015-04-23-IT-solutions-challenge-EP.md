@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'IT Solutions Challenge 2015 First Impressions - Edgar Pedroza'
-description:
-date: 2015-04-23
+layout: post
+title: IT Solutions Challenge 2015 First Impressions - Edgar Pedroza
+excerpt: When I was first asked by the Chief Information Officer of the Department of the Interior, Sylvia Burns, and the Geospatial Information Officer, Dr. Jerry Johnston, whether I would consider a nomination to serve on an exciting new committee being formed by the CIO Council, my first question was to ask - Where do I need to go and when do I need to be there?
+date: April 23, 2015
 display-date: 23 April 2015
 author: Edgar Pedroza
 tags: innovation workforce 2015
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink: 
 ---
 When I was first asked by the Chief Information Officer of the Department of the Interior, Sylvia Burns and the Geospatial Information Officer, Dr. Jerry Johnston, whether I would consider a nomination to serve on an exciting new committee being formed by the CIO Council, my first question was to ask “Where do I need to go and when do I need to be there?”
 

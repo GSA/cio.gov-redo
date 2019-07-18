@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'IT Solutions Challenge 2015 Problem Description - Christopher Paris'
-description:
-date: 2015-05-14
+layout: post
+title: IT Solutions Challenge 2015 Problem Description - Christopher Paris
+excerpt: By the end of the first IT Solutions Challenge (ITSC) workshop on April 9th, six teams set out on a journey to try and fix some of the government’s largest IT problems. I tethered myself to the group dedicated to impacting the ways the government hires, motivates, and retains skilled IT personnel. 
+date: May 14, 2015
 display-date: 14 May 2015
 author: Christopher Paris
 tags: innovation workforce 2015
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink:
 ---
 By the end of the first IT Solutions Challenge (ITSC) workshop on April 9th, six teams set out on a journey to try and fix some of the government’s largest IT problems. I tethered myself to the group dedicated to impacting the ways the government hires, motivates, and retains skilled IT personnel. At first glance, it may not seem like an “IT problem,” or one that has a clear technological solution. However, if you delve deeper, it’s clear that personnel management – in particular, IT personnel management – is a huge “IT problem” right now. It’s no secret that the Federal Government has a shortage of skilled IT and cybersecurity professionals. My group – Team 3 – believes that many of the factors contributing to that shortage revolve around the way the Federal Government hires personnel and struggles to cultivate a challenging environment filled with clear growth opportunities. At the end of that first day, our goal was to “create or Improve a uniform career development program to improve recruitment and retention of federal IT professionals.”
 

@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'IT Solutions Challenge 2015 Problem Description - Lori Zimet'
-description:
-date: 2015-04-24
+layout: post
+title: IT Solutions Challenge 2015 Problem Description - Lori Zimet
+excerpt: I’ve worked in the Federal Government for over 13 years, but the vast of majority of government agency work remains a mystery to me. When I heard that my managers at the Nuclear Regulatory Commission had nominated me for the CIOC IT Solutions Challenge, I was excited to participate in an exercise that would provide insight into the inner workings of the Federal Government that I haven’t yet encountered.
+date: April 24, 2015
 display-date: 24 April 2015
 author: Lori Zimet
 tags: innovation workforce 2015
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink: 
 ---
 I’ve worked in the Federal Government for over 13 years, but the vast of majority of government agency work remains a mystery to me. When I heard that my managers at the Nuclear Regulatory Commission had nominated me for the CIOC IT Solutions Challenge, I was excited to participate in an exercise that would provide insight into the inner workings of the Federal Government that I haven’t yet encountered.
 

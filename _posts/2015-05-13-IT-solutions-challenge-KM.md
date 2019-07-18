@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'IT Solutions Challenge 2015 Problem Description - Kimberly McCarthy'
-description:
-date: 2015-05-13
+layout: post
+title: IT Solutions Challenge 2015 Problem Description - Kimberly McCarthy
+excerpt: The goal of our team is to solve inefficiency in government due to a lack of standardization across IT policies and infrastructure. Even though our group is made up of six different government agencies across both IT and acquisition, the problems encountered in both sectors prove to be very similar and important.
+date: May 13, 2015
 display-date: 13 May 2015
 author: Kimberly McCarthy
 tags: innovation workforce 2015
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink:
 ---
 The goal of our team is to solve inefficiency in government due to a lack of standardization across IT policies and infrastructure. Even though our group is made up of six different government agencies across both IT and acquisition, the problems encountered in both sectors prove to be very similar and important. While it was straightforward to arrive at our goal, developing a clear problem statement was more difficult. Finding a solution that is relevant is difficult. There are many stakeholders and complexities to take into account when trying to implement change in the federal environment. Initially, we discussed the creation of a new Beta Agency, which would both model and implement the standardization of IT practices using Executive authority. After gathering stakeholder interview feedback and doing additional research, we found that there are several Federal entities that do this and we could try to leverage the work those groups already do.
 

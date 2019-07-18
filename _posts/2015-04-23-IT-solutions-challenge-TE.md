@@ -1,16 +1,15 @@
 ---
-layout: blog
-title: 'IT Solutions Challenge 2015 Problem Description - Tonya Eaton'
-description:
-date: 2015-04-23
+layout: post
+title: IT Solutions Challenge 2015 Problem Description - Tonya Eaton
+excerpt: Thursday, April 9, 2015, was filled with continuous activities that allowed us to understand and contribute to the first workshop of the IT Solutions Challenge. It was great to hear encouraging words from multiple guest speakers throughout the day including Stephanie Brown’s graphic facilitation...
+date: April 23, 2015
 display-date: 23 April 2015
 author: Tonya Eaton
 tags: innovation workforce 2015
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink: 
 ---
-Thursday, April 9, 2015 was filled with continuous activities that allowed us to understand and contribute to the first workshop of the IT Solutions Challenge. It was great to hear encouraging words from multiple guest speakers throughout the day including Stephanie Brown’s graphic facilitation, which wrapped up a lot of the supporting statements like “Art of Possibility,” “Find Great Colleagues to be your Thought Partner,” and “Focus on what might be Sustainable and Long-Term.” During our group exercises throughout the day, we learned we share similarities in ideas and opinions. By the end of the day, I had a feeling of ownership and pride for my project.
+Thursday, April 9, 2015, was filled with continuous activities that allowed us to understand and contribute to the first workshop of the IT Solutions Challenge. It was great to hear encouraging words from multiple guest speakers throughout the day including Stephanie Brown’s graphic facilitation, which wrapped up a lot of the supporting statements like “Art of Possibility,” “Find Great Colleagues to be your Thought Partner,” and “Focus on what might be Sustainable and Long-Term.” During our group exercises throughout the day, we learned we share similarities in ideas and opinions. By the end of the day, I had a feeling of ownership and pride for my project.
 
 As the day started, there was still a feeling of confusion about what was expected among all the participants. It was only after the first two activities were completed that it became clear to everyone what was expected. The first two activities involved sharing and agreeing on expectations of the program and provided a foundation for us as participants, team members, and contributors to come up with the great problems to solve. It was reassuring to see that all the participants across government agencies could agree on expectations and competencies needed to successfully complete the challenge. There was also added value to being able to hear other ideas that were not shared in our immediate group.
 

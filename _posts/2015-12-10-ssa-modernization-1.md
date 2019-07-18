@@ -1,13 +1,13 @@
 ---
-layout: blog
+layout: post
 title: Modernizing Federal IT Part 1 - Catching Up and Jumping Ahead
-date: 2015-12-10
+excerpt: This post is the first in a series of entries from Social Security Administration CIO Rob Klopp that will consider issues associated with modernizing the US Federal IT infrastructure.
+date: December 10, 2015
 display-date: 10 December 2015
 author: Rob Klopp, CIO, Social Security Administration
 tags: it-modernization ssa 2015
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIO Council Logo
+
+permalink:
 ---
 _This post is the first in a series of entries from Social Security Administration CIO Rob Klopp that will consider issues associated with modernizing the US Federal IT infrastructure._
 
@@ -15,7 +15,7 @@ First… here is a little about me. I came to the Social Security Administration
 
 To start, let us consider the modernization problem from a high level. Figure 1 is designed to outline the problem. The blue curve represents the ability of a hypothetical Federal agency to adopt technology. The green curve represents the ability of a hypothetical Fortune 500 firm to adopt technology. The technology gap between these curves represent the problem confronting a Federal CIO; we believe that we must catch up to the Fortune 500.
 
-![IT modernization chart with 3 curves]({{site.baseurl}}/assets/img/blog/2015.12.10.ssa.modernization.png)
+![IT modernization chart with 3 curves]({{site.baseurl}}/assets/images/blog/2015.12.10.ssa.modernization.png)
 
 Note on the curves that in the late 1970’s and early 1980’s, the Federal space, and especially the SSA, was on a par or even a little ahead of the Fortune 500. In that timeframe, the SSA was aggressive in developing systems and databases to store information. These systems pushed the state of the art. They represented Big Data in the 1980’s.
 

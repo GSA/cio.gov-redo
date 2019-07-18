@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'IT Solutions Challenge 2015 Problem Description - Lori Alfred'
-description:
-date: 2015-05-15
+layout: post
+title: IT Solutions Challenge 2015 Problem Description - Lori Alfred
+excerpt: For our second workshop of the IT Solutions Challenge (ITSC), we met at the Department of Justice (Justice Management Division). All team members came prepared with the information, insight and advice we received from subject matter experts (SMEs) and stakeholders relevant to our mission statement, “Create a cloud shared services sandbox for all federal agencies to pilot technologies, develop applications, and model enterprise architecture.”
+date: May 15, 2015
 display-date: 15 May 2015
 author: Lori Alfred
 tags: innovation workforce 2015
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink: 
 ---
 For our second workshop of the IT Solutions Challenge (ITSC), we met at the Department of Justice (Justice Management Division). All team members came prepared with the information, insight and advice we received from subject matter experts (SMEs) and stakeholders relevant to our mission statement, “Create a cloud shared services sandbox for all federal agencies to pilot technologies, develop applications, and model enterprise architecture.” Throughout the day, we listened to guest speakers, received guidance from our facilitators and mentors, and participated in multiple team exercises. Our main goal was to refine or streamline our mission statements into a specific problem that would be solvable in the near future.
 

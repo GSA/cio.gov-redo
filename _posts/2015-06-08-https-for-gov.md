@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'HTTPS Everywhere for Government'
-description:
-date: 2015-06-08
+layout: post
+title: HTTPS Everywhere for Government
+excerpt: Today, Federal CIO Tony Scott signed an OMB memorandum to enact the HTTPS-Only Standard for all Federal websites and web services. OMB first proposed the standard in March and requested comment from the public.
+date: June 8, 2015
 display-date: 08 June 2015
 author: Tony Scott
 tags: omb policy 2015
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink: 
 ---
 Today, Federal CIO Tony Scott signed an OMB memorandum to enact the HTTPS-Only Standard for all Federal websites and web services.
 

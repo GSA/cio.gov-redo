@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'IT Solutions Challenge 2015 First Impressions - Jeremy Greenland'
-description:
-date: 2015-04-22
+layout: post
+title: IT Solutions Challenge 2015 First Impressions - Jeremy Greenland
+excerpt: The Eisenhower Executive Office Building isn’t something you see every day. The architecture is beautiful and the décor is stunning. In short, it’s the kind of building that draws the eye.
+date: April 22, 2015
 display-date: 22 April 2015
 author: Jeremy Greenland
 tags: innovation workforce 2015
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink: 
 ---
 The Eisenhower Executive Office Building isn’t something you see every day. The architecture is beautiful and the décor is stunning. In short, it’s the kind of building that draws the eye. Yet today, instead of focusing on the room I was in, or the building, I found my eye drawn to the people filling the room around me. Diversity is an interesting concept and the word itself was at the forefront of my mind. Everyone at my table came from various agencies with different backgrounds in IT. Despite the diversity, the day was filled with positivity and cooperation.
 

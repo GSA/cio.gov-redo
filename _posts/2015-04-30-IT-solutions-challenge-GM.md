@@ -1,14 +1,13 @@
 ---
-layout: blog
-title: 'IT Solutions Challenge 2015 First Impressions - Gibran Mills'
-description:
-date: 2015-04-30
+layout: post
+title: IT Solutions Challenge 2015 First Impressions - Gibran Mills
+excerpt: In the Federal IT landscape, new buzzwords are constantly identified and implemented in the workforce. Terms like ‘agile’ and ‘better buying power’ are used so often that sometimes their true value is lost. Despite the unintentional dilution of these terms, on Thursday April 9, 2015, in the Indian Treaty Room within the Eisenhower Executive Office Building, synergy occurred.
+date: April 30, 2015
 display-date: 30 April 2015
 author: Gibran Mills
 tags: innovation workforce 2015
-image:
-image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
-img-alt: CIOC Logo
+
+permalink:
 ---
 In the Federal IT landscape, new buzzwords are constantly identified and implemented in the workforce. Terms like ‘agile’ and ‘better buying power’ are used so often that sometimes their true value is lost. Despite the unintentional dilution of these terms, on Thursday April 9, 2015 in the Indian Treaty Room within the Eisenhower Executive Office Building, synergy occurred. Synergy is defined as the creation of a whole that is greater than the simple sum of its parts. Thirty-nine participants representing 19 agencies came together to identify the issues we see in the Federal Government as they pertain to IT, establish teams, and begin brainstorming on potential solutions for these problems.
 
