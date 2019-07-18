@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Significance of HER Perspective - How Women in Federal IT are Paving the way for Future Generations of Female Leadership
-description: Earlier this month, women across the federal government gathered for the second annual Women in Federal Information Technology and Cybersecurity Event - The Significance of HER Perspective. Over 200 attendees heard from Federal IT leaders as they shared experiences and perspectives, gave advice on their career paths in IT, and held flash mentoring sessions.
+excerpt: Earlier this month, women across the federal government gathered for the second annual Women in Federal Information Technology and Cybersecurity Event - The Significance of HER Perspective. Over 200 attendees heard from Federal IT leaders as they shared experiences and perspectives, gave advice on their career paths in IT, and held flash mentoring sessions.
 date: June 25, 2019
 display-date: 25 June 2019
 author: CIO Council Operations
