@@ -6,7 +6,7 @@ date: July 16, 2019
 display-date: 16 July 2019
 author: Federal Mobility Working Group
 tags: 2019
-image: /assets/images/blog/2019.07.16.FMG-Mobile.png
+image: 2019.07.16.FMG-Mobile.png
 img-alt: Woman with Mobile by Petter Lagson
 
 permalink: /2019/07/17/Federal-Mobility-Working-Group/

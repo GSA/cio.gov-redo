@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Defining IT Centralization
-excerpt: Ever wonder why prioritizing users is so important during IT centralization? This is the first in a series of posts on the importance of human-centered design when evaluating IT centralization. As part of a 10x project, they synthesized 18F's learnings from agency partners that have been through centralization efforts before and have wisdom to share. 
+excerpt: Ever wonder why prioritizing users is so important during IT centralization? This is the first in a series of posts on the importance of human-centered design when evaluating IT centralization. As part of a 10x project, they synthesized 18F's learnings from agency partners that have been through centralization efforts before and have wisdom to share.
 date: April 8, 2019
 display-date: 8 April 2019
 author: Erin Strenio, Content Designer at 18F and Amy Ashida, UX Designer at 18F
 tags:
 
-image-thumbnail: /assets/images/blog/18F-Logo-M.png
+image: 2019.04.04.18F-Logo-M.png
 img-alt: 18F Logo
 
 permalink: /Defining-IT-Centralization/

@@ -3,11 +3,8 @@ layout: post
 title: How to Win with Technology Business Management (TBM)
 excerpt: As co-leads of the President’s Management Agenda Cross Agency Priority goal on IT Spending Transparency, the General Services Administration (GSA) and the Department of Education (Education) created a TBM Playbook in order to share some common themes in the Federal implementations of TBM at our agencies.
 date: March 13, 2019
-author: Jason Gray, CIO, Department of Education and David Shive, CIO, General Services Administration 
+author: Jason Gray, CIO, Department of Education and David Shive, CIO, General Services Administration
 tags: 2019 cio-council
-
-image-thumbnail: /assets/images/blog/TBM.jpeg
-img-alt: Man with laptop
 
 permalink: /How-to-win-with-Technology-Business-Management/
 ---

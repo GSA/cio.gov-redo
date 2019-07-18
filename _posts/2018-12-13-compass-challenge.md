@@ -7,8 +7,8 @@ display-date: 12 December 2018
 author: Dorothy Aronson, CIO of the National Science Foundation
 tags: 2018 workforce innovation
 
-image-thumbnail: /assets/img/blog/2018.12.13.compass.png
-img-alt: National Science Foundation's Career Compass Challenge
+image: 2018.12.13.compass.jpg
+img-alt: Compass
 
 permalink:
 ---

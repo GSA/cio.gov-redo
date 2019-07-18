@@ -7,7 +7,7 @@ display-date: 27 February 2019
 author: CIO Council Operations
 tags: GEARS 2019
 
-image-thumbnail: /assets/images/gears-of-gov-awards-logo.png
+image: 2019.2.27.gears-of-gov-awards-logo.png
 img-alt: Gears of Government Awards Logo
 
 permalink: /2019/02/27/CIOC-Gears-of-Government-Winners

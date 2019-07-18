@@ -5,11 +5,12 @@ excerpt: Today, the Office of Management and Budget, the CIO Council and the Dep
 date: November 30, 2018
 display-date: 30 November 2018
 author: CIO Council Operations
-permalink:
 tags: cybersecurity 2018 workforce
 
-image-thumbnail: /assets/images/blog/2018.11.30.fcra.jpg
-img-alt: Image of the United States from a NASA satellite
+image: 2018.11.30.fcra.jpg
+img-alt: Women with laptop
+
+permalink:
 ---
 
 **Washington** - Today, the Office of Management and Budget, the CIO Council and the Department of Education announced the first Federal Cyber Reskilling Academy (FCRA) pilot program. This program offers Federal employees the opportunity for hands-on training in cybersecurity, one of the fastest growing fields in the country. This reskilling effort is part of the Administration’s commitment to developing a Federal workforce for the 21st century, as outlined in the President’s Management Agenda and the recent Government Reform Plan.

@@ -7,7 +7,7 @@ author: Performance.gov Team
 
 tags: GEAR
 
-image-thumbnail: /assets/images/blog/gear-logo-blog.png
+image: 2019.05.08.gear-logo-blog.png
 img-alt: Gears Logo
 
 permalink: /2019/05/08/GEAR-center-challenge-now-open/

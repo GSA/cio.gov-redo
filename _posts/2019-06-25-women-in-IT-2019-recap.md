@@ -6,7 +6,8 @@ date: June 25, 2019
 display-date: 25 June 2019
 author: CIO Council Operations
 tags: 2019 workforce
-image: /assets/images/blog/2019.06.25.Women-in-IT-banner-2019-square.png
+
+image: 2019.06.25.Women-in-IT-banner-2019-square.png
 img-alt: Women in IT Graphic
 
 permalink:
