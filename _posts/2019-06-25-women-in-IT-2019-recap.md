@@ -6,15 +6,15 @@ date: June 25, 2019
 display-date: 25 June 2019
 author: CIO Council Operations
 tags: 2019 workforce
-image-thumbnail: /assets/images/blog/2019.06.25.Women-in-IT-banner-2019-square.png
+image: /assets/images/blog/2019.06.25.Women-in-IT-banner-2019-square.png
 img-alt: Women in IT Graphic
 
 permalink:
 ---
 
-<img src="{{ site.baseurl }}/assets/images/blog/2019.06.25.Women-in-IT-banner-2019-crop.png" alt="women in IT Banner" width="700">
-
 Earlier this month, women across the federal government gathered for the second annual Women in Federal Information Technology and Cybersecurity Event: The Significance of HER Perspective. Over 200 attendees heard from Federal IT leaders as they shared experiences and perspectives, gave advice on their career paths in IT, and held flash mentoring sessions.
+
+<img src="{{ site.baseurl }}/assets/images/blog/2019.06.25.Women-in-IT-banner-2019-crop.png" alt="women in IT Banner" width="700">
 
 ## The Role of Women in Federal IT
 As a key pillar of the [President’s Management Agenda (PMA)](https://www.performance.gov/PMA/PMA.html), IT Modernization is critical to achieve the long-term vision of modernizing the Federal Government. General Services Administration's (GSA) Office of Government-wide Policy’s Deputy Associate Administrator, Beth Angerman, emphasized the importance of encouraging women to take on leadership roles in IT and cybersecurity. She noted that over the last 20 years she’s seen more women not only sitting at the table, but also driving conversations around technology modernization and innovation.
