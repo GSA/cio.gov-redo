@@ -61,7 +61,7 @@ primary_navigation:
 
 secondary_navigation:
   - name: Contact Us
-    url: mailto:feedback@cio.gov
+    url: /mailto:feedback@cio.gov
   - name: Government IT Jobs
     url: /government-it-jobs
 
