@@ -49,9 +49,15 @@ where we provide an easy way to manage your navigation system
       <div class="usa-nav__secondary">
         <ul class="usa-nav__secondary-links">
           {% for nav_item in include.secondary_navigation %}
+          {% if nav_item.name == "Contact Us" %}
+          <li class="usa-nav__secondary-item">
+            <a href="mailto:feedback@cio.gov">{{ nav_item.name | escape }}</a>
+          </li>
+          {% else %}
           <li class="usa-nav__secondary-item">
             <a href="{{ nav_item.url }}">{{ nav_item.name | escape }}</a>
           </li>
+          {% endif %}
           {% endfor %}
         </ul>
         {% include searchgov/form.html affiliate=site.searchgov.affiliate %}
