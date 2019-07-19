@@ -55,7 +55,7 @@ where we provide an easy way to manage your navigation system
           </li>
           {% else %}
           <li class="usa-nav__secondary-item">
-            <a href="{{ nav_item.url }}">{{ nav_item.name | escape }}</a>
+            <a href="{{ nav_item.url | prepend: site.baseurl }}">{{ nav_item.name | escape }}</a>
           </li>
           {% endif %}
           {% endfor %}
