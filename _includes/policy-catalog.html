@@ -2,21 +2,39 @@
 
 <div class="usa-media-block tablet:grid-col-9">
   <div class="policies">
-  {% for policies in site.policies %}
-      <div class="tablet:grid-col-3 grid-spacing policy {{ policies.filters }}">
+    {% for policies in site.policies %}
+    <div class="tablet:grid-col-3 grid-spacing policy {{ policies.filters }}">
       <div class="shadow-1 ">
         <a class="no-style" href="{{ site.baseurl }}{{ policies.permalink }}">
           <div class="text-container">
-      <!--<p class="date">{{ resources.date | date: "%b %d, %y" }}</p> NOT SURE WE NEED DATE-->
-          <div class="seprate-line"></div>
-          <h2 class="title">{{ policies.subtitle }}</h2><br>
-          <!--  <p class="description">{{ policies.description }}</p>-->
-        </div></a>
-      <!--  <div class="more">
-           Read more ❯
-         </div>-->
+           <div class="seprate-line"></div>
+            <h2 class="title">{{ policies.subtitle }}</h2>
+          </div>
+        </a>
       </div>
     </div>
-  {% endfor %}
-    </div>
+
+    {% endfor %}
   </div>
+</div>
+
+  <!--<div class="usa-media-block tablet:grid-col-9">
+    <div class="policies">
+    <!--{% for policies in site.policies %}-->
+      <!--  <div class="tablet:grid-col-3 grid-spacing policy {{ policies.filters }}">
+        <!--<div class="shadow-1 ">
+          <a class="no-style" href="{{ site.baseurl }}{{ policies.permalink }}">
+            <div class="text-container">
+        <!--<p class="date">{{ resources.date | date: "%b %d, %y" }}</p> NOT SURE WE NEED DATE-->
+          <!--  <div class="seprate-line"></div>
+            <h2 class="title">{{ policies.subtitle }}</h2><br>
+            <!--  <p class="description">{{ policies.description }}</p>-->
+          <!--</div></a>
+          <div class="more">
+             Read more ❯
+           </div>
+        </div>
+      </div>
+      {% endfor %}
+      </div>
+    </div>-->
