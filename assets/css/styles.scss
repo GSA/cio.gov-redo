@@ -2,7 +2,7 @@
 ---
 
 // Import the US Web Design System minified CSS
-@import "../uswds/css/uswds.min.css";
+@import "../uswds/css/uswds.css";
 // Alternatively, you could import the SCSS files directly for USWDS mixins and variables.
 //$theme-font-path:   '../uswds/fonts';
 //$theme-image-path:  '../uswds/img';
@@ -14,14 +14,20 @@
 // any uswds styles.
 
 //custom scss files
+@import "footer";
 @import "homepage";
+@import "members";
+@import "policy";
 @import "social";
 @import "resources";
-@import "footer";
-@import "policy";
-@import "members";
+
+
+// -------------------------------------
+// Import individual theme settings
 
 // @import "fonts"; can import this to set fonts to public sans
+
+
 
 //setting universal font for site to public
 
