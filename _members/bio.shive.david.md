@@ -1,6 +1,6 @@
 ---
 layout: bio
-name: Mr. David Shiv
+name: Mr. David Shive
 permalink: /about/members-and-leadership/shive-david/
 subtitle: Team and Leadership
 title: About Our Council

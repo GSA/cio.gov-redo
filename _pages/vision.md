@@ -1,8 +1,8 @@
 ---
 title: About Our Council
-subtitle: Our Mission
+subtitle: Our Purpose and Vision
 layout: page
-permalink: /mission/
+permalink: /vision/
 sidenav: true
 ---
 
