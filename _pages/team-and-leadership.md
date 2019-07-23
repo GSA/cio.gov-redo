@@ -17,7 +17,7 @@ Our members represent CIOs from across the U.S. Federal Government. You can also
 
 # Council Committees
 We also have committees that focus on certain Council priorities. These include:
-* [Chief Information Security Officer Council]({{base.url}}/team-and-leadership/ciso-committee/)
+* [Chief Information Security Officer Council](/team-and-leadership/ciso-committee/)
 * [Innovation Committee]({{base.url}}/team-and-leadership/innovation-committee/)
 * [Services, Strategies, and Infrastructure Committee]({{base.url}}/team-and-leadership/ssi-committee/)
 * [Workforce Committee]({{base.url}}/team-and-leadership/workforce-committee/)
