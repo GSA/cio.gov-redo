@@ -634,7 +634,7 @@ role-based font token.
     @if not $output-display-name {
       @return #{$this-stack};
     }
-    @return #{$this-name}, #{$this-stack};
+    @return "#{$this-name}, #{$this-stack}";
   }
   @return false;
 }
