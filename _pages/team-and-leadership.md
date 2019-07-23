@@ -13,3 +13,16 @@ The Office of Management and Budget’s Deputy Director for Management, Margaret
 
 # Members
 {% include members.html %}
+
+# Council Committees
+We also have committees that focus on certain Council priorities. These include:
+* Chief Information Security Officer Council
+* Innovation Committee
+* Services, Strategies, and Infrastructure Committee
+* Workforce Committee
+
+# Communities of Practice (CoP)
+Our CoP affiliates are also great resources and partners in achieving our priorities. These include:
+* Technology Business Management Community of Practice
+* Cloud and Infrastructure Community of Practice
+* Accessibility Community of Practice
