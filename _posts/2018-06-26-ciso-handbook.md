@@ -10,7 +10,7 @@ tags: ciso cybersecurity 2018
 image-thumbnail: /assets/img/CIO-council-Logo-silver1.png
 img-alt: CIOC Logo
 
-permalink: 
+permalink: /2018/06/25/ciso-handbook/
 ---
 One of the key pillars of the [President’s Management Agenda](https://www.performance.gov/PMA/) is to [Modernize IT to Improve Productivity and Security](https://www.performance.gov/CAP/CAP_goal_1.html). A central pillar of the Administration’s IT Modernization strategy is to improve the skills, leadership abilities, and overall pipeline of talent in the Federal government to address our growing cybersecurity threats. Building security into technology from the beginning is a critical component of the Administration’s modernization efforts and essential to securely delivering effective, efficient, customer-centered services to our citizens.
 
