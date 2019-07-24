@@ -1,6 +1,6 @@
 {% assign card_link = include.link | prepend: site.baseurl %}
 
-
+<a href="{{ card_link }}" tabindex="-1" class="card-link-tagline">
       <img
        alt="{{ include.image_alt }}"
        class="card-image-bg"
@@ -9,6 +9,7 @@
     >
     <div class="card-banner-homepage">
       <p class="card-tag" style="color:#323a45;">{{ include.date | date: '%B %d, %Y' }} </p>
-      <a href="{{ card_link }}" tabindex="-1" class="card-link-tagline"><h3 class="h4" style="margin-top:0;">{{ include.tagline }}</h3></a>
+      <h3 class="h4" style="margin-top:0;">{{ include.tagline }}</h3>
       <p class="card-description">{{ include.description }}</p>
     </div>
+</a>
