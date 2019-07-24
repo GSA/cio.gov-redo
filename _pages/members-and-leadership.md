@@ -15,13 +15,13 @@ Our members represent CIOs from across the U.S. Federal Government. You can also
 
 # Council Committees
 We also have committees that focus on certain Council priorities. These include:
-* [Chief Information Security Officer Council]({{ site.baseurl }}/team-and-leadership/ciso-committee/)
-* [Innovation Committee]({{ site.baseurl }}/team-and-leadership/innovation-committee/)
-* [Services, Strategies, and Infrastructure Committee]({{ site.baseurl }}/team-and-leadership/ssi-committee/)
-* [Workforce Committee]({{ site.baseurl }}/team-and-leadership/workforce-committee/)
+* [Chief Information Security Officer Council]({{ site.baseurl }}/about/members-and-leadership/ciso-committee/)
+* [Innovation Committee]({{ site.baseurl }}/about/members-and-leadership/innovation-committee/)
+* [Services, Strategies, and Infrastructure Committee]({{ site.baseurl }}/about/members-and-leadership/ssi-committee/)
+* [Workforce Committee]({{ site.baseurl }}/about/members-and-leadership/workforce-committee/)
 
 # Communities of Practice (CoP)
 Our CoP affiliates are also great resources and partners in achieving our priorities. These include:
-* [Technology Business Management Community of Practice]({{ site.baseurl }}/team-and-leadership/tbm-cop/)
-* [Cloud and Infrastructure Community of Practice]({{ site.baseurl }}/team-and-leadership/cloud-infrastructure-cop/)
-* [Accessibility Community of Practice]({{ site.baseurl }}/team-and-leadership/accessibility-cop/)
+* [Technology Business Management Community of Practice]({{ site.baseurl }}/about/members-and-leadership/tbm-cop/)
+* [Cloud and Infrastructure Community of Practice]({{ site.baseurl }}/about/members-and-leadership/cloud-infrastructure-cop/)
+* [Accessibility Community of Practice]({{ site.baseurl }}/about/members-and-leadership/accessibility-cop/)
