@@ -6,4 +6,6 @@ permalink: /policies-and-priorities/open-data-policy/
 layout: policy-landing
 
 filters: category-2 role-1 active
+
+date: June 1, 2019
 ---

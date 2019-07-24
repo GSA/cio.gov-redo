@@ -10,7 +10,8 @@ var $policies = $($container).isotope({
     layoutMode: 'masonry',
 
     getSortData: {
-      name: 'h2'
+      name: 'h2',
+      date: 'p'
     }
 });
 
