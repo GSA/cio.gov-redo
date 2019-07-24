@@ -1,7 +1,7 @@
 ---
 title: Our Team and Leadership
 subtitle: CIO Council - Innovation Committee
-layout: defaultwithbanner
+layout: page
 permalink: /team-and-leadership/innovation-committee/
 
 ---

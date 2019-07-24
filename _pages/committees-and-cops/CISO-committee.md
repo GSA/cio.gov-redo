@@ -1,7 +1,7 @@
 ---
 title: Our Team and Leadership
 subtitle: CIO Council - CISO Committee
-layout: defaultwithbanner
+layout: page
 permalink: /team-and-leadership/ciso-committee/
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Our Team and Leadership
 subtitle: CIO Council - Services, Strategy, and Infrastructure (SSI) Committee
-layout: defaultwithbanner
+layout: page
 permalink: /team-and-leadership/ssi-committee/
 
 ---
