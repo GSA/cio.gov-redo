@@ -9,12 +9,12 @@ permalink: /about/members-and-leadership/ssi-committee/
 **Joseph Klimavicz, Co-Chair**<br/>
 Chief Information Officer<br/>
 Department of Justice<br/>
-[View Joseph Klimavicz's profile]({{base.url}}/members-and-leadership/klimavicz-joseph/)
+[View Joseph Klimavicz's profile]({{base.url}}/about/members-and-leadership/klimavicz-joseph/)
 
 **David Shive, Co-Chair**<br/>
 Chief Information Officer<br/>
 General Services Administration<br/>
-[View David Shive's profile]({{base.url}}/members-and-leadership/shive-david/)
+[View David Shive's profile]({{base.url}}/about/members-and-leadership/shive-david/)
 
 # About the Services, Strategy, and Infrastructure (SSI) Committee
 The SSI Committee operates under the authority of the CIO Council. In furthering the Council’s goals, the Committee addresses topics with the area defined by the Committee’s Purpose through:

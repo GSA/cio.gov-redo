@@ -9,7 +9,7 @@ permalink: /about/members-and-leadership/innovation-committee/
 **Maria Roat, Co-Chair**<br/>
 Chief Information Officer<br/>
 Small Business Administration<br/>
-[View Maria Roat's profile]({{base.url}}/members-and-leadership/roat-maria/)
+[View Maria Roat's profile]({{base.url}}/about/members-and-leadership/roat-maria/)
 
 **Ron Bewtra, Co-Chair**<br/>
 Chief Technology Officer<br/>

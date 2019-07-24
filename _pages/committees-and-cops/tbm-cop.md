@@ -1,12 +1,12 @@
 ---
 title: Our Team and Leadership
-subtitle: CIO Council - TBM Community of Practice
+subtitle: TBM Community of Practice
 layout: page
 permalink: /about/members-and-leadership/tbm-cop/
 
 ---
 # About Our CoP
-The TBM Community of Practice (TBM CoP) was established in December 2016 as a component of the [Strategies, Services, and Infrastructure Committee](/team-and-leadership/ssi-committee/) within the CIO Council.
+The TBM Community of Practice (TBM CoP) was established in December 2016 as a component of the [Strategies, Services, and Infrastructure Committee](/about/members-and-leadership/ssi-committee/) within the CIO Council.
 
 The TBM CoP supports agency early adopters through the sharing of best practices to successfully implement the TBM taxonomy. Meeting topics include demos, guest speakers, updates on relevant policies, and more. The best practices and lessons learned will facilitate TBM adoption across the Federal government.
 
