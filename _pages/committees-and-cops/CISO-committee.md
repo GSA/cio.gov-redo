@@ -6,13 +6,13 @@ permalink: /team-and-leadership/ciso-committee/
 
 ---
 # Leadership
-**Grant Schneider, Chair**
-Federal Chief Information Security Officer
-Office of Management and Budget
+**Grant Schneider, Chair**<br/>
+Federal Chief Information Security Officer<br/>
+Office of Management and Budget<br/>
 [View Grant Schneider's profile]({{base.url}}/members-and-leadership/schneider-grant/)
 
-**Steven Hernandez, Vice-Chair**
-Chief Information Security Officer
+**Steven Hernandez, Vice-Chair**<br/>
+Chief Information Security Officer<br/>
 Department  of Education
 
 # About the CISO Committee

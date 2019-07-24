@@ -6,14 +6,14 @@ permalink: /team-and-leadership/ssi-committee/
 
 ---
 # Leadership
-**Joseph Klimavicz, Co-Chair**
-Chief Information Officer
-Department of Justice
+**Joseph Klimavicz, Co-Chair**<br/>
+Chief Information Officer<br/>
+Department of Justice<br/>
 [View Joseph Klimavicz's profile]({{base.url}}/members-and-leadership/klimavicz-joseph/)
 
-**David Shive, Co-Chair**
-Chief Information Officer
-General Services Administration
+**David Shive, Co-Chair**<br/>
+Chief Information Officer<br/>
+General Services Administration<br/>
 [View David Shive's profile]({{base.url}}/members-and-leadership/shive-david/)
 
 # About the Services, Strategy, and Infrastructure (SSI) Committee

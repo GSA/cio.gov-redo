@@ -6,14 +6,14 @@ permalink: /team-and-leadership/workforce-committee/
 
 ---
 # Leadership
-**Jason Gray, Co-Chair**
-Chief Information Officer
-Department of Education
+**Jason Gray, Co-Chair**<br/>
+Chief Information Officer<br/>
+Department of Education<br/>
 [View Jason Gray's profile]({{base.url}}/members-and-leadership/gray-jason/)
 
-**Dorothy Aronson, Co-Chair**
-Chief Information Officer
-U.S. National Science Foundation
+**Dorothy Aronson, Co-Chair**<br/>
+Chief Information Officer<br/>
+U.S. National Science Foundation<br/>
 [View Dorothy Aronson's profile]({{base.url}}/members-and-leadership/aronson-dorothy/)
 
 # About the Workforce Committee

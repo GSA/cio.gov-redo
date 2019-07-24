@@ -6,13 +6,13 @@ permalink: /team-and-leadership/innovation-committee/
 
 ---
 # Leadership
-**Maria Roat, Co-Chair**
-Chief Information Officer
-Small Business Administration
+**Maria Roat, Co-Chair**<br/>
+Chief Information Officer<br/>
+Small Business Administration<br/>
 [View Maria Roat's profile]({{base.url}}/members-and-leadership/roat-maria/)
 
-**Ron Bewtra, Co-Chair**
-Chief Technology Officer
+**Ron Bewtra, Co-Chair**<br/>
+Chief Technology Officer<br/>
 Department of Justice
 
 # About the Innovation Committee
