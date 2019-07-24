@@ -3,7 +3,6 @@ title: About Our Council
 subtitle: CIO Council Meetings and Operations
 layout: page
 permalink: /about/operations/
-sidenav: true
 ---
 
 ## This is a header
