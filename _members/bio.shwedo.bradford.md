@@ -1,7 +1,7 @@
 ---
 layout: bio
 name: LT. Gen. Bradford J. Shwedo
-permalink: /about/members-and-leadership/shwedo-bradford/
+permalink: /about/team-and-leadership/shwedo-bradford/
 subtitle: Team and Leadership
 title: About Our Council
 

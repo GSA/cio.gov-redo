@@ -1,8 +1,8 @@
 ---
 title: About Our Council
-subtitle: Our Meetings and Operations
+subtitle: CIO Council Meetings and Operations
 layout: page
-permalink: /operations/
+permalink: /about/operations/
 sidenav: true
 ---
 

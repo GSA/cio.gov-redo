@@ -2,7 +2,7 @@
 title: Our Team and Leadership
 subtitle: CIO Council - Innovation Committee
 layout: page
-permalink: /team-and-leadership/innovation-committee/
+permalink: /about/members-and-leadership/innovation-committee/
 
 ---
 # Leadership

@@ -2,7 +2,7 @@
 title: Our Team and Leadership
 subtitle: CIO Council - Workforce Committee
 layout: page
-permalink: /team-and-leadership/workforce-committee/
+permalink: /about/members-and-leadership/workforce-committee/
 
 ---
 # Leadership

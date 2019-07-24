@@ -2,7 +2,7 @@
 title: Our Team and Leadership
 subtitle: CIO Council - TBM Community of Practice
 layout: page
-permalink: /team-and-leadership/tbm-cop/
+permalink: /about/members-and-leadership/tbm-cop/
 
 ---
 # About Our CoP

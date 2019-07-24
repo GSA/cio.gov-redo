@@ -1,8 +1,8 @@
 ---
 title: About Our Council
-subtitle: Our Purpose and Vision
+subtitle: CIO Council Purpose and Vision
 layout: page
-permalink: /vision/
+permalink: /about/vision/
 sidenav: true
 ---
 

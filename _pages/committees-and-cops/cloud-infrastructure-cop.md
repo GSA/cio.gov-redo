@@ -2,7 +2,7 @@
 title: Our Team and Leadership
 subtitle: CIO Council - Cloud and Infrastructure Community of Practice
 layout: page
-permalink: /team-and-leadership/cloud-infrastructure-cop/
+permalink: /about/members-and-leadership/cloud-infrastructure-cop/
 
 ---
 # About Our CoP
@@ -18,7 +18,7 @@ C&I CoP members can join working groups to participate in in-depth discussions a
 ## Join the Listserv
 Subscribe to receive C&I CoP meeting invites, updates, and tips on IT optimization. Only those with a “.gov” or “.mil” email may join. Email [dcoi@gsa.gov](mailto:dcoi@gsa.gov) to request to join using another official federal email address. To join:
 
-1. Click on [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov) to launch an email.
+1. Click on [listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.govye) to launch an email.
 2. Remove your signature block from the blank email.
 3. In the email message body, type "subscribe datacenters [First Name] [Last Name], [Position Title]" (Example: subscribe datacenters John Doe, Cloud Migration Manager).
 4. Leave the email subject field empty.

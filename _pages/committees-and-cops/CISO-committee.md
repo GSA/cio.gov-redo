@@ -2,7 +2,7 @@
 title: Our Team and Leadership
 subtitle: CIO Council - CISO Committee
 layout: page
-permalink: /team-and-leadership/ciso-committee/
+permalink: /about/members-and-leadership/ciso-committee/
 
 ---
 # Leadership
