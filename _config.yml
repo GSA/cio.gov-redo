@@ -41,11 +41,11 @@ primary_navigation:
   - name: About Our Council
     children:
       - name: Our Purpose and Vision
-        url: /vision/
-      - name: Our Team and Leadership
-        url: /team-and-leadership/
+        url: /about/vision/
+      - name: Our Members and Leadership
+        url: /about/members-and-leadership/
       - name: Our Meetings and Operations
-        url: /operations/
+        url: /about/operations/
   - name: Policies & Priorities
     url: /policies-and-priorities/
   - name: Programs & Events

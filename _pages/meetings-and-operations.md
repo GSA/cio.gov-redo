@@ -1,9 +1,8 @@
 ---
 title: About Our Council
-subtitle: Our Meetings and Operations
+subtitle: CIO Council Meetings and Operations
 layout: page
-permalink: /operations/
-sidenav: true
+permalink: /about/operations/
 ---
 
 ## This is a header

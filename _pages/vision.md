@@ -1,9 +1,8 @@
 ---
 title: About Our Council
-subtitle: Our Purpose and Vision
+subtitle: CIO Council Purpose and Vision
 layout: page
-permalink: /vision/
-sidenav: true
+permalink: /about/vision/
 ---
 
 ### The CIO Council is the principal interagency forum for improving agency practices related to the design, acquisition, development, modernization, use, sharing, and performance of Federal information resources. ###
