@@ -42,7 +42,7 @@ primary_navigation:
     children:
       - name: Our Purpose and Vision
         url: /about/vision/
-      - name: /about/Our Members and Leadership
+      - name: Our Members and Leadership
         url: /about/members-and-leadership/
       - name: Our Meetings and Operations
         url: /about/operations/
