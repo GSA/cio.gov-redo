@@ -3,8 +3,18 @@ title: The President's Management Agenda (PMA)
 subtitle: A Guidepost for Council Priorities
 layout: pma
 permalink: /pma/
+
 capgoal-1-title: Modernize IT to Increase Productivity and Security
 capgoal-1-description: The Executive Branch will build and maintain more modern, secure, and resilient information technology (IT) to enhance mission delivery and productivity – driving value by increasing efficiencies of Government IT spending while potentially reducing costs, increasing efficiencies, and enhancing citizen engagement and satisfaction with the services we provide.
+capgoal-1-link: https://www.performance.gov/CAP/it-mod/
+
+capgoal-2-title: Modernize IT to Increase Productivity and Security
+capgoal-2-description: The Executive Branch will build and maintain more modern, secure, and resilient information technology (IT) to enhance mission delivery and productivity – driving value by increasing efficiencies of Government IT spending while potentially reducing costs, increasing efficiencies, and enhancing citizen engagement and satisfaction with the services we provide.
+capgoal-2-link: https://www.performance.gov/CAP/leveragingdata/
+
+capgoal-3-title: Modernize IT to Increase Productivity and Security
+capgoal-3-description: The Executive Branch will build and maintain more modern, secure, and resilient information technology (IT) to enhance mission delivery and productivity – driving value by increasing efficiencies of Government IT spending while potentially reducing costs, increasing efficiencies, and enhancing citizen engagement and satisfaction with the services we provide.
+capgoal-3-link: https://www.performance.gov/CAP/sharing-quality-services/
 
 ---
 
