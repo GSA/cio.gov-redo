@@ -8,14 +8,17 @@ capgoal-1-title: Modernize IT to Increase Productivity and Security
 capgoal-1-description: The Executive Branch will build and maintain more modern, secure, and resilient information technology (IT) to enhance mission delivery and productivity – driving value by increasing efficiencies of Government IT spending while potentially reducing costs, increasing efficiencies, and enhancing citizen engagement and satisfaction with the services we provide.
 capgoal-1-link: https://www.performance.gov/CAP/it-mod/
 
-capgoal-2-title: Modernize IT to Increase Productivity and Security
-capgoal-2-description: The Executive Branch will build and maintain more modern, secure, and resilient information technology (IT) to enhance mission delivery and productivity – driving value by increasing efficiencies of Government IT spending while potentially reducing costs, increasing efficiencies, and enhancing citizen engagement and satisfaction with the services we provide.
+capgoal-2-title: Leveraging Data as a Strategic Asset
+capgoal-2-description: Leverage data as a strategic asset to grow the economy, increase the effectiveness of the Federal Government, facilitate oversight, and promote transparency.
 capgoal-2-link: https://www.performance.gov/CAP/leveragingdata/
 
-capgoal-3-title: Modernize IT to Increase Productivity and Security
-capgoal-3-description: The Executive Branch will build and maintain more modern, secure, and resilient information technology (IT) to enhance mission delivery and productivity – driving value by increasing efficiencies of Government IT spending while potentially reducing costs, increasing efficiencies, and enhancing citizen engagement and satisfaction with the services we provide.
+capgoal-3-title: Sharing Quality Services
+capgoal-3-description: To create a mission-driven government with modern technology and services that enable the workforce to better serve the American taxpayer.
 capgoal-3-link: https://www.performance.gov/CAP/sharing-quality-services/
 
+capgoal-4-title: Improving Outcomes Through Federal IT Spending Transparency
+capgoal-4-description: This goal will improve business, financial, and acquisition outcomes; enable Federal executives to make data-driven decisions and analyze trade-offs between cost, quality, and value of IT investments; reduce agency burden for reporting IT budget, spend, and performance data by automating the use of authoritative data sources; and enable IT benchmarking across Federal Government agencies and with other public and private sector organizations.
+capgoal-4-link: https://www.performance.gov/CAP/tbm/
 ---
 
 # The President’s Management Agenda #
@@ -27,6 +30,8 @@ The President’s Management Agenda lays out a long-term vision for modernizing 
 Cross-Agency Priority (CAP) Goals are a tool used by leadership to accelerate progress on a limited number of Presidential priority areas where implementation requires active collaboration among multiple agencies. Long-term in nature, CAP Goals drive cross-government collaboration to tackle government-wide management challenges affecting most agencies.
 
 As a subset of Presidential priorities, CAP Goals are used to implement the President’s Management Agenda and are complemented by other cross-agency coordination and goal-setting efforts. CAP Goals are updated or revised every four years with each Presidential Administration’s term.
+
+<!---HIDDEN TEXT IN CASE WE NEED TO REVERT TO PLAIN TEXT FORMAT
 
 ### Modernize IT to Increase Productivity and Security ###
 
@@ -55,6 +60,7 @@ To create a mission-driven government with modern technology and services that e
 This goal will improve business, financial, and acquisition outcomes; enable Federal executives to make data-driven decisions and analyze trade-offs between cost, quality, and value of IT investments; reduce agency burden for reporting IT budget, spend, and performance data by automating the use of authoritative data sources; and enable IT benchmarking across Federal Government agencies and with other public and private sector organizations.
 
 [Learn more about the Federal IT Spending Transparency CAP Goal here.](https://www.performance.gov/CAP/tbm/)
+-->
 
 
 Visit [Performance.gov](https://www.performance.gov/) to learn more.
