@@ -22,7 +22,6 @@ The Executive Branch will build and maintain more modern, secure, and resilient 
 
 [Learn more about the IT Modernization CAP Goal here.] (https://www.performance.gov/CAP/it-mod/)
 
-
 ### Leveraging Data as a Strategic Asset ###
 
 **Goal Statement**
