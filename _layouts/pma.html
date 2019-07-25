@@ -1,0 +1,21 @@
+---
+layout: defaultwithbanner
+---
+
+{% comment %}
+This template is for the PMA page only.
+{% endcomment %}
+
+
+<div class="grid-row grid-gap">
+  {% if page.sidenav == true %}
+    {% include sidenav.html %}
+  {% endif %}
+
+  <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
+    {{ content }}
+  </div>
+
+  {% include pmahighlights.html %}
+
+</div>

@@ -1,8 +1,11 @@
 ---
 title: The President's Management Agenda (PMA)
 subtitle: A Guidepost for Council Priorities
-layout: page
+layout: pma
 permalink: /pma/
+capgoal-1-title: Modernize IT to Increase Productivity and Security
+capgoal-1-description: The Executive Branch will build and maintain more modern, secure, and resilient information technology (IT) to enhance mission delivery and productivity – driving value by increasing efficiencies of Government IT spending while potentially reducing costs, increasing efficiencies, and enhancing citizen engagement and satisfaction with the services we provide.
+
 ---
 
 # The President’s Management Agenda #
@@ -26,7 +29,7 @@ The Executive Branch will build and maintain more modern, secure, and resilient 
 
 **Goal Statement**
 Leverage data as a strategic asset to grow the economy, increase the effectiveness of the Federal Government, facilitate oversight, and promote transparency.
- 
+
 [Learn more about the Data, Accountability and Transparency CAP Goal here.](https://www.performance.gov/CAP/leveragingdata/)
 
 ### Sharing Quality Services ###
