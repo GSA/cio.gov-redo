@@ -20,27 +20,27 @@ As a subset of Presidential priorities, CAP Goals are used to implement the Pres
 **Goal Statement**
 The Executive Branch will build and maintain more modern, secure, and resilient information technology (IT) to enhance mission delivery and productivity – driving value by increasing efficiencies of Government IT spending while potentially reducing costs, increasing efficiencies, and enhancing citizen engagement and satisfaction with the services we provide.
 
-[Learn more about the IT Modernization CAP Goal here.] (https://www.performance.gov/CAP/it-mod/)
+[Learn more about the IT Modernization CAP Goal here.](https://www.performance.gov/CAP/it-mod/)
 
 ### Leveraging Data as a Strategic Asset ###
 
 **Goal Statement**
 Leverage data as a strategic asset to grow the economy, increase the effectiveness of the Federal Government, facilitate oversight, and promote transparency.
  
-[Learn more about the Data, Accountability and Transparency CAP Goal here.] (https://www.performance.gov/CAP/leveragingdata/)
+[Learn more about the Data, Accountability and Transparency CAP Goal here.](https://www.performance.gov/CAP/leveragingdata/)
 
 ### Sharing Quality Services ###
 
 **Goal Statement**
 To create a mission-driven government with modern technology and services that enable the workforce to better serve the American taxpayer.
 
-[Learn more about Sharing Quality Goals CAP Goal here.] (https://www.performance.gov/CAP/sharing-quality-services/)
+[Learn more about Sharing Quality Goals CAP Goal here.](https://www.performance.gov/CAP/sharing-quality-services/)
 
 ### Improving Outcomes Through Federal IT Spending Transparency ###
 
 **Goal Statement**
 This goal will improve business, financial, and acquisition outcomes; enable Federal executives to make data-driven decisions and analyze trade-offs between cost, quality, and value of IT investments; reduce agency burden for reporting IT budget, spend, and performance data by automating the use of authoritative data sources; and enable IT benchmarking across Federal Government agencies and with other public and private sector organizations.
 
-[Learn more about the Federal IT Spending Transparency CAP Goal here.] (https://www.performance.gov/CAP/tbm/)
+[Learn more about the Federal IT Spending Transparency CAP Goal here.](https://www.performance.gov/CAP/tbm/)
 
-Visit [Performance.gov] (https://www.performance.gov/) to learn more.
+Visit [Performance.gov](https://www.performance.gov/) to learn more.
