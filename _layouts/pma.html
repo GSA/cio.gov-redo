@@ -16,10 +16,26 @@ This template is for the PMA page only.
   </div>
 </section>
 
-<div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
-  {{ content }}<br>
-</div>
+<section class="usa-graphic-list usa-section bg-white sml-margin">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <div class="tablet:grid">
+      {{ content }}
+      </div>
+    </div>
+  </div>
+</section>
 
 {% include cap-goal-highlights.html %}
+
+<section class="usa-graphic-list usa-section bg-white sml-margin">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <div class="tablet:grid">
+        <h1 class="section-intro"> </h1>
+      </div>
+    </div>
+  </div>
+</section>
 
 {% include footer.html %}
