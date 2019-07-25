@@ -16,8 +16,14 @@ This template is used when you want to fill the width of the page, but for a lan
     </div>
   </section>
 
-<main class="usa-layout-docs usa-section" id="main-content">
-    {{ content }}
-</main>
+  <section class="usa-graphic-list usa-section bg-white sml-margin">
+    <div class="grid-container">
+      <div class="grid-row grid-gap">
+        <div class="tablet:grid">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </section>
 
 {% include footer.html %}
