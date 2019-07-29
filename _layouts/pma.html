@@ -20,13 +20,12 @@ This template is for the PMA page only.
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <div class="tablet:grid">
-      {{ content }}
+      {{ content }}<br>
+      {% include cap-goal-highlights.html %}
       </div>
     </div>
   </div>
 </section>
-
-{% include cap-goal-highlights.html %}
 
 <section class="usa-graphic-list usa-section bg-white sml-margin">
   <div class="grid-container">
