@@ -4,4 +4,6 @@ description: The website for the government-wide IT accessibility program. Get r
 permalink: https://section508.gov/
 type: website
 category: accessibility
+status: current
+
 ---

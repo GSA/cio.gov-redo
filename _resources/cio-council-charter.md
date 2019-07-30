@@ -5,4 +5,6 @@ description: Charter for the Federal Chief Information Officers Council, includi
 permalink: /assets/resources/CIOCCharterNov2012Approved.pdf
 type: report
 category: council operations
+status: current
+
 ---

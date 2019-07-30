@@ -5,4 +5,6 @@ description: Version 1.0 of Best Practices - Elements of a Federal Privacy Progr
 permalink: /assets/resources/Elements-Federal-Privacy-Program-v1.0_June-2010.pdf
 type: guidance
 category: privacy
+status: current
+
 ---

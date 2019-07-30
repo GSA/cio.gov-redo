@@ -4,4 +4,6 @@ description: SOFIT provides an independent, comprehensive analysis of the curren
 link: /assets/resources/CIO-Council-State-of-Federal-IT-Report-January-2017-1.pdf
 type: publication
 category: all
+status: current
+
 ---

@@ -5,4 +5,6 @@ description: Presentation to describe the new Federal CIO Council Structure as o
 permalink: /assets/resources/CIO-Council-Reorganization.pdf
 type: presentation
 category: council operations
+status: current
+
 ---

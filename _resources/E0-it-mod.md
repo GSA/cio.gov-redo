@@ -6,6 +6,8 @@ link:
 permalink: /assets/resources/IT-Modernization-Report-Updates/
 type: publication
 category:
+status: current
+
 ---
 
 

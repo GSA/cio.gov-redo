@@ -5,4 +5,6 @@ description:
 permalink: /assets/resources/2012_Agency_Plan_Data_-_Template_SAMPLE-1.xlsx
 type: report
 category: data center consolidation
+status: archive
+
 ---

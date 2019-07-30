@@ -5,4 +5,5 @@ description: A practical guide for application rationalization and IT portfolio 
 permalink: /assets/resources/Application-Rationalization-Playbook.pdf
 type: guidance
 category: cloud
+status: current
 ---
