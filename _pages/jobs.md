@@ -1,7 +1,7 @@
 ---
 title: Jobs
 layout: data
-permalink: /jobs
+permalink: /government-it-jobs/
 datafile: jobs
 ---
 

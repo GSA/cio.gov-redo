@@ -1,12 +1,22 @@
-{% comment %} 
-To modify the menu system, you are welcome to edit this HTML directly or you can look inside _config.yml 
+{% comment %}
+To modify the menu system, you are welcome to edit this HTML directly or you can look inside _config.yml
 where we provide an easy way to manage your navigation system
 {% endcomment %}
 
 <header class="usa-header usa-header--extended" role="banner">
   <div class="usa-navbar">
-    <div class="usa-logo" id="extended-logo">
-      <em class="usa-logo__text"><a href="{{site.baseurl}}" title="Home" aria-label="Home">{{site.title}}</a></em>
+    <div class="usa-logo" id="logo">
+      <em class="usa-logo-text">
+
+        <a href="{{ site.url }}" accesskey="1" title="Home" aria-label="Home">
+        {% if site.logo %}
+          <img src="{{ site.logo | prepend: site.baseurl }}" alt="{{ site.title }}">
+        {% else %}
+          <h1 class="usa-header-title">{{ site.title }}</h1>
+        {% endif %}
+      </a>
+
+    </em>
     </div>
     <button class="usa-menu-btn">Menu</button>
   </div>
@@ -39,9 +49,15 @@ where we provide an easy way to manage your navigation system
       <div class="usa-nav__secondary">
         <ul class="usa-nav__secondary-links">
           {% for nav_item in include.secondary_navigation %}
+          {% if nav_item.name == "Contact Us" %}
+          <li class="usa-nav__secondary-item">
+            <a href="mailto:feedback@cio.gov">{{ nav_item.name | escape }}</a>
+          </li>
+          {% else %}
           <li class="usa-nav__secondary-item">
             <a href="{{ nav_item.url | prepend: site.baseurl }}">{{ nav_item.name | escape }}</a>
           </li>
+          {% endif %}
           {% endfor %}
         </ul>
         {% include searchgov/form.html affiliate=site.searchgov.affiliate %}

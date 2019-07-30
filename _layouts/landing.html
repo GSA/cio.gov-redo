@@ -1,0 +1,29 @@
+{% comment %}
+This template is used when you want to fill the width of the page, but for a landing page.
+{% endcomment %}
+
+{% include header.html %}
+{% include menu.html primary_navigation=site.primary_navigation  secondary_navigation=site.secondary_navigation %}
+
+  <section class="usa-graphic-list usa-section bg-primary-darker sml-margin">
+    <div class="grid-container">
+      <div class="grid-row grid-gap">
+        <div class="tablet:grid">
+          <h1 class="section-intro"> {{ page.title }} </h1>
+          <h2 class="font-heading-xl margin-top-0 tablet:margin-bottom-0"> {{ page.subtitle}} </h2>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="usa-graphic-list usa-section bg-white sml-margin">
+    <div class="grid-container">
+      <div class="grid-row grid-gap">
+        <div class="tablet:grid">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </section>
+
+{% include footer.html %}

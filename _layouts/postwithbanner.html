@@ -1,0 +1,26 @@
+{% comment %}
+This is used for blog posts as the base layout. It provides the border around the content and a variant on the blue banner.
+{% endcomment %}
+
+
+{% include header.html %}
+{% include menu.html primary_navigation=site.primary_navigation  secondary_navigation=site.secondary_navigation %}
+
+<section class="usa-graphic-list usa-section bg-primary-darker sml-margin">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <div class="tablet:grid">
+        <h1 class="section-intro"> {{ page.date | date: '%B %d, %Y' }} </h1>
+        <h2 class="font-heading-xl margin-top-0 tablet:margin-bottom-0"> {{ page.title}} </h2>
+      </div>
+    </div>
+  </div>
+</section>
+
+<main class="usa-layout-docs usa-section" id="main-content">
+  <div class="grid-container">
+    {{ content }}
+  </div>
+</main>
+
+{% include footer.html %}

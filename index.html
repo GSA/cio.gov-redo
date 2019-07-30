@@ -4,18 +4,28 @@ layout: wide
 title: Home
 ---
 
-{% comment %} 
+{% comment %}
 Welcome to official Federalist Jekyll template for the U.S Web Design System 2.0
 
 You'll notice that this page only makes reference to two other html files: hero.html and highlights.html
 
 To the edit the home page, you can edit those files directly, create new ones or add content directly to
-this page. 
+this page.
 
-We recommend splitting apart your site's components into their own smaller section so that its easier to 
+We recommend splitting apart your site's components into their own smaller section so that its easier to
 manage in the long term.
 {% endcomment %}
 
-{% include hero.html %}
+{% comment %}
+Not calling include hero for this homepage iteration  {% include hero.html %}
+{% endcomment %}
+
+{% include banner.html %}
 {% include tagline.html %}
+{% include top-tasks.html %}
+{% include cio-real-time.html %}
+{% include pma.html %}
+
+{% comment %}
 {% include highlights.html %}
+{% endcomment %}
