@@ -1,7 +1,7 @@
 ---
 title: Policies & Priorities
 subtitle: 21st Century Integrated Digital Experience Act
-description: Enhances the Authority of the CIO, enhances transparency and improved risk management in IT Investments...etc.
+description: Reduces taxpayer costs and improve the usability of federal websites by promoting electronic signatures, digital forms and self-service experiences.
 permalink: /policies-and-priorities/21st-century-IDEA-act/
 layout: policy-landing
 policy-publish-date: December 20, 2018
