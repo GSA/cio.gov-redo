@@ -1,6 +1,6 @@
 ---
-title: About Our Council
-subtitle: CIO Council Members and Leadership
+title: CIO Council Members and Leadership
+subtitle: Descriptive heading two text here about leadership and members
 layout: defaultwithbanner
 permalink: /about/members-and-leadership/
 ---

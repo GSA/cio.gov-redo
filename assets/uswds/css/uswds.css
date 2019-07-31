@@ -234,9 +234,15 @@ dfn{
   font-style:italic;
 }
 h1{
-  font-size:2em;
+  font-size:31px;
   margin:0.67em 0;
+  font-family:Merriweather Web, Georgia, Cambria, Times New Roman, Times, serif;
 }
+
+h3 {
+  font-family:Merriweather Web, Georgia, Cambria, Times New Roman, Times, serif;
+}
+
 mark{
   background:#ff0;
   color:#000;
@@ -6302,7 +6308,7 @@ input[type="search"]{
 }
 
 .font-sans-xl{
-  font-size:2.12941rem;
+  font-size:31px;
 }
 
 .font-sans-2xl{

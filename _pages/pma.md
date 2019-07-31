@@ -1,7 +1,7 @@
 ---
 title: A Guidepost for Council Priorities
 subtitle: The President's Management Agenda (PMA)
-layout: pma
+layout: page
 permalink: /pma/
 
 capgoal-1-title: Leveraging Data as a Strategic Asset
@@ -30,6 +30,10 @@ To drive these management priorities, the Administration leverages [Cross-Agency
 CAP Goals are a tool used by leadership to accelerate progress on a limited number of Presidential priority areas where implementation requires active collaboration among multiple agencies. CAP Goals are long-term in nature. They drive cross-government collaboration to tackle government-wide management challenges affecting most agencies. In this case, CIOs use CAP Goals to inform their approach to Federal information resources.
 
 The CAP goals that most often inform our Council include:
+
+  {% include cap-goal-highlights.html %}
+
+Learn more about the PMA and all CAP Goals at [Performance.gov]( https://www.performance.gov/).
 
 <!---HIDDEN TEXT IN CASE WE NEED TO REVERT TO PLAIN TEXT FORMAT
 

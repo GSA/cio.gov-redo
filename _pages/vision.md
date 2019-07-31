@@ -1,11 +1,11 @@
 ---
-title: About Our Council
-subtitle: CIO Council Purpose and Vision
+title: CIO Council Purpose and Vision
+subtitle: Improving agency practices related to Federal information resources
 layout: page
 permalink: /about/vision/
 ---
 
-### The CIO Council is the principal interagency forum for improving agency practices related to the design, acquisition, development, modernization, use, sharing, and performance of Federal information resources. ###
+## The CIO Council is the principal interagency forum for improving agency practices related to the design, acquisition, development, modernization, use, sharing, and performance of Federal information resources. ##
 
 The U.S. CIO and the CIO Council establish standards against which the success of all agency programs can be measured, including:
 
@@ -18,7 +18,7 @@ The U.S. CIO and the CIO Council establish standards against which the success o
 
 [Read the CIO Council Charter here.](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2016/10/CIOCCharterNov2012Approved.pdf)
 
-### Our Statutory Requirements include: ###
+## Our Statutory Requirements include: ##
 * Developing recommendations for the Director of OMB on government information resources management policies and requirements
 * Sharing experiences, ideas, best practices, and innovative approaches related to information resources management
 * Assisting the Federal CIO in the identification, development, and coordination of multi-agency projects and other innovative initiatives to improve Government performance through the use of information technology
