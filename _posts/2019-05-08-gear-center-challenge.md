@@ -8,7 +8,7 @@ author: Performance.gov Team
 tags: GEAR
 
 image: 2019.05.08.gear-logo-blog.png
-img-alt: Gears Logo
+img-alt: Yellow, blue, and green interlocking gears
 
 permalink: /2019/05/08/GEAR-center-challenge-now-open/
 ---
