@@ -25,7 +25,7 @@ pagination:
         </div>
         <div>
           {% if post.image %}
-          <img class="tablet:float-left width-15 padding-right-2 padding-top-1 padding-bottom-2" style="width:120px;height:120px;object-fit:cover;" src="{{ site.baseurl }}/assets/images/blog/{{ post.image }}" alt="{{ post.image_alt_text }}" />
+          <img class="tablet:float-left width-15 padding-right-2 padding-top-1 padding-bottom-2" style="width:120px;height:120px;object-fit:cover;" src="{{ site.baseurl }}/assets/images/blog/{{ post.image }}" alt="{{ post.img-alt }}" />
           {% endif %}
           {{ post.excerpt }}
           {% comment %}
