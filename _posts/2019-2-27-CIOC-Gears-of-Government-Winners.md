@@ -8,7 +8,7 @@ author: CIO Council Operations
 tags: GEARS 2019
 
 image: 2019.2.27.gears-of-gov-awards-logo.png
-img-alt: Gears of Government Awards Logo
+img-alt: Gears of Government Awards around eagle with gears
 
 permalink: /2019/02/27/CIOC-Gears-of-Government-Winners
 ---
