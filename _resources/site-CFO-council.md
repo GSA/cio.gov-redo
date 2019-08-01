@@ -1,5 +1,5 @@
 ---
-title: Federal CFO Council
+title: Federal CFO Council Website
 description: The Federal Chief Financial Officers Council website.
 permalink: www.cfo.gov/
 filters: website council-operations current
