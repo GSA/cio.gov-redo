@@ -1,9 +1,9 @@
 <div class="usa-media-block tablet:grid-col-9">
   <div class="policies">
   {% for resources in site.resources %}
-      <div class="tablet:grid-col-3 grid-spacing policy {{ resources.filters }}">
+      <div class="tablet:grid-col-3 grid-spacing policy {{ resources.filters }}" tabindex="0">
       <div class="shadow-1 ">
-        <a class="no-style" href="{{ site.baseurl }}{{ resources.permalink }}">
+        <a class="no-style" href="{{ site.baseurl }}{{ resources.permalink }}" >
           <div class="text-container">
       <!--<p class="date">{{ resources.date | date: "%b %d, %y" }}</p> NOT SURE WE NEED DATE-->
           <div class="seprate-line"></div>

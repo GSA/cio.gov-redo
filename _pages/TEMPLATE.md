@@ -2,7 +2,7 @@
 title: Page title here - shows on banner
 subtitle: Secondary title  - shows on banner
 layout: page
-permalink: path to the page, without cio.gov before it... for example: /about/vision/
+permalink: #path to the page, without cio.gov before it... for example: /about/vision/
 
 description:
 ---
