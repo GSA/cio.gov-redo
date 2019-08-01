@@ -22,18 +22,21 @@ The Handbook is a key document, coordinated through the CIO and CISO Councils, t
 
 ## Annual Reporting Schedule
 ### FYQ1
-* Estimated Deadline: January
-* Reporting: Q1 CIO FISMA Reporting, Annual HVA Reporting
-* Responsible Parties: CFO Act Agencies (Required), Small Agencies (Optional)
+* **Estimated Deadline:** January
+* **Reporting:** Q1 CIO FISMA Reporting, Annual HVA Reporting
+* **Responsible Parties:** CFO Act Agencies (Required), Small Agencies (Optional)
+
 ### FYQ2
-* Estimated Deadline: April
-* Reporting: Q2 CIO FISMA Report
-* Responsible Parties: All Civilian Agencies
+* **Estimated Deadline:** April
+* **Reporting:** Q2 CIO FISMA Report
+* **Responsible Parties:** All Civilian Agencies
+
 ### FYQ3
-* Estimated Deadline: July
-* Reporting: Q3 CIO FISMA Reporting
-* Responsible Parties: CFO Act Agencies (Required), Small Agencies (Optional)
+* **Estimated Deadline:** July
+* **Reporting:** Q3 CIO FISMA Reporting
+* **Responsible Parties:** CFO Act Agencies (Required), Small Agencies (Optional)
+
 ### FYQ4
-* Estimated Deadline: October
-* Reporting: Annual CIO FISMA Reporting, Annual IG FISMA Reporting, Annual SAOP FISMA Reporting
-* Responsible Parties: All Civilian Agencies
+* **Estimated Deadline:** October
+* **Reporting:** Annual CIO FISMA Reporting, Annual IG FISMA Reporting, Annual SAOP FISMA Reporting
+* **Responsible Parties:** All Civilian Agencies
