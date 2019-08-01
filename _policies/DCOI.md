@@ -8,9 +8,9 @@ policy-publish-date: August 1, 2016
 filters:
 
 related-resources-1: Cloud Smart Strategy
-related-resources-1-link: https://cloud.cio.gov/
+related-resources-1-link: www.cloud.cio.gov
 related-resources-2: FITARA
-related-resources-2-link: https://www.nist.gov/sites/default/files/documents/2017/05/11/doc2017financialmanagementconference-fitara.pdf
+related-resources-2-link: www.nist.gov/sites/default/files/documents/2017/05/11/doc2017financialmanagementconference-fitara.pdf
 related-resources-3:
 related-resources-3-link:
 
