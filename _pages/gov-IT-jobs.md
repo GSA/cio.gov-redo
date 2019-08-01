@@ -1,6 +1,7 @@
 ---
 title: Government IT Jobs
 subtitle: Work with us!
+description: Search and apply for federal IT jobs. Learn about unique hiring paths for veterans, students and graduates, individuals with a disability, and more.
 layout: page
 permalink: /government-it-jobs/
 ---
