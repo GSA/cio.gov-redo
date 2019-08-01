@@ -5,7 +5,6 @@ description: The CIO Council’s State of Federal Information Technology (SOFIT)
 layout: page
 date: Jan 1, 9999
 permalink: /resources/sofit/
-attachment: {{ site.baseurl }}/assets/resources/sofit/CIO-Council-State-of-Federal-IT-Report-January-2017-1.pdf
 filters: publication cloud data-center-consolidation privacy-filter council-operations cybersecurity accessibility current
 type: publication
 category: all
