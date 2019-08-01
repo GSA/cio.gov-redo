@@ -7,18 +7,26 @@ permalink: /pma/
 capgoal-1-title: Leveraging Data as a Strategic Asset
 capgoal-1-description: Leverage data as a strategic asset to grow the economy, increase the effectiveness of the Federal Government, facilitate oversight, and promote transparency.
 capgoal-1-link: https://www.performance.gov/CAP/leveragingdata/
+capgoal-1-img: {{ site.baseurl }}/assets/uswds/img/circle-124-data-smaller.png
+capgoal-1-img-alt: Leveraging Data as a Strategic Asset
 
 capgoal-2-title: Sharing Quality Services
 capgoal-2-description: Create a mission-driven government with modern technology and services that enable the workforce to better serve the American taxpayer.
 capgoal-2-link: https://www.performance.gov/CAP/sharing-quality-services/
+capgoal-2-img: {{ site.baseurl }}/assets/uswds/img/circle-124-quality-smaller.png
+capgoal-2-img-alt: Sharing Quality Services
 
 capgoal-3-title: Modernize IT to Increase Productivity and Security
 capgoal-3-description: Build and maintain more modern, secure, and resilient IT to enhance mission delivery and productivity – driving value by increasing efficiencies of Government IT spending while potentially reducing costs, increasing efficiencies, and enhancing citizen engagement and satisfaction with the services we provide.
 capgoal-3-link: https://www.performance.gov/CAP/it-mod/
+capgoal-3-img: {{ site.baseurl }}/assets/uswds/img/circle-124-modernize-it-smaller.png
+capgoal-3-img-alt: Modernize IT to Increase Productivity and Security
 
 capgoal-4-title: Improving Outcomes Through Federal IT Spending Transparency
 capgoal-4-description: Improve business, financial, and acquisition outcomes; enable Federal executives to make data-driven decisions and analyze trade-offs between cost, quality, and value of IT investments; reduce agency burden for reporting IT budget, spend, and performance data by automating the use of authoritative data sources; and enable IT benchmarking across Federal Government agencies and with other public and private sector organizations.
 capgoal-4-link: https://www.performance.gov/CAP/tbm/
+capgoal-4-img: {{ site.baseurl }}/assets/uswds/img/circle-124-spending-smaller.png
+capgoal-4-img-alt: Improving Outcomes Through Federal IT Spending Transparency
 ---
 
 # What is the PMA? #
