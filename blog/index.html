@@ -27,11 +27,11 @@ pagination:
           {% if post.image %}
           <img class="tablet:float-left width-15 padding-right-2 padding-top-1 padding-bottom-2" style="width:120px;height:120px;object-fit:cover;" src="{{ site.baseurl }}/assets/images/blog/{{ post.image }}" alt="{{ post.img-alt }}" />
           {% endif %}
-          {{ post.excerpt }}
+          <p class="font-sans-sm text-ink">{{ post.excerpt }}</p>
           {% comment %}
-          We default to using post.content, but you can also use post.excerpt.
-          If you use excerpt then you have to make sure the content is on each
-          post header
+            We default to using post.content, but you can also use post.excerpt.
+            If you use excerpt then you have to make sure the content is on each
+            post header
           {% endcomment %}
         </div>
       </div>
