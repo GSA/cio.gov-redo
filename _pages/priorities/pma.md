@@ -21,12 +21,12 @@ capgoal-4-description: Improve business, financial, and acquisition outcomes; en
 capgoal-4-link: https://www.performance.gov/CAP/tbm/
 ---
 
-# What is the PMA? #
+## What is the PMA? ##
 The [President’s Management Agenda](https://www.performance.gov/PMA/PMA.html) lays out a long-term vision for modernizing the Federal Government in key areas. This will improve the ability of agencies to deliver mission outcomes, provide excellent service, and effectively steward taxpayer dollars on behalf of the American people.
 
 To drive these management priorities, the Administration leverages [Cross-Agency Priority (CAP) Goals](https://www.performance.gov/CAP/overview/) to coordinate and publicly track implementation across Federal agencies. CAP Goals are updated or revised every four years with each Presidential Administration’s term.
 
-# Why This Matters to the CIO Council #
+## Why This Matters to the CIO Council ##
 CAP Goals are a tool used by leadership to accelerate progress on a limited number of Presidential priority areas where implementation requires active collaboration among multiple agencies. CAP Goals are long-term in nature. They drive cross-government collaboration to tackle government-wide management challenges affecting most agencies. In this case, CIOs use CAP Goals to inform their approach to Federal information resources.
 
 The CAP goals that most often inform our Council include:
