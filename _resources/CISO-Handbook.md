@@ -1,17 +1,18 @@
 ---
 title: CISO Handbook
 subtitle: Guidance for Chief Information Security Officers (CISO)
+description: The CISO Handbook was created to educate and inform new and existing CISOs about their role in Federal cybersecurity.
 layout: page
 date: Jan 1, 9999
-description: The CISO Handbook was created to educate and inform new and existing CISOs about their role in Federal cybersecurity.
 permalink: /resources/ciso-handbook/
-attachment:
+attachment: {{ site.baseurl }}//assets/resources/CISO_Handbook.pdf
 filters: publication cybersecurity current
 type: publication
 category: cybersecurity
 status: Current
 
 ---
+<!--Unlike other resource filters, which just create the resource card, this MD file also creates a landing page for the CISO Handbook. The landing page shows the content below-->
 
 # Introduction
 The CISO Handbook was created to educate and inform new and existing CISOs about their role in Federal cybersecurity. It provides resources to help CISOs responsibly apply risk management principles to help Federal agencies meet mission objectives, and makes CISOs aware of laws, policies, tools, and initiatives that can assist them as they develop or improve cybersecurity programs for their organizations.

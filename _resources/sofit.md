@@ -3,14 +3,16 @@ title: SOFIT
 subtitle: State of Federal IT Report
 description: The CIO Council’s State of Federal Information Technology (SOFIT) report frames the federal IT landscape during the transition to the new administration in 2017. It also highlights recommendations to improve Federal IT.
 layout: page
+date: Jan 1, 9999
 permalink: /resources/sofit/
-attachment: /assets/resources/sofit/CIO-Council-State-of-Federal-IT-Report-January-2017-1.pdf
+attachment: {{ site.baseurl }}/assets/resources/sofit/CIO-Council-State-of-Federal-IT-Report-January-2017-1.pdf
 filters: publication cloud data-center-consolidation privacy-filter council-operations cybersecurity accessibility current
 type: publication
 category: all
 status: current
 
 ---
+<!--Unlike other resource filters, which just create the resource card, this MD file also creates a landing page for SOFIT. The landing page shows the content below-->
 
 # Introduction
 On January 20, 2017, the new administration and its appointees assumed office. Among these appointees were approximately one-third of the CIO Council’s members (agency CIOs) and the Chairperson. The CIO Council’s State of Federal Information Technology (SOFIT) report frames the federal IT landscape at that point in time. In addition, it provides recommendations on a variety of initiatives in order to improve Federal IT.
