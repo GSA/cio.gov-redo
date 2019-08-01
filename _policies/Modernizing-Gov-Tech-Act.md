@@ -13,7 +13,7 @@ date: July 1, 2019
 
 ## Policy Summary
 
-**Title:** Modernizing Government Technology (MGT) Act
+**Title:** Modernizing Government Technology (MGT) Act</br>
 **Publication/Active Date:** As of December 2017
 
 **Description:** To improve Federal technology by providing financial resources and technical expertise to agencies. The MGT Act allows agencies to invest in modern technology solutions to improve service delivery to the public, secure sensitive systems and data, and save taxpayer dollars.

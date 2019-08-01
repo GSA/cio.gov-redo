@@ -7,10 +7,10 @@ layout: policy-landing
 policy-publish-date: June 2019
 filters:
 
-related-resources-1: 
-related-resources-1-link: 
-related-resources-2: 
-related-resources-2-link: 
+related-resources-1:
+related-resources-1-link:
+related-resources-2:
+related-resources-2-link:
 related-resources-3:
 related-resources-3-link:
 
@@ -18,7 +18,7 @@ date: June 2019
 ---
 ## Policy Summary
 
-**Title:** [Cloud Smart](https://cloud.cio.gov/strategy/)
+**Title:** [Cloud Smart](https://cloud.cio.gov/strategy/)</br>
 **Publication/Active Date:** As of June 2019
 
 **Description:** The 2019 Federal Cloud Computing Strategy — Cloud Smart — is a long-term, high-level strategy to drive cloud adoption in Federal agencies. This is the first cloud policy update in seven years, offering a path forward for agencies to migrate to a safe and secure cloud infrastructure. This new strategy will support agencies to achieve additional savings, security, and will deliver faster services.
