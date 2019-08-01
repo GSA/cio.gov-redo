@@ -14,12 +14,12 @@ related-resources-2-link:
 related-resources-3:
 related-resources-3-link:
 
-date: June 2019
+date: 
 ---
 ## Policy Summary
 
-**Title:** [Cloud Smart](https://cloud.cio.gov/strategy/)<br>
-**Publication/Active Date:** June 2019
+**Title:** [Federal Data Strategy](https://strategy.data.gov/)<br>
+**Publication/Active Date:** 
 
 **Description:** The Federal Data Strategy consists of Principles and Practices to leverage the value of the entire Federal Government data asset portfolio while protecting security, privacy, and confidentiality. The principles and practices deliver a more consistent approach to federal data stewardship, use, and access. The principles are a timeless, enduring framework for agencies, while the practices are actionable, yet aspirational, goals for a 5- to 10-year time horizon.
 
