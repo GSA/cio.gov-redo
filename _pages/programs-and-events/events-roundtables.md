@@ -1,8 +1,8 @@
 ---
 title: Council Programs and Events
-subtitle: CIO Code Challenge
+subtitle: Innovation Roundtables
 layout: page
-permalink: /programs-and-events/codechallenge/
+permalink: /programs-and-events/innovation-roundtables/
 ---
 
 # The Vision

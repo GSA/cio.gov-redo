@@ -51,9 +51,13 @@ primary_navigation:
   - name: Programs & Events
     children:
       - name: Reskilling
-        url: /reskilling/
+        url: /programs-and-events/reskilling/
       - name: Code Challenge
-        url: /codechallenge/
+        url: /programs-and-events/codechallenge/
+      - name: Innnovation Roundtables
+        url: /programs-and-events/innovation-roundtables/
+      - name: CIO Bootcamp
+        url: /programs-and-events/cio-bootcamp/
   - name: Resources
     url: /resources/
   - name: News

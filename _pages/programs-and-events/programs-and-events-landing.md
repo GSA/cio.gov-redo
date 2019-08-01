@@ -1,14 +1,14 @@
 ---
-title: CIO Council Sponsored
+title: CIO Council 
 subtitle: Programs and Events
 layout: page
 permalink: /programs-and-events/
 ---
 
-## Event Feature
+# The Vision
 
-## Event Feature
+Placeholder.
 
-## Event Feature
+# The Program
 
-## Event Feature
+Placeholder.
