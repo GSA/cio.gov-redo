@@ -4,7 +4,7 @@ subtitle: The Federal Risk and Authorization Management Program (FedRAMP)
 description: Enables Agencies to rapidly adapt from old, insecure legacy IT to mission-enabling, secure, and cost effective cloud-based IT.
 permalink: /policies-and-priorities/FedRAMP/
 layout: policy-landing
-policy-publish-date: December 20, 2018
+policy-publish-date:
 filters:
 
 related-resources-1:
