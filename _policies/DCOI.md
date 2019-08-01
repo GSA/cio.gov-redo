@@ -18,7 +18,7 @@ date: August 1, 2016
 ---
 ## Policy Summary
 
-**Title:** [Data Center Optimization Initiative](https://datacenters.cio.gov/)</br>
+**Title:** [Data Center Optimization Initiative](https://datacenters.cio.gov/)<br>
 **Publication/Active Date:** As of August 2016
 
 **Description:** The Data Center Optimization Initiative (DCOI) established in OMB Memorandum M-19-19 supercedes the Federal Data Center Consolidation Initiative (FDCCI) and fulfills the data center requirements of the Federal Information Technology Acquisition Reform Act (FITARA). M-19-19 rescinds and replaces M-16-19 Data Center Optimization Initiative.

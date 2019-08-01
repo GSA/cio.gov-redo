@@ -21,11 +21,11 @@ There are four committees under the CIO Council that inform the council on vario
 * Workforce Committee (OMB Max Access)
 
 ## Additional Resources:
-* Federal Chief Information Officers Council (OMB MAX Access)
-* CIO Council Executive Committee (OMB MAX Access)
-* CIO Council Meeting Dates & Locations (OMB Max Access)
+* [Federal Chief Information Officers Council](https://community.max.gov/display/Egov/CIO+Council+Home+Page) **(OMB MAX Login Required)**
+* [CIO Council Executive Committee](https://community.max.gov/display/Egov/CIO+Council+Executive+Committee) **(OMB MAX Login Required)**
+* [CIO Council Meeting Dates & Locations](https://community.max.gov/display/Egov/CIO+Council+Calendar) **(OMB MAX Login Required)**
 
 # Upcoming Meetings
-Meetings here
+{% include meeting-table.html %}
 
-**Interested in Federal IT?** Sign up for our C-Suite Quarterly Newsletter! Get updates on management priorities, success stories, and agency resources.
+{% include newsletter.html %}
