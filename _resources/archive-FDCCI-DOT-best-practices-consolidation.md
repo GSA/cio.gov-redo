@@ -6,6 +6,6 @@ permalink: /assets/resources/HISTORICAL-FDCCI-DOT-Best-Practices-Small-Large-Sca
 filters: guidance data-center-consolidation archive
 type: guidance
 category: data center consolidation
-status: archive
+status: Archived
 
 ---

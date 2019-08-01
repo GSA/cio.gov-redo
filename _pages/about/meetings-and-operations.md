@@ -5,7 +5,7 @@ layout: page
 permalink: /about/operations/
 ---
 
-## Operations
+# Operations
 
 The CIO Council hosts monthly meetings with CIOs, Chief Information Security Officers (CISOs), or their designated representatives. Key topics of discussion include CIO Council priorities. Members also discuss best practices and how to overcome hurdles on topics such as:
 * Cybersecurity

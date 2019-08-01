@@ -6,5 +6,5 @@ permalink: /assets/resources/Federal_Data_Center_Consolidation_Charter_2.1.pdf
 filters: report data-center-consolidation archive
 type: report
 category: data center consolidation
-status: archive
+status: Archived
 ---

@@ -6,7 +6,7 @@ permalink: /assets/resources/ciso-handbook/
 filters: publication cybersecurity current
 type: publication
 category: cybersecurity
-status: current
+status: Current
 
 ---
 
