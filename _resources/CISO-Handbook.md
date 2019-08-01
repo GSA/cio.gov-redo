@@ -5,7 +5,7 @@ description: The CISO Handbook was created to educate and inform new and existin
 permalink: /assets/resources/ciso-handbook/
 type: publication
 category: cybersecurity
-status: current
+status: Current
 
 ---
 

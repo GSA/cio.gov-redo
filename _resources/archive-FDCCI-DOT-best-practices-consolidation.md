@@ -5,6 +5,6 @@ description: FAA Data Center Consolidation Initiative Lessons Learned - Large an
 permalink: /assets/resources/HISTORICAL-FDCCI-DOT-Best-Practices-Small-Large-Scale-Consolidation-v1.pdf
 type: guidance
 category: data center consolidation
-status: archive
+status: Archived
 
 ---
