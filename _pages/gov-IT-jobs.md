@@ -1,7 +1,7 @@
 ---
 title: Government IT Jobs
 subtitle: Work with us!
-layout: data
+layout: page
 permalink: /government-it-jobs/
 ---
 
