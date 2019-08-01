@@ -1,6 +1,6 @@
 ---
 title: CIO Council Meetings and Operations
-subtitle: Regularly hosted to discuss council priorities and obstacles
+subtitle: How We Work
 layout: page
 permalink: /about/operations/
 ---

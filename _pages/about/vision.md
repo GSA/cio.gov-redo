@@ -1,6 +1,6 @@
 ---
 title: CIO Council Purpose and Vision
-subtitle: Improving agency practices related to Federal information resources
+subtitle: What We Do
 layout: page
 permalink: /about/vision/
 ---
