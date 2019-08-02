@@ -5,7 +5,7 @@ description: Enables organizations to disaggregate IT spending into smaller, con
 permalink: /policies-and-priorities/technology-business-management/
 layout: policy-landing
 policy-publish-date:
-filters: category-2 active role-2
+filters: priority it-budgeting active
 
 related-resources-1: FITARA
 related-resources-1-link: www.management.cio.gov

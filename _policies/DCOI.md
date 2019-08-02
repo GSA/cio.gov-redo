@@ -5,7 +5,7 @@ description: Requires agencies to optimize and consolidate data centers to deliv
 permalink: /policies-and-priorities/DCOI/
 layout: policy-landing
 policy-publish-date: August 1, 2016
-filters:
+filters: priority cloud active
 
 related-resources-1: Cloud Smart Strategy
 related-resources-1-link: www.cloud.cio.gov

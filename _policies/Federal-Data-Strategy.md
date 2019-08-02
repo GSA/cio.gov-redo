@@ -5,7 +5,7 @@ description: Leverage the value of federal data for mission, service, and the pu
 permalink: /policies-and-priorities/federal-data-strategy/
 layout: policy-landing
 policy-publish-date:
-filters:
+filters: priority data active
 
 related-resources-1:
 related-resources-1-link:

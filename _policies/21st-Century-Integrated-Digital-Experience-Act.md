@@ -5,7 +5,7 @@ description: Reduces taxpayer costs and improve the usability of federal website
 permalink: /policies-and-priorities/21st-century-IDEA-act/
 layout: policy-landing
 policy-publish-date: December 20, 2018
-filters: category-2 active role-2
+filters: policy web in-development
 
 related-resources-1:
 related-resources-1-link:
