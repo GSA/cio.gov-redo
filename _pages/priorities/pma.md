@@ -27,13 +27,11 @@ The [President’s Management Agenda](https://www.performance.gov/PMA/PMA.html) 
 To drive these management priorities, the Administration leverages [Cross-Agency Priority (CAP) Goals](https://www.performance.gov/CAP/overview/) to coordinate and publicly track implementation across Federal agencies. CAP Goals are updated or revised every four years with each Presidential Administration’s term.
 
 ## Why This Matters to the CIO Council ##
-CAP Goals are a tool used by leadership to accelerate progress on a limited number of Presidential priority areas where implementation requires active collaboration among multiple agencies. CAP Goals are long-term in nature. They drive cross-government collaboration to tackle government-wide management challenges affecting most agencies. In this case, CIOs use CAP Goals to inform their approach to Federal information resources.
+CAP Goals are a tool used by leadership to accelerate progress on a limited number of Presidential priority areas where implementation requires active collaboration among multiple agencies. CAP Goals are long-term in nature. They drive cross-government collaboration to tackle government-wide management challenges affecting most agencies. In this case, CIOs use CAP Goals to inform their approach to Federal information resources. Learn more about the PMA and all CAP Goals at [Performance.gov]( https://www.performance.gov/).
 
 The CAP goals that most often inform our Council include:
 
   {% include cap-goal-highlights.html %}
-
-Learn more about the PMA and all CAP Goals at [Performance.gov]( https://www.performance.gov/).
 
 <!---HIDDEN TEXT IN CASE WE NEED TO REVERT TO PLAIN TEXT FORMAT
 
