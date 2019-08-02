@@ -21,7 +21,8 @@
 title: CIO.GOV
 email:  feedback@cio.gov
 description: >- # this means to ignore newlines until "baseurl:"
-The CIO Council is a forum of Federal Chief Information Officers (CIOs) whose goal is to improve IT practices across U.S. Government agencies.
+  Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/images/logos/logo-main.png
@@ -67,6 +68,7 @@ secondary_navigation:
     url: mailto:feedback@cio.gov
   - name: Government IT Jobs
     url: /government-it-jobs
+
 
 # Search.gov configuration
 #
