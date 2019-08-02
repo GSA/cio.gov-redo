@@ -24,7 +24,7 @@ The U.S. CIO and the CIO Council establish standards against which the success o
 * Sharing experiences, ideas, best practices, and innovative approaches related to information resources management;
 * Assisting the Federal CIO in the identification, development, and coordination of multi-agency projects and other innovative initiatives to improve Government performance through the use of information technology;
 * Promoting the development and use of common performances for agency information resources management; and
-* Working with the Office of Personnel Management to assess and address the hiring, training, classification, and professional development of the [Federal IT workforce]({{ site.baseurl/government-it-jobs/}}).
+* Working with the Office of Personnel Management to assess and address the hiring, training, classification, and professional development of the [Federal IT workforce]({{ site.baseurl }}/government-it-jobs/).
 
 [You can read our read our statutory requirements in detail here.](https://www.govinfo.gov/content/pkg/PLAW-107publ347/pdf/PLAW-107publ347.pdf)
 
