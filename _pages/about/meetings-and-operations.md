@@ -25,7 +25,5 @@ Other government-only pages for sharing Council information include:
 
 # Upcoming Meetings
 {% include meeting-table.html %}
-Note: Committees are scheduled to meet from 2:30-3:20 before each Full Council meeting
 
-# CIO Council Newsletter
-{% include newsletter.html %}
+Note: Committees are scheduled to meet from 2:30-3:20 before each Full Council meeting
