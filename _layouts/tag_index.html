@@ -3,25 +3,25 @@ layout: defaultwithbanner
 ---
 
   <div class="usa-grid">
-      <div class="tablet:grid-col-12">
-      {% for post in site.tags[page.tag] %}
-        <a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
-        <h5>By: {{ post.author }} | {{ post.date | date_to_string }}</h5>
-        <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+    <div class="tablet:grid-col-12 margin-top-7">
+    {% for post in site.tags[page.tag] %}
 
-        {% if post.tags.size > 0 %}
-          <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
-          {% assign tags = post.tags %}
-          <ul class="tags">
-            {% for tag in tags %}
-              <a href="{{ site.baseurl }}/tags/{{ tag }}"<li class="tag">{{ tag }}</li></a>
-          </ul>
-          {% endfor %}
-          {% endif %}
+      <a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+      <h5>By: {{ post.author }} | {{ post.date | date_to_string }}</h5>
+      <p>{{ post.content | strip_html | truncatewords:50 }}</p>
 
-          <br><br>
-          <hr>
-          <br>
-      {% endfor %}
-    </div>
-    </div>
+      {% if post.tags.size > 0 %}
+        <h5>Tags:
+        {% assign tags = post.tags %}
+        <ul class="tags">
+          {% for tag in tags %}
+            <a href="{{ site.baseurl }}/tags/{{ tag }}"<li class="tag">{{ tag }}</li></a>
+        </ul>
+        {% endfor %}
+      {% endif %}
+
+      <hr class="margin-y-3">
+
+    {% endfor %}
+  </div>
+</div>
