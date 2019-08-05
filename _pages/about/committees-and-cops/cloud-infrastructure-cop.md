@@ -35,3 +35,5 @@ Email [dcoi@gsa.gov](mailto:dcoi@gsa.gov) to contribute to or suggest resources 
 
 ## Application Rationalization Playbook
 The [Playbook]({{ site.baseurl }}/Application-Rationalization-Playbook.pdf) is a practical guide for application rationalization and IT portfolio management under Cloud Smart. It helps Portfolio Managers think through their agency’s approach to IT modernization. It also addresses challenges and opportunities for IT leaders, managers, and technical practitioners, and offers suggestions on how to overcome barriers to success. Each agency should tailor it to fit their unique needs. Application rationalization will ultimately help federal agencies mature IT portfolio management capabilities, empower leaders to make informed decisions, and improve the delivery of key mission and business services.
+
+<a href="{{site.baseurl}}/about/members-and-leadership/">&#10094; &nbsp; Back to Members and Leadership</a><br>

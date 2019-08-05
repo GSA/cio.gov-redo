@@ -26,4 +26,4 @@ Other government-only pages for sharing Council information include:
 # Upcoming Meetings
 {% include meeting-table.html %}
 
-Note: Committees are scheduled to meet from 2:30-3:20 before each Full Council meeting
+<a href="{{site.baseurl}}">&#10094; &nbsp; Back to Home</a><br>

@@ -34,3 +34,5 @@ General Services Administration<br/>
 [View David Shive's profile]({{ site.baseurl }}/about/members-and-leadership/shive-david/)
 
 The [SSI Committee Max Page](https://community.max.gov/x/URp5K) **(login required)** provides tools and resources to encourage information sharing and collaboration.
+
+<a href="{{site.baseurl}}/about/members-and-leadership/">&#10094; &nbsp; Back to Members and Leadership</a><br>

@@ -25,3 +25,5 @@ Our CoP affiliates are also great resources and partners in achieving our priori
 * [Technology Business Management Community of Practice]({{ site.baseurl }}/about/members-and-leadership/tbm-cop/)
 * [Cloud and Infrastructure Community of Practice]({{ site.baseurl }}/about/members-and-leadership/cloud-infrastructure-cop/)
 * [Accessibility Community of Practice]({{ site.baseurl }}/about/members-and-leadership/accessibility-cop/)
+
+<a href="{{site.baseurl}}">&#10094; &nbsp; Back to Home</a><br>
