@@ -33,6 +33,8 @@ The CAP goals that most often inform our Council include:
 
   {% include cap-goal-highlights.html %}
 
+&nbsp;
+
 <a href="{{site.baseurl}}">&#10094; &nbsp; Back to Home</a><br>
 
 <!---HIDDEN TEXT IN CASE WE NEED TO REVERT TO PLAIN TEXT FORMAT

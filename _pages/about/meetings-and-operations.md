@@ -28,6 +28,7 @@ Upcoming meetings are listed below. CIOs can also review [previous meeting agend
 {% include meeting-table.html %}
 *Committees are scheduled to meet from 2:30-3:20 before each Full Council meeting*<br>
 *Meetings are held at GSA Headquarters (1800 F St NW, Washington, DC)*
-<br>
-<br>
+
+&nbsp;
+
 <a href="{{site.baseurl}}">&#10094; &nbsp; Back to Home</a><br>
