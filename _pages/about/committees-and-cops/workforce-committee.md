@@ -27,4 +27,6 @@ U.S. National Science Foundation<br/>
 
 The [Workforce Committee Max Page](https://community.max.gov/display/Egov/CIO+Council+Workforce+Committee) **(login required)** provides tools and resources to encourage information sharing and collaboration.
 
-<a href="{{site.baseurl}}/about/members-and-leadership/">&#10094; &nbsp; Back to Members and Leadership</a><br>
+&nbsp;
+
+<a href="{{site.baseurl}}/about/members-and-leadership/#council-committees">&#10094; &nbsp; Back to Committee List</a><br>

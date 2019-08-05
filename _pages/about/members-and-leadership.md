@@ -26,4 +26,6 @@ Our CoP affiliates are also great resources and partners in achieving our priori
 * [Cloud and Infrastructure Community of Practice]({{ site.baseurl }}/about/members-and-leadership/cloud-infrastructure-cop/)
 * [Accessibility Community of Practice]({{ site.baseurl }}/about/members-and-leadership/accessibility-cop/)
 
+&nbsp;
+
 <a href="{{site.baseurl}}">&#10094; &nbsp; Back to Home</a><br>
