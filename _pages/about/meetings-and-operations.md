@@ -23,10 +23,11 @@ Other government-only pages for sharing Council information include:
 * [CIO Council Meeting Details](https://community.max.gov/display/Egov/CIO+Council+Calendar) **(OMB MAX Login Required)**
 
 # Upcoming Meetings
+Upcoming meetings are listed below. CIOs can also review [previous meeting agendas and materials](https://community.max.gov/display/Egov/CIO+Council+Previous+Meeting+Documents) **(OMB MAX Login Required)**.
+
 {% include meeting-table.html %}
-*Committees are scheduled to meet from 2:30-3:20 before each Full Council meeting*
+*Committees are scheduled to meet from 2:30-3:20 before each Full Council meeting*<br>
 *Meetings are held at GSA Headquarters (1800 F St NW, Washington, DC)*
-
-CIOs can also review [previous meeting agendas and materials](https://community.max.gov/display/Egov/CIO+Council+Previous+Meeting+Documents) **(OMB MAX Login Required)**
-
+<br>
+<br>
 <a href="{{site.baseurl}}">&#10094; &nbsp; Back to Home</a><br>
