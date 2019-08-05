@@ -33,6 +33,15 @@ pagination:
             If you use excerpt then you have to make sure the content is on each
             post header
           {% endcomment %}
+          {% if post.tags.size > 0 %}
+            <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
+            {% assign tags = post.tags %}
+            <ul class="tags">
+              {% for tag in tags %}
+                <a href="{{ site.baseurl }}/tags/{{ tag }}"<li class="tag">{{ tag }}</li></a>
+            </ul>
+            {% endfor %}
+            {% endif %}
         </div>
       </div>
       {% endfor %}

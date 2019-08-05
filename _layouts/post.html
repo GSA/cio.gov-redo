@@ -6,23 +6,17 @@ This is used in blog posts. The index page can be found at blog/index.html
 {% endcomment %}
 
 <div class="grid-row grid-gap">
-  <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
-    <div class="text-base margin-bottom-2">
-        <div class="margin-top-neg-105">
+  <div class="usa-layout-docs__main desktop:grid-col-12 font-sans-sm">
+
           By <span class="text-bold">{{ page.author }}</span> · {{ page.date | date: '%B %d, %Y' }}
-        </div>
-      </div>
+          {% for post in site.tags[page.tag] %}
+            <b>Tags:</b>
+              <ul class="tags">
+                {% for tag in tags %}
+                  <a href="{{ site.baseurl }}/tags/{{ tag }}"<li class="tag">{{ tag }}</li></a>
+                {% endfor %}
+              </ul>
+          {% endfor %}
     {{ content }}
   </div>
-      <aside class="usa-width-one-fourth">
-          <h5>Tags:</h5>
-          {% assign tags = site.tags | sort %}
-           <ul class="tags">
-          {% for tag in tags %}
-              <a href="{{ site.baseurl }}/tags/{{ tag | first | slugify }}/">
-                      <li class="tag">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})</li></a>
-          </ul>
-          {% endfor %}
-          <br><br>
-      </aside>
 </div>
