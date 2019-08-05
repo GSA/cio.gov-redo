@@ -6,7 +6,6 @@ permalink: /about/operations/
 ---
 
 # Operations
-
 The CIO Council hosts monthly meetings with CIOs, Chief Information Security Officers (CISOs), or their designated representatives. Key topics of discussion include CIO Council priorities. Members also discuss best practices and how to overcome hurdles related to [IT policy and priorities]({{ site.baseurl }}/policies-and-priorities/).
 
 # CIO Resources
@@ -25,5 +24,9 @@ Other government-only pages for sharing Council information include:
 
 # Upcoming Meetings
 {% include meeting-table.html %}
+*Committees are scheduled to meet from 2:30-3:20 before each Full Council meeting*
+*Meetings are held at GSA Headquarters (1800 F St NW, Washington, DC)*
+
+CIOs can also review [previous meeting agendas and materials](https://community.max.gov/display/Egov/CIO+Council+Previous+Meeting+Documents) **(OMB MAX Login Required)**
 
 <a href="{{site.baseurl}}">&#10094; &nbsp; Back to Home</a><br>

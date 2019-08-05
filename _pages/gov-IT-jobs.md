@@ -7,9 +7,7 @@ permalink: /government-it-jobs/
 ---
 
 # Interested in IT?
-Join the federal government to modernize federal IT systems and deliver the most secure and effective services to the American people.
-
-We are always looking for great candidates for:
+Join the federal government to modernize federal IT systems and deliver the most secure and effective services to the American people. We are always looking for great candidates for:
 * [Computer Scientists](https://www.usajobs.gov/Search/?k=computer%20scientist&p=1),
 * [IT Project Managers](https://www.usajobs.gov/Search/?k=IT%20project%20managers&p=1),
 * [IT Specialists](https://www.usajobs.gov/Search/?k=IT%20specialist&p=1), and
@@ -25,3 +23,5 @@ Sample brief description with [link](google.com) to job listing.
 
 ## Sample Job 2
 Sample brief description with [link](google.com) to job listing.
+
+<a href="{{site.baseurl}}">&#10094; &nbsp; Back to Home</a><br>
