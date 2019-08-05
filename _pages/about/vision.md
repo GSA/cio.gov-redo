@@ -32,4 +32,6 @@ The U.S. CIO and the CIO Council establish standards against which the success o
 # Our Vision
 The CIO Council aspires to promote a bright and prosperous future for the United States through the strategic use of Federal Information Technology. It seeks to drive efficiency and effectiveness across Government, spurring innovation, protecting and defending our resources and more effectually bringing Government services to Americans.
 
+&nbsp;
+
 <a href="{{site.baseurl}}">&#10094; &nbsp; Back to Home</a><br>
