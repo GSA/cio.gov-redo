@@ -8,7 +8,7 @@ This is used in blog posts. The index page can be found at blog/index.html
 <div class="grid-row grid-gap">
   <div class="usa-layout-docs__main desktop:grid-col-8 font-sans-sm">
 
-      By <span class="text-bold padding-bottom-4">{{ page.author }}</span> · {{ page.date | date: '%B %d, %Y' }} <br>
+      By <span class="text-bold padding-bottom-4">{{ page.author }}</span> · <span class="card-tag">{{ page.date | date: '%B %d, %Y' }}</span> <br>
         {% assign tags = page.tags %}
         <span class="text-bold">Tags:</span>
         <ul class="tags">
@@ -25,7 +25,7 @@ This is used in blog posts. The index page can be found at blog/index.html
     <h3 class="border-top-1 border-accent-cool padding-top-4">Related Posts</h3>
   {% assign maxRelated = 3 %}
 
-  {% assign minCommonTags =  2 %}
+  {% assign minCommonTags =  1 %}
 
   {% assign maxRelatedCounter = 0 %}
 
@@ -45,7 +45,7 @@ This is used in blog posts. The index page can be found at blog/index.html
     {% endfor %}
 
     {% if sameTagCount >= minCommonTags %}
-    
+
       <div>
       <p class="card-tag">{{ post.date | date: '%B %d, %Y' }}</p>
       <p><a style="text-decoration: none;" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
