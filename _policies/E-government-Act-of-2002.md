@@ -5,7 +5,7 @@ description:
 permalink: /policies-and-priorities/E-government-Act-of-2002/
 layout: policy-landing
 policy-publish-date: December 17, 2002
-filters: 
+filters: policy
 
 related-resources-1: FITARA
 related-resources-1-link:
@@ -21,4 +21,4 @@ date: December 17, 2002
 **Title:** [E-Government Act of 2002](https://www.performance.gov/elimination/Final_Burden_Reduction_FY2019_Report.pdf)<br>
 **Publication/Active Date:** As of December 2002
 
-**Description:** 
+**Description:**
