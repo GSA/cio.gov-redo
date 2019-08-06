@@ -4,10 +4,10 @@ subtitle:  Federal Information Security Modernization Act (FISMA)
 description: requires agencies to report the status of their information security programs to 0MB and requires Inspectors General (IG) to conduct annual independent assessments of those programs.
 permalink: /policies-and-priorities/FISMA/
 layout: policy-landing
-policy-publish-date: 2002
-filters: 
+policy-publish-date: December 2002
+filters:
 
-related-resources-1: 
+related-resources-1:
 related-resources-1-link:
 related-resources-2:
 related-resources-2-link:
