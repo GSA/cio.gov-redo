@@ -4,7 +4,6 @@ subtitle: Guidance for Chief Information Security Officers (CISO)
 description: The CISO Handbook was created to educate and inform new and existing CISOs about their role in Federal cybersecurity.
 layout: page
 permalink: /resources/ciso-handbook/
-attachment: {{ site.baseurl }}/assets/resources/CISO_Handbook.pdf
 
 ---
 
@@ -24,7 +23,7 @@ The Handbook is a key document, coordinated through the CIO and CISO Councils, t
 
 &nbsp;
 
-<a href="{{ page.attachment }}"><button class="usa-button">Read the Full Handbook</button></a>
+<a href="{{ site.baseurl }}/assets/resources/CISO_Handbook.pdf"><button class="usa-button">Read the Full Handbook</button></a>
 
 &nbsp;
 
