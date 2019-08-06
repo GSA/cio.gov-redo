@@ -26,10 +26,10 @@ Subscribe to receive C&I CoP meeting invites, updates, and tips on IT optimizati
 
 # Related Resources
 ## C&I CoP Homepage
-The [C&I CoP’s MAX.gov page](https://community.max.gov/display/Egov/CIO+Council+Data+Center+Optimization+Initiative+Community+of+Practice) **(login required)** is the main online repository of CoP information. Find past presentations, upcoming meeting information, and other CoP-specific resources. Anyone with a federal email address can sign up and access the C&I CoP CIO Council MAX page.
+The [C&I CoP’s MAX.gov page](https://community.max.gov/display/Egov/CIO+Council+Data+Center+Optimization+Initiative+Community+of+Practice) **(OMB MAX login required)** is the main online repository of CoP information. Find past presentations, upcoming meeting information, and other CoP-specific resources. Anyone with a federal email address can sign up and access the C&I CoP CIO Council MAX page.
 
 ## CIO Council Knowledge Portal
-The DCOI PMO, a co-sponsor of the CoP, has produced resources ranging from guidance on cooling for data centers, to steps agencies should consider when migrating to the cloud. These resources are stored on the [CIO Council Knowledge Portal on OMB MAX](https://community.max.gov/x/8YwyK) **(login required)**. Anyone with a federal email address can sign up and access these documents on MAX.
+The DCOI PMO, a co-sponsor of the CoP, has produced resources ranging from guidance on cooling for data centers, to steps agencies should consider when migrating to the cloud. These resources are stored on the [CIO Council Knowledge Portal on OMB MAX](https://community.max.gov/x/8YwyK) **(OMB MAX login required)**. Anyone with a federal email address can sign up and access these documents on MAX.
 
 Email [dcoi@gsa.gov](mailto:dcoi@gsa.gov) to contribute to or suggest resources for the Knowledge Portal.
 
