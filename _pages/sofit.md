@@ -25,3 +25,8 @@ On January 20, 2017, the new administration and its appointees assumed office. A
 &nbsp;
 
 <a href="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/05/CIO-Council-State-of-Federal-IT-Report-January-2017-1.pdf"><button class="usa-button">Read the Full Report</button></a>
+
+
+&nbsp;
+
+<a href="{{site.baseurl}}/resources/">&#10094; &nbsp; Back to Resoures</a><br>
