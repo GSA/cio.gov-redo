@@ -1,11 +1,11 @@
 ---
 title: Policies & Priorities
-subtitle: Centralized Mission Support Capabilities for the Federal Government 
+subtitle: Centralized Mission Support Capabilities for the Federal Government
 description: Describes the process and desired outcomes for shared services.
 permalink: /policies-and-priorities/shared-services/
 layout: policy-landing
 policy-publish-date: April 26, 2019
-filters: 
+filters: fed-policy
 
 related-resources-1:
 related-resources-1-link:
