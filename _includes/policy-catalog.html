@@ -3,17 +3,26 @@
 <div class="usa-media-block tablet:grid-col-9">
   <div class="policies" tabindex="0">
     {% for policies in site.policies %}
-    <div class="tablet:grid-col-3 grid-spacing policy {{ policies.filters }}">
-      <div class="shadow-1 ">
-        <a class="no-style" href="{{ site.baseurl }}{{ policies.permalink }}">
-          <div class="text-container">
-            {% if policies.filters contains 'policy' %}
-           <span class="card-tag">Policy</span>
-            {% endif %}
-            {% if policies.filters contains 'priority' %}
-           <span class="card-tag">Priority</span>
-             {% endif %}
-            <p class="title-resources">{{ policies.subtitle }}</p>
+      <div class="tablet:grid-col-3 grid-spacing policy {{ policies.filters }}">
+
+      {% if policies.filters contains 'policy' %}
+      <div class="shadow-1 policy-border ">
+      {% endif %}
+      {% if policies.filters contains 'priority' %}
+      <div class="shadow-1 priority-border ">
+      {% endif %}
+
+      <a class="no-style" href="{{ site.baseurl }}{{ policies.permalink }}">
+        <div class="text-container">
+
+          {% if policies.filters contains 'policy' %}
+         <span class="card-tag">Policy</span>
+          {% endif %}
+          {% if policies.filters contains 'priority' %}
+         <span class="card-tag">Priority</span>
+           {% endif %}
+
+          <p class="title-resources">{{ policies.subtitle }}</p>
             <!--<p class="text-light font-sans-3xs">Implemented on {{ policies.date | date: "%b %d, %y" }}</p>-->
           </div>
         </a>

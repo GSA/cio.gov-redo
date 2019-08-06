@@ -4,24 +4,38 @@
 
     <a href="{{ site.baseurl }}{{ resources.permalink }}" tabindex="0" style="outline:5px dotted green;">
       <div class="tablet:grid-col-3 grid-spacing policy {{ resources.filters }}" >
-        <div class="shadow-1 ">
-          <a class="no-style" href="{{ site.baseurl }}{{ resources.permalink }}" >
-            <div class="text-container">
-      <!--<p class="date">{{ resources.date | date: "%b %d, %y" }}</p> NOT SURE WE NEED DATE-->
-            {% if resources.filters contains 'report' %}
-            <span class="card-tag">Report</span>
-            {% endif %}
-            {% if resources.filters contains 'guidance' %}
-            <span class="card-tag">Guidance</span>
-            {% endif %}
-            {% if resources.filters contains 'presentation' %}
-            <span class="card-tag">Presentation</span>
-            {% endif %}
-            {% if resources.filters contains 'website' %}
-            <span class="card-tag">Website</span>
-            {% endif %}
 
-            <p class="title-resources">{{ resources.title }}</p>
+        <!--sets border logic statements for resources-->
+        {% if resources.filters contains 'report' %}
+        <div class="shadow-1 report-border ">
+        {% endif %}
+        {% if resources.filters contains 'guidance' %}
+        <div class="shadow-1 guidance-border">
+        {% endif %}
+        {% if resources.filters contains 'presentation' %}
+        <div class="shadow-1 presentation-border ">
+        {% endif %}
+        {% if resources.filters contains 'website' %}
+        <div class="shadow-1 website-border ">
+        {% endif %}
+
+        <a class="no-style" href="{{ site.baseurl }}{{ resources.permalink }}" >
+          <div class="text-container">
+          <!--<p class="date">{{ resources.date | date: "%b %d, %y" }}</p> NOT SURE WE NEED DATE-->
+          {% if resources.filters contains 'report' %}
+          <span class="card-tag">Report</span>
+          {% endif %}
+          {% if resources.filters contains 'guidance' %}
+          <span class="card-tag">Guidance</span>
+          {% endif %}
+          {% if resources.filters contains 'presentation' %}
+          <span class="card-tag">Presentation</span>
+          {% endif %}
+          {% if resources.filters contains 'website' %}
+          <span class="card-tag">Website</span>
+          {% endif %}
+
+          <p class="title-resources">{{ resources.title }}</p>
           <!--  <p class="description">{{ policies.description }}</p>-->
         </div>
       <!--  <div class="more">
