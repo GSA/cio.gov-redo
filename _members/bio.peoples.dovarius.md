@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: U.S. Army Corps of Engineers
-bio-image: /peoples.png
+bio-image: /bio_peoples.png
 bio-image-alt-text: Dovarius Peoples
 bio-phone: 202-761-0273
 bio-email: Dovarius.l.peoples@usace.army.mil

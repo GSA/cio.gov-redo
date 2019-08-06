@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: General Services Administration
-bio-image: /shive.png
+bio-image: /bio_shive.png
 bio-image-alt-text: David Shive
 bio-phone: 202-501-6468
 bio-email:

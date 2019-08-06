@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: Department of Energy
-bio-image: /everett.png
+bio-image: /bio_everett.png
 bio-image-alt-text: Max Everett
 bio-phone:
 bio-email:  

@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Federal Deputy Chief Information Officer
 agency: Office of Management and Budget
-bio-image: /graves.png
+bio-image: /bio_graves.png
 bio-image-alt-text: Margie Graves
 bio-phone:
 bio-email:
