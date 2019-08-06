@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: National Science Foundation
-bio-image: /aronson.png
+bio-image: /bio_aronson.png
 bio-image-alt-text: Dorothy Aronson
 bio-phone:
 bio-email:

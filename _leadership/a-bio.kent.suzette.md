@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Federal Chief Information Officer
 agency: Office of Management and Budget
-bio-image: /kent-suzette.jpg
+bio-image: /bio_kent.jpg
 bio-image-alt-text: Suzette Kent
 bio-phone:
 bio-email:

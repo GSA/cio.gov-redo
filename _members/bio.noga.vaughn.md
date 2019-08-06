@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: Environmental Protection Agency
-bio-image: /noga.png
+bio-image: /bio_noga.png
 bio-image-alt-text: Mr. Vaughn Noga
 bio-phone: 202-564-6665
 bio-email:  noga.vaughn@epa.gov

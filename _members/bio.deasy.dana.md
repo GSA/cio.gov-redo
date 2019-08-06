@@ -4,10 +4,10 @@ permalink: /about/members-and-leadership/deasy-dana/
 subtitle: Team and Leadership
 title: About Our Council
 
-name: MR. Dana Deasy
+name: Mr. Dana Deasy
 position: Chief Information Officer
 agency: Department of Defense
-bio-image: /deasy.png
+bio-image: /bio_deasy.png
 bio-image-alt-text: Dana Deasy
 bio-phone: 703-614-7323
 bio-email: osd.pentagon.dod-cio.mbx.front-office@mail.mil

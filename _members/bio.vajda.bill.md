@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: U.S. Department of Interior
-bio-image: /vajda.jpg
+bio-image: /bio_vajda.jpg
 bio-image-alt-text: Bill Vajda
 bio-phone:
 bio-email:

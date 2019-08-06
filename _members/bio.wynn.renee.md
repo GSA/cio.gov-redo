@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: National Aeronautics and Space Administration
-bio-image: /wynn.png
+bio-image: /bio_wynn.png
 bio-image-alt-text: Renee P. Wynn
 bio-phone: 202-358-1824
 bio-email:

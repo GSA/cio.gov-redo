@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: Department of Housing and Urban Development
-bio-image: /chow.png
+bio-image: /bio_chow.png
 bio-image-alt-text: David Chow
 bio-phone:
 bio-email:

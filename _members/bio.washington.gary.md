@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: Department of Agriculture
-bio-image: /washington.png
+bio-image: /bio_washington.png
 bio-image-alt-text: Gary Washington
 bio-phone:
 bio-email:

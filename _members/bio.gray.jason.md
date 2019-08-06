@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: Department of Education
-bio-image: /gray.png
+bio-image: /bio_gray.png
 bio-image-alt-text: Jason Gray
 bio-phone:
 bio-email:

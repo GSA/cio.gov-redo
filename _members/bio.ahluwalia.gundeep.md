@@ -8,7 +8,7 @@ title: About Our Council
 name: Mr. Gundeep Ahluwalia
 position: Chief Information Officer
 agency: Department of Labor
-bio-image: /ahluwalia.png
+bio-image: /bio_ahluwalia.png
 alt-text: GUNDEEP AHLUWALIA
 phone: 202-693-4446
 email: ahluwalia.gundeep@dol.gov
