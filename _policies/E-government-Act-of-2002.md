@@ -5,7 +5,7 @@ description:
 permalink: /policies-and-priorities/E-government-Act-of-2002/
 layout: policy-landing
 policy-publish-date: December 17, 2002
-filters: policy
+filters: fed-policy
 
 related-resources-1: FITARA
 related-resources-1-link:
