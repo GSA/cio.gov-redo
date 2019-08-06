@@ -5,7 +5,7 @@ description: The CISO Handbook was created to educate and inform new and existin
 layout: page
 date: Jan 1, 9999
 permalink: /resources/ciso-handbook/
-filters: publication cybersecurity current
+filters: report cybersecurity current
 type: publication
 category: cybersecurity
 status: Current

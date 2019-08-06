@@ -5,7 +5,7 @@ description: Allows agencies to invest in modern technology solutions to improve
 permalink: /policies-and-priorities/modernizing-gov-tech-act/
 layout: policy-landing
 
-filters: category-1 role-2 active
+filters: fed-policy
 
 date: July 1, 2019
 

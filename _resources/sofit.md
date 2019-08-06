@@ -5,7 +5,7 @@ description: The CIO Council’s State of Federal Information Technology (SOFIT)
 layout: page
 date: Jan 1, 9999
 permalink: /resources/sofit/
-filters: publication cloud data-center-consolidation privacy-filter council-operations cybersecurity accessibility shared-services fitara modernization it-spending current
+filters: report cloud data-center-consolidation privacy-filter council-operations cybersecurity accessibility shared-services fitara modernization it-spending current
 type: publication
 category: all
 status: current

@@ -5,7 +5,7 @@ description: Helps government agencies fully actualize the promise and potential
 permalink: /policies-and-priorities/cloud-smart/
 layout: policy-landing
 policy-publish-date: June 2019
-filters: policy cloud active
+filters: fed-policy cloud active
 
 related-resources-1:
 related-resources-1-link:
