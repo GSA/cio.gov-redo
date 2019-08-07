@@ -19,7 +19,6 @@
         <div class="shadow-1 website-border ">
         {% endif %}
 
-        <a class="no-style" href="{{ site.baseurl }}{{ resources.permalink }}" >
           <div class="text-container">
           <!--<p class="date">{{ resources.date | date: "%b %d, %y" }}</p> NOT SURE WE NEED DATE-->
           {% if resources.filters contains 'report' %}
@@ -34,8 +33,9 @@
           {% if resources.filters contains 'website' %}
           <span class="card-tag">Website</span>
           {% endif %}
-
-          <p class="title-resources">{{ resources.title }}</p>
+          <a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resources.permalink }}"><!--for 508 accessibility-->
+            <p class="title-resources">{{ resources.title }}</p>
+          </a>
           <!--  <p class="description">{{ policies.description }}</p>-->
         </div>
       <!--  <div class="more">

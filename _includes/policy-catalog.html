@@ -22,7 +22,9 @@
          <span class="card-tag">Priority</span>
            {% endif %}
 
-          <p class="title-resources">{{ policies.subtitle }}</p>
+          <a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ policies.permalink }}"><!--for 508 accessibility-->
+            <p class="title-resources">{{ policies.subtitle }}</p>
+          </a>
             <!--<p class="text-light font-sans-3xs">Implemented on {{ policies.date | date: "%b %d, %y" }}</p>-->
           </div>
         </a>
