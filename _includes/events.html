@@ -1,8 +1,8 @@
 <!--this section is for upcoming events for the cio council. The events pull from  ......-->
 <h3>Upcoming events</h3>
 
-{% for events in site.events %}
-  <p class="date">{{ events.date-range }}</p>
+{% for events in site.events limit:4 %}
+  <p class="date">{{ events.end-date }}</p>
   <p class="title">{{ events.title }}</p>
   <p class="description">{{ events.description }}</p>
 {% endfor %}

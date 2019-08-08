@@ -1,8 +1,8 @@
 ---
 title: Sample CIO Council Meeting
-start-date: August 15, 2019
+end-date: August 15, 19
 description: This is the monthly meeting of Federal CIOs.
-
-image: 2019.07.16.FMG-Mobile.png
-img-alt: Woman with Mobile by Petter Lagsons
+overview: This is the monthly meeting of Federal CIOs where xxx, xxx, and xxx are discussed. These meetings are not open to the public.
+image: rocket.jpg
+image-alt: Placeholder photo
 ---
