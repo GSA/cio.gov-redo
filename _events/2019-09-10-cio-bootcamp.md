@@ -1,9 +1,9 @@
 ---
 title: CIO Bootcamp
-start-date: September 10, 2019
-end-date: Aug 08, 2019
+start-date:
+end-date: September 10, 19
 description: CIO Bootcamp for XXX.
-
-image: 2019.07.16.FMG-Mobile.png
-img-alt: Woman with Mobile by Petter Lagson
+overview: Lorem ipsum dolor sit amet, his justo legendos adipiscing id. Sea te falli latine viderer. Feugait minimum id eum, bonorum facilisis omittantur ex mei. Quo epicurei atomorum consetetur ne, mel an pertinacia adolescens. Primis option temporibus nam in.
+image: rocket.jpg
+image-alt: Placeholder photo
 ---
