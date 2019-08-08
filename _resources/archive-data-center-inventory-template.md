@@ -1,8 +1,8 @@
 ---
-title: Historical - Data Center Inventory Template
+title: Archive - Data Center Inventory Template
 date: September 12, 2012
-description:
-permalink: /assets/resources/Data_Call_Template_FROM_SF_June2012.xlsx
+description:Agency planning Excel template for data center consolidation.
+permalink: s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2016/11/Data_Call_Template_FROM_SF_June2012.xlsx
 internal: yes
 filters: guidance data-center-consolidation archive
 type: guidance
