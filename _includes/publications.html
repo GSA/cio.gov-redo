@@ -2,7 +2,7 @@
   <div class="policies" >
   {% for resources in site.resources %}
 
-    <a class="text-ink text-no-underline" href="{{ resources.permalink }}">
+    <a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resources.permalink }}">
       <div class="tablet:grid-col-3 grid-spacing policy {{ resources.filters }}" >
 
         <!--sets border logic statements for resources-->
