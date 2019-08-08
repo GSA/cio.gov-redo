@@ -2,7 +2,7 @@
   <div class="policies" >
   {% for resources in site.resources %}
 
-    <a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resources.permalink }}">
+    <a class="text-ink text-no-underline" href="{{ resources.permalink }}">
       <div class="tablet:grid-col-3 grid-spacing policy {{ resources.filters }}" >
 
         <!--sets border logic statements for resources-->
@@ -33,7 +33,7 @@
           {% if resources.filters contains 'website' %}
           <span class="card-tag">Website</span>
           {% endif %}
-          <a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resources.permalink }}"><!--for 508 accessibility-->
+          <a class="text-ink text-no-underline" href="{{ resources.permalink }}"><!--for 508 accessibility-->
           <p class="title-resources">{{ resources.title }}</p>
           </a>
           <!--  <p class="description">{{ policies.description }}</p>-->
