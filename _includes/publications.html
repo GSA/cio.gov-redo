@@ -1,10 +1,10 @@
 <div class="usa-media-block tablet:grid-col-9">
   <div class="policies" >
     {% for resources in site.resources %}
-      {% if resources.permalink contains 'www' or resources.permalink contains 'amazon' %}
+      {% if resources.permalink contains 'www' %}
       <a class="text-ink text-no-underline" href="https://{{ resources.permalink }}">
-      {% elsif resources.permalink contains '.cio.gov' %}
-      <a class="text-ink text-no-underline" href="{{ resources.permalink }}">
+      {% elsif resources.permalink contains 'amazon' %}
+      <a class="text-ink text-no-underline" href="https://{{ resources.permalink }}">
       {% else %}
       <a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resources.permalink }}">
     {% endif %}
