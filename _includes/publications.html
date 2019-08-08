@@ -5,6 +5,8 @@
       <a class="text-ink text-no-underline" href="https://{{ resources.permalink }}">
       {% elsif resources.permalink contains 'amazon' %}
       <a class="text-ink text-no-underline" href="https://{{ resources.permalink }}">
+      {% elsif resources.permalink contains '.cio.gov' %}
+      <a class="text-ink text-no-underline" href="{{ resources.permalink }}">
       {% else %}
       <a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resources.permalink }}">
     {% endif %}
@@ -44,7 +46,7 @@
             <a class="text-ink text-no-underline" href="https://{{ resources.permalink }}">
             {% else %}
             <a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resources.permalink }}">
-            {% endif %}  
+            {% endif %}
             <!--for 508 accessibility-->
             <p class="title-resources">{{ resources.title }}</p>
             </a>
