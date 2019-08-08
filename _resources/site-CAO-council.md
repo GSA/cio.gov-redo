@@ -1,5 +1,5 @@
 ---
-title: Federal CFO Council Website
+title: Federal CAO Council Website
 description: The Federal The Chief Acquisition Officers Council website.
 permalink: www.acquisition.gov/cao-home
 filters: website council-operations current
