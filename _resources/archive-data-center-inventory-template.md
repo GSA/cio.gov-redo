@@ -5,7 +5,7 @@ description:
 permalink: /assets/resources/Data_Call_Template_FROM_SF_June2012.xlsx
 filters: guidance data-center-consolidation archive
 type: guidance
-category: data center consolidation
+category: data-center-consolidation
 status: archive
 
 ---

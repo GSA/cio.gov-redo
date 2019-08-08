@@ -8,7 +8,7 @@ permalink: /resources/ciso-handbook/
 filters: report cybersecurity current
 type: publication
 category: cybersecurity
-status: Current
+status: current
 
 ---
 <!--Unlike other resource cards, this card lands on a cio.gov page, which lives under the page folder-->
