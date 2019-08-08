@@ -1,9 +1,14 @@
 <div class="usa-media-block tablet:grid-col-9">
   <div class="policies" >
-  {% for resources in site.resources %}
-
-    <a class="text-ink text-no-underline" href="{{ resources.permalink }}">
-      <div class="tablet:grid-col-3 grid-spacing policy {{ resources.filters }}" >
+    {% for resources in site.resources %}
+      {% if resources.permalink contains 'www' %}
+      <a class="text-ink text-no-underline" href="https://{{ resources.permalink }}">
+      {% elsif resources.permalink contains 'amazon' %}
+      <a class="text-ink text-no-underline" href="https://{{ resources.permalink }}">
+      {% else %}
+      <a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resources.permalink }}">
+    {% endif %}
+        <div class="tablet:grid-col-3 grid-spacing policy {{ resources.filters }}" >
 
         <!--sets border logic statements for resources-->
         {% if resources.filters contains 'report' %}
@@ -33,9 +38,16 @@
           {% if resources.filters contains 'website' %}
           <span class="card-tag">Website</span>
           {% endif %}
-          <a class="text-ink text-no-underline" href="{{ resources.permalink }}"><!--for 508 accessibility-->
-          <p class="title-resources">{{ resources.title }}</p>
-          </a>
+            {% if resources.permalink contains 'www' %}
+            <a class="text-ink text-no-underline" href="https://{{ resources.permalink }}">
+            {% elsif resources.permalink contains 'amazon' %}
+            <a class="text-ink text-no-underline" href="https://{{ resources.permalink }}">
+            {% else %}
+            <a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resources.permalink }}">
+            {% endif %}  
+            <!--for 508 accessibility-->
+            <p class="title-resources">{{ resources.title }}</p>
+            </a>
           <!--  <p class="description">{{ policies.description }}</p>-->
         </div>
       </div>

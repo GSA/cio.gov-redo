@@ -2,7 +2,7 @@
 <h3>Upcoming events</h3>
 
 {% for events in site.events %}
-  <p class="date">{{ events.date | date: "%b %d, %y" }}</p>
+  <p class="date">{{ events.date-range }}</p>
   <p class="title">{{ events.title }}</p>
   <p class="description">{{ events.description }}</p>
 {% endfor %}

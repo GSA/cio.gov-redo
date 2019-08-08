@@ -1,18 +1,16 @@
 ---
-title: Council Programs and Events
-subtitle: CIO Code Challenge
-layout: sidenav
-description: The CIO Council partnered with technology hiring experts to pilot the first interagency code challenge.
-summary: The federal government must attract top IT talent to modernize federal IT systems and deliver the most secure and effective services to the American people. To recruit the best qualified IT talent, in the most timely and cost-effective manner, we need to transform the federal IT hiring process. The CIO Council partnered with technology hiring experts to pilot the first interagency code challenge. Code challenges are used extensively in the private sector to source and pre-qualify IT talent, and they are viewed as an industry best practice.
+title: CIO Code Challenge 2
+layout: page
+start-date: June 6, 2019
+end-date: Aug 08, 19
+description: Core CS Challenge
+overview: The federal government must attract top IT talent to modernize federal IT systems and deliver the most secure and effective services to the American people. To recruit the best qualified IT talent, in the most timely and cost-effective manner, we need to transform the federal IT hiring process.
+image: 2019.09.01.david.pisnoy.paint.jpg
+image-alt: Paint rollers by David Pisnoy
+permalink: /cio-code-challenge-2/
 
-permalink: /programs-and-events/codechallenge/
-sidenav: true
 ---
-## 2020 Code challenge
 
-Information coming.
-
-# 2019 Code Challenge
 ## The Vision
 The federal government must attract top IT talent to modernize federal IT systems and deliver the most secure and effective services to the American people. To recruit the best qualified IT talent, in the most timely and cost-effective manner, we need to transform the federal IT hiring process.
 

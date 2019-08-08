@@ -3,7 +3,7 @@ layout: page
 title: EO 13800 & IT Modernization Updates
 description: EO 13800 is a Presidential Executive Order on strengthening Federal IT
 link:
-permalink: {{ site.baseurl }}/assets/resources/IT-Modernization-Report-Updates/
+permalink: /assets/resources/IT-Modernization-Report-Updates/
 filters: report current
 type: publication current
 category:
