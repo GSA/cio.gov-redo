@@ -2,7 +2,7 @@
 title: CIO Code Challenge 2
 layout: page
 start-date: June 6, 2019
-end-date: Aug 10, 19
+end-date: Aug 9, 19
 description: Core CS Challenge
 overview: The federal government must attract top IT talent to modernize federal IT systems and deliver the most secure and effective services to the American people. To recruit the best qualified IT talent, in the most timely and cost-effective manner, we need to transform the federal IT hiring process.
 image: rocket.jpg
