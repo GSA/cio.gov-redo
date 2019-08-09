@@ -2,7 +2,7 @@
   <div class="policies" >
     {% for resources in site.resources %}
       {% if resources.internal == 'no' %}
-      <a class="text-ink text-no-underline" href="https://{{ resources.permalink }}">
+      <a class="text-ink text-no-underline" href="https://{{ resources.permalink | }}">
       {% else %}
       <a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resources.permalink }}">
       {% endif %}
