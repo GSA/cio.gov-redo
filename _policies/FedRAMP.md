@@ -5,7 +5,7 @@ description: Enables Agencies to rapidly adapt from old, insecure legacy IT to m
 permalink: /policies-and-priorities/FedRAMP/
 layout: policy-landing
 policy-publish-date:
-filters: priority cloud cybersecurity acquisition revision
+filters: priority cloud cybersecurity modernization acquisition revision
 
 related-resources-1:
 related-resources-1-link:
