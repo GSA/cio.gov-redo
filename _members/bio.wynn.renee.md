@@ -1,6 +1,6 @@
 ---
 layout: bio
-name: Renee P. Wynn
+name: Ms. Renee P. Wynn
 permalink: /about/members-and-leadership/wynn-renee/
 subtitle: Team and Leadership
 title: About Our Council
