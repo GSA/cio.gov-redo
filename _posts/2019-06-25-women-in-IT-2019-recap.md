@@ -10,7 +10,7 @@ tags: 2019 workforce
 image: 2019.06.25.Women-in-IT-banner-2019-square.png
 img-alt: Women in Federal IT and Cybersecurity within pink circle
 
-permalink:
+permalink: /Women-in-IT-2019/
 ---
 
 Earlier this month, women across the federal government gathered for the second annual Women in Federal Information Technology and Cybersecurity Event: The Significance of HER Perspective. Over 200 attendees heard from Federal IT leaders as they shared experiences and perspectives, gave advice on their career paths in IT, and held flash mentoring sessions.
