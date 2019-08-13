@@ -1,9 +1,11 @@
 ---
-title: Federal Performance Improvement Council
+title: Federal Performance Improvement Council Website
 description: The Federal Performance Improvement Council website.
-permalink: www.performance.gov
+permalink: //pic.gov
+internal: no #put no for this variable if the resource link does not live on CIO.gov
+filters: website council-operations current
 type: website
-category: council operations
+category: council-operations
 status: current
 
 ---

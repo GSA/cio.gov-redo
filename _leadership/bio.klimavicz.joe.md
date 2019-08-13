@@ -8,7 +8,7 @@ title: About Our Council
 position: Chief Information Officer
 agency: Department of Justice
 bio-leadership: Council Vice-Chair
-bio-image: /klimavicz.png
+bio-image: /bio_klimavicz.png
 bio-image-alt-text: Joe Klimavicz
 bio-phone: 202-514-0507
 bio-email: joseph.klimavicz@usdoj.gov

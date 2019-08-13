@@ -40,20 +40,26 @@ dap_agency: GSA
 primary_navigation:
   - name: About Our Council
     children:
-      - name: Our Purpose and Vision
+      - name: Purpose and Vision
         url: /about/vision/
-      - name: Our Members and Leadership
+      - name: Members and Leadership
         url: /about/members-and-leadership/
-      - name: Our Meetings and Operations
+      - name: Meetings and Operations
         url: /about/operations/
   - name: Policies & Priorities
     url: /policies-and-priorities/
   - name: Programs & Events
     children:
-      - name: Reskilling
-        url: /reskilling/
+      - name: Upcoming Events
+        url: /programs-and-events/
+      - name: CIO Bootcamp
+        url: /programs-and-events/cio-bootcamp/
       - name: Code Challenge
-        url: /codechallenge/
+        url: /programs-and-events/codechallenge/
+      - name: Innnovation Roundtables
+        url: /programs-and-events/innovation-roundtables/
+      - name: Reskilling
+        url: /programs-and-events/reskilling/
   - name: Resources
     url: /resources/
   - name: News
@@ -64,6 +70,7 @@ secondary_navigation:
     url: mailto:feedback@cio.gov
   - name: Government IT Jobs
     url: /government-it-jobs
+
 
 # Search.gov configuration
 #

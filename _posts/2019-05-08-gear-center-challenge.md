@@ -8,9 +8,9 @@ author: Performance.gov Team
 tags: GEAR
 
 image: 2019.05.08.gear-logo-blog.png
-img-alt: Gears Logo
+img-alt: Yellow, blue, and green interlocking gears
 
-permalink: /2019/05/08/GEAR-center-challenge-now-open/
+permalink: GEAR-center-challenge-now-open/
 ---
 
 The General Services Administration and Office of Management and Budget are excited to launch the Government Effectiveness Advanced Research (GEAR) Center Challenge!

@@ -1,15 +1,31 @@
 <!--********Generates policy catalog items. Individual cards live in the in the _policies folder**************-->
 
 <div class="usa-media-block tablet:grid-col-9">
-  <div class="policies">
+  <div class="policies" tabindex="0">
     {% for policies in site.policies %}
-    <div class="tablet:grid-col-3 grid-spacing policy {{ policies.filters }}">
-      <div class="shadow-1 ">
-        <a class="no-style" href="{{ site.baseurl }}{{ policies.permalink }}">
-          <div class="text-container">
-           <div class="seprate-line"></div>
-            <h2 class="font-sans-3xs line-height-sans-3">{{ policies.subtitle }}</h2>
-            <p style="font-size:font-sans-xs">{{ policies.date | date: "%b %d, %y" }}</p>
+      <div class="tablet:grid-col-3 grid-spacing policy {{ policies.filters }}">
+
+      {% if policies.filters contains 'policy' %}
+      <div class="shadow-1 policy-border ">
+      {% endif %}
+      {% if policies.filters contains 'priority' %}
+      <div class="shadow-1 priority-border ">
+      {% endif %}
+
+      <a class="no-style" href="{{ site.baseurl }}{{ policies.permalink }}">
+        <div class="text-container">
+
+          {% if policies.filters contains 'policy' %}
+         <span class="card-tag">Policy</span>
+          {% endif %}
+          {% if policies.filters contains 'priority' %}
+         <span class="card-tag">Priority</span>
+         {% endif %}
+
+          <a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ policies.permalink }}"><!--for 508 accessibility-->
+            <p class="title-resources">{{ policies.subtitle }}</p>
+          </a>
+            <!--<p class="text-light font-sans-3xs">Implemented on {{ policies.date | date: "%b %d, %y" }}</p>-->
           </div>
         </a>
       </div>
@@ -18,24 +34,3 @@
     {% endfor %}
   </div>
 </div>
-
-  <!--<div class="usa-media-block tablet:grid-col-9">
-    <div class="policies">
-    <!--{% for policies in site.policies %}-->
-      <!--  <div class="tablet:grid-col-3 grid-spacing policy {{ policies.filters }}">
-        <!--<div class="shadow-1 ">
-          <a class="no-style" href="{{ site.baseurl }}{{ policies.permalink }}">
-            <div class="text-container">
-        <!--<p class="date">{{ resources.date | date: "%b %d, %y" }}</p> NOT SURE WE NEED DATE-->
-          <!--  <div class="seprate-line"></div>
-            <h2 class="title">{{ policies.subtitle }}</h2><br>
-            <!--  <p class="description">{{ policies.description }}</p>-->
-          <!--</div></a>
-          <div class="more">
-             Read more ❯
-           </div>
-        </div>
-      </div>
-      {% endfor %}
-      </div>
-    </div>-->

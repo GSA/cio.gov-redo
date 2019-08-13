@@ -1,0 +1,45 @@
+{% comment %}
+This is used for pages with a sidenav.
+{% endcomment %}
+
+{% include header.html %}
+{% include menu.html primary_navigation=site.primary_navigation  secondary_navigation=site.secondary_navigation %}
+
+<section class="usa-graphic-list usa-section bg-primary-darker sml-margin">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+
+      <div class="tablet:grid-col-9">
+        <h1 class="text-accent-cool font-sans-lg margin-bottom-0 text-medium"> {{ page.title }} </h1>
+        <h2 class="text-white font-serif-xl margin-top-0 margin-bottom-0 text-bold"> {{ page.subtitle}} </h2>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="usa-graphic-list usa-section sml-margin">
+  <div class="grid-container">
+    <div class="usa-layout-docs__main desktop:grid-col-12">
+      {% if page.summary %}
+        <p>{{ page.summary }}</p>
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+
+        {% if page.sidenav == true %}
+          {% include sidenav.html %}
+        {% endif %}
+
+      <div class="usa-layout-docs__main desktop:grid-col-9">
+        {{ content }}
+      </div>
+
+    </div>
+  </div>
+</section>
+
+{% include footer.html %}

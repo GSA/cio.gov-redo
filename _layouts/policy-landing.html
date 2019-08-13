@@ -11,22 +11,26 @@ This template is for a single policy landing page.
     {% include sidenav.html %}
   {% endif %}
 
-  <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
+  <div class="usa-layout-docs__main desktop:grid-col-9 font-sans-sm">
     {{ content }}
     <br>
       <a href="{{site.baseurl}}/policies-and-priorities/"><h5>&#10094; &nbsp; Back to Policies</h5></a><br>
   </div>
 
-  <div class="usa-layout-docs__main desktop:grid-col-3 usa-prose">
-    <h3>Recommended Resources</h3>
+{% if page.related-resources-1 %}
+  <div class="usa-layout-docs__main desktop:grid-col-3 sml-margin">
+    <h3 class="margin-top-0">Recommended Resources</h3>
     <ul>
-
-      <li>{{ policies.related-resources-1 }} </li>
-      <li>{{ policies.related-resources-2 }}</li>
-      <li><a href= "{{ policies.related-resources-3-link }}">{{ policies.related-resources-3 }}</a></li>
-      
+      <li><a href= "{{ policies.related-resources-1-link }}">{{ page.related-resources-1 }}</a></li>
+      {% if page.related-resources-2 %}
+      <li><a href= "{{ policies.related-resources-2-link }}">{{ page.related-resources-2 }}</a></li>
+      {% endif %}
+      {% if page.related-resources-3 %}
+      <li><a href= "{{ policies.related-resources-3-link }}">{{ page.related-resources-3 }}</a></li>
+      {% endif %}
     </ul>
   </div>
+{% endif %}
 
 </div>
 

@@ -1,7 +1,9 @@
 ---
-title: Federal CFO Council
+title: Federal CFO Council Website
 description: The Federal Chief Financial Officers Council website.
-permalink: cfo.gov
+permalink: //cfo.gov/
+internal: no #put no for this variable if the resource link does not live on CIO.gov
+filters: website council-operations current
 type: website
 category: council operations
 status: current

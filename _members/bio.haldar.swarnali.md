@@ -7,7 +7,8 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: National Archives and Records Administration
-bio-image: /haldar.png
+bio-image: /bio_haldar.png
+bio-image-alt-text: Swarnali Haldar
 bio-phone: 301-837-2027
 bio-email:
 ---

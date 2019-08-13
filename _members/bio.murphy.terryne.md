@@ -7,8 +7,8 @@ title: About Our Council
 
 position: Acting Chief Information Officer
 agency: Department of Commerce
-bio-image: /murphy.JPG
-bio-image-alt-text: Ms. Terryne Murphy
+bio-image: /bio_murphy.JPG
+bio-image-alt-text: Terryne Murphy
 bio-phone:
 bio-email:
 ---

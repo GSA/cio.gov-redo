@@ -6,7 +6,7 @@ date: March 13, 2019
 author: Jason Gray, CIO, Department of Education and David Shive, CIO, General Services Administration
 tags: 2019 cio-council
 
-permalink: /How-to-win-with-Technology-Business-Management/
+permalink: /2019/03/13/How-to-win-with-Technology-Business-Management/
 ---
 # How to Win with Technology Business Management (TBM)
 

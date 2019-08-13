@@ -5,7 +5,7 @@ excerpt: The Federal CIO Council is excited to unveil the Federal Mobility Group
 date: July 16, 2019
 display-date: 16 July 2019
 author: Federal Mobility Working Group
-tags: 2019
+tags: 2019 
 image: 2019.07.16.FMG-Mobile.png
 img-alt: Woman with Mobile by Petter Lagson
 

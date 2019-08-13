@@ -1,6 +1,7 @@
 ---
 layout: tag_index
-title: newpay
+title: NewPay
 tag: newpay
+subtitle: News articles related to NewPay
 permalink: /tags/newpay/
 ---

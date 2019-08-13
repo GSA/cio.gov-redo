@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: Department of Treasury
-bio-image: /olson.png
+bio-image: /bio_olson.png
 bio-image-alt-text: Eric Olson
 bio-phone:
 bio-email:
