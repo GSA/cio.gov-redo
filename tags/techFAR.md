@@ -2,6 +2,6 @@
 layout: tag_index
 title: TechFAR
 tag: techFAR
-subtitle: Description needs to go here.
+subtitle: News articles related to TechFAR
 permalink: /tags/techFAR/
 ---

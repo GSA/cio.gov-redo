@@ -1,7 +1,7 @@
 ---
 layout: tag_index
-title: Social Security Administration
+title: Social Security Administration (SSA)
 tag: ssa
-subtitle: Description needs to go here.
+subtitle: News articles authored by or about SSA
 permalink: /tags/ssa/
 ---

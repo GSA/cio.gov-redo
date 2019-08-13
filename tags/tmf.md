@@ -1,7 +1,7 @@
 ---
 layout: tag_index
-title: Technology Modernization Fund
+title: Technology Modernization Fund (TMF)
 tag: tmf
-subtitle: Description needs to go here.
+subtitle: News articles related to TMF
 permalink: /tags/tmf/
 ---

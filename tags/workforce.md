@@ -2,6 +2,6 @@
 layout: tag_index
 title: Workforce
 tag: workforce
-subtitle: Description needs to go here.
+subtitle: News articles related to IT Workforce
 permalink: /tags/workforce/
 ---

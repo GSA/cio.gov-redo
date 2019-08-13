@@ -1,7 +1,7 @@
 ---
 layout: tag_index
-title: TBM
+title: Technology Business Management (TBM)
 tag: tbm
-subtitle: Description needs to go here.
+subtitle: News articles related to TBM
 permalink: /tags/tbm/
 ---

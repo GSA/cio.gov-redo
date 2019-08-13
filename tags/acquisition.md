@@ -2,6 +2,6 @@
 layout: tag_index
 title: Acquisition
 tag: acquisition
-subtitle: Description needs to go here.
+subtitle: News articles related to IT acquisition
 permalink: /tags/acquisition/
 ---

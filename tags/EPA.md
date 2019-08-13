@@ -1,7 +1,7 @@
 ---
 layout: tag_index
-title: Environmental Protection Agency
+title: Environmental Protection Agency (EPA)
 tag: epa
-subtitle: Description needs to go here.
+subtitle: News articles about EPA
 permalink: /tags/epa/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag_index
-title: payroll
+title: Payroll
 tag: payroll
-subtitle: Description needs to go here.
+subtitle: News articles related to payroll
 permalink: /tags/payroll/
 ---
