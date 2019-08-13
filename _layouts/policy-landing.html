@@ -22,15 +22,16 @@ This template is for a single policy landing page.
     <h3 class="margin-top-0">Recommended Resources</h3>
     <ul>
       <li><a href= "{{ policies.related-resources-1-link }}">{{ page.related-resources-1 }}</a></li>
-{% if page.related-resources-2 %}
+      {% if page.related-resources-2 %}
       <li><a href= "{{ policies.related-resources-2-link }}">{{ page.related-resources-2 }}</a></li>
       {% endif %}
-{% if page.related-resources-3 %}
+      {% if page.related-resources-3 %}
       <li><a href= "{{ policies.related-resources-3-link }}">{{ page.related-resources-3 }}</a></li>
-{% endif %}
+      {% endif %}
     </ul>
   </div>
 {% endif %}
+
 </div>
 
 <!--HIDING ORIGINAL FOR NOW
