@@ -18,7 +18,7 @@ The U.S. CIO and the CIO Council establish standards against which the success o
 * Adopting and sharing best IT management practices
 * Managing risk and ensuring privacy and security
 
-[Read the CIO Council Charter here.](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2016/10/CIOCCharterNov2012Approved.pdf)
+You can learn about the policies and priorities we're currently focused on by browsing our [Policy and Priority Catalog]({{ site.baseurl }}/policies-and-priorities/).
 
 # Our Statutory Requirements
 * Developing recommendations for the Director of OMB on government information resources management policies and requirements;
@@ -32,6 +32,7 @@ The U.S. CIO and the CIO Council establish standards against which the success o
 # Our Vision
 The CIO Council aspires to promote a bright and prosperous future for the United States through the strategic use of Federal Information Technology. It seeks to drive efficiency and effectiveness across Government, spurring innovation, protecting and defending our resources and more effectually bringing Government services to Americans.
 
+You can also review [the CIO Council Charter](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2016/10/CIOCCharterNov2012Approved.pdf) to learn more about our Council.
 &nbsp;
 
 <a href="{{site.baseurl}}">&#10094; &nbsp; Back to Home</a><br>
