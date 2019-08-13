@@ -5,7 +5,7 @@ description: Comprises the tools, policies and systems that allow an organizatio
 permalink: /policies-and-priorities/ICAM/
 layout: policy-landing
 policy-publish-date: May 21, 2019
-filters: fed-policy
+filters: fed-policy cybersecurity active
 
 related-resources-1:
 related-resources-1-link:
@@ -17,7 +17,7 @@ related-resources-3-link:
 date: May 21, 2019
 
 ---
-## Policy Summary
+# Policy Summary #
 
 **Title:** [Identity, Credentialing, and Access Management (ICAM)](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf)<br>
 **Publication/Active Date:** As of May 2019

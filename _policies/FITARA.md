@@ -16,7 +16,7 @@ related-resources-3-link:
 
 date: July 24, 2019
 ---
-## Policy Summary
+# Policy Summary #
 
 **Title:** [Federal Information Technology Acquisition Reform Act (FITARA)](https://www.nist.gov/sites/default/files/documents/2017/05/11/doc2017financialmanagementconference-fitara.pdf)<br>
 **Publication/Active Date:** As of December 2014

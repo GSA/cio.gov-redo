@@ -16,7 +16,7 @@ related-resources-3-link:
 
 date: December 20, 2018
 ---
-## Policy Summary
+# Policy Overview #
 
 **Title:** [21st Century Integrated Digital Experience Act (21st Century IDEA)](https://www.congress.gov/bill/115th-congress/house-bill/5759/text)<br>
 **Publication/Active Date:** As of December 2018

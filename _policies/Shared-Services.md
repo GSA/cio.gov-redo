@@ -5,7 +5,7 @@ description: Describes the process and desired outcomes for shared services.
 permalink: /policies-and-priorities/shared-services/
 layout: policy-landing
 policy-publish-date: April 26, 2019
-filters: fed-policy
+filters: fed-policy shared-services active
 
 related-resources-1:
 related-resources-1-link:
@@ -16,7 +16,7 @@ related-resources-3-link:
 
 date: April 26, 2019
 ---
-## Policy Summary
+# Policy Overview #
 
 **Title:** [Centralized Mission Support Capabilities for the Federal Government](https://www.whitehouse.gov/wp-content/uploads/2019/04/M-19-16.pdf)<br>
 **Publication/Active Date:** As of April 2019

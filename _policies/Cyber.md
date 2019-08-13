@@ -1,11 +1,20 @@
 ---
-title: CIO Council Priorities
+title: Policies & Priorities
 subtitle: Cybersecurity
-layout: page
-permalink: /cybersecurity/
+description: To address the threats posed on our nation’s cybersecurity defenses, the Federal Government must continue to advance technical and policy protection capabilities for national systems.
+permalink: /policies-and-priorities/cybersecurity/
+layout: policy-landing
+filters: priority cybersecurity active
+
+related-resources-1:
+related-resources-1-link:
+related-resources-2:
+related-resources-2-link:
+related-resources-3:
+related-resources-3-link:
 ---
 
-# What is Cybersecurity? #
+# Priority Overview #
 Our Nation's security and economic prosperity depend on the stability and integrity of our Federal communications and information infrastructure. Threats to cyberspace pose some of the most serious challenges of the 21st century for the United States. (Examples or plain language description?)
 
 # Why This Matters to the CIO Council #

@@ -5,7 +5,7 @@ description: Informs agencies how to manage their high-value assets — data and
 permalink: /policies-and-priorities/management-HVA/
 layout: policy-landing
 policy-publish-date: December 10, 2018
-filters: fed-policy
+filters: fed-policy active
 
 related-resources-1:
 related-resources-1-link:
@@ -16,7 +16,7 @@ related-resources-3-link:
 
 date: December 10, 2018
 ---
-## Policy Summary
+# Policy Overview #
 
 **Title:** [Management of High Value Assets](https://www.whitehouse.gov/wp-content/uploads/2018/12/M-19-03.pdf)<br>
 **Publication/Active Date:** As of December 2018

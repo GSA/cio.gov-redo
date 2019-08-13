@@ -5,7 +5,7 @@ description: requires agencies to report the status of their information securit
 permalink: /policies-and-priorities/FISMA/
 layout: policy-landing
 policy-publish-date:
-filters: fed-policy
+filters: fed-policy active
 
 related-resources-1:
 related-resources-1-link:
@@ -16,7 +16,7 @@ related-resources-3-link:
 
 date: April 26, 2019
 ---
-## Policy Summary
+# Policy Overview #
 
 **Title:** [Federal Information Security Modernization Act of 2014 (FISMA)](https://www.whitehouse.gov/wp-content/uploads/2018/10/M-19-02.pdf)<br>
 **Publication/Active Date:** As of 2002

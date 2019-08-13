@@ -17,7 +17,7 @@ related-resources-3-link:
 date: April 26, 2019
 
 ---
-## Policy Summary
+# Priority Overview #
 
 **Title:** [Federal Data Strategy](https://strategy.data.gov/)<br>
 **Publication/Active Date:**
