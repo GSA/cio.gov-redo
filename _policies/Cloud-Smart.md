@@ -16,7 +16,7 @@ related-resources-3-link:
 
 date: June 2019
 ---
-## Policy Summary
+# Policy Overview #
 
 **Title:** [Cloud Smart](https://cloud.cio.gov/strategy/)<br>
 **Publication/Active Date:** As of June 2019

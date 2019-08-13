@@ -16,7 +16,7 @@ related-resources-3-link:
 
 
 ---
-## Policy Summary
+# Priority Overview #
 
 **Title:** Capital Planning and Investment Control (CPIC)<br>
 **Publication/Active Date:** As of February 1996

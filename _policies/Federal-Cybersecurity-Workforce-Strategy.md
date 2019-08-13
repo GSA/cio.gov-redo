@@ -5,7 +5,7 @@ description: Grow the cybersecurity capability of the United States Government, 
 permalink: /policies-and-priorities/21st-century-IDEA-act/
 layout: policy-landing
 policy-publish-date: May 2, 2019
-filters: fed-policy web in-development
+filters: fed-policy web cybersecurity workforce in-development
 
 related-resources-1:
 related-resources-1-link:
@@ -16,7 +16,7 @@ related-resources-3-link:
 
 date: May 2, 2018
 ---
-## Policy Summary
+# Policy Overview #
 
 **Title:** [Federal Cybersecurity Workforce Strategy](https://www.whitehouse.gov/presidential-actions/executive-order-americas-cybersecurity-workforce/)<br>
 **Publication/Active Date:** As of May 2019
@@ -30,4 +30,3 @@ The United States Government must support the development of cybersecurity skill
 The United States Government must create the organizational and technological tools required to maximize the cybersecurity talents and capabilities of American workers –-especially when those talents and capabilities can advance our national and economic security.  The Nation is experiencing a shortage of cybersecurity talent and capability, and innovative approaches are required to improve access to training that maximizes individuals’ cybersecurity knowledge, skills, and abilities.  Training opportunities, such as work-based learning, apprenticeships, and blended learning approaches, must be enhanced for both new workforce entrants and those who are advanced in their careers.
 
 In accordance with Executive Order 13800, the President will continue to hold heads of executive departments and agencies (agencies) accountable for managing cybersecurity risk to their enterprises, which includes ensuring the effectiveness of their cybersecurity workforces.
-

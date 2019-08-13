@@ -1,11 +1,21 @@
 ---
-title: CIO Council Priorities
+title: Policies & Priorities
 subtitle: Cloud
-layout: page
-permalink: /cloud/
+description: Helps government agencies fully actualize the promise and potential of cloud-based technologies while ensuring thoughtful execution that incorporates practical realities.
+permalink: /policies-and-priorities/cloud/
+layout: policy-landing
+filters: priority cloud active
+
+related-resources-1:
+related-resources-1-link:
+related-resources-2:
+related-resources-2-link:
+related-resources-3:
+related-resources-3-link:
+
 ---
 
-# What is Cloud? #
+# Priority Overview #
 Plain language description
 
 # Why This Matters to the CIO Council #

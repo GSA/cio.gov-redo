@@ -3,7 +3,7 @@ title: Policies & Priorities
 subtitle: Technology Modernization Fund
 description: Gives agencies additional ways to deliver services to the American public more quickly, better secure sensitive systems and data, and use taxpayer dollars more efficiently.
 permalink: /policies-and-priorities/TMF/
-layout: policy-landing
+layout: policy-landing active
 
 filters: fed-policy
 
@@ -11,7 +11,7 @@ date: April 26, 2019
 
 ---
 
-## Policy Summary
+# Policy Overview #
 
 **Title:** [Technology Modernization Fund (TMF)](https://tmf.cio.gov/)<br>
 **Publication/Active Date:** As of 2017

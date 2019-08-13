@@ -16,7 +16,7 @@ related-resources-3-link:
 
 date: August 1, 2016
 ---
-## Policy Summary
+# Priority Overview #
 
 **Title:** [Data Center Optimization Initiative](https://datacenters.cio.gov/)<br>
 **Publication/Active Date:** As of August 2016
