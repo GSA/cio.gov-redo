@@ -1,16 +1,16 @@
 ---
 title: Policies & Priorities
-subtitle: Identity, Credentialing, and Access Management
+subtitle: Identity, Credentialing, and Access Management (ICAM)
 description: Comprises the tools, policies and systems that allow an organization to manage, monitor and secure access to protected resources.
 permalink: /policies-and-priorities/ICAM/
 layout: policy-landing
 policy-publish-date: May 21, 2019
 filters: fed-policy cybersecurity active
 
-related-resources-1:
-related-resources-1-link:
-related-resources-2:
-related-resources-2-link:
+related-resources-1: Federal ICAM Program (FICAM)
+related-resources-1-link: https://www.gsa.gov/policy-regulations/policy/information-integrity-and-access/identity-credential-and-access-management
+related-resources-2: ICAM website
+related-resources-2-link: https://www.idmanagement.gov/
 related-resources-3:
 related-resources-3-link:
 
