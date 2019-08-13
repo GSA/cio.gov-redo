@@ -1,5 +1,5 @@
 ---
-title: A Guidepost for Council Priorities
+title: CIO Council Priorities
 subtitle: The President's Management Agenda (PMA)
 layout: page
 permalink: /pma/

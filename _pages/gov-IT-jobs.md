@@ -1,6 +1,6 @@
 ---
 title: Government IT Jobs
-subtitle: Work with us!
+subtitle: Work With Us!
 description: Search and apply for federal IT jobs. Learn about unique hiring paths for veterans, students and graduates, individuals with a disability, and more.
 layout: page
 permalink: /government-it-jobs/
@@ -15,13 +15,6 @@ Join the federal government to modernize federal IT systems and deliver the most
 
 To learn more about our job opportunities, and for helpful hints for searching and applying, visit [USA Jobs](https://www.usajobs.gov/).
 
-# Spotlight Job Opportunities
-Below are some new and/or high priority job listings in federal IT.
-
-## Sample Job 1
-Sample brief description with [link](google.com) to job listing.
-
-## Sample Job 2
-Sample brief description with [link](google.com) to job listing.
+&nbsp;
 
 <a href="{{site.baseurl}}">&#10094; &nbsp; Back to Home</a><br>
