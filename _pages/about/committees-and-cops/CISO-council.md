@@ -37,4 +37,4 @@ The [MAX Federal CISO Council Page](https://community.max.gov/display/Egov/Feder
 
 &nbsp;
 
-<a href="{{site.baseurl}}/about/members-and-leadership/">&#10094; &nbsp; Back to Members and Leadership</a><br>
+<a href="{{site.baseurl}}/about/members-and-leadership/#council-committees">&#10094; &nbsp; Back to Committee List</a><br>

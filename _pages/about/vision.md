@@ -27,12 +27,10 @@ You can learn about the policies and priorities we're currently focused on by br
 * Promoting the development and use of common performances for agency information resources management; and
 * Working with the Office of Personnel Management to assess and address the hiring, training, classification, and professional development of the [Federal IT workforce]({{ site.baseurl }}/government-it-jobs/).
 
-[You can read our read our statutory requirements in detail here.](https://www.govinfo.gov/content/pkg/PLAW-107publ347/pdf/PLAW-107publ347.pdf)
-
 # Our Vision
 The CIO Council aspires to promote a bright and prosperous future for the United States through the strategic use of Federal Information Technology. It seeks to drive efficiency and effectiveness across Government, spurring innovation, protecting and defending our resources and more effectually bringing Government services to Americans.
 
-You can also review [the CIO Council Charter](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2016/10/CIOCCharterNov2012Approved.pdf) to learn more about our Council.
+You can review [our statutory requirements](https://www.govinfo.gov/content/pkg/PLAW-107publ347/pdf/PLAW-107publ347.pdf) in detail or [the CIO Council Charter](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2016/10/CIOCCharterNov2012Approved.pdf) to learn more about us.
 &nbsp;
 
 <a href="{{site.baseurl}}">&#10094; &nbsp; Back to Home</a><br>
