@@ -3,9 +3,9 @@ title: Policies & Priorities
 subtitle: Technology Modernization Fund
 description: Gives agencies additional ways to deliver services to the American public more quickly, better secure sensitive systems and data, and use taxpayer dollars more efficiently.
 permalink: /policies-and-priorities/TMF/
-layout: policy-landing active
+layout: policy-landing
 
-filters: fed-policy
+filters: fed-policy active
 
 date: April 26, 2019
 
