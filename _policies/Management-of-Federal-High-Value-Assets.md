@@ -5,7 +5,7 @@ description: Informs agencies how to manage their high-value assets — data and
 permalink: /policies-and-priorities/management-HVA/
 layout: policy-landing
 policy-publish-date: December 10, 2018
-filters: fed-policy active
+filters: fed-policy it-spending cybersecurity active
 
 related-resources-1:
 related-resources-1-link:

@@ -5,10 +5,10 @@ description: Requires federal executive departments and agencies to use a discip
 permalink: /policies-and-priorities/cpic/
 layout: policy-landing
 policy-publish-date: February 10, 1996
-filters: priority it-budgeting active
+filters: priority it-spending acquisition active
 
-related-resources-1: FITARA
-related-resources-1-link: www.management.cio.gov
+related-resources-1:
+related-resources-1-link:
 related-resources-2:
 related-resources-2-link:
 related-resources-3:

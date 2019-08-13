@@ -5,7 +5,7 @@ description: Grow the cybersecurity capability of the United States Government, 
 permalink: /policies-and-priorities/21st-century-IDEA-act/
 layout: policy-landing
 policy-publish-date: May 2, 2019
-filters: fed-policy web cybersecurity workforce in-development
+filters: fed-policy web cybersecurity workforce active
 
 related-resources-1:
 related-resources-1-link:

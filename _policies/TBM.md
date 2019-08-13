@@ -4,7 +4,7 @@ subtitle: Technology Business Management
 description: Enables organizations to disaggregate IT spending into smaller, consistent categories to provide CIOs and other C-suite executives with a more accurate and detailed understanding of their organization’s IT costs.
 permalink: /policies-and-priorities/tbm/
 layout: policy-landing
-filters: priority it-budgeting active
+filters: priority it-spending active
 
 related-resources-1: FITARA
 related-resources-1-link: www.management.cio.gov
