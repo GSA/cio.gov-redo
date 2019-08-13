@@ -5,12 +5,12 @@ description: Requires agencies to optimize and consolidate data centers to deliv
 permalink: /policies-and-priorities/DCOI/
 layout: policy-landing
 policy-publish-date: August 1, 2016
-filters: priority cloud active
+filters: priority cloud data-center-consolidation active
 
-related-resources-1: Cloud Smart Strategy
-related-resources-1-link: www.cloud.cio.gov
-related-resources-2: FITARA
-related-resources-2-link: www.nist.gov/sites/default/files/documents/2017/05/11/doc2017financialmanagementconference-fitara.pdf
+related-resources-1:
+related-resources-1-link:
+related-resources-2:
+related-resources-2-link:
 related-resources-3:
 related-resources-3-link:
 
