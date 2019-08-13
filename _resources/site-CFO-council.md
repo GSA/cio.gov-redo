@@ -1,7 +1,7 @@
 ---
 title: Federal CFO Council Website
 description: The Federal Chief Financial Officers Council website.
-permalink: www.cfo.gov/
+permalink: //cfo.gov/
 internal: no
 filters: website council-operations current
 type: website

@@ -18,7 +18,6 @@
         {% endif %}
 
           <div class="text-container">
-          <!--<p class="date">{{ resources.date | date: "%b %d, %y" }}</p> NOT SURE WE NEED DATE-->
           {% if resources.filters contains 'report' %}
           <span class="card-tag">Report</span>
           {% endif %}
@@ -32,9 +31,8 @@
           <span class="card-tag">Website</span>
           {% endif %}
 
-          {% assign url = "https://" %}
             {% if resources.internal == 'no' %}
-            <a class="text-ink text-no-underline" href="{{ resources.permalink | prepend: url  }}">
+            <a class="text-ink text-no-underline" href="{{ resources.permalink }}">
             {% else %}
             <a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resources.permalink }}">
             {% endif %}

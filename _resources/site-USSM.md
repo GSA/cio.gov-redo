@@ -1,7 +1,7 @@
 ---
 title: Unified Shared Services Management Website
 description: The website for Unified Shared Services Management (USSM).
-permalink: www.ussm.gsa.gov/
+permalink: //ussm.gsa.gov/
 internal: no
 filters: website shared-services current
 type: website
