@@ -8,7 +8,7 @@ title: About Our Council
 position: Chief Information Officer
 agency: U.S. Department of the Army
 bio-image: /bio_crawford.png
-bio-image-alt-text: LTG BRUCE T. CRAWFORD
+bio-image-alt-text: LTG Bruce T. Crawford
 bio-phone:
 bio-email:
 ---

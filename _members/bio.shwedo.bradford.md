@@ -8,7 +8,7 @@ title: About Our Council
 position: Chief Information Officer
 agency: U.S. Department of the Air Force
 bio-image: /bio_shwedo.png
-bio-image-alt-text: LT. GEN. BRADFORD J. "B.J." SHWEDO
+bio-image-alt-text: LT. Gen. Bradford J. Shwedo
 bio-phone:
 bio-email:
 ---

@@ -40,11 +40,11 @@ dap_agency: GSA
 primary_navigation:
   - name: About Our Council
     children:
-      - name: Our Purpose and Vision
+      - name: Purpose and Vision
         url: /about/vision/
-      - name: Our Members and Leadership
+      - name: Members and Leadership
         url: /about/members-and-leadership/
-      - name: Our Meetings and Operations
+      - name: Meetings and Operations
         url: /about/operations/
   - name: Policies & Priorities
     url: /policies-and-priorities/

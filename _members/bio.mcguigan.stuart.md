@@ -8,7 +8,7 @@ title: About Our Council
 position: Chief Information Officer
 agency: Department of State
 bio-image: /bio_mcguigan.jpg
-bio-image-alt-text: Mr. Stuart McGuigan
+bio-image-alt-text: Stuart McGuigan
 bio-phone: Coming soon
 bio-email: CIO@state.gov
 ---
