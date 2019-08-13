@@ -2,7 +2,6 @@
 layout: tag_index
 title: Policy
 tag: policy
-subtitle: Description needs to go here.
-subtitle: Description needs to go here.
+subtitle: News articles related to policy
 permalink: /tags/policy/
 ---

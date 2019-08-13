@@ -2,6 +2,6 @@
 layout: tag_index
 title: IT Infrastructure
 tag: it-infrastructure
-subtitle: Description needs to go here.
+subtitle: News articles related to IT infrastructure
 permalink: /tags/it-infrastructure/
 ---

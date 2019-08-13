@@ -2,6 +2,6 @@
 layout: tag_index
 title: Mobility
 tag: mobility
-subtitle: Description needs to go here.
+subtitle: News articles related to mobility
 permalink: /tags/mobility/
 ---

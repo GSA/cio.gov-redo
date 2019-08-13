@@ -2,6 +2,6 @@
 layout: tag_index
 title: Cybersecurity
 tag: cybersecurity
-subtitle: Description needs to go here.
+subtitle: News articles related to cybersecurity
 permalink: /tags/cybersecurity/
 ---

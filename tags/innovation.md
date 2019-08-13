@@ -1,7 +1,7 @@
 ---
 layout: tag_index
-title: innovation
+title: Innovation
 tag: innovation
-subtitle: Description needs to go here.
+subtitle: News articles related to IT innovation
 permalink: /tags/innovation/
 ---
