@@ -31,7 +31,12 @@
           <span class="card-tag">Website</span>
           {% endif %}
 
-            <a  class="text-ink text-no-underline" name="external-resource" href="http://{{ resources.external_url }}">
+          {% if resources.external_url %}
+            <a  class="text-ink text-no-underline" href="http://{{ resources.external_url }}">
+          {% endif %}
+          {% if resources.permalink %}
+          <a  class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resources.permalink }}">
+          {% endif %}
             <!--for 508 accessibility-->
             <p class="title-resources">{{ resources.title }}</p>
             </a>
