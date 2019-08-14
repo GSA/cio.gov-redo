@@ -94,7 +94,7 @@ collections:
   events:
     output: true
   resources:
-    output: false
+    output: true
   policies:
     output: true
   members:
