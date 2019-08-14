@@ -6,7 +6,7 @@ permalink: /policies-and-priorities/TMF/
 layout: policy-landing
 
 filters: fed-policy modernization it-spending active
-
+related-resources-url: /resources/#subject=*&role=.it-spending&status=*
 date: April 26, 2019
 
 ---

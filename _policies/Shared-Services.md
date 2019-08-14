@@ -6,14 +6,7 @@ permalink: /policies-and-priorities/shared-services/
 layout: policy-landing
 policy-publish-date: April 26, 2019
 filters: fed-policy shared-services active
-
-related-resources-1:
-related-resources-1-link:
-related-resources-2:
-related-resources-2-link:
-related-resources-3:
-related-resources-3-link:
-
+related-resources-url: /resources/#subject=*&role=.shared-services&status=*
 date: April 26, 2019
 ---
 # Policy Overview #

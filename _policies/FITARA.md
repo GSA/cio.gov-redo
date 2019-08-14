@@ -6,14 +6,7 @@ permalink: /policies-and-priorities/FITARA/
 layout: policy-landing
 policy-publish-date: January 1, 2018
 filters: fed-policy it-modernization governance active
-
-related-resources-1:
-related-resources-1-link:
-related-resources-2:
-related-resources-2-link:
-related-resources-3:
-related-resources-3-link:
-
+related-resources-url: /homepage/resources/#subject=*&role=.modernization&status=*
 date: July 24, 2019
 ---
 # Policy Summary #

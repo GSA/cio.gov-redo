@@ -5,13 +5,7 @@ description: To address the threats posed on our nation’s cybersecurity defens
 permalink: /policies-and-priorities/cybersecurity/
 layout: policy-landing
 filters: priority cybersecurity active
-
-related-resources-1:
-related-resources-1-link:
-related-resources-2:
-related-resources-2-link:
-related-resources-3:
-related-resources-3-link:
+related-resources-url: /resources/#subject=*&role=.cybersecurity&status=*
 ---
 
 # Priority Overview #

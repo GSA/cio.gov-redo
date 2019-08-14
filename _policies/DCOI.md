@@ -6,14 +6,7 @@ permalink: /policies-and-priorities/DCOI/
 layout: policy-landing
 policy-publish-date: August 1, 2016
 filters: priority cloud data-center-consolidation active
-
-related-resources-1:
-related-resources-1-link:
-related-resources-2:
-related-resources-2-link:
-related-resources-3:
-related-resources-3-link:
-
+related-resources-url: /homepage/resources/#subject=*&role=.data-center-consolidation&status=*
 date: August 1, 2016
 ---
 # Priority Overview #
