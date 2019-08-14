@@ -31,11 +31,9 @@
           <span class="card-tag">Website</span>
           {% endif %}
 
-            {% if resources.internal == 'no' %}
-            <a  class="text-ink text-no-underline" name="external-resource" href="http://{{ resources.permalink }}">
-            {% else %}
-            <a class="text-ink text-no-underline" name="internal-resource" href="{{ site.baseurl }}{{ resources.permalink }}">
-            {% endif %}
+            <a  class="text-ink text-no-underline" name="external-resource" href="{{ resources.permalink }}">
+
+
             <!--for 508 accessibility-->
             <p class="title-resources">{{ resources.title }}</p>
             </a>
