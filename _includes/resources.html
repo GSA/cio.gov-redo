@@ -31,11 +31,7 @@
           <span class="card-tag">Website</span>
           {% endif %}
 
-            {% if resources.internal == 'no' %}
             <a class="text-ink text-no-underline" name="external-resource" href="http://fpc.gov">
-            {% else %}
-            <a class="text-ink text-no-underline" name="internal-resource" href="{{ site.baseurl }}{{ resources.permalink }}">
-            {% endif %}
             <!--for 508 accessibility-->
             <p class="title-resources">{{ resources.title }}</p>
             </a>
