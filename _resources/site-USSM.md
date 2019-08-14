@@ -7,5 +7,5 @@ filters: website shared-services current
 type: website
 category: shared-services
 status: current
-
+redirect_to: https://ussm.gsa.gov/
 ---
