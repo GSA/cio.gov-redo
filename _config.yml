@@ -94,7 +94,7 @@ collections:
   events:
     output: true
   resources:
-    output: true
+    output: false
   policies:
     output: true
   members:
@@ -102,7 +102,6 @@ collections:
   leadership:
     output: true
 
-permalink: pretty
 
 
 markdown: kramdown
