@@ -32,7 +32,7 @@
           {% endif %}
 
             {% if resources.internal == 'no' %}
-            <a  class="text-ink text-no-underline" name="external-resource" href="http://{{ resources.external-url }}">
+            <a  class="text-ink text-no-underline" name="external-resource" href="{{ resources.external-url }}">
             {% else %}
             <a class="text-ink text-no-underline" name="internal-resource" href="{{ site.baseurl }}{{ resources.permalink }}">
             {% endif %}
