@@ -6,14 +6,7 @@ permalink: /policies-and-priorities/management-HVA/
 layout: policy-landing
 policy-publish-date: December 10, 2018
 filters: fed-policy it-spending cybersecurity active
-
-related-resources-1:
-related-resources-1-link:
-related-resources-2:
-related-resources-2-link:
-related-resources-3:
-related-resources-3-link:
-
+related-resources-url: /resources/#subject=*&role=.cybersecurity&status=*
 date: December 10, 2018
 ---
 # Policy Overview #

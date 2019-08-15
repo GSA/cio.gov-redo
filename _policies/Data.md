@@ -5,14 +5,7 @@ description: The Federal Government needs a robust, integrated approach to using
 permalink: /policies-and-priorities/data/
 layout: policy-landing
 filters: priority data active
-
-related-resources-1:
-related-resources-1-link:
-related-resources-2:
-related-resources-2-link:
-related-resources-3:
-related-resources-3-link:
-
+related-resources-url: /homepage/resources/#subject=*&role=.data-center-consolidation&status=*
 ---
 
 # Priority Overview #

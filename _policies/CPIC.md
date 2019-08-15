@@ -6,15 +6,7 @@ permalink: /policies-and-priorities/cpic/
 layout: policy-landing
 policy-publish-date: February 10, 1996
 filters: priority it-spending acquisition active
-
-related-resources-1:
-related-resources-1-link:
-related-resources-2:
-related-resources-2-link:
-related-resources-3:
-related-resources-3-link:
-
-
+related-resources-url: /resources/#subject=*&role=.it-spending&status=*
 ---
 # Priority Overview #
 

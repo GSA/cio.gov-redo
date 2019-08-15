@@ -6,14 +6,7 @@ permalink: /policies-and-priorities/ICAM/
 layout: policy-landing
 policy-publish-date: May 21, 2019
 filters: fed-policy cybersecurity active
-
-related-resources-1: Federal ICAM Program (FICAM)
-related-resources-1-link: https://www.gsa.gov/policy-regulations/policy/information-integrity-and-access/identity-credential-and-access-management
-related-resources-2: ICAM website
-related-resources-2-link: https://www.idmanagement.gov/
-related-resources-3:
-related-resources-3-link:
-
+related-resources-url: /homepage/resources/#subject=.website&role=.cybersecurity&status=*
 date: May 21, 2019
 
 ---

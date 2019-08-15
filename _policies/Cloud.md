@@ -5,14 +5,7 @@ description: Helps government agencies fully actualize the promise and potential
 permalink: /policies-and-priorities/cloud/
 layout: policy-landing
 filters: priority cloud active
-
-related-resources-1:
-related-resources-1-link:
-related-resources-2:
-related-resources-2-link:
-related-resources-3:
-related-resources-3-link:
-
+related-resources-url: /homepage/resources/#subject=*&role=.cloud&status=*
 ---
 
 # Priority Overview #

@@ -5,14 +5,7 @@ description: Enables organizations to disaggregate IT spending into smaller, con
 permalink: /policies-and-priorities/tbm/
 layout: policy-landing
 filters: priority it-spending active
-
-related-resources-1: FITARA
-related-resources-1-link: www.management.cio.gov
-related-resources-2:
-related-resources-2-link:
-related-resources-3:
-related-resources-3-link:
-
+related-resources-url: /resources/#subject=.website&role=.it-spending&status=*
 date: April 26, 2019
 
 ---

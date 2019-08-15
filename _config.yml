@@ -102,7 +102,6 @@ collections:
   leadership:
     output: true
 
-permalink: pretty
 
 
 markdown: kramdown

@@ -6,14 +6,7 @@ permalink: /policies-and-priorities/21st-century-IDEA-act/
 layout: policy-landing
 policy-publish-date: May 2, 2019
 filters: fed-policy web cybersecurity workforce active
-
-related-resources-1:
-related-resources-1-link:
-related-resources-2:
-related-resources-2-link:
-related-resources-3:
-related-resources-3-link:
-
+related-resources-url: /resources/#subject=.website&role=.modernization&status=*
 date: May 2, 2018
 ---
 # Policy Overview #
