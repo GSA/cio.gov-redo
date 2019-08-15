@@ -1,7 +1,8 @@
 <footer class="usa-footer site-footer" role="contentinfo">
   <div class="footer-section-bottom bg-primary-darker">
     <div class="grid-container">
-      <div class="grid-row padding-3">
+    <div class="usa-graphic-list__row grid-row grid-gap padding-3">
+
         <div class="tablet:grid-col">
           <div class="logo-links">
             <a class="footer-logo media_link" href="https://www.cio.gov/">
@@ -9,42 +10,40 @@
             </a>
           </div>
         </div>
+
         <div class="tablet:grid-col">
           <ul class="add-list-reset">
-            {% if site.footer.contact.facebook %}
-            <li><a class="usa-link-facebook" href="https://facebook.com/{{ facebook }}">
-                <font color="white">Facebook</font>
-              </a></li>
-            {% endif %}
-            {% if site.footer.contact.youtube %}
-            <li><a class="usa-link-youtube" href="https://youtube.com/{{ youtube }}">
-                <font color="white">YouTube</font>
-              </a></li>
-            {% endif %}
-            <li><a href="https://www.fpc.gov/">Federal Privacy Council</li>
-            <li><a href="https://www.pic.gov/">Perf. Improvement Council</li>
-            <li><a href="https://www.performance.gov/">Performance.gov</li>
+            <li><a href="https://www.fpc.gov/">Federal Privacy Council</a></li>
+            <li><a href="https://www.pic.gov/">Perf. Improvement Council</a></li>
+            <li><a href="https://www.performance.gov/">Performance.gov</a></li>
           </ul>
         </div>
+
         <div class="tablet:grid-col">
           <ul class="add-list-reset">
-            <li><a href="https://cfo.gov/">Federal CFO Council</li>
-            <li><a href="https://chcoc.gov/">Federal CHCO Council</li>
-            <li><a href="https://www.acquisition.gov/cao-home">Federal CAO Council</li>
+            <li><a href="https://cfo.gov/">Federal CFO Council</a></li>
+            <li><a href="https://chcoc.gov/">Federal CHCO Council</a></li>
+            <li><a href="https://www.acquisition.gov/cao-home">Federal CAO Council</a></li>
           </ul>
         </div>
+
         <div class="tablet:grid-col privacy">
           <ul class="add-list-reset">
             <li><a class="usa-link-rss" href="{{ site.baseurl }}/feed.xml">RSS feed</a></li>
-            <li><a href="{{ site.baseurl}}/privacy-statement/">Privacy Statement </a> <br> <a href="{{site.baseurl}}/accessibility-policy/">Accessibility Policy</a></li>
+            <li><a href="{{ site.baseurl}}/privacy-statement/">Privacy Statement </a></li>
+            <li><a href="{{site.baseurl}}/accessibility-policy/">Accessibility Policy</a></li>
+            <li><a href="mailto:feedback@cio.gov" title="Contact CIO support">Contact Us</a></li>
+
           </ul>
         </div>
+
         <div class="tablet:grid-col-2">
           <ul class="add-list-reset">
-            <li><a href="https://twitter.com/ciodotgov?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" class="fa fa-twitter"></a></li>
-            <li><a href="mailto:feedback@cio.gov" class="fa fa-envelope"></a></li>
+            <li><a  title=" blue twitter icon" href="https://twitter.com/ciodotgov?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" class="fa fa-twitter"></a></li>
+            <li><a  title="red envelope icon" href="mailto:feedback@cio.gov" class="fa fa-envelope"></a></li>
           </ul>
         </div>
+
       </div>
     </div>
   </div>
@@ -76,7 +75,9 @@
 
   ga('send', 'pageview');
 </script>
+
 {% include searchgov/script.html affiliate=site.searchgov_affiliate %}
+
 <script src="{{site.baseurl}}/assets/uswds/js/uswds.min.js"></script>
 
 <script src="{{site.baseurl}}/assets/js/jquery-3.4.1.min.js"></script>
