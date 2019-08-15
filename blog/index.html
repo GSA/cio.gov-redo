@@ -11,18 +11,22 @@ pagination:
     <h2 class="text-white font-serif-xl margin-top-0 margin-bottom-0 text-bold"> Articles from the CIO Council & Our Partners </h2>
   </div>
 </div>
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="desktop:grid-col-8 usa-prose padding-right-4">
+
       <!-- This loops through the paginated posts -->
       {% for post in paginator.posts %}
       <div class="padding-bottom-4 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
         <h3 class="title"><a class="usa-link text-no-underline" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h3>
+
         <div class="text-base margin-bottom-2">
           <div class="margin-top-neg-105"><font color="black">
             By <span class="text-bold">{{ post.author }}</span> · {{ post.date | date: '%B %d, %Y' }}</font>
           </div>
         </div>
+
         <div>
           {% if post.image %}
           <img class="tablet:float-left width-15 padding-right-2 padding-top-1 padding-bottom-2" style="width:120px;height:120px;object-fit:cover;" src="{{ site.baseurl }}/assets/images/blog/{{ post.image }}" alt="{{ post.img-alt }}" />
@@ -44,6 +48,7 @@ pagination:
            {% endfor %}
            {% endif %}
          </div>
+
        </div>
      </div>
      {% endfor %}
