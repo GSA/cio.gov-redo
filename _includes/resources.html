@@ -1,3 +1,5 @@
+<!--********Generates resource catalog items. Individual cards live in the in the _presources folder**************-->
+
 <div class="usa-media-block tablet:grid-col-9">
   <div class="policies" >
     {% for resources in site.resources %}
@@ -32,17 +34,15 @@
           {% endif %}
 
           {% if resources.external_url %}
-            <a  class="text-ink text-no-underline" href="http://{{ resources.external_url }}">
+          <p class="title-resources"><a title="resource title" class="text-ink text-no-underline" href="http://{{ resources.external_url }}">{{ resources.title }}</a></p>
           {% endif %}
           {% if resources.permalink %}
-          <a  class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resources.permalink }}">
+          <p class="title-resources"><a title="resource title" class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resources.permalink }}">{{ resources.title }}</a></p>
           {% endif %}
             <!--for 508 accessibility-->
-            <p class="title-resources">{{ resources.title }}</p>
-            </a>
-          <!--  <p class="description">{{ policies.description }}</p>-->
         </div>
       </div>
+
     </div>
   {% endfor %}
     </div>
