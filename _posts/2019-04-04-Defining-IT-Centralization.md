@@ -5,7 +5,7 @@ excerpt: Ever wonder why prioritizing users is so important during IT centraliza
 date: April 8, 2019
 display-date: 8 April 2019
 author: Erin Strenio, Content Designer at 18F and Amy Ashida, UX Designer at 18F
-tags:
+tags: 2019 PMA
 
 image: 2019.04.04.18F-Logo-M.png
 img-alt: 18F Logo

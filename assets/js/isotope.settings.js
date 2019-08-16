@@ -3,7 +3,6 @@
 // Losely based on: http://isotope.metafizzy.co/filtering.html#url-hash
 
 jQuery(document).ready(function ($) {
-
     var $container = $(".policies");
 
     // Filter isotope
@@ -16,15 +15,12 @@ jQuery(document).ready(function ($) {
         }
     });
 
-
     // Alphabetical sort
     // Sort items alphabetically based on course title
     var sortValue = false;
-
     $(".sort").on("click", function(){
         // Get current URI hash
         var currentHash = location.hash;
-
         // If button is currently unchecked:
         if ( $(this).hasClass("checked") ) {
             // Set sort to false
@@ -39,30 +35,24 @@ jQuery(document).ready(function ($) {
         }
     });
 
-
     // Set up filters array with default values
     var filters = {};
-
     // When a button is pressed, run filterSelect
     $( ".filter-list a" ).on( "click", filterSelect );
-
     // Set the URI hash to the current selected filters
     function filterSelect() {
         // Current hash value
         var hashFilter = getHashFilter();
-
         // Set filters to current values (important for first run)
         filters["subject"] = hashFilter["subject"];
         filters["role"] = hashFilter["role"];
         filters["status"] = hashFilter["status"];
-
         // data-filter attribute of clicked button
         var currentFilter = $(this).attr("data-filter");
         // Navigation group (subject or role) as object
         var $navGroup = $(this).parents(".filter-list");
         // data-filter-group key for the current nav group
         var filterGroup = $navGroup.attr("data-filter-group");
-
         // If the current data-filter attribute matches the current filter,
         if ( currentFilter == hashFilter["subject"] || currentFilter == hashFilter["role"] || currentFilter == hashFilter["status"] ) {
             // Reset group filter as the user has unselected the button
@@ -71,18 +61,15 @@ jQuery(document).ready(function ($) {
             // Set data-filter of current button as value with filterGroup as key
             filters[ filterGroup ] = $(this).attr("data-filter");
         }
-
         // Create new hash
         var newHash = "subject=" + encodeURIComponent( filters["subject"] ) + "&role=" + encodeURIComponent( filters["role"] ) + "&status=" + encodeURIComponent( filters["status"] );
         // If sort value exists, add it to hash
         if ( sortValue ) {
             newHash = newHash + "&sort=" + encodeURIComponent( sortValue );
         }
-
         // Apply the new hash to the URI, triggering onHahschange()
         location.hash = newHash;
     } // filterSelect
-
 
     function onHashChange() {
         // Current hash value
