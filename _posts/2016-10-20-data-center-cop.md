@@ -25,7 +25,7 @@ In alignment with the Office of Management and Budget (OMB) Memorandum M-16-19, 
 
 On September 28, 2016, GSA released the [Federal Data Center Inter-Agency Shared Service Provider (ISSP) Application Guidance](http://go.usa.gov/xkVD7). This memo establishes the ISSP designation process, and FY17 ISSP criteria and application deadlines. If your agency is interested in becoming an ISSP, submit the [EOI form](http://go.usa.gov/xKzrR) to the DCOI Managing Partner at [dcoi@gsa.gov](mailto:dcoi@gsa.gov) by October 27, 2016.
 
-Save the Date and Get Involved
+**Save the Date and Get Involved**
 
 The next CoP meeting will be held on Wednesday, November 2 starting at 10:30am. Recaps of the Q&A session hosted in each session will be published on [datacenters.cio.gov](http://go.usa.gov/xkVDE).
 

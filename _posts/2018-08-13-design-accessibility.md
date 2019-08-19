@@ -13,7 +13,7 @@ img-alt: Image of two individuals planning on a whiteboard
 permalink:
 ---
 
-_This blog was first posted on [GSABlog](https://www.gsa.gov/blog/2018/08/07/Collaborating-for-Better-Design-Technology-and-User-Experience-0) on August 7th, 2018_
+_This blog was first posted on [GSABlog](https://www.gsa.gov/blog/2018/08/07/collaborating-for-better-design-technology-and-user-experience) on August 7th, 2018_
 
 In February 2018, the White House released its [implementation plan](https://www.whitehouse.gov/wp-content/uploads/2017/11/M-18-12.pdf) [pdf] to modernize IT infrastructure across the federal government. As a result, several initiatives are underway to achieve this goal. Paying specific attention to mobile friendliness, customer experience, and innovation, the federal government is changing how we approach design, development and user experience. GSA’s Office of Government-wide Policy (OGP) is working to align with these initiatives, and improve collaboration to promote a unified message about IT design and accessibility.
 
