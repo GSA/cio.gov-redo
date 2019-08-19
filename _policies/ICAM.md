@@ -6,7 +6,7 @@ permalink: /policies-and-priorities/ICAM/
 layout: policy-landing
 policy-publish-date: May 21, 2019
 filters: fed-policy cybersecurity active
-related-resources-url: /homepage/resources/#subject=.website&role=.cybersecurity&status=*
+related-resources-url: /resources/#subject=.website&role=.cybersecurity&status=*
 date: May 21, 2019
 
 ---

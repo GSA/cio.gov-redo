@@ -6,7 +6,7 @@ permalink: /policies-and-priorities/federal-data-strategy/
 layout: policy-landing
 policy-publish-date:
 filters: priority data active
-related-resources-url: /homepage/resources/#subject=*&role=.data-center-consolidation&status=*
+related-resources-url: /resources/#subject=*&role=.data-center-consolidation&status=*
 date: April 26, 2019
 
 ---

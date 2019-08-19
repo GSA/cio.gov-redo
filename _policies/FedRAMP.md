@@ -6,7 +6,7 @@ permalink: /policies-and-priorities/FedRAMP/
 layout: policy-landing
 policy-publish-date:
 filters: priority cloud cybersecurity modernization acquisition revision
-related-resources-url: /homepage/resources/#subject=*&role=.modernization&status=*
+related-resources-url: /resources/#subject=*&role=.modernization&status=*
 date: April 26, 2019
 ---
 # Priority Summary #
