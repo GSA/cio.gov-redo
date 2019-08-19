@@ -17,7 +17,7 @@ The Federal Cybersecurity Reskilling Academy was a series of professional develo
 
 Additionally, Academy participants could complete extracurricular activities and exercises to enhance their learning and skills development, such as online games and cyber competitions. Participants received career mentorship and soft skills guidance to help them prepare for re-deploying into the cybersecurity workforce.
 
-## Event Dates
+# Event Dates
 This program has ended. Thank you for your interest! Please contact us at [feedback@cio.gov](mailto:feedback@cio.gov) with questions.
 
 &nbsp;

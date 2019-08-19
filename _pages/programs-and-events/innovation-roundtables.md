@@ -16,9 +16,9 @@ The Innovation Roundtable is designed to connect subject matter experts to focus
 
 # The Program
 
-The Innovation Roundtable is a series of 2-hour forums. Attendance is limited to the first 20 attendees, and is targeted at CIOs, DCIOs, CTOs, CISOs, and CIO senior advisors. We request that no more than 2 representatives for a single agency RSVP. Roundtables are held at General Services Administration (GSA) headquarters at 1800 F Street NW, Washington, DC. Event schedule below. 
+The Innovation Roundtable is a series of 2-hour forums. Attendance is limited to the first 20 attendees, and is targeted at CIOs, DCIOs, CTOs, CISOs, and CIO senior advisors. We request that no more than 2 representatives for a single agency RSVP. Roundtables are held at General Services Administration (GSA) headquarters at 1800 F Street NW, Washington, DC. Event schedule below.
 
-## Event Dates
+# Event Dates
 
 {% for events in site.events %}
 {% if events.title contains 'Innovation Roundtable' %}
