@@ -6,7 +6,7 @@ permalink: /policies-and-priorities/FISMA/
 layout: policy-landing
 policy-publish-date:
 filters: fed-policy cybersecurity active
-related-resources-url: /homepage/resources/#subject=*&role=.cybersecurity&status=*
+related-resources-url: /resources/#subject=*&role=.cybersecurity&status=*
 date: April 26, 2019
 ---
 # Policy Overview #
