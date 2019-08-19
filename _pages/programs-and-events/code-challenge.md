@@ -25,14 +25,14 @@ The #CIOCode Challenge pilot program began May 6 and ended August 7th. It includ
 
 The results of the challenge may be shared to refer coding challenge participants, including current and former Federal employees, to Federal agencies as applicants. Participants are then considered for employment, transfer, reassignment, reinstatement, or promotion.
 
-## Past and Upcoming Events
+## Event Dates
 
 {% for events in site.events %}
 {% if events.title contains 'Code' %}
 
   <div class="padding-bottom-3 margin-top-1">
 
-      <img class="tablet:float-left width-15 padding-right-2 padding-top-0 padding-bottom-2" style="width:150px;height:150px;object-fit:cover;" src="{{ site.baseurl }}/assets/images/blog/{{ events.image }}" alt="{{ events.img-alt }}" />
+      <img class="tablet:float-left width-15 padding-right-2 padding-top-0 padding-bottom-2" style="width:150px;height:150px;object-fit:cover;" src="{{ site.baseurl }}/assets/images/events/{{ events.image }}" alt="{{ events.img-alt }}" />
 
       <p class="card-tag">
         {% if events.start-date %}

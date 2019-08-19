@@ -12,18 +12,18 @@ The CIO Bootcamp & eXchange event brings together new and seasoned CIOs, CISOs, 
 
 # The Program
 
-This full day event will be held on Tuesday, August 29th, at the U.S. Department of Education. Bootcamp will be broken in two half-day agendas. 
+This full day event will be held on Tuesday, August 29th, at the U.S. Department of Education. Bootcamp will be broken in two half-day agendas.
 - During the first half of the day, *new* CIOs, DCIOs, CISOs, and DCISOs will discuss the CIO Council priorities, committee work, communities of practice, and current work groups.
 - During the second half of the day, *all* CIOs, DCIOs, CISOs, and DCISOs will come together to discuss common hurdles, share best practices, an envision future priorities.
 
-## Past and Upcoming Events
+## Event Dates
 
 {% for events in site.events %}
 {% if events.title contains 'Bootcamp' %}
 
   <div class="padding-bottom-3 margin-top-1">
 
-      <img class="tablet:float-left width-15 padding-right-2 padding-top-0 padding-bottom-2" style="width:150px;height:150px;object-fit:cover;" src="{{ site.baseurl }}/assets/images/blog/{{ events.image }}" alt="{{ events.img-alt }}" />
+      <img class="tablet:float-left width-15 padding-right-2 padding-top-0 padding-bottom-2" style="width:150px;height:150px;object-fit:cover;" src="{{ site.baseurl }}/assets/images/events/{{ events.image }}" alt="{{ events.img-alt }}" />
 
       <p class="card-tag">
         {% if events.start-date %}
