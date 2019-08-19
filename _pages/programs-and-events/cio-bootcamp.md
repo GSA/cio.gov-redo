@@ -1,6 +1,6 @@
 ---
 title: Council Programs and Events
-subtitle: CIO Bootcamp
+subtitle: CIO Bootcamp & eXchange
 layout: page
 permalink: /programs-and-events/cio-bootcamp/
 ---
@@ -8,11 +8,13 @@ permalink: /programs-and-events/cio-bootcamp/
 
 # The Vision
 
-Placeholder.
+The CIO Bootcamp & eXchange event brings together new and seasoned CIOs, CISOs, and their Deputies. The goal is to help agency IT leadership learn more about the CIO Council and how to get involved in advancing Council priorities.
 
 # The Program
 
-Placeholder.
+This full day event will be held on Tuesday, August 29th, at the U.S. Department of Education. Bootcamp will be broken in two half-day agendas. 
+- During the first half of the day, *new* CIOs, DCIOs, CISOs, and DCISOs will discuss the CIO Council priorities, committee work, communities of practice, and current work groups.
+- During the second half of the day, *all* CIOs, DCIOs, CISOs, and DCISOs will come together to discuss common hurdles, share best practices, an envision future priorities.
 
 ## Past and Upcoming Events
 
