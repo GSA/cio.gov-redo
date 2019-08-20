@@ -1,8 +1,19 @@
 <!--this section is for upcoming events for the cio council. The events pull from  ......-->
-<h3>Upcoming events</h3>
+<h3><a class="text-no-underline" href="{{ site.baseurl }}/programs-and-events/">Upcoming events</a></h3>
+{% assign today_date = 'now' | date:'%s' %}
 
-{% for events in site.events limit:4 %}
-  <p class="date">{{ events.end-date }}</p>
-  <p class="title">{{ events.title }}</p>
+{% for events in site.events  %}
+{% assign event_date = events.end-date | date: '%s' %}
+{% if event_date >= today_date and events.featured  %}
+
+<p class="card-tag">
+  {% if events.start-date %}
+  {{ events.start-date | date: '%a, %b %d, %y' }} -
+  {% endif %}
+  {{ events.end-date | date: '%a, %b %d, %y' }}
+</p>
+  <p class="title-news padding-top-1">{{ events.title }}</p>
   <p class="description">{{ events.description }}</p>
+
+{% endif %}
 {% endfor %}
