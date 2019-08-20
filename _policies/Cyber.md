@@ -6,6 +6,7 @@ permalink: /policies-and-priorities/cybersecurity/
 layout: policy-landing
 filters: priority cybersecurity active
 related-resources-url: /resources/#subject=*&role=.cybersecurity&status=*
+related-policies-url: /policies-and-priorities/#subject=*&role=.cybersecurity&status=*
 ---
 
 # Priority Overview #
@@ -13,7 +14,4 @@ Our Nation's security and economic prosperity depend on the stability and integr
 
 # Why This Matters to the CIO Council #
 In order to address the threats posed on our nation’s cybersecurity defenses, the Federal Government must continue to advance technical and policy protection capabilities for national systems. We must also expand partnerships with the private sector and work with Congress to clarify roles and responsibilities.
-
 &nbsp;
-
-[Review more about Cybersecurity in the Policy and Priority Catalog]({{site.baseurl}}/policies-and-priorities/#subject=*&role=.cybersecurity&status=*)

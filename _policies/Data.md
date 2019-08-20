@@ -5,7 +5,7 @@ description: The Federal Government needs a robust, integrated approach to using
 permalink: /policies-and-priorities/data/
 layout: policy-landing
 filters: priority data active
-related-resources-url: /homepage/resources/#subject=*&role=.data-center-consolidation&status=*
+related-policies-url: /policies-and-priorities/#subject=*&role=.data&status=*
 ---
 
 # Priority Overview #
@@ -16,7 +16,4 @@ Thee Administration is focused on [Leveraging Data as a Strategic Asset](https:/
 - better govern and leverage the Federal Government’s data;
 - enable government data to be accessible and useful for the American public, businesses, and researchers; and
 - improve the use of data for decision-making and accountability for the Federal Government, including for policy-making, innovation, oversight, and learning."
-
 &nbsp;
-
-[Review more about Data in the Policy and Priority Catalog]({{site.baseurl}}/policies-and-priorities/#subject=*&role=.data&status=*)

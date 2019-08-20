@@ -1,7 +1,7 @@
 ---
 title: Policies & Priorities
 subtitle: Cloud
-description: Helps government agencies fully actualize the promise and potential of cloud-based technologies while ensuring thoughtful execution that incorporates practical realities.
+description: The focus on Cloud helps federal agencies achieve the benefits of cloud computing as quickly as possible.
 permalink: /policies-and-priorities/cloud/
 layout: policy-landing
 filters: priority cloud active
@@ -18,5 +18,4 @@ Review more about Cloud at [Cloud.CIO.gov](https://cloud.cio.gov/).
 The case for using cloud capabilities in government has been clearly proven – to drive savings, to improve security, and to deliver mission-serving solutions faster.
 
 The Federal Government’s responsibility is to achieve the benefits of cloud computing as quickly as possible. Any inefficiencies negatively impact its ability to serve the American public. Cloud computing has the potential to play a major part in addressing these inefficiencies and improving government service delivery.
-
 &nbsp;

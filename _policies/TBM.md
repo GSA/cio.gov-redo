@@ -6,13 +6,12 @@ permalink: /policies-and-priorities/tbm/
 layout: policy-landing
 filters: priority it-spending active
 related-resources-url: /resources/#subject=.website&role=.it-spending&status=*
+related-policies-url: /policies-and-priorities/#subject=*&role=.it-spending&status=*
 date: April 26, 2019
 
 ---
 # Priority Overview #
 Technology Business Management (TBM) is an IT management framework that implements a standard IT spend taxonomy. In other words, a standard way to categorize IT costs, technologies, resources, applications and services. TBM enables organizations to disaggregate IT spending into smaller, consistent categories to provide CIOs and other C-suite executives with a more accurate and detailed understanding of their organization’s IT costs. This allows CIOs to identify duplicative or unnecessary spending and to make better informed decisions regarding future investments.
-
-[Review more about IT Budgeting in the Policy and Priority Catalog]({{site.baseurl}}/policies-and-priorities/#subject=*&role=.it-budgeting&status=*)
 
 # Why This Matters to the CIO Council #
 TBM is a powerful tool to further enable [Federal IT Acquisition Reform Act (FITARA)](({{site.baseurl}}/policies-and-priorities/FITARA/)) implementation and help benchmark IT spending, improve acquisitions, and better understand IT investment costs. TBM enables IT to run like a business by connecting technology to business value, building partnerships between IT and mission teams throughout agencies and breaking down data silos across organizations.
