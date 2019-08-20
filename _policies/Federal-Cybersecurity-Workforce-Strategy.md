@@ -2,7 +2,7 @@
 title: Policies & Priorities
 subtitle: Federal Cybersecurity Workforce Strategy
 description: Grow the cybersecurity capability of the United States Government, increase integration of the Federal cybersecurity workforce, and strengthen the skills of Federal information technology and cybersecurity practitioners
-permalink: /policies-and-priorities/21st-century-IDEA-act/
+permalink: /policies-and-priorities/cyber-workforce-strategy/
 layout: policy-landing
 policy-publish-date: May 2, 2019
 filters: fed-policy web cybersecurity workforce active

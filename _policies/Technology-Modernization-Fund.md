@@ -4,23 +4,17 @@ subtitle: Technology Modernization Fund
 description: Gives agencies additional ways to deliver services to the American public more quickly, better secure sensitive systems and data, and use taxpayer dollars more efficiently.
 permalink: /policies-and-priorities/TMF/
 layout: policy-landing
-
 filters: fed-policy modernization it-spending active
 related-resources-url: /resources/#subject=*&role=.it-spending&status=*
+related-policies-url: /policies-and-priorities/#subject=*&role=.it-spending&status=*
 date: April 26, 2019
 
 ---
 
 # Policy Overview #
+The [Technology Modernization Fund (TMF)](https://tmf.cio.gov/) was authorized by the Modernizing Government Technology Act of 2017. The TMF is an innovative funding vehicle that gives agencies additional ways to deliver services to the American public more quickly, better secure sensitive systems and data, and use taxpayer dollars more efficiently.
 
-**Title:** [Technology Modernization Fund (TMF)](https://tmf.cio.gov/)<br>
-**Publication/Active Date:** As of 2017
-
-The Technology Modernization Fund (TMF) was authorized by the Modernizing Government Technology Act of 2017.
-
-Approved projects receive incremental funding and technical expertise to ensure project success. The TMF received $100 million in FY 2018 to fund modernization projects, and another $25 million in FY 2019. The President’s FY 2020 Budget requests an additional $150 million.
-
-The TMF is overseen by the Technology Modernization Board, comprised of Government IT leaders representing proven expertise in technology, transformation, and operations. Agencies submit IT-related project proposals for the Board to review and consider. Agencies submit technology modernization proposals to the Board through a two-phased approval process.
+The TMF is overseen by the Technology Modernization Board, comprised of Government IT leaders representing proven expertise in technology, transformation, and operations. Agencies submit IT-related project proposals for the Board to review and consider. To receive funding from the TMF, federal agencies may submit technology modernization proposals to the Board through a two-phased approval process.
 
 **Phase One: Initial Project Proposal (IPP)**:
 Agencies submit Initial Project Proposals (IPPs), which act as a low burden pre-screen to maximize the number of unique projects the Board can review. Agencies must also confirm that funding for this project has never explicitly been denied or restricted by Congress.
