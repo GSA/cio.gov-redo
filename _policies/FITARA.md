@@ -5,8 +5,8 @@ description: Enhances the Authority of the CIO, enhances transparency and improv
 permalink: /policies-and-priorities/FITARA/
 layout: policy-landing
 policy-publish-date: January 1, 2018
-filters: fed-policy it-modernization governance active
-related-resources-url: /homepage/resources/#subject=*&role=.modernization&status=*
+filters: fed-policy modernization governance active
+
 date: July 24, 2019
 ---
 # Policy Summary #
@@ -14,7 +14,7 @@ date: July 24, 2019
 **Title:** [Federal Information Technology Acquisition Reform Act (FITARA)](https://www.nist.gov/sites/default/files/documents/2017/05/11/doc2017financialmanagementconference-fitara.pdf)<br>
 **Publication/Active Date:** As of December 2014
 
-**Description:** FITARA is a historic law that represented the first major overhaul of Federal IT in almost 20 years. Since FITARA’s enactment, OMB published guidance to agencies to ensure that this law is applied consistently governmentwide in a way that is both workable and effective. This guidance is now available as OMB Memorandum M-15-14: Management and Oversight of Federal Information Technology.
+FITARA is a historic law that represented the first major overhaul of Federal IT in almost 20 years. Since FITARA’s enactment, OMB published guidance to agencies to ensure that this law is applied consistently governmentwide in a way that is both workable and effective. This guidance is now available as OMB Memorandum M-15-14: Management and Oversight of Federal Information Technology.
 
 FITARA does the following:
 1. Enhances the Authority of the Chief Information Officer (CIO)

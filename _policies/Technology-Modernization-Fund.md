@@ -16,11 +16,10 @@ date: April 26, 2019
 **Title:** [Technology Modernization Fund (TMF)](https://tmf.cio.gov/)<br>
 **Publication/Active Date:** As of 2017
 
-**Description:** The Technology Modernization Fund (TMF) was authorized by the Modernizing Government Technology Act of 2017.
+The Technology Modernization Fund (TMF) was authorized by the Modernizing Government Technology Act of 2017.
 
 Approved projects receive incremental funding and technical expertise to ensure project success. The TMF received $100 million in FY 2018 to fund modernization projects, and another $25 million in FY 2019. The President’s FY 2020 Budget requests an additional $150 million.
 
-### How the TMF works
 The TMF is overseen by the Technology Modernization Board, comprised of Government IT leaders representing proven expertise in technology, transformation, and operations. Agencies submit IT-related project proposals for the Board to review and consider. Agencies submit technology modernization proposals to the Board through a two-phased approval process.
 
 **Phase One: Initial Project Proposal (IPP)**:

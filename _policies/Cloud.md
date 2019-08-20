@@ -9,7 +9,7 @@ related-resources-url: /resources/#subject=*&role=.cloud&status=*
 ---
 
 # Priority Overview #
-Plain language description
+The term "cloud" is a technology solution that exhibit five essential characteristics of cloud computing, as defined by National Institute of Standards and Technology (NIST). Cloud solutions include "on-demand service, broad network access, resource pooling, rapid elasticity, and measured service."
 
 # Why This Matters to the CIO Council #
 The case for using cloud capabilities in government has been clearly proven – to drive savings, to improve security, and to deliver mission-serving solutions faster.

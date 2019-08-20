@@ -14,6 +14,6 @@ date: April 26, 2019
 **Title:** [Federal Risk and Authorization Management Program (FedRAMP) ](https://www.fedramp.gov/)<br>
 **Publication/Active Date:** As of December 2018
 
-**Description:** The Federal Risk and Authorization Management Program (FedRAMP) is a government-wide program that provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services.
+The Federal Risk and Authorization Management Program (FedRAMP) is a government-wide program that provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services.
 
 FedRAMP created and manages a core set of processes to ensure effective, repeatable cloud security for the government. FedRAMP established a mature marketplace to increase utilization and familiarity with cloud services while facilitating collaboration across government through open exchanges of lessons learned, use cases, and tactical solutions."
