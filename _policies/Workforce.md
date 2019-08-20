@@ -6,6 +6,7 @@ permalink: /policies-and-priorities/workforce/
 layout: policy-landing
 filters: priority workforce active
 related-resources-url: /resources/#subject=*&role=.modernization&status=*
+related-policies-url: /policies-and-priorities/#subject=*&role=.workforce&status=*
 ---
 
 # Priority Overview #
