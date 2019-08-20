@@ -5,7 +5,7 @@ description: requires agencies to report the status of their information securit
 permalink: /policies-and-priorities/FISMA/
 layout: policy-landing
 policy-publish-date:
-filters: fed-policy cybersecurity active
+filters: fed-policy cybersecurity governance active
 related-resources-url: /resources/#subject=*&role=.cybersecurity&status=*
 related-policies-url: /policies-and-priorities/#subject=*&role=.cybersecurity&status=*
 date: April 26, 2019
