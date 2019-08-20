@@ -17,5 +17,4 @@ The Federal Government needs an IT workforce that can effectively carry out its 
 The Council is committed to its strategic goal of providing the Federal Government with a workforce of highly capable IT professionals with mission critical competencies to meet agency goals.
 
 Our [Workforce Committee]({{ site.baseurl }}//members-and-leadership/workforce-committee/) focuses on the full employment life cycle: workforce planning, recruitment, retention, and career development. We work with the HR community to develop, implement and communicate strategies to recruit, retain and manage a fully trained and qualified IT workforce, to meet current and future mission requirements.  
-
 &nbsp;
