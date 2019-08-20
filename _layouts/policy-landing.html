@@ -14,11 +14,14 @@ This template is for a single policy landing page.
   <div class="usa-layout-docs__main desktop:grid-col-9 font-sans-sm">
     {{ content }}
     <br>
-
+    {% if page.related-policies-url %}
+      <a class="usa-button usa-button--secondary" href="{{ site.baseurl }}{{ page.related-policies-url }}">Related Policies & Priorities</a>
+    {% endif %}
     {% if page.related-resources-url %}
       <a class="usa-button usa-button--accent-cool" href="{{ site.baseurl }}{{ page.related-resources-url }}">Related Resources</a>
     {% endif %}
+    <br>
+    <br>
       <a href="{{site.baseurl}}/policies-and-priorities/"><h5>&#10094; &nbsp; Back to Policies</h5></a><br>
   </div>
-
 </div>

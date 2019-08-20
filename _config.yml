@@ -50,16 +50,16 @@ primary_navigation:
     url: /policies-and-priorities/
   - name: Programs & Events
     children:
-      - name: Upcoming Events
-        url: /programs-and-events/
       - name: CIO Bootcamp
         url: /programs-and-events/cio-bootcamp/
       - name: Code Challenge
         url: /programs-and-events/codechallenge/
+      - name: Cyber Reskilling Academy
+        url: /programs-and-events/reskilling/
       - name: Innnovation Roundtables
         url: /programs-and-events/innovation-roundtables/
-      - name: Reskilling
-        url: /programs-and-events/reskilling/
+      - name: All Events
+        url: /programs-and-events/
   - name: Resources
     url: /resources/
   - name: News

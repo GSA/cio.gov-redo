@@ -13,8 +13,11 @@ The Federal Cybersecurity Reskilling Academy offered Federal employees the oppor
 The inaugural class was made up of current Federal employees who do not work in the IT field and was designed to help them build foundational skills in the field of Cyber Defense Analysis. The second cohort was open to all Federal employees, including those working in IT.
 
 # The Program
-The Federal Cybersecurity Reskilling Academy was a series of professional development opportunities that provide cybersecurity training to Federal employees. The curriculum and exact training schedule varied by cohort, but every opportunity consisted of a mixture of direct instruction, hands-on learning and labs, and period assessments to track participants’ learning progress.
+The Federal Cybersecurity Reskilling Academy was a series of professional development opportunities in the first half of 219 that provided cybersecurity training to Federal employees. The curriculum and exact training schedule varied by cohort, but every opportunity consisted of a mixture of direct instruction, hands-on learning and labs, and period assessments to track participants’ learning progress.
 
 Additionally, Academy participants could complete extracurricular activities and exercises to enhance their learning and skills development, such as online games and cyber competitions. Participants received career mentorship and soft skills guidance to help them prepare for re-deploying into the cybersecurity workforce.
+
+# Event Dates
+While Cohort 2 runs through graduation on September 20th, applications for this program have ended. The CIO Council will evaluate the success of the first two cohorts to determine what additional opportunities may be available in the future. Please continue to visit this website for the most up-to-date information. You can also contact us at [feedback@cio.gov](mailto:feedback@cio.gov). Thank you for your interest! 
 
 &nbsp;

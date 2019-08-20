@@ -16,7 +16,7 @@ This full day event will be held on Tuesday, August 29th, at the U.S. Department
 - During the first half of the day, *new* CIOs, DCIOs, CISOs, and DCISOs will discuss the CIO Council priorities, committee work, communities of practice, and current work groups.
 - During the second half of the day, *all* CIOs, DCIOs, CISOs, and DCISOs will come together to discuss common hurdles, share best practices, an envision future priorities.
 
-## Event Dates
+# Event Dates
 
 {% for events in site.events %}
 {% if events.title contains 'Bootcamp' %}
