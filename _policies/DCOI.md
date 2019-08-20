@@ -5,7 +5,7 @@ description: Requires agencies to optimize and consolidate data centers to deliv
 permalink: /policies-and-priorities/DCOI/
 layout: policy-landing
 policy-publish-date: August 1, 2016
-filters: fed-policy cloud data-center-consolidation active
+filters: fed-policy cloud data-center-consolidation active data
 related-resources-url: /resources/#subject=*&role=.data-center-consolidation&status=*
 related-policies-url: /policies-and-priorities/#subject=*&role=.data-center-consolidation&status=*
 date: August 1, 2016
