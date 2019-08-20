@@ -15,5 +15,5 @@ In July 2016, the Office of Management and Budget (OMB) revised [Circular A-130,
 
 The Circular establishes general policy for information governance, acquisitions, records management, open data, workforce, security, and privacy. It also emphasizes the role of both privacy and security in the Federal information life cycle. Importantly, it represents a shift from viewing security and privacy requirements as compliance exercises to understanding security and privacy as crucial elements of a comprehensive, strategic, and continuous risk-based program at Federal agencies.
 
-The Circular promotes innovation, enables appropriate information sharing, and fosters the wide-scale and rapid adoption of new technologies while strengthening protections for security and privacy.
+The Circular promotes innovation, enables appropriate information sharing, and fosters the wide-scale and rapid adoption of new technologies while strengthening protections for security and privacy. [View the full, revised policy here](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf).
 &nbsp;
