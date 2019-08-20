@@ -69,7 +69,7 @@ secondary_navigation:
   - name: Contact Us
     url: mailto:feedback@cio.gov
   - name: Government Tech Jobs
-    url: /government-it-jobs
+    url: /government-technology-jobs
 
 
 # Search.gov configuration
