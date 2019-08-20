@@ -11,7 +11,7 @@ date: April 26, 2019
 
 ---
 # Priority Overview #
-The [Federal Data Strategy](https://strategy.data.gov/) consists of Principles and Practices to leverage the value of the entire Federal Government data asset portfolio while protecting security, privacy, and confidentiality. The principles and practices deliver a more consistent approach to federal data stewardship, use, and access. The principles are a timeless, enduring framework for agencies, while the practices are actionable, yet aspirational, goals for a 5- to 10-year time horizon.
+The [Federal Data Strategy](https://strategy.data.gov/) consists of Principles and Practices to leverage the value of the entire Federal Government data asset portfolio while protecting security, privacy, and confidentiality. Defined in memorandum [M-19-18](https://www.whitehouse.gov/wp-content/uploads/2019/06/M-19-18.pdf), the principles and practices deliver a more consistent approach to federal data stewardship, use, and access. The principles are a timeless, enduring framework for agencies, while the practices are actionable, yet aspirational, goals for a 5- to 10-year time horizon.
 
 **The four areas of Federal Data Strategy**
 
