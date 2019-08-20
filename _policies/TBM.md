@@ -15,3 +15,4 @@ Technology Business Management (TBM) is an IT management framework that implemen
 
 # Why This Matters to the CIO Council #
 TBM is a powerful tool to further enable [Federal IT Acquisition Reform Act (FITARA)](({{site.baseurl}}/policies-and-priorities/FITARA/)) implementation and help benchmark IT spending, improve acquisitions, and better understand IT investment costs. TBM enables IT to run like a business by connecting technology to business value, building partnerships between IT and mission teams throughout agencies and breaking down data silos across organizations.
+&nbsp;
