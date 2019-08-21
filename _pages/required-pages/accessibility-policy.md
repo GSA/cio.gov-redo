@@ -5,7 +5,7 @@ layout: page
 permalink: /accessibility-policy/
 ---
 
-# Introduction
+# Our Commitment to Accessibility
 The General Services Administration (GSA) is committed to making all of our Internet documents accessible to everyone. To ensure that we meet or exceed the requirements of the [1998 Amendment to Section 508 of the Rehabilitation Act of 1973](http://www.section508.gov/index.cfm?FuseAction=Content&ID=3), we continually review our site and modify pages to remove accessibility problems for people with disabilities.
 
 The documents on our site are in many formats. Many are in ASCII or HTML format, accessible to people who use screen reading software and to those with other vision or mobility impairments. Generally, we use Hypertext Markup Language (HTML) to create pages and documents that are accessible to that segment of our customer base. In creating HTML documents, we follow Section 508 standards; for example, we include alternate text to describe graphics. Currently, our website contains documents in Adobe Acrobat PDF file format. Most PDF files will be accessible to those who use assistive technology such as screen readers. Some legacy or software created PDF files may not be accessible. If you are experiencing difficulty reading any PDF files please contact the Help Desk at 202-208-7420 and we will be happy to send you an alternate version.
