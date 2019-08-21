@@ -1,6 +1,7 @@
 ---
-title: CIO.gov
-subtitle: Privacy Statement
+title: CIO.gov Privacy Statement
+subtitle: Our Commitment to Privacy
+description: CIO.gov's privacy policy is clear — unless you choose to provide additional information to us, we will collect no personal information about you other than statistical information that can be used to make the site more effective for all our visitors.
 layout: page
 permalink: /privacy-statement/
 ---
