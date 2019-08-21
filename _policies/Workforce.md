@@ -18,5 +18,4 @@ The Council is committed to its strategic goal of providing the Federal Governme
 Our [Workforce Committee]({{ site.baseurl }}//members-and-leadership/workforce-committee/) focuses on the full employment life cycle: workforce planning, recruitment, retention, and career development. We work with the HR community to develop, implement and communicate strategies to recruit, retain and manage a fully trained and qualified IT workforce, to meet current and future mission requirements.  
 
 Learn more about how to become a part of the Federal IT Workforce on our [Jobs page]({{ site.baseurl }}/government-it-jobs/).
-
 &nbsp;
