@@ -25,7 +25,7 @@ You can learn about the policies and priorities we're currently focused on by br
 * Sharing experiences, ideas, best practices, and innovative approaches related to information resources management;
 * Assisting the Federal CIO in the identification, development, and coordination of multi-agency projects and other innovative initiatives to improve Government performance through the use of information technology;
 * Promoting the development and use of common performances for agency information resources management; and
-* Working with the Office of Personnel Management to assess and address the hiring, training, classification, and professional development of the [Federal IT workforce]({{ site.baseurl }}/government-it-jobs/).
+* Working with the Office of Personnel Management to assess and address the hiring, training, classification, and professional development of the [Federal IT workforce]({{ site.baseurl }}/government-technology-jobs/).
 
 # Our Vision
 The CIO Council aspires to promote a bright and prosperous future for the United States through the strategic use of Federal Information Technology. It seeks to drive efficiency and effectiveness across Government, spurring innovation, protecting and defending our resources and more effectually bringing Government services to Americans.

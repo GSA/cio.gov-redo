@@ -5,7 +5,7 @@ description: Describes Section 508, a policy that requires Federal agencies to m
 permalink: /policies-and-priorities/section508/
 layout: policy-landing
 policy-publish-date: January 18, 2018
-filters: fed-policy accessibility active
+filters: fed-policy accessibility web active
 related-resources-url: /resources/#subject=*&role=.accessibility&status=*
 related-policies-url: /policies-and-priorities/#subject=*&role=.accessibility&status=*
 date: January 18, 2018

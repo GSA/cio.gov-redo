@@ -11,10 +11,10 @@ status: current
 
 ---
 
-## Introduction
+# Introduction
 On January 20, 2017, the new administration and its appointees assumed office. Among these appointees were approximately one-third of the CIO Council’s members (agency CIOs) and the Chairperson. The CIO Council’s State of Federal Information Technology (SOFIT) report frames the federal IT landscape at that point in time. In addition, it provides recommendations on a variety of initiatives in order to improve Federal IT.
 
-## Report Sections
+# Report Sections
 1. [Introduction and Preface](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/05/SOFIT-Other-Sections_Wrapper_PR_v4.pdf)
 2. Policy Papers
   * [Management and Oversight of IT](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/05/SOFIT-Policy-Papers_A_ManagementandOversightofIT_PR_v2.pdf)
