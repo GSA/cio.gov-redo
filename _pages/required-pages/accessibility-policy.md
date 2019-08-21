@@ -13,30 +13,26 @@ All applets, plug-ins, or other applications required by GSA webpages that are n
 
 **Adobe Reader**<br/>
 Use Adobe Acrobat to read Portable Document Format (PDF) files.<br/>
-[Download Adobe Reader](http://get.adobe.com/reader/otherversions/)
+[Download Adobe Reader](http://www.adobe.com/products/acrobat/alternate.html#50enu)
 
 **Flash Player**<br/>
 [Download Flash Player](http://get.adobe.com/flashplayer/)
 
 **Microsoft Word**<br/>
-Microsoft offers Word file viewer and converter programs to enable those who do not have MS-Word or have another version of MS-Word to open and view MS-Word files.<br/>
-[Download Word File Viewer](http://www.microsoft.com/downloads/details.aspx?familyid=3657CE88-7CFA-457A-9AEC-F4F827F20CAC&displaylang=en)
+[Microsoft](https://www.microsoft.com/en-us/accessibility) offers file viewer and converter programs to enable those who do not have MS-Word or have another version of MS-Word to open and view MS-Word files.
 
 **Microsoft Excel**<br/>
-Microsoft offers Excel file viewer and converter programs to enable those who do not have MS-Excel or have another version of MS-Excel to view MS-Excel files.<br/>
-[Download Excel File Viewer](http://www.microsoft.com/downloads/details.aspx?familyid=1CD6ACF9-CE06-4E1C-8DCF-F33F669DBC3A&displaylang=en)
+[Microsoft](https://www.microsoft.com/en-us/accessibility) offers file viewer and converter programs to enable those who do not have MS-Excel or have another version of MS-Excel to view MS-Excel files.
 
 **Microsoft PowerPoint**<br/>
-Microsoft offers PowerPoint file viewer and converter programs to enable those who do not have MS-PowerPoint or have another version of MS-PowerPoint to view MS-PowerPoint files.<br/>
-[Download PowerPoint File Viewer](http://www.microsoft.com/en-us/download/details.aspx?id=6)
+[Microsoft](https://www.microsoft.com/en-us/accessibility) offers file viewer and converter programs to enable those who do not have MS-PowerPoint or have another version of MS-PowerPoint to view MS-PowerPoint files.
 
 **Accessible FormNet Software**<br/>
 GSA’s forms server uses the Accessible FormNet Software<br/>
 [Download Accessible FormNet software](http://www.gsa.gov/Portal/gsa/ep/contentView.do?contentId=12455&bodyOnly=true&contentType=GSA_BASIC)
 
-**“Unzip” Utility**<br/>
-Some large documents on this site may be compressed using a utility called WinZip. These files may be uncompressed using one of the utilities available for download. Since there are many options, this link takes you to a list of possible viewers at download.com.<br/>
-[View list of zip utilities](http://download.cnet.com/1770-20_4-0.html?searchtype=downloads&query=zip&tg=dl-2001&search=+Go%25252521+)
+**WinZip**<br/>
+Zip files are single files, sometimes called "archives", that contain one or more compressed files. Files with this extension (.zip) require [WinZip](http://www.winzip.com/downwz.htm), to open and extract them.<br/>
 
 # What to do if you have trouble
 If you have a problem viewing any material on CIO.gov or have questions about our accessibility policy, please contact [ciocouncil.support@gsa.gov](mailto:ciocouncil.support@gsa.gov). If your problem is a broken link, a link that goes to the wrong page, or other technical problems, please send us that information through [feedback@cio.gov](mailto:feedback@cio.gov).
