@@ -2,7 +2,7 @@
 }
 
 .left{
-  width: 35%;
+  width: 30%;
   float:left;
   height: 100px;
 }
@@ -14,7 +14,7 @@
 }
 .right {
   background-color:#f0f0f0;
-  width:65%;
+  width:70%;
   float: right;
   height: 100px;
 }
@@ -29,6 +29,15 @@
   float:left;
   width:175px;
   margin-right:24px;
+}
+
+.name-leader {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.text-leader {
+  font-size: 14px;
 }
 
 .name {
