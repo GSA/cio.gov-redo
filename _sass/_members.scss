@@ -50,3 +50,10 @@
   line-height: 10px;
   font-weight: 500;
 }
+
+.fade_line {
+    margin: 25px 0;
+    height: 2px;
+    background: black;
+    background: -webkit-gradient(linear, 0 0, 100% 0, from(#162e51), to(white), color-stop(50%, #00bde3));
+}
