@@ -34,10 +34,10 @@
           {% endif %}
 
           {% if resources.external_url %}
-          <p class="title-resources"><a title="resource title" class="text-ink text-no-underline" href="http://{{ resources.external_url }}">{{ resources.title }}</a></p>
+          <p class="title-resources"><a class="text-ink text-no-underline" href="http://{{ resources.external_url }}">{{ resources.title }}</a></p>
           {% endif %}
           {% if resources.permalink %}
-          <p class="title-resources"><a title="resource title" class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resources.permalink }}">{{ resources.title }}</a></p>
+          <p class="title-resources"><a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resources.permalink }}">{{ resources.title }}</a></p>
           {% endif %}
             <!--for 508 accessibility-->
         </div>
