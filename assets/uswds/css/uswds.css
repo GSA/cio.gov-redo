@@ -3140,12 +3140,13 @@ input[type="search"]{
 a.hidden {
    position: absolute;
    left: -999px;
+   color: white;
  }
 
  a.hidden:focus {
    left: 5px;
  }
- 
+
 .grid-container{
   margin-left:auto;
   margin-right:auto;
