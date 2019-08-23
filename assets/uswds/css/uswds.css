@@ -3137,36 +3137,15 @@ input[type="search"]{
   transition:all 0.2s ease-in-out;
 }
 
+a.hidden {
+   position: absolute;
+   left: -999px;
+ }
 
-#skip{
-
-	list-style: outside none;
-}
-
-#skip li{ list-style-type: none;
-  position: absolute;
-	left: -99999px;
-	top: 30px;
-}
-#skip a{
-	position: absolute;
-	left: -99999px;
-	top: 30px;
-}
-
-#skip a:focus, #skip a:active{
-	position: relative;
-	left: 0;
-	z-index:9999;
-	height: auto;
-	margin: 0 auto;
-	text-align: center;
-	text-decoration: none;
-	font: bold 14px
-  color: #AEAEFE;
-	background: transparent url(transparent.png) repeat scroll 0 0;
-	border: 1px dotted #ffb4db;
-}
+ a.hidden:focus {
+   left: 5px;
+ }
+ 
 .grid-container{
   margin-left:auto;
   margin-right:auto;
