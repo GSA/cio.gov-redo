@@ -3143,7 +3143,7 @@ input[type="search"]{
 	list-style: outside none;
 }
 
-#skip li{ list-style-type: none
+#skip li{ list-style-type: none;
   position: absolute;
 	left: -99999px;
 	top: 30px;
