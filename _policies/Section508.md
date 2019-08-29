@@ -16,5 +16,3 @@ In 1998, Congress amended the Rehabilitation Act of 1973 to require Federal agen
 The U.S. Access Board is responsible for developing [Information and Communication Technology (ICT) accessibility standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule) to incorporate into regulations that govern Federal procurement practices. On January 18, 2017, the Access Board issued a final rule that updated accessibility requirements covered by Section 508, and refreshed guidelines for telecommunications equipment subject to Section 255 of the Communications Act. The final rule went into effect on January 18, 2018.
 
 The rule updated and reorganized the Section 508 Standards and Section 255 Guidelines in response to market trends and innovations in technology. The refresh also harmonized these requirements with other guidelines and standards both in the U.S. and abroad, including standards issued by the European Commission, and with the World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG 2.0), a globally recognized voluntary consensus standard for web content and ICT.
-
-&nbsp;
