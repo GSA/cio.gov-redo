@@ -18,7 +18,3 @@ To learn more about technology job opportunities, and for helpful hints for sear
 
 ### Already work with us?
 Check out our latest [programs & events]({{ site.baseurl }}/programs-and-events/) to see how you can get involved and continue to grow your federal technology career.
-
-&nbsp;
-
-<a href="{{site.baseurl}}">&#10094; &nbsp; Back to Home</a><br>
