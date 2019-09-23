@@ -5,9 +5,6 @@ description: EO 13800 is a Presidential Executive Order on strengthening Federal
 layout: page
 permalink: /resources/IT-Modernization-Report-Updates/
 filters: report modernization current
-type: publication
-category: modernization
-status: current
 
 ---
 # Introduction

@@ -19,7 +19,6 @@ There are four committees under the CIO Council that inform the council on vario
 Other government-only pages for key Council information include:
 * [CIO Council Repository](https://community.max.gov/display/Egov/CIO+Council+Home+Page) **(OMB MAX Login Required)**
 * [CIO Council Executive Committee Repository](https://community.max.gov/display/Egov/CIO+Council+Executive+Committee) **(OMB MAX Login Required)**
-* [CIO Council Meeting Details](https://community.max.gov/display/Egov/CIO+Council+Calendar) **(OMB MAX Login Required)**
 
 # Meeting Schedule
 Below is the current schedule for both Full Council and Executive Committee meetings. CIOs can also review [previous meeting agendas and materials](https://community.max.gov/display/Egov/CIO+Council+Previous+Meeting+Documents) **(OMB MAX Login Required)**.

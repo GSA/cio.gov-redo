@@ -7,7 +7,7 @@ layout: policy-landing
 policy-publish-date: January 1, 2018
 filters: fed-policy modernization governance active
 related-resources-url: /resources/#subject=*&role=.fitara&status=*
-related-policies-url: /resources/#subject=*&role=.governance&status=*
+related-policies-url: 
 date: July 24, 2019
 ---
 # Policy Summary #
