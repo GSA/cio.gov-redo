@@ -7,7 +7,7 @@ permalink: /about/vision/
 
 ## Our Purpose
 
-**The CIO Council is the principal interagency forum for improving agency practices related to the design, acquisition, development, modernization, use, sharing, and performance of Federal information resources.**<br>
+**The Chief Information Officers Council (CIO) Council is the principal interagency forum for improving agency practices related to the design, acquisition, development, modernization, use, sharing, and performance of Federal information resources.**<br>
 
 The U.S. CIO and the CIO Council establish standards against which the success of all agency programs can be measured, including:
 

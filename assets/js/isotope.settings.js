@@ -15,6 +15,14 @@ jQuery(document).ready(function ($) {
         }
     });
 
+var iso = $container.data('isotope');
+var $filterCount = $('.filter-count');
+
+function updateFilterCount() {
+  $filterCount.text( iso.filteredItems.length + ' items' );
+}
+
+
 
     // Alphabetical sort
     // Sort items alphabetically based on course title
@@ -85,6 +93,7 @@ jQuery(document).ready(function ($) {
                 sortBy: hashFilter["sorts"]
             } );
 
+            updateFilterCount();
             // Toggle checked status of sort button
             if ( hashFilter["sorts"] ) {
                 $(".sort").addClass("checked");
@@ -92,8 +101,8 @@ jQuery(document).ready(function ($) {
                 $(".sort").removeClass("checked");
             }
             // Toggle checked status of filter buttons
-            $( ".filter-list" ).find(".checked").removeClass("checked");
-            $( ".filter-list" ).find("[data-filter='" + hashFilter["subject"] + "'],[data-filter='" + hashFilter["role"] + "'] ,[data-filter='" + hashFilter["status"] + "']").addClass("checked");
+            $( ".filter-list" ).find(".checked").removeClass("checked").attr("aria-checked","false");
+            $( ".filter-list" ).find("[data-filter='" + hashFilter["subject"] + "'],[data-filter='" + hashFilter["role"] + "'] ,[data-filter='" + hashFilter["status"] + "']").addClass("checked").attr("aria-checked","true");
         }
     } // onHahschange
 

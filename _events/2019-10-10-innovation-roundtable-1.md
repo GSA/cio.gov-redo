@@ -1,5 +1,6 @@
 ---
 title: Innovation Roundtable 1 - Quantum Computing and Communications
+featured: yes #puts meeting on homepage
 start-date: #only fill in start date if the events spans multiple days
 end-date: October 10, 19 #otherwise use end-date
 description: A forum to connect subject matter experts on Quantum Computing and Communications.

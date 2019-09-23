@@ -4,7 +4,6 @@ subtitle: How We Work
 layout: page
 permalink: /about/operations/
 ---
-
 # Operations
 The CIO Council hosts monthly meetings with CIOs, Chief Information Security Officers (CISOs), or their designated representatives. Key topics of discussion include CIO Council priorities. Members also discuss best practices and how to overcome hurdles related to [IT policy and priorities]({{ site.baseurl }}/policies-and-priorities/).
 
@@ -58,7 +57,3 @@ Below is the current schedule for both Full Council and Executive Committee meet
 
 {% endif %}
 {% endfor %}
-<p>
-<a href="{{site.baseurl}}">&#10094; &nbsp; Back to Home</a><br></p>
-
-&nbsp;

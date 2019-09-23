@@ -16,15 +16,21 @@
 
     <p class="text-primary-darker font-serif-lg text-bold">
       {% if events.permalink %}
-      <a class="text-no-underline" href="{{ site.baseurl }}{{ events.permalink }}">{{ events.title }}</a>
+        <a class="text-no-underline" href="{{ site.baseurl }}{{ events.permalink }}">{{ events.title }}</a>
+      {% elsif events.title contains 'CIO Council Meeting' %}
+        <a class="text-no-underline" href="{{ site.baseurl }}/about/operations/">{{ events.title }}</a>
       {% else %}
-      {{ events.title }}
+        {{ events.title }}
       {% endif %}
     </p>
 
     <p class="">{{ events.overview | truncate: 200 }}
-      {% if events.permalink %}<a href="{{ site.baseurl }}{{ events.permalink }}">Read more</a>{% endif %}
+      {% if events.permalink %}
+        <a href="{{ site.baseurl }}{{ events.permalink }}">Read more</a>
+      {% endif %}
     </p>
+
+
 
   </div>
 {% endif %}
