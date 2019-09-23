@@ -1,6 +1,6 @@
 ---
 layout: bio
-name: Mr. Joe Klimavcz
+name: Mr. Joe Klimavicz
 permalink: /about/members-and-leadership/klimavicz-joseph/
 subtitle: Team and Leadership
 title: About Our Council

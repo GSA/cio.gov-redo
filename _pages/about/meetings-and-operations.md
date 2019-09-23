@@ -1,5 +1,5 @@
 ---
-title: CIO Council Meetings and Operations
+title: Meetings and Operations
 subtitle: How We Work
 layout: page
 permalink: /about/operations/

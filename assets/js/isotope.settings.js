@@ -15,6 +15,7 @@ jQuery(document).ready(function ($) {
         }
     });
 
+
     // Alphabetical sort
     // Sort items alphabetically based on course title
     var sortValue = false;
