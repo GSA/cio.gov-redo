@@ -13,8 +13,11 @@ This template is for a single policy landing page.
 
   <div class="usa-layout-docs__main desktop:grid-col-12 font-sans-sm">
     {{ content }}
-    <h1>Related resources and policies</h1>
+
+    {% if page.related-resources-url %}
+    <h2>Related resources and policies</h2>
     <p>The buttons below take you to our policy and resource catologs. The catolog will show only items related to {{ page.subtitle }}. Use the filter buttons on the catolog page to show other results. </p>
+    {% endif %}
 
     {% if page.related-resources-url %}
     <a class="usa-button usa-button--secondary" href="{{ site.baseurl }}{{ page.related-resources-url }}">Related Resources</a>
