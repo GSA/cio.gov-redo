@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: Office of Personnel Management
-bio-image: /placeholder.png
+bio-image: /martorana-claire.jpg
 bio-image-alt-text: Clare Martorana
 bio-phone:
 bio-email:
