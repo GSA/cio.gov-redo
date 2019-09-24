@@ -6,7 +6,7 @@ permalink: /policies-and-priorities/21st-century-IDEA-act/
 layout: policy-landing
 policy-publish-date: December 20, 2018
 filters: fed-policy web governance modernization in-development
-related-resources-url: /resources/#subject=*&role=.web&status=*
+related-resources-url:
 
 date: December 20, 2018
 ---
