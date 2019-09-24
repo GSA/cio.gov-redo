@@ -19,8 +19,6 @@
     <p class="text-primary-darker font-serif-lg text-bold">
       {% if events.permalink %}
         <a class="text-no-underline" href="{{ site.baseurl }}{{ events.permalink }}">{{ events.title }}</a>
-      {% elsif events.title contains 'CIO Council Meeting' %}
-        <a class="text-no-underline" href="{{ site.baseurl }}/about/operations/">{{ events.title }}</a>
       {% else %}
         {{ events.title }}
       {% endif %}
