@@ -20,4 +20,4 @@ The bill requires agencies to submit annually to the Office of Management and Bu
 * challenges to developing evidence to support policymaking, including any statutory or other restrictions to accessing relevant data.
 * Each agency shall designate a senior employee as Evaluation Officer to coordinate evidence-building activities and an official with statistical expertise to advise on statistical policy, techniques, and procedures.
 
-Learn more about this policy at [resource.data.gov](https://www.congress.gov/bill/115th-congress/house-bill/4174)
+[Learn more](https://www.congress.gov/bill/115th-congress/house-bill/4174) about this policy. 
