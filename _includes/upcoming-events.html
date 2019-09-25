@@ -17,16 +17,16 @@
     </p>
 
     <p class="text-primary-darker font-serif-lg text-bold">
-      {% if events.permalink %}
-        <a class="text-no-underline" href="{{ site.baseurl }}{{ events.permalink }}">{{ events.title }}</a>
+      {% if events.link %}
+        <a class="text-no-underline" href="{{ site.baseurl }}{{ events.link }}">{{ events.title }}</a>
       {% else %}
         {{ events.title }}
       {% endif %}
     </p>
 
     <p class="">{{ events.overview | truncate: 200 }}
-      {% if events.permalink %}
-        <a href="{{ site.baseurl }}{{ events.permalink }}">Read more</a>
+      {% if events.link %}
+        <a href="{{ site.baseurl }}{{ events.link }}">Read more</a>
       {% endif %}
     </p>
 
@@ -35,5 +35,5 @@
   </div>
 
 {% endif %}
-  {% endunless %}
+{% endunless %}
 {% endfor %}
