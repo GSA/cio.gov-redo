@@ -2724,6 +2724,7 @@ dfn{
 
 .usa-nav__primary .usa-nav__primary-item a{
   text-decoration:none;
+  list-style: none;
 }
 
 .usa-nav__primary > .usa-nav__primary-item{
@@ -16278,6 +16279,7 @@ a.hidden {
   .usa-nav__primary > .usa-nav__primary-item{
     font-size:0.93162rem;
     line-height:0.93923;
+    list-style: none;
   }
   .usa-nav__primary > .usa-nav__primary-item > a{
     line-height:0.93923;
@@ -16285,6 +16287,7 @@ a.hidden {
     color:#565c65;
     display:block;
     font-weight:bold;
+    list-style: none;
   }
   .usa-nav__primary > .usa-nav__primary-item > a:hover{
     color:#005ea2;
@@ -16369,11 +16372,13 @@ a.hidden {
   }
   .usa-nav__submenu .usa-nav__submenu-item + *{
     margin-top:0.75rem;
+    list-style: none;
   }
   .usa-nav__submenu .usa-nav__submenu-item a{
     color:white;
     padding:0;
     line-height:1.26796;
+    list-style: none;s
   }
   .usa-nav__submenu .usa-nav__submenu-item a:hover{
     background-color:transparent;
@@ -19426,6 +19431,7 @@ a.hidden {
   }
   .usa-nav__primary-item{
     border-top:1px solid #dcdee0;
+    list-style: none;
   }
   .usa-nav__primary a{
     color:#565c65;
