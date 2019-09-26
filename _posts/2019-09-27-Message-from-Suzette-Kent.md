@@ -6,7 +6,7 @@ date: Sept. 26, 2019
 display-date: 26 September 2019
 author: Suzette Kent, Federal CIO
 tags: cio-council 2019
-image: /bio_kent.jpg
+image: bio_kent.jpg
 img-alt: Headshot of Suzette Kent
 permalink: /highlights-of-the-updated-cio/
 ---

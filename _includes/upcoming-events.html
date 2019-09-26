@@ -11,9 +11,9 @@
 
     <p class="card-tag">
       {% if events.start-date %}
-      {{ events.start-date | date: '%a, %b %d, %y' }} -
+      {{ events.start-date | date: '%a, %b %d, %Y' }} -
       {% endif %}
-      {{ events.end-date | date: '%a, %b %d, %y' }}
+      {{ events.end-date | date: '%a, %b %d, %Y' }}
     </p>
 
     <p class="text-primary-darker font-serif-lg text-bold">

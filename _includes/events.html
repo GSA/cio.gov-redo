@@ -11,9 +11,9 @@ This section is for upcoming events for the cio council. The events pull from th
 
 <p class="card-tag">
   {% if events.start-date %}
-  {{ events.start-date | date: '%a, %b %d, %y' }} -
+  {{ events.start-date | date: '%a, %b %d, %Y' }} -
   {% endif %}
-  {{ events.end-date | date: '%a, %b %d, %y' }}
+  {{ events.end-date | date: '%a, %b %d, %Y' }}
 </p>
   <p class="title-news padding-top-1">{{ events.title }}</p>
   <p class="description">{{ events.description }}</p>
