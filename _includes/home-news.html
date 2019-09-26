@@ -9,6 +9,6 @@
     <div class="card-banner-homepage">
       <p class="card-tag">{{ include.end-date | date: '%B %d, %Y' }} </p>
       <p class="text-primary-darker font-serif-md text-bold margin-top-0">{{ include.tagline }}</p>
-      <p class="card-description">{{ include.description }}</p>
-      <a  href="{{ card_link }}" name="content-news">Read more</a>
+      <p class="card-description">{{ include.description | truncate: 200 }}</p>
+      <a  href="{{ card_link }}">Continue reading</a>
     </div>

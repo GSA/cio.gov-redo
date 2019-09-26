@@ -3,12 +3,8 @@ title: CISO Handbook
 subtitle: Guidance for Chief Information Security Officers (CISO)
 description: The CISO Handbook was created to educate and inform new and existing CISOs about their role in Federal cybersecurity.
 layout: page
-date: Jan 1, 9999
 permalink: /resources/ciso-handbook/
-filters: report cybersecurity current
-type: publication
-category: cybersecurity
-status: current
+filters: report cybersecurity council-operations current
 
 ---
 
@@ -17,7 +13,7 @@ The CISO Handbook was created to educate and inform new and existing CISOs about
 
 The Handbook is a key document, coordinated through the CIO and CISO Councils, to improve the vital federal cybersecurity reskilling and workforce development efforts outlined in the [President’s Management Agenda](https://www.performance.gov/PMA/).
 
-## Key Elements of the Handbook
+# Key Elements of the Handbook
 * Overview of the CISO role (page 7) and key government-wide organizations (page 11).
 * CISO Reference Sections with high-level information about important cybersecurity documents:
     * Federal risk management publications (page 31)
@@ -32,23 +28,23 @@ The Handbook is a key document, coordinated through the CIO and CISO Councils, t
 
 &nbsp;
 
-## Annual Reporting Schedule
-### FYQ1
+# Annual Reporting Schedule
+## FYQ1
 * **Estimated Deadline:** January
 * **Reporting:** Q1 CIO FISMA Reporting, Annual HVA Reporting
 * **Responsible Parties:** CFO Act Agencies (Required), Small Agencies (Optional)
 
-### FYQ2
+## FYQ2
 * **Estimated Deadline:** April
 * **Reporting:** Q2 CIO FISMA Report
 * **Responsible Parties:** All Civilian Agencies
 
-### FYQ3
+## FYQ3
 * **Estimated Deadline:** July
 * **Reporting:** Q3 CIO FISMA Reporting
 * **Responsible Parties:** CFO Act Agencies (Required), Small Agencies (Optional)
 
-### FYQ4
+## FYQ4
 * **Estimated Deadline:** October
 * **Reporting:** Annual CIO FISMA Reporting, Annual IG FISMA Reporting, Annual SAOP FISMA Reporting
 * **Responsible Parties:** All Civilian Agencies

@@ -5,15 +5,15 @@ description: Reduces taxpayer costs and improve the usability of federal website
 permalink: /policies-and-priorities/21st-century-IDEA-act/
 layout: policy-landing
 policy-publish-date: December 20, 2018
-filters: fed-policy web governance modernization active
-related-resources-url: /homepage/resources/#subject=*&role=.modernization&status=*
+filters: fed-policy web governance modernization in-development
+related-resources-url:
+
 date: December 20, 2018
 ---
-# Policy Overview #
+## Policy Overview ##
+The [21st Century Integrated Digital Experience Act (21st Century IDEA)](https://www.congress.gov/bill/115th-congress/house-bill/5759/text) became active in December of 2018. It requires all government-produced websites, applications, and other digital products intended for public use to meet certain criteria.
 
-**Title:** [21st Century Integrated Digital Experience Act (21st Century IDEA)](https://www.congress.gov/bill/115th-congress/house-bill/5759/text)<br>
-**Publication/Active Date:** As of December 2018
+All new and redesigned websites must be fully functional on mobile devices, accessible to individuals with disabilities, consistent in appearance, contain a search function, and designed around data-driven, user needs. Agencies must "use web-based forms, web-based applications, or digital services to ensure that user needs are addressed and digital transactions are more efficient and accurate."
 
-
-
-**Description:** Not later than 180 days after the date of enactment of this Act, an executive agency that creates a website or digital service that is intended for use by the public, or conducts a redesign of an existing legacy website or digital service that is intended for use by the public, shall ensure to the greatest extent practicable that any new or redesigned website, web-based form, web-based application, or digital service.
+Digital products should also be tested continually, and provided through an industry-standard, secure connection. Finally, agencies must assess digital products and their content to remove duplication whenever possible.
+&nbsp;

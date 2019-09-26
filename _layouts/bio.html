@@ -1,21 +1,21 @@
 ---
 layout: defaultwithbanner
 ---
-<section class="usa-graphic-list usa-section">
-  <div class="grid-container" style="padding-left:0">
+<section class="usa-graphic-list margin-top-6">
+  <div class="padding-left-0">
     <div class="grid-row">
       <div class="desktop:grid-col-3">
           <img class="bio-photo" src="{{ site.baseurl }}/assets/images/members{{ page.bio-image }}" alt="{{ page.bio-image-alt-text }}">
       </div>
       <div class="desktop:grid-col-9">
         {% if page.name %}
-          <h1 style="margin: 0">{{ page.name }}</h1>
+          <h2 class="font-alt-xl margin-0">{{ page.name }}</h2>
          {% endif %}
          {% if page.position %}
-           <h2 style="margin-top:8px; margin-bottom:10px;">{{ page.position }},
+           <h3 class="font-sans-lg margin-top-1 margin-bottom-105">{{ page.position }},
          {% endif %}
          {% if page.agency %}
-          {{ page.agency }}</h2>
+          {{ page.agency }}</h3>
         {% endif %}
 
         {% if page.bio-email  %}
@@ -29,11 +29,13 @@ layout: defaultwithbanner
   </div>
 </section>
 
+<div class="fade_line"></div>
+
 <section class="usa-graphic-list usa-section" style="padding-top:0">
   <div class="desktop:grid-col-12">
     {{ content }}
   </div>
 
   <br>
-  <h5><a href="{{site.baseurl}}/about/members-and-leadership/">&#10094; &nbsp; Back to Members</a> </h5>
+  <p class="card-tag"><a href="{{site.baseurl}}/about/members-and-leadership/">&#10094; &nbsp; Back to Members</a> </p>
 </section>

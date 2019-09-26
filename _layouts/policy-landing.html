@@ -11,14 +11,23 @@ This template is for a single policy landing page.
     {% include sidenav.html %}
   {% endif %}
 
-  <div class="usa-layout-docs__main desktop:grid-col-9 font-sans-sm">
+  <div class="usa-layout-docs__main desktop:grid-col-12 font-sans-sm">
     {{ content }}
-    <br>
 
     {% if page.related-resources-url %}
-      <a class="usa-button usa-button--accent-cool" href="{{ site.baseurl }}{{ page.related-resources-url }}">Related Resources</a>
+    <h2>Related resources and policies</h2>
+    <p>The buttons below take you to our policy and resource catalogs. The catalog will show only items related to {{ page.subtitle }}. Use the filter buttons on the catalog page to show other results. </p>
     {% endif %}
-      <a href="{{site.baseurl}}/policies-and-priorities/"><h5>&#10094; &nbsp; Back to Policies</h5></a><br>
+
+    {% if page.related-resources-url %}
+    <a class="usa-button usa-button--secondary" href="{{ site.baseurl }}{{ page.related-resources-url }}">Related Resources</a>
+    {% endif %}
+
+    {% if page.related-policies-url %}
+    <a class="usa-button usa-button--secondary" href="{{ site.baseurl }}{{ page.related-policies-url }}">Related Policies & Priorities</a>
+    {% endif %}
+
+    <p class="card-tag margin-y-3"><a href="{{site.baseurl}}/policies-and-priorities/">&#10094; &nbsp; Back to Policies</a></p>
   </div>
 
 </div>

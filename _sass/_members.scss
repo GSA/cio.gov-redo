@@ -2,7 +2,7 @@
 }
 
 .left{
-  width: 35%;
+  width: 30%;
   float:left;
   height: 100px;
 }
@@ -14,7 +14,7 @@
 }
 .right {
   background-color:#f0f0f0;
-  width:65%;
+  width:70%;
   float: right;
   height: 100px;
 }
@@ -31,6 +31,15 @@
   margin-right:24px;
 }
 
+.name-leader {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.text-leader {
+  font-size: 14px;
+}
+
 .name {
   font-size: 14px;
   font-weight: bold;
@@ -40,4 +49,11 @@
   font-size: 13px;
   line-height: 10px;
   font-weight: 500;
+}
+
+.fade_line {
+    margin: 25px 0;
+    height: 2px;
+    background: black;
+    background: -webkit-gradient(linear, 0 0, 100% 0, from(white), to(white), color-stop(50%,#a9aeb1));
 }
