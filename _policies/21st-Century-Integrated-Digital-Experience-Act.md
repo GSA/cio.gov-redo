@@ -10,7 +10,7 @@ related-resources-url:
 
 date: December 20, 2018
 ---
-# Policy Overview #
+## Policy Overview ##
 The [21st Century Integrated Digital Experience Act (21st Century IDEA)](https://www.congress.gov/bill/115th-congress/house-bill/5759/text) became active in December of 2018. It requires all government-produced websites, applications, and other digital products intended for public use to meet certain criteria.
 
 All new and redesigned websites must be fully functional on mobile devices, accessible to individuals with disabilities, consistent in appearance, contain a search function, and designed around data-driven, user needs. Agencies must "use web-based forms, web-based applications, or digital services to ensure that user needs are addressed and digital transactions are more efficient and accurate."

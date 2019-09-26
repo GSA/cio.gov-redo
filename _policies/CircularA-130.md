@@ -10,7 +10,7 @@ related-resources-url: /resources/#subject=*&role=.cybersecurity&status=*
 related-policies-url: /policies-and-priorities/#subject=*&role=.cybersecurity&status=*
 date: July 28, 2016
 ---
-# Policy Overview #
+## Policy Overview ##
 In July 2016, the Office of Management and Budget (OMB) revised [Circular A-130, “Managing Information as a Strategic Resource,”](https://www.federalregister.gov/documents/2016/07/28/2016-17872/revision-of-omb-circular-no-a-130-managing-information-as-a-strategic-resource) to reflect changes in law and advances in technology. The revisions also ensure consistency with executive orders, presidential directives, recent OMB policy, and National Institute of Standards and Technology standards and guidelines.
 
 The Circular establishes general policy for information governance, acquisitions, records management, open data, workforce, security, and privacy. It also emphasizes the role of both privacy and security in the Federal information life cycle. Importantly, it represents a shift from viewing security and privacy requirements as compliance exercises to understanding security and privacy as crucial elements of a comprehensive, strategic, and continuous risk-based program at Federal agencies.

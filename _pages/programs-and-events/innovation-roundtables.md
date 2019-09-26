@@ -6,7 +6,7 @@ permalink: /programs-and-events/innovation-roundtables/
 ---
 <p><a class="text-primary-dark text-bold margin-bottom-2" href="{{ site.baseurl }}/programs-and-events/" style="text-decoration:none;">❮ &nbsp; See all Events</a></p>
 
-# The Vision
+## The Vision ##
 
 The Innovation Roundtable is designed to connect subject matter experts to focus on the practical applications of innovative technologies in the Federal Government. All discussion will be informal and off-the-record, with the goal of fostering a deeper understanding of the challenges and opportunities facing agency CIOs.
 
@@ -14,11 +14,11 @@ The Innovation Roundtable is designed to connect subject matter experts to focus
 - Roundtable 2 - Topic to be announced
 - Roundtable 3 - Topic to be announced
 
-# The Program
+## The Program ##
 
 The Innovation Roundtable is a series of 2-hour forums. Attendance is limited to the first 20 attendees, and is targeted at CIOs, DCIOs, CTOs, CISOs, and CIO senior advisors. We request that no more than 2 representatives for a single agency RSVP. Roundtables are held at General Services Administration (GSA) headquarters at 1800 F Street NW, Washington, DC. Event schedule below.
 
-# Event Dates
+## Event Dates ##
 
 {% for events in site.events %}
 {% if events.title contains 'Innovation Roundtable' %}

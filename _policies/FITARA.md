@@ -7,10 +7,10 @@ layout: policy-landing
 policy-publish-date: January 1, 2018
 filters: fed-policy modernization governance active
 related-resources-url: /resources/#subject=*&role=.fitara&status=*
-related-policies-url: 
+related-policies-url:
 date: July 24, 2019
 ---
-# Policy Summary #
+## Policy Overview ##
 [Federal Information Technology Acquisition Reform Act (FITARA)](https://www.nist.gov/sites/default/files/documents/2017/05/11/doc2017financialmanagementconference-fitara.pdf), as of December 2014, is a historic law that represented the first major overhaul of Federal IT in almost 20 years. Since FITARA’s enactment, OMB published guidance to agencies to ensure that this law is applied consistently governmentwide in a way that is both workable and effective. This guidance is now available as OMB Memorandum M-15-14: Management and Oversight of Federal Information Technology.
 
 FITARA does the following:

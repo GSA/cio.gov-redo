@@ -6,17 +6,17 @@ permalink: /programs-and-events/cio-bootcamp/
 ---
  <p><a class="text-primary-dark text-bold margin-bottom-2" href="{{ site.baseurl }}/programs-and-events/" style="text-decoration:none;">❮ &nbsp; See all Events</a></p>
 
-# The Vision
+## The Vision ##
 
 The CIO Bootcamp & eXchange event brings together new and seasoned CIOs, CISOs, and their Deputies. The goal is to help agency IT leadership learn more about the CIO Council and how to get involved in advancing Council priorities.
 
-# The Program
+## The Program ##
 
 This full day event will be held on Tuesday, October 29th, at the U.S. Department of Education. The Bootcamp will be broken in two half-day agendas.
 - During the first half of the day, *new* CIOs, DCIOs, CISOs, and DCISOs will discuss the CIO Council priorities, committee work, communities of practice, and current work groups.
 - During the second half of the day, *all* CIOs, DCIOs, CISOs, and DCISOs will come together to discuss common hurdles, share best practices, and envision future priorities.
 
-# Event Dates
+## Event Dates ##
 
 {% for events in site.events %}
 {% if events.title contains 'Bootcamp' %}
