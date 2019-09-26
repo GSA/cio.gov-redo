@@ -12,7 +12,7 @@ date: June 2019
 ---
 
 # Policy Overview #
-Cloud computing is a means for delivering computing services via IT networks. According to the National Institute of Standards and Technology (NIST), cloud enables "on-demand access to shared and scalable pools of computing resources with the goal of minimizing management effort or service provider interaction.” In short, purchasing these services through a provider means agencies do not need to directly pay for the assets (e.g., hardware, software, networks) needed for those services.
+Cloud computing is a means for delivering computing services via IT networks. According to the National Institute of Standards and Technology, cloud enables "on-demand access to shared and scalable pools of computing resources with the goal of minimizing management effort or service provider interaction.” In short, purchasing these services through a provider means agencies do not need to directly pay for the assets (e.g., hardware, software, networks) needed for those services.
 
 As of June 2019, the Federal Cloud Computing Strategy — Cloud Smart — is a long-term, high-level strategy to drive cloud adoption in Federal agencies. This was the first cloud policy update in seven years, offering a path forward for agencies to migrate to a safe and secure cloud infrastructure. This strategy supports agencies to achieve additional savings, security, and faster services.
 

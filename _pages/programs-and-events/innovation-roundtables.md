@@ -8,7 +8,7 @@ permalink: /programs-and-events/innovation-roundtables/
 
 # The Vision
 
-The Innovation Roundtable is designed to connect subject matter experts to focus on the practical applications of Innovative Technologies in the Federal Government. All discussion will be informal and off-the-record, with the goal of fostering a deeper understanding of the challenges and opportunities facing agency CIOs.
+The Innovation Roundtable is designed to connect subject matter experts to focus on the practical applications of innovative technologies in the Federal Government. All discussion will be informal and off-the-record, with the goal of fostering a deeper understanding of the challenges and opportunities facing agency CIOs.
 
 - Roundtable 1 - Quantum Computing and Communications
 - Roundtable 2 - Topic to be announced
