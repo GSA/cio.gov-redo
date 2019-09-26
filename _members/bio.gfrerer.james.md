@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Asst. Sec. for IT and Chief Information Officer
 agency: Department of Veteran Affairs
-bio-image: /gfrerer.jpg
+bio-image: /bio_gfrerer.jpg
 bio-image-alt-text: James Gfrerer
 bio-phone: 202-461-6910
 bio-email: vacocioexe@va.gov

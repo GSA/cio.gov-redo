@@ -1,6 +1,7 @@
 ---
 layout: tag_index
-title: PMA
+title: President's Management Agenda
 tag: pma
+subtitle: News articles related to the PMA
 permalink: /tags/pma/
 ---

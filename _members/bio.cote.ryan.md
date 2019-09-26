@@ -7,8 +7,8 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: Department of Transportation
-bio-image: /cote.jpg
-bio-image-alt-text: RYAN COTE
+bio-image: /bio_cote.jpg
+bio-image-alt-text: Ryan Cote
 bio-phone:
 bio-email:
 

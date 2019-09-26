@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: Nuclear Regulatory Commission
-bio-image: /nelson.png
+bio-image: /bio_nelson.png
 bio-image-alt-text: David Nelson
 bio-phone:
 bio-email:

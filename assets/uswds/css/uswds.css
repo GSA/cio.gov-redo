@@ -234,9 +234,17 @@ dfn{
   font-style:italic;
 }
 h1{
-  font-size:2em;
-  margin:0.67em 0;
+  font-size:31px;
+  margin-top:1em;
+  margin-bottom:.5em;
+  font-family:Merriweather Web, Georgia, Cambria, Times New Roman, Times, serif;
 }
+
+h3 {
+  font-family:Public Sans Web, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+}
+
+
 mark{
   background:#ff0;
   color:#000;
@@ -2716,6 +2724,7 @@ dfn{
 
 .usa-nav__primary .usa-nav__primary-item a{
   text-decoration:none;
+  list-style: none;
 }
 
 .usa-nav__primary > .usa-nav__primary-item{
@@ -3128,6 +3137,17 @@ input[type="search"]{
   -webkit-transition:all 0.2s ease-in-out;
   transition:all 0.2s ease-in-out;
 }
+
+a.hidden {
+   position: absolute;
+   left: -999px;
+   color: white;
+ }
+
+ a.hidden:focus {
+   left: 5px;
+ }
+
 .grid-container{
   margin-left:auto;
   margin-right:auto;
@@ -6302,7 +6322,7 @@ input[type="search"]{
 }
 
 .font-sans-xl{
-  font-size:2.12941rem;
+  font-size:31px;
 }
 
 .font-sans-2xl{
@@ -16259,6 +16279,7 @@ input[type="search"]{
   .usa-nav__primary > .usa-nav__primary-item{
     font-size:0.93162rem;
     line-height:0.93923;
+    list-style: none;
   }
   .usa-nav__primary > .usa-nav__primary-item > a{
     line-height:0.93923;
@@ -16266,6 +16287,7 @@ input[type="search"]{
     color:#565c65;
     display:block;
     font-weight:bold;
+    list-style: none;
   }
   .usa-nav__primary > .usa-nav__primary-item > a:hover{
     color:#005ea2;
@@ -16350,11 +16372,13 @@ input[type="search"]{
   }
   .usa-nav__submenu .usa-nav__submenu-item + *{
     margin-top:0.75rem;
+    list-style: none;
   }
   .usa-nav__submenu .usa-nav__submenu-item a{
     color:white;
     padding:0;
     line-height:1.26796;
+    list-style: none;s
   }
   .usa-nav__submenu .usa-nav__submenu-item a:hover{
     background-color:transparent;
@@ -19407,6 +19431,7 @@ input[type="search"]{
   }
   .usa-nav__primary-item{
     border-top:1px solid #dcdee0;
+    list-style: none;
   }
   .usa-nav__primary a{
     color:#565c65;

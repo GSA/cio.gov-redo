@@ -12,8 +12,8 @@ permalink:
 _This blog entry was originally published on the White House [blog](https://www.whitehouse.gov/blog/2016/02/09/presidents-national-cybersecurity-plan-what-you-need-know)._
 
 Here are a few answers to questions you might have about the President’s new Cybersecurity National Action Plan.
-	>“I’m confident we can unleash the full potential of American innovation, and ensure our prosperity and security online for the generations to come.”
-  >- President Obama
+
+*“I’m confident we can unleash the full potential of American innovation, and ensure our prosperity and security online for the generations to come.” - President Obama*
 
 Today, President Obama is releasing his final budget proposal of his Administration. It’s a strong reflection of what investments he believes will move our country forward and keep our country and the American people safe.
 
@@ -21,7 +21,7 @@ A key part of that involves the strength of our nation’s cybersecurity. From b
 
 We have to adapt to this national threat. That’s why President Obama has worked for more than seven years to aggressively and comprehensively confront this challenge. So today, he is directing the Administration to implement a [Cybersecurity National Action Plan (CNAP)](https://www.whitehouse.gov/the-press-office/2016/02/09/fact-sheet-cybersecurity-national-action-plan) — the capstone of our national cybersecurity efforts.
 
-![President Obama is launching the cybersecurity national action plan, which will invest more than $19 billion to ensure: Americans have the security tools they need to protect their identities online; Coompanies can protect and defend their operations and information from hackers; The US government protects the private information citizens provide for federal beneifts and services]({{site.baseurl}}/assets/img/blog/2016.02.09.cybersecurity.plan.jpg)
+President Obama is launching the cybersecurity national action plan, which will invest more than $19 billion to ensure: Americans have the security tools they need to protect their identities online; Coompanies can protect and defend their operations and information from hackers; The US government protects the private information citizens provide for federal beneifts and services.
 
 So what’s the CNAP all about? How will the President’s plan help you protect your identity? What’s he calling for in his budget?  Here are a few answers to some questions Americans might have about the President’s plan to strengthen our cybersecurity:
 
@@ -65,7 +65,7 @@ The President’s CNAP takes a few vital steps to enhance our resilience by crea
 
 It will also double the number of cybersecurity advisors available to help private sector organizations implement best practices. It ensures the U.S. government and industry partners develop a Cybersecurity Assurance Program to test and certify networked devices within the “Internet of Things,” whether they be refrigerators or medical infusion pumps, so that when you buy a new product, you can be sure that it has been certified to meet security standards. For a full rundown of what CNAP will do for our infrastructure, [go here](https://www.whitehouse.gov/the-press-office/2016/02/09/fact-sheet-cybersecurity-national-action-plan)
 
-###vWhat about cyber criminals and bad actors? What is the President doing to go after them?
+### What about cyber criminals and bad actors? What is the President doing to go after them? ###
 President Obama recently took executive action to provide the U.S. government with a way to prevent the worst cybercriminals around the world from damaging our critical infrastructure, disrupting or hijacking our networks, stealing trade secrets from American companies, or compromising the personal information of American citizens. It’s one of the latest tools to combat the most significant cyber threats, and [you can read about it here](https://www.whitehouse.gov/blog/2015/04/01/our-latest-tool-combat-cyber-attacks-what-you-need-know).
 
 Building on that action, the Administration is increasing funding for cybersecurity-related activities by more than 23 percent for the Department of justice, including the Federal Bureau of Investigation, to improve their capabilities to identify, disrupt, and apprehend cyber criminals and bad actors. We are also building a Cyber Mission Force that’s 6,200 people strong to support U.S. government objectives across the spectrum of cyber operations. The Cyber Mission Force will be fully operational in 2018.

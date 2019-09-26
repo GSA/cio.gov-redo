@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: Social Security Administration
-bio-image: /mathur.png
+bio-image: /bio_mathur.png
 bio-image-alt-text: Rajive Mathur
 bio-phone:
 bio-email:

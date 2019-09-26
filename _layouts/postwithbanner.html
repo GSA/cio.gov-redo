@@ -6,12 +6,17 @@ This is used for blog posts as the base layout. It provides the border around th
 {% include header.html %}
 {% include menu.html primary_navigation=site.primary_navigation  secondary_navigation=site.secondary_navigation %}
 
+
 <section class="usa-graphic-list usa-section bg-primary-darker sml-margin">
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <div class="tablet:grid">
-        <h1 class="section-intro"> {{ page.date | date: '%B %d, %Y' }} </h1>
-        <h2 class="font-heading-xl margin-top-0 tablet:margin-bottom-0"> {{ page.title}} </h2>
+
+       <p><a class="text-white margin-bottom-2" href="{{ site.baseurl }}/news/" style="text-decoration:none;">❮ &nbsp; Back to News </a></p>
+       <h1 class="text-accent-cool font-sans-lg margin-bottom-1 text-medium card-tag-news"> {{ page.date | date: '%B %d, %Y' }} </h1>
+       <h2 class="text-white font-serif-xl margin-top-0 margin-bottom-0 text-bold"> {{ page.title}} </h2>
+       <p class="text-white font-serif-md padding-bottom-0">By {{ page.author }}</p>
+
       </div>
     </div>
   </div>

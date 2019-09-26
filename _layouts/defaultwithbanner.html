@@ -10,18 +10,20 @@ The home page uses wide.html layout, since it extends full width of page
 <section class="usa-graphic-list usa-section bg-primary-darker sml-margin">
   <div class="grid-container">
     <div class="grid-row grid-gap">
-      <div class="tablet:grid">
-        <h1 class="section-intro"> {{ page.title }} </h1>
-        <h2 class="font-heading-xl margin-top-0 tablet:margin-bottom-0"> {{ page.subtitle}} </h2>
+
+      <div class="tablet:grid-col-9">
+        <span class="text-accent-cool font-sans-lg margin-bottom-0 text-bold"> {{ page.title }} </span>
+        <h1 class="text-white font-serif-xl margin-top-0 margin-bottom-0 text-bold"> {{ page.subtitle}} </h1>
       </div>
+
     </div>
   </div>
 </section>
 
-<main class="usa-layout-docs usa-section" id="main-content">
-  <div class="grid-container">
+  <div class="usa-layout-docs__main desktop:grid-col-12">
+  <div class="grid-container font-sans-sm">
     {{ content }}
   </div>
-</main>
+</div>
 
 {% include footer.html %}

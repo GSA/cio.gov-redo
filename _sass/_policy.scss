@@ -41,6 +41,7 @@
     background: white;
 }
 
+
 .filters a:hover {
     outline: 2px solid hsl(0, 0%, 50%);
 }
@@ -48,4 +49,29 @@
 a.checked {
     background: hsl(0, 0%, 50%);
     color: white;
+}
+
+.policy-border {
+  border-top: solid 4px #f2938c;
+}
+
+.priority-border {
+  border-top: solid 4px #97d4ea
+}
+
+
+.website-border {
+  border-top: solid 4px #07648d;
+}
+
+.guidance-border {
+  border-top: solid 4px #07648d;
+}
+
+.report-border {
+  border-top: solid 4px #07648d;
+}
+
+.presentation-border {
+  border-top: solid 4px #07648d;
 }

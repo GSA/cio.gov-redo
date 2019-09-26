@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: U.S. Agency for International Development
-bio-image: /mahanand.png
+bio-image: /bio_mahanand.jpg
 bio-image-alt-text: Jay Mahanand
 bio-phone:
 bio-email:

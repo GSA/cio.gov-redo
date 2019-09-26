@@ -8,7 +8,7 @@ author: CIO Council Operations
 tags: cybersecurity 2018 workforce
 
 image: 2018.11.30.fcra.jpg
-img-alt: Women with laptop
+img-alt: Women at desktop computer
 
 permalink:
 ---

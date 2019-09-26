@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: Department of Housing and Urban Development
-bio-image: /chow.png
+bio-image: /bio_chow.png
 bio-image-alt-text: David Chow
 bio-phone:
 bio-email:
@@ -19,4 +19,4 @@ David brings a deep well of IT experience in the Federal government including le
 
 As HUD’s CIO, David will oversee a comprehensive technology modernization effort to move beyond some of the Department’s obsolete mainframe technology and into the cloud. In addition, David and his team will continue working with GSA’s Center of Excellence to consolidate HUD’s business applications, with a particular focus on streamlining the Department’s grants process. “I would characterize my leadership style as collaborative, working closely with stakeholders to bring about needed changes.”
 
-As an undergraduate at California Polytechnic University, David earned a degree in chemistry but quickly learned he liked working with people too much to spend his life in a lab. Later, he earned an MBA degree at George Mason University and became a certified Federal Chief
+As an undergraduate at California Polytechnic University, David earned a degree in chemistry but quickly learned he liked working with people too much to spend his life in a lab. Later, he earned an MBA degree at George Mason University and became a certified Federal Chief Information Officer.

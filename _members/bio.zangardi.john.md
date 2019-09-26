@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: Department of Homeland Security
-bio-image: /zangardi.png
+bio-image: /bio_zangardi.jpg
 bio-image-alt-text: Dr. John Zangardi
 bio-phone:
 bio-email:

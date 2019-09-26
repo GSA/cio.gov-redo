@@ -38,4 +38,4 @@ As we move into 2018, the CIO Council plans to continue working on innovative an
 
 The CIO Council will continue to drive efficiencies and build relationships across agencies to tackle a broad range of workforce challenges including the recruitment, hiring, development, and retention of federal IT and Cyber professionals. Retention starts with the new hires from this event who are currently being onboarded. The CIO Council will provide support to agencies in the development of tools and resources to enable their success in the federal government.
 
-![Infographic of the CIOC Hiring Event's Successes]({{site.baseurl}}/assets/img/blog/2018.02.02.HiringAccomplishments.png)
+![Infographic of the CIOC Hiring Event's Successes]({{site.baseurl}}/assets/images/blog/2018.02.02.HiringAccomplishments.png)

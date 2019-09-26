@@ -40,20 +40,26 @@ dap_agency: GSA
 primary_navigation:
   - name: About Our Council
     children:
-      - name: Our Purpose and Vision
+      - name: Purpose and Vision
         url: /about/vision/
-      - name: Our Members and Leadership
+      - name: Members and Leadership
         url: /about/members-and-leadership/
-      - name: Our Meetings and Operations
+      - name: Meetings and Operations
         url: /about/operations/
   - name: Policies & Priorities
     url: /policies-and-priorities/
   - name: Programs & Events
     children:
-      - name: Reskilling
-        url: /reskilling/
+      - name: CIO Bootcamp
+        url: /programs-and-events/cio-bootcamp/
       - name: Code Challenge
-        url: /codechallenge/
+        url: /programs-and-events/codechallenge/
+      - name: Cyber Reskilling Academy
+        url: /programs-and-events/reskilling/
+      - name: Innnovation Roundtables
+        url: /programs-and-events/innovation-roundtables/
+      - name: All Events
+        url: /programs-and-events/
   - name: Resources
     url: /resources/
   - name: News
@@ -62,8 +68,9 @@ primary_navigation:
 secondary_navigation:
   - name: Contact Us
     url: mailto:feedback@cio.gov
-  - name: Government IT Jobs
-    url: /government-it-jobs
+  - name: Government Tech Jobs
+    url: /government-technology-jobs
+
 
 # Search.gov configuration
 #
@@ -95,7 +102,6 @@ collections:
   leadership:
     output: true
 
-permalink: pretty
 
 
 markdown: kramdown
@@ -121,7 +127,7 @@ pagination:
   collection: 'posts'
 
   # How many objects per paginated page, used to be `paginate` (default: 0, means all)
-  per_page: 3
+  per_page: 4
 
   # The permalink structure for the paginated pages (this can be any level deep)
   permalink: '/page/:num/' # Pages are index.html inside this folder (default)

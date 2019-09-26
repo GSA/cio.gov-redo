@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: General Services Administration
-bio-image: /shive.png
+bio-image: /bio_shive.png
 bio-image-alt-text: David Shive
 bio-phone: 202-501-6468
 bio-email:
@@ -20,7 +20,7 @@ Mr. Shive joined the U.S. General Services Administration's Office of the Chief 
 
 Prior to joining GSA, he served in the District of Columbia government as a Chief Information Officer. In this role, Mr. Shive had executive responsibility for agency IT operations including financial systems, security and privacy programs, internal controls and compliance, strategic planning, enterprise architecture and performance management and measurement programs and directed the transformation of enterprise systems and processes, to public/private cloud hybrid. Mr. Shive was the recipient of the 2012 Washington, D.C., CFO Meritorious Service Award.
 
-Mr. Shive began his career at Lockheed Martin Corporation in management and consulting roles overseeing large, customer-centric, IT organizations serving state and local, federal and international government customers. He is the recipient of numerous sector awards including the 2006 State & Local Government Executive Management award and the 2003 Management Award for Transformational Technology
+Mr. Shive began his career at Lockheed Martin Corporation in management and consulting roles overseeing large, customer-centric, IT organizations serving state and local, federal and international government customers. He is the recipient of numerous sector awards including the 2006 State & Local Government Executive Management award and the 2003 Management Award for Transformational Technology.
 
 Mr. Shive is a member of the National Law Enforcement Telecommunications System Alumni Association; American Meteorological Society, DC Chapter; Project Management Institute, DC Chapter; the Air Force Association and the Government Finance Officers Association.
 
