@@ -15,8 +15,8 @@ Per the [Federal Cybersecurity Workforce Strategy](https://www.whitehouse.gov/pr
 
 This Executive Order, along with the National Cyber Strategy and the [President’s 2018 Management Agenda](https://www.performance.gov/PMA/PMA.html), each emphasize that a superior cybersecurity workforce is necessary. America’s cybersecurity workforce is a diverse group of practitioners who govern, design, defend, analyze, administer, operate, and maintain our Nation's data, systems, and networks. With a shortage of cybersecurity talent and capability, agencies need to tae more innovative approaches to building and fostering this workforce. Agencies must:
 
-- facilitate the seamless movement of cybersecurity practitioners between the public and private sectors, maximizing the contributions made by their diverse skills, experiences, and talents to our Nation;
-- support the development of cybersecurity skills and encourage excellence so that America can maintain its competitive edge in cybersecurity;
-- recognize and reward the country’s highest-performing cybersecurity practitioners and teams; and
-- create the organizational and technological tools required to maximize the cybersecurity talents and capabilities of American workers –-especially when those talents and capabilities can advance our national and economic security.  
+- Facilitate the seamless movement of cybersecurity practitioners between the public and private sectors, maximizing the contributions made by their diverse skills, experiences, and talents to our Nation;
+- Support the development of cybersecurity skills and encourage excellence so that America can maintain its competitive edge in cybersecurity;
+- Recognize and reward the country’s highest-performing cybersecurity practitioners and teams; and
+- Create the organizational and technological tools required to maximize the cybersecurity talents and capabilities of American workers –-especially when those talents and capabilities can advance our national and economic security.  
 &nbsp;

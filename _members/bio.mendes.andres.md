@@ -12,4 +12,4 @@ bio-image-alt-text: Andre Mendes
 bio-phone:
 bio-email:
 ---
-Bio coming soon.
+Official biography information coming soon.

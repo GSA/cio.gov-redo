@@ -13,4 +13,4 @@ bio-phone:
 bio-email:
 ---
 
-Bio Coming Soon
+Official biography information coming soon.
