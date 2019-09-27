@@ -36,4 +36,4 @@ Finally, we’ve made it easier for interested parties to stay involved. Now you
 * [Register for upcoming Council events]({{ site.baseurl }}/programs-and-events/)
 
 
-If your agency is considering a modernization transformation or has feedback, email [feedback@gsa.gov](mailto:feedback@gsa.gov) or check out the blog(link)SEE BELOW for more information.
+If your agency is considering a modernization transformation or has feedback, email [feedback@gsa.gov](mailto:feedback@gsa.gov) or [check out the blog]({{ site.baseurl }}/new-look/) for more information.

@@ -1,8 +1,8 @@
 {% comment %}
-This section is for upcoming events for the cio council. The events pull from the _events folder.
+This section is for upcoming events for the cio council. The events pull from the _events folder. The "content news" name class is the anchor for the skip nav link before the Twitter feed.
 {% endcomment %}
 
-<h3><a class="text-no-underline" href="{{ site.baseurl }}/programs-and-events/"  name="content-news">Upcoming events</a></h3>
+<h3><a class="text-no-underline" href="{{ site.baseurl }}/programs-and-events/" name="content-news">Upcoming events</a></h3>
 {% assign today_date = 'now' | date:'%s' %}
 
 {% for events in site.events  %}
@@ -15,8 +15,10 @@ This section is for upcoming events for the cio council. The events pull from th
   {% endif %}
   {{ events.end-date | date: '%a, %b %d, %Y' }}
 </p>
+<a class="no-formatting" href="{{ site.baseurl }}{{ events.link }}">
   <p class="title-news padding-top-1">{{ events.title }}</p>
   <p class="description">{{ events.description }}</p>
+</a>
 
 {% endif %}
 {% endfor %}
