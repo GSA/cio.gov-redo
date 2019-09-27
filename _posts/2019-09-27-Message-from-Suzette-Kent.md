@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Highlights of the Updated CIO.gov
+title: What's New on CIO.gov
 excerpt: As one of the IT Modernization Goal Leaders, I’m excited to announce that in alignment with the IT Modernization Goal and the 21st Century Integrated Digital Experience Act (IDEA) we’ve re-launched CIO.gov leveraging common solutions and innovative practices to improve efficiency, increase security, and ultimately meet citizens’ needs. your needs.
 date: Sept. 27, 2019
 display-date: 27 September 2019

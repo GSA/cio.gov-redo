@@ -1,6 +1,6 @@
 ---
 layout: bio
-name: Ms. Andre Mendes
+name: Mr. Andre Mendes
 permalink: /about/members-and-leadership/andre-mendes/
 subtitle: Team and Leadership
 title: About Our Council
