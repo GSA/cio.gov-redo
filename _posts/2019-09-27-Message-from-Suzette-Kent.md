@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Highlights of the Updated CIO.gov
+title: What's New on CIO.gov
 excerpt: As one of the IT Modernization Goal Leaders, I’m excited to announce that in alignment with the IT Modernization Goal and the 21st Century Integrated Digital Experience Act (IDEA) we’ve re-launched CIO.gov leveraging common solutions and innovative practices to improve efficiency, increase security, and ultimately meet citizens’ needs. your needs.
-date: Sept. 26, 2019
-display-date: 26 September 2019
+date: Sept. 27, 2019
+display-date: 27 September 2019
 author: Suzette Kent, Federal CIO
 tags: cio-council 2019
 image: blog_kent.jpg
@@ -36,4 +36,4 @@ Finally, we’ve made it easier for interested parties to stay involved. Now you
 * [Register for upcoming Council events]({{ site.baseurl }}/programs-and-events/)
 
 
-If your agency is considering a modernization transformation or has feedback, email [feedback@gsa.gov](mailto:feedback@gsa.gov) or check out the blog(link)SEE BELOW for more information.
+If your agency is considering a modernization transformation or has feedback, email [feedback@gsa.gov](mailto:feedback@gsa.gov) or [check out the blog]({{ site.baseurl }}/new-look/) for more information.

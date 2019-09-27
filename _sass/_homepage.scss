@@ -170,6 +170,18 @@ margin-top: 5px;
  .card-link {
    margin-bottom: 0; } }
 
+.card-link:focus {
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  -o-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2); }
+ .card-link:active {
+  box-shadow: 0 0 3px #3e94cf, 0 0 7px #3e94cf; }
+@media screen and (min-width: 600px) {
+.card-link {
+  margin-bottom: 0; } }
+
 .card-link-tagline {
  text-decoration: none;
  color: #205493;
@@ -280,4 +292,9 @@ margin-top: 5px;
 .banner-gradient {
   background: rgb(22,46,81);
   background: linear-gradient(90deg, rgba(22,46,81,1) 5%, rgba(12,112,148,1) 100%, rgba(0,189,227,1) 100%);
+}
+
+.no-formatting {
+  text-decoration: none;
+  color: #1b1b1b
 }
