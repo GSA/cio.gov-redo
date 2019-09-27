@@ -20,9 +20,7 @@
 
 title: CIO.GOV
 email:  feedback@cio.gov
-description: >- # this means to ignore newlines until "baseurl:"
-  Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.
+description: The CIO Council is a forum of Federal Chief Information Officers (CIOs). Our goal is to improve IT practices across U.S. Government agencies.
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/images/logos/logo-main.png
@@ -31,7 +29,7 @@ logo: /assets/images/logos/logo-main.png
 twitter: ciodotgov
 
 # Configuration for Google Analytics, add your UA code here:
-google_analytics_ua: UA-????????-??
+google_analytics_ua: UA-48605964-32
 
 # Configuration for DAP, add your agency ID here:
 dap_agency: GSA
