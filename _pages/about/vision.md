@@ -5,7 +5,7 @@ layout: page
 permalink: /about/vision/
 
 redirect_from:
-  - www.cio.gov/about/
+  - /about/
 
 ---
 
