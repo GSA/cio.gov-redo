@@ -8,5 +8,5 @@ overview: The President’s Cup Cybersecurity Competition is a national cyber co
 image: 2019-presidents-cup.png
 image-alt: 2019 President's Cup logo - blue eagle with text below
 link:
-registration: www.cisa.gov/presidentscup
+external_url: www.cisa.gov/presidentscup
 ---

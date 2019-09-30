@@ -29,8 +29,8 @@
         <a href="{{ site.baseurl }}{{ events.link }}">Read more</a>
       {% endif %}
     </p>
-    {% if events.registration %}
-      <a class="usa-button usa-button--accent-cool margin-top-1" href="{{events.registration}}">Register for this Event</a>
+    {% if events.external_url %}
+      <a class="usa-button usa-button--accent-cool margin-top-1" href="http://{{events.external_url}}">Register for this Event</a>
     {% endif %}
 
   </div>
