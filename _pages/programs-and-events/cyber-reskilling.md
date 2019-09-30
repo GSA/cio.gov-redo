@@ -4,6 +4,9 @@ subtitle: Federal Cyber Reskilling Academy
 layout: page
 description: The Federal Cybersecurity Reskilling Academy offers Federal employees the opportunity for hands-on training in cybersecurity, one of the fastest growing fields in the country.
 permalink: /programs-and-events/reskilling/
+
+redirect_from:
+  - /reskilling/
 ---
 <p><a class="text-primary-dark text-bold margin-bottom-2" href="{{ site.baseurl }}/programs-and-events/" style="text-decoration:none;">❮ &nbsp; See all Events</a></p>
 

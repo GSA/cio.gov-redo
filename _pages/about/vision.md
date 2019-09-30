@@ -3,6 +3,10 @@ title: Purpose and Vision
 subtitle: What We Do
 layout: page
 permalink: /about/vision/
+
+redirect_from:
+  - /about/
+
 ---
 
 ## Our Purpose
