@@ -7,6 +7,6 @@ description: National cyber competition aiming to identify, recognize, and rewar
 overview: The President’s Cup Cybersecurity Competition is a national cyber competition aiming to identify, recognize, and reward the best cybersecurity talent in the federal executive workforce.
 image: 2019-presidents-cup.png
 image-alt: 2019 President's Cup logo - blue eagle with text below
-link: https://www.cisa.gov/presidentscup
+link: www.cisa.gov/presidentscup
 registration: https://presidentscup.us/
 ---
