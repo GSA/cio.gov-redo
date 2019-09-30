@@ -25,8 +25,7 @@ This section is for upcoming events for the cio council. The events pull from th
   {% if events.link %}
   <p class="title-news padding-top-1"><a class="no-formatting" href="{{ site.baseurl }}{{ events.link }}">{{ events.title }}</a></p>
   <p class="description"><a class="no-formatting" href="{{ site.baseurl }}{{ events.link }}" tabIndex="-1">{{ events.description }}</a></p>
-  {% endif %}
-  {% if events.external_url  %}
+  {% elsif events.external_url  %}
   <p class="title-news padding-top-1"><a class="no-formatting" href="http://{{ events.external_url }}">{{ events.title }}</a></p>
   <p class="description"><a class="no-formatting" href="http://{{ events.external_url }}" tabIndex="-1">{{ events.description }}</a></p>
   {% endif %}
