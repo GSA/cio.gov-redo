@@ -6,4 +6,8 @@ description: A practical guide for application rationalization and IT portfolio 
 permalink: /assets/resources/application-rationalization-playbook.pdf
 filters: guidance cloud data-center-consolidation modernization current
 
+redirect_from:
+  - /assets/files/Application-Rationalization-Playbook.pdf
+
+
 ---
