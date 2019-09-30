@@ -29,8 +29,9 @@
         <a href="{{ site.baseurl }}{{ events.link }}">Read more</a>
       {% endif %}
     </p>
-
-
+    {% if events.registration %}
+      <a class="usa-button usa-button--accent-cool margin-top-1" href="{{events.registration}}">Register to Attend</a>
+    {% endif %}
 
   </div>
 
