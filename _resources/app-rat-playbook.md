@@ -6,7 +6,7 @@ description: A practical guide for application rationalization and IT portfolio 
 external_url: https://www.govloop.com/wp-content/uploads/2019/06/Application-Rationalization-Playbook.pdf
 filters: guidance cloud data-center-consolidation modernization current
 
-redirect_from
-- https://www.cio.gov/assets/files/Application-Rationalization-Playbook.pdf
+redirect_from:
+  - www.cio.gov/assets/files/Application-Rationalization-Playbook.pdf
 
 ---
