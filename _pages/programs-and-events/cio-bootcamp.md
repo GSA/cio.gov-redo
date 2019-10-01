@@ -41,7 +41,7 @@ This full day event will be held on Tuesday, October 29th, at the U.S. Departmen
       </p>
 
       <p class="">{{ events.overview | truncate: 200 }}
-        {% if events.permalink %}<a href="{{ site.baseurl }}{{ events.permalink }}">Read more</a>
+        {% if events.permalink %}<a href="{{ site.baseurl }}{{ events.permalink }}">>Read more about {{ events.title}}</a>
         {% endif %}
       </p>
 
