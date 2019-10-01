@@ -15,7 +15,7 @@ On September 19th, the Administration published updates to the Cross-Agency Prio
 
 **Data-Driven, Customer-Focused**
 
-The first step to modernize CIO.gov was take a customer focused approach to the content and information architecture. Interviewing stakeholders, conducting user testing and looking at visitor data helped us determine what information users were looking for and how to approach design so that they could find it quickly and easily.
+The second step to modernize CIO.gov was take a customer focused approach to the content and information architecture. Interviewing stakeholders, conducting user testing and looking at visitor data helped us determine what information users were looking for and how to approach design so that they could find it quickly and easily.
 
 **Shared IT Services**
 
