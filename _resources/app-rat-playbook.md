@@ -7,6 +7,6 @@ external_url: github.com/GSA/cio-gov-application-rationalization-playbook/blob/m
 filters: guidance cloud data-center-consolidation modernization current
 
 redirect_from:
-  - www.cio.gov/assets/files/Application-Rationalization-Playbook.pdf
+  - /assets/files/Application-Rationalization-Playbook.pdf
 
 ---
