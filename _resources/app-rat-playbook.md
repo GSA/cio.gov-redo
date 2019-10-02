@@ -6,5 +6,7 @@ description: A practical guide for application rationalization and IT portfolio 
 external_url: github.com/GSA/cio-gov-application-rationalization-playbook/blob/master/application-rationalization-playbook-pdf.pdf?raw=true
 filters: guidance cloud data-center-consolidation modernization current
 
+redirect_from:
+  - www.cio.gov/assets/files/Application-Rationalization-Playbook.pdf
 
 ---
