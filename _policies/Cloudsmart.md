@@ -9,6 +9,10 @@ filters: fed-policy cloud modernization active
 related-resources-url: /resources/#subject=*&role=.cloud&status=*
 related-policies-url: /policies-and-priorities/#subject=*&role=.cloud&status=*
 date: June 2019
+redirect_from:
+  - /about/cloud-infrastructure-cop/
+
+
 ---
 
 ## Policy Overview ##
