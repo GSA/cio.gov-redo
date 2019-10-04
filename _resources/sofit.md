@@ -5,11 +5,6 @@ description: The CIO Council’s State of Federal Information Technology (SOFIT)
 layout: page
 permalink: /resources/sofit/
 filters: report modernization it-spending current
-
-redirect_from:
-  - https://www.cio.gov/sofit
-
-
 ---
 
 # Introduction
