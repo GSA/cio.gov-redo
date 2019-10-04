@@ -9,6 +9,8 @@ filters: fed-policy cloud modernization active
 related-resources-url: /resources/#subject=*&role=.cloud&status=*
 related-policies-url: /policies-and-priorities/#subject=*&role=.cloud&status=*
 date: June 2019
+
+
 ---
 
 ## Policy Overview ##
@@ -19,6 +21,8 @@ As of June 2019, the Federal Cloud Computing Strategy — Cloud Smart — is a l
 Cloud Smart is founded on three key pillars of successful cloud adoption: security, procurement, and workforce. Collectively, these elements embody the interdisciplinary approach to IT modernization that the Federal enterprise needs in order to provide improved return on its investments, enhanced security, and higher quality services to the American people.
 
 Review more about Cloud at [Cloud.CIO.gov](https://cloud.cio.gov/).
+
+Access the [Application Rationalization Playbook](http://github.com/GSA/cio-gov-application-rationalization-playbook/blob/master/application-rationalization-playbook-pdf.pdf?raw=true).
 
 ## Why This Matters to the CIO Council ##
 The case for using cloud capabilities in government has been clearly proven – to drive savings, to improve security, and to deliver mission-serving solutions faster.
