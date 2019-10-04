@@ -21,21 +21,21 @@ Visit the [DHS Cybersecurity Awarness Month Toolkit](https://www.dhs.gov/stopthi
 Check out the [DHS Government “Tip Card”](https://www.dhs.gov/sites/default/files/publications/Government%20Tip%20Card_0.pdf)
 
 ### Week of October 7th:  Mobile Security 
-Mobile Security One Pager - DOE
-Mobile Device Security - NIST
-Mobile Security One Pager -DHS
+- _Mobile Security One Pager - DOE_
+- _Mobile Device Security - NIST_
+- _Mobile Security One Pager -DHS_
 
 ### Week of October 14th:  Wifi Hotspots & Travel
-Wifi Hotspots & Travel One Pager - VA 
-Cybersecurity While Traveling - DHS
+- _Wifi Hotspots & Travel One Pager - VA_
+- _Cybersecurity While Traveling - DHS_
 
 ### Week of October 21st: Phishing 
-Phishing One Pager - DOJ
-Online Safety - USA.gov
+- _Phishing One Pager - DOJ_
+- _Online Safety - USA.gov_
 
 ### Week of October 28th: Securing the Home Network for Telework
-Securing the Home Network for Telework One Pager - Education
-Telework Guidance - Telework.gov
+- _Securing the Home Network for Telework One Pager - Education_
+- _Telework Guidance - Telework.gov_
 
 ## Events
 
@@ -45,11 +45,11 @@ Build technical skills for cyber incident response and collaborate with others i
 
 ### [ACT-IAC: Cyber CIO Meeting](https://www.actiac.org/events/act-iac-cybersecurity-coi-october-2019)
 **Friday, OCT 18, 2019**
-Join the Cyber COI to hear from Venice Goodwine, Chief Information Security Officer (CISO) for the US Department of Agriculture. Also learn about current and upcoming COI projects and how you can be involved. Held at 1250 Connecticut Avenue, NW, Suite 700, Washington, DC from 11am-12pm EDT. Register here.
+Join the Cyber COI to hear from Venice Goodwine, Chief Information Security Officer (CISO) for the US Department of Agriculture. Also learn about current and upcoming COI projects and how you can be involved. Held at 1250 Connecticut Avenue, NW, Suite 700, Washington, DC from 11am-12pm EDT. 
  
 ### [HACK 2019: National Cybersecurity Awareness Month Seminar](https://www.fbcinc.com/e/nrchack/default.aspx)
 **Tuesday, OCT 29, 2019**
-This half day seminar features dynamic speakers from government, education, and industry discussing a wide range of current technologies and the cybersecurity challenges that come with them. Held at NRC Headquarters from 9am-1:30pm EDT. Register here. Password: NRCH4CK2019.
+This half day seminar features dynamic speakers from government, education, and industry discussing a wide range of current technologies and the cybersecurity challenges that come with them. Held at NRC Headquarters from 9am-1:30pm EDT. 
 
 ### [2019 President’s Cup Cybersecurity Competition](https://www.cisa.gov/presidentscup)
 **Now - DEC, 2019**
