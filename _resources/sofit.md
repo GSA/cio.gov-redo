@@ -7,7 +7,7 @@ permalink: /resources/sofit/
 filters: report modernization it-spending current
 
 redirect_from:
-  - ../sofit
+  - https://www.cio.gov/sofit
 
 
 ---
