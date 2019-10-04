@@ -6,7 +6,7 @@ layout: page
 permalink: /resources/sofit/
 filters: report modernization it-spending current
 
-redirect_from: cio.gov/sofit
+redirect_from: {{site.baseurl}}/sofit
 
 
 ---
