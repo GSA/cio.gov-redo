@@ -2,7 +2,7 @@
 title: National Cybersecurity Awareness Month
 subtitle: 
 layout: page
-permalink: /2019-cybersecurity-awareness-month/
+permalink: /programs-and-events/2019-cybersecurity-awareness-month/
 ---
 ## The Vision
 Held every October, National Cybersecurity Awareness Month (NCSAM) is a collaborative effort between government and industry to raise awareness about the importance of cybersecurity and to ensure that all Americans have the resources they need to be safer and more secure online.
