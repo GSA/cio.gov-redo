@@ -6,7 +6,7 @@ date: Oct. 04, 2019
 display-date: 04 October 2019
 author: Grant Schneider, Federal Chief Information Security Officer
 tags: cybersecurity 2019
-image: /bio_schneider.png
+image: bio_schneider.png
 img-alt: Image of Grant Schneider federal Chief Information Security Officer
 
 permalink: /cyber-security-awareness-month-2019/
