@@ -22,6 +22,8 @@ Cloud Smart is founded on three key pillars of successful cloud adoption: securi
 
 Review more about Cloud at [Cloud.CIO.gov](https://cloud.cio.gov/).
 
+Access the [Application Rationalization Playbook](http://github.com/GSA/cio-gov-application-rationalization-playbook/blob/master/application-rationalization-playbook-pdf.pdf?raw=true).
+
 ## Why This Matters to the CIO Council ##
 The case for using cloud capabilities in government has been clearly proven – to drive savings, to improve security, and to deliver mission-serving solutions faster.
 
