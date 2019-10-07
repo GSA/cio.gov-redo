@@ -17,13 +17,13 @@ Held throughout the month of October CIO.gov will post information related to th
 We will feature one-pagers for each theme authored by agencies, blog posts from CISO Council leadership, short video blogs, and various cybersecurity events hosted by agencies.
 Resources
 ### Week of September 30th: Kick-Off
-- _Visit the [DHS Cybersecurity Awarness Month Toolkit](https://www.dhs.gov/stopthinkconnect-toolkit)_
-- _Check out the [DHS Government “Tip Card”](https://www.dhs.gov/sites/default/files/publications/Government%20Tip%20Card_0.pdf)_
+- Visit the [DHS Cybersecurity Awarness Month Toolkit](https://www.dhs.gov/stopthinkconnect-toolkit)
+- Check out the [DHS Government “Tip Card”](https://www.dhs.gov/sites/default/files/publications/Government%20Tip%20Card_0.pdf)
 
 ### Week of October 7th:  Mobile Security
-- _Mobile Security One Pager - DOE_
-- _Mobile Device Security - NIST_
-- _Mobile Security One Pager -DHS_
+- [Mobile Security One Pager - DOE]({{ site.baseurl }}/assets/resources/Mobile Security Handout Final.pdf)
+- [Mobile Device Security - NIST](https://www.nccoe.nist.gov/projects/building-blocks/mobile-device-security)
+- [Mobile Security One Pager -DHS](https://www.dhs.gov/sites/default/files/publications/Mobile%20Security%20One%20Pager_3.pdf)
 
 ### Week of October 14th:  Wifi Hotspots & Travel
 - _Wifi Hotspots & Travel One Pager - VA_
