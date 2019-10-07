@@ -21,7 +21,7 @@ Resources
 - Check out the [DHS Government “Tip Card”](https://www.dhs.gov/sites/default/files/publications/Government%20Tip%20Card_0.pdf)
 
 ### Week of October 7th:  Mobile Security
-- [Mobile Security One Pager - DOE]({{ site.baseurl }}//Mobile Security Handout Final.pdf/)
+- [Mobile Security One Pager - DOE]({{ site.baseurl }}assets/resources/Mobile Security Handout Final.pdf/)
 - [Mobile Device Security - NIST](https://www.nccoe.nist.gov/projects/building-blocks/mobile-device-security)
 - [Mobile Security One Pager -DHS](https://www.dhs.gov/sites/default/files/publications/Mobile%20Security%20One%20Pager_3.pdf)
 
