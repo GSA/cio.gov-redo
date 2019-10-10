@@ -1,7 +1,7 @@
 ---
 title: CIO Council Priorities
 subtitle: The President's Management Agenda (PMA)
-description:
+description: The President’s Management Agenda (PMA) lays out a long-term vision for modernizing the Federal Government. It's one of the key ways our Council sets priorities.
 layout: page
 permalink: /pma/
 

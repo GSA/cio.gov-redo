@@ -3,6 +3,7 @@ title: Purpose and Vision
 subtitle: What We Do
 layout: page
 permalink: /about/vision/
+description: The Chief Information Officers Council (CIO) Council is the principal interagency forum for improving agency practices related to the design, acquisition, development, modernization, use, sharing, and performance of Federal information resources.
 
 redirect_from:
   - /about/
