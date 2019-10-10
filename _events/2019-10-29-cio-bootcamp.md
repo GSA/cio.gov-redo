@@ -1,6 +1,6 @@
 ---
 title: CIO Bootcamp & eXchange
-featured:  #puts meeting on homepage
+featured: yes #puts meeting on homepage
 start-date:  #only fill in start date if the events spans multiple days
 end-date: October 29, 19 #otherwise use end-date
 description: Full day Bootcamp for new and seasoned CIOs, CISOs, and their Deputies.
