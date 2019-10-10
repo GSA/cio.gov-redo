@@ -1,6 +1,7 @@
 ---
 title: CIO Council Priorities
 subtitle: The President's Management Agenda (PMA)
+description:
 layout: page
 permalink: /pma/
 
