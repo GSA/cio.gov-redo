@@ -1,5 +1,6 @@
 ---
 title: CIO Council Meeting - Full Council
+featured: yes
 start-date:  #only fill in start date if the events spans multiple days
 end-date: October 23, 19 #otherwise use end-date
 description: Monthly meeting of the full CIO Council.

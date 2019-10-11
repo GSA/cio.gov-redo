@@ -1,6 +1,7 @@
 ---
 title: Council Programs and Events
 subtitle: Innovation Roundtables
+description: The Innovation Roundtable is designed to connect subject matter experts to focus on the practical applications of innovative technologies in the Federal Government. All discussion will be informal and off-the-record, with the goal of fostering a deeper understanding of the challenges and opportunities facing agency CIOs.
 layout: page
 permalink: /programs-and-events/innovation-roundtables/
 ---
@@ -10,7 +11,7 @@ permalink: /programs-and-events/innovation-roundtables/
 
 The Innovation Roundtable is designed to connect subject matter experts to focus on the practical applications of innovative technologies in the Federal Government. All discussion will be informal and off-the-record, with the goal of fostering a deeper understanding of the challenges and opportunities facing agency CIOs.
 
-- Roundtable 1 - Quantum Computing and Communications. <a class="text-bold" href="https://feedback.gsa.gov/jfe/form/SV_0OjzP1tldnNHJzf">Register for Roundtable 1</a>
+- Roundtable 1 - Quantum Computing and Communications. [Register for Roundtable 1](https://feedback.gsa.gov/jfe/form/SV_3CnJ7WrtzHw9z6Z)
 - Roundtable 2 - Topic to be announced
 - Roundtable 3 - Topic to be announced
 

@@ -3,6 +3,7 @@ title: Council Programs and Events
 subtitle: CIO Bootcamp & eXchange
 layout: page
 permalink: /programs-and-events/cio-bootcamp/
+description: The CIO Bootcamp & eXchange event brings together new and seasoned CIOs, CISOs, and their Deputies. The goal is to help agency IT leadership learn more about the CIO Council and how to get involved in advancing Council priorities.
 ---
  <p><a class="text-primary-dark text-bold margin-bottom-2" href="{{ site.baseurl }}/programs-and-events/" style="text-decoration:none;">❮ &nbsp; See all Events</a></p>
 
