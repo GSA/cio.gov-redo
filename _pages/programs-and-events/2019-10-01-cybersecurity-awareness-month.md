@@ -26,8 +26,8 @@ Resources
 - [Mobile Security One Pager -DHS](https://www.dhs.gov/sites/default/files/publications/Mobile%20Security%20One%20Pager_3.pdf)
 
 ### Week of October 14th:  Wifi Hotspots & Travel
-- _Wifi Hotspots & Travel One Pager - VA_
-- _Cybersecurity While Traveling - DHS_
+- Wifi Hotspots & Travel One Pager - VA
+- [Cybersecurity While Traveling Tip Card - DHS](https://www.dhs.gov/sites/default/files/publications/Cybersecurity%20While%20Traveling_7.pdf)
 
 ### Week of October 21st: Phishing
 - _Phishing One Pager - DOJ_
