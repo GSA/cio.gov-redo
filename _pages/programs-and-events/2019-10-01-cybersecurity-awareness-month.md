@@ -47,7 +47,8 @@ Build technical skills for cyber incident response and collaborate with others i
 
 ### DOJ Federal Incident Response (IR) Phishing Challenge
 **Thursday, OCT 17, 2019**
-Federal personnel are invited to participate in the U.S. Department of Justice's (DOJ) Federal Incident REsponse (IR) Phishing Challenge! The challenge provides an opportunity to practice technical cybersecurity and incident response skills. Register by emailing your name, title, and agency to [Cyber.Challenge2019@usdoj.gov](mailto: cyber.challenge2019@usdoj.gov) by noon (EST) on Thursday, October 17.
+
+Federal personnel are invited to participate in the U.S. Department of Justice's (DOJ) Federal Incident REsponse (IR) Phishing Challenge! The challenge provides an opportunity to practice technical cybersecurity and incident response skills. Register by emailing your name, title, and agency to <Cyber.Challenge2019@usdoj.gov.> by noon (EST) on Thursday, October 17.
 
 ### [ACT-IAC: Cyber CIO Meeting](https://www.actiac.org/events/act-iac-cybersecurity-coi-october-2019)
 **Friday, OCT 18, 2019**
