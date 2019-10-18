@@ -7,5 +7,5 @@ overview: A forum to connect subject matter experts & focus on the practical app
 image: innovation.jpg
 image-alt: Lightbulb on post-it note
 link: /programs-and-events/innovation-roundtables/
-external-link: https://feedback.gsa.gov/jfe/form/SV_3IPIaBCUClgeMQd
+external_url: https://feedback.gsa.gov/jfe/form/SV_3IPIaBCUClgeMQd
 ---
