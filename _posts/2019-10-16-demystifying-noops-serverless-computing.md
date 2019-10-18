@@ -24,7 +24,7 @@ White paper topics include the following:
 - best practices in User-Experience (UX), 
 - and the potential disruption of quantum computing on encryption and cybersecurity. 
 
-Additionally, the Innovation Committee will host several [roundtable forums]({{ sitebase.url }} /programs-and-events/innovation-roundtables) on these emerging technology topics, from which the findings, lessons learned, and best practices will be incorporated into the white papers.
+Additionally, the Innovation Committee will host several [roundtable forums]({{ sitebase.url }}/programs-and-events/innovation-roundtables) on these emerging technology topics, from which the findings, lessons learned, and best practices will be incorporated into the white papers.
 
 The first white paper, “[Demystifying NoOps and Serverless Computing]({{ site.baseurl }}/resources/Demystifying NoOps and Serverless Computing_FINAL.pdf),” provides agencies with detailed definitions for the related concepts of Serverless Computing and NoOps. Serverless Computing is an emerging cloud computing model whereby cloud providers manage IT infrastructure and users are charged only for the resources used. NoOps is the concept that IT systems and infrastructure management can become so automated and abstracted from the underlying infrastructure, that development teams no longer require a System Administrator or IT Operations personnel. This shift that would fundamentally change how applications are developed and managed. The white paper goes in depth on the latest industry trends for serverless computing and NoOps and provides a real-world use case from the National Science Foundation (NSF) about how they implemented a serverless solution to meet a specific business requirement.
 
