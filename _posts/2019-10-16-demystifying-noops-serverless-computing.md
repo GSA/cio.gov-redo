@@ -2,8 +2,8 @@
 layout: post
 title: Staying Ahead of the Curve - The Innovation Committee’s Emerging Technology Series
 excerpt: Check out the overview of the Innovation Committee's Emerging Technology Whitepaper on NoOps and serverless computing.
-date: October 16, 2019
-display-date: 16 October 2019
+date: October 18, 2019
+display-date: 18 October 2019
 author: CIO Council Operations
 tags: 2019 innovation 
 
