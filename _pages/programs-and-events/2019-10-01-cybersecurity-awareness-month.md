@@ -24,15 +24,16 @@ Resources
 - [Mobile Security One Pager - DOE]({{ site.baseurl }}/assets/resources/Mobile Security Handout Final.pdf)
 - [Mobile Device Security - NIST](https://www.nccoe.nist.gov/projects/building-blocks/mobile-device-security)
 - [Mobile Security One Pager -DHS](https://www.dhs.gov/sites/default/files/publications/Mobile%20Security%20One%20Pager_3.pdf)
-- **&#8727;New&#8727;** [Watch Deputy Chief Information Officer for Cybersecurity at Dept. of Energy, Emory Csulak, discuss Mobile Security](https://www.youtube.com/watch?v=TBH7nb0p_6k&feature=youtu.be) (video)
+- [Watch Deputy Chief Information Officer for Cybersecurity at Dept. of Energy, Emory Csulak, discuss Mobile Security](https://www.youtube.com/watch?v=TBH7nb0p_6k&feature=youtu.be) (video)
 
 ### Week of October 14th:  Wifi Hotspots & Travel
-- **&#8727;New&#8727;** [Wifi Hotspots & Travel One Pager - NASA]({{ site.baseurl }}/assets/resources/NASA-Travel-Safely-Technology-Fact-Sheet-508.pdf)
-- **&#8727;New&#8727;** [Cybersecurity While Traveling Tip Card - DHS](https://www.dhs.gov/sites/default/files/publications/Cybersecurity%20While%20Traveling_7.pdf)
+-[Wifi Hotspots & Travel One Pager - NASA]({{ site.baseurl }}/assets/resources/NASA-Travel-Safely-Technology-Fact-Sheet-508.pdf)
+-[Cybersecurity While Traveling Tip Card - DHS](https://www.dhs.gov/sites/default/files/publications/Cybersecurity%20While%20Traveling_7.pdf)
 
 ### Week of October 21st: Phishing
-- _Phishing One Pager - DOJ_
-- _Online Safety - USA.gov_
+- **NEW** [Phishing Fact Sheet - DOJ]({{ site.baseurl }}/assets/resources/Phishing%20Factsheet_FINAL.pdf)
+- **NEW** [Online Safety - USA.gov](https://www.usa.gov/online-safety)
+- **NEW** [Watch Chief Information Security Officer for Dept. of Justice, Nick Ward, discuss Phishing](https://www.youtube.com/embed/AYP2jwmXT0c) (video)
 
 ### Week of October 28th: Securing the Home Network for Telework
 - _Securing the Home Network for Telework One Pager - Education_
