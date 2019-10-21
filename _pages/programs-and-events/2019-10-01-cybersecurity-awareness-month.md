@@ -31,7 +31,7 @@ Resources
 - [Cybersecurity While Traveling Tip Card - DHS](https://www.dhs.gov/sites/default/files/publications/Cybersecurity%20While%20Traveling_7.pdf)
 
 ### Week of October 21st: Phishing
-- **NEW** [Phishing Fact Sheet - DOJ]({{ site.baseurl }}/assets/resources/Phishing Factsheet_Final.pdf)
+- **NEW** [Phishing Fact Sheet - DOJ]({{ site.baseurl }}/assets/resources/Phishing%20Factsheet_FINAL.pdf)
 - **NEW** [Online Safety - USA.gov](https://www.usa.gov/online-safety)
 - **NEW** [Watch Chief Information Security Officer for Dept. of Justice, Nick Ward, discuss Phishing](https://www.youtube.com/embed/AYP2jwmXT0c) (video)
 
