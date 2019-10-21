@@ -27,8 +27,8 @@ Resources
 - [Watch Deputy Chief Information Officer for Cybersecurity at Dept. of Energy, Emory Csulak, discuss Mobile Security](https://www.youtube.com/watch?v=TBH7nb0p_6k&feature=youtu.be) (video)
 
 ### Week of October 14th:  Wifi Hotspots & Travel
-- [Wifi Hotspots & Travel One Pager - NASA]({{ site.baseurl }}/assets/resources/NASA-Travel-Safely-Technology-Fact-Sheet-508.pdf)
-- [Cybersecurity While Traveling Tip Card - DHS](https://www.dhs.gov/sites/default/files/publications/Cybersecurity%20While%20Traveling_7.pdf)
+-[Wifi Hotspots & Travel One Pager - NASA]({{ site.baseurl }}/assets/resources/NASA-Travel-Safely-Technology-Fact-Sheet-508.pdf)
+-[Cybersecurity While Traveling Tip Card - DHS](https://www.dhs.gov/sites/default/files/publications/Cybersecurity%20While%20Traveling_7.pdf)
 
 ### Week of October 21st: Phishing
 - **NEW** [Phishing Fact Sheet - DOJ]({{ site.baseurl }}/assets/resources/Phishing%20Factsheet_FINAL.pdf)
@@ -46,6 +46,11 @@ Resources
 
 Build technical skills for cyber incident response and collaborate with others in the field to expand your network within the cybersecurity community. Cyber Fire events are led by expert security investigators from United States Department of Energy National Laboratories. Open to government employees and held virtually from Oct. 10 at 11am EDT through Oct. 11 at 3pm EDT. For questions about the event, email cyberfire@hq.doe.gov.
 
+### DOJ Federal Incident Response (IR) Phishing Challenge
+**Thursday, OCT 17, 2019**
+
+Federal personnel are invited to participate in the U.S. Department of Justice's (DOJ) Federal Incident REsponse (IR) Phishing Challenge! The challenge provides an opportunity to practice technical cybersecurity and incident response skills. Register by emailing your name, title, and agency to [Cyber.Challenge2019@usdoj.gov](mailto:cyber.challenge2019@usdoj.gov) by noon (EST) on Thursday, October 17.
+
 ### [ACT-IAC: Cyber CIO Meeting](https://www.actiac.org/events/act-iac-cybersecurity-coi-october-2019)
 **Friday, OCT 18, 2019**
 
@@ -59,4 +64,4 @@ This half day seminar features dynamic speakers from government, education, and 
 ### [2019 President’s Cup Cybersecurity Competition](https://www.cisa.gov/presidentscup)
 **Now - DEC, 2019**
 
-Established in response to Executive Order 13870, the President’s Cup Cybersecurity Competition is a national cyber competition aiming to identify, recognize, and reward the best cybersecurity talent in the federal executive workforce. Hosting challenges from across the National Initiative for Cybersecurity Education (NICE) Cybersecurity Framework, competitors will face a diverse array of challenges and will require an extensive skill set to succeed. Registration is closed.
+Established in response to Executive Order 13870, the President’s Cup Cybersecurity Competition is a national cyber competition aiming to identify, recognize, and reward the best cybersecurity talent in the federal executive workforce. Hosting challenges from across the National Initiative for Cybersecurity Education (NICE) Cybersecurity Framework, competitors will face a diverse array of challenges and will require an extensive skill set to succeed. **Registration is closed.**
