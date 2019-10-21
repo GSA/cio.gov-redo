@@ -27,8 +27,8 @@ Resources
 - [Watch Deputy Chief Information Officer for Cybersecurity at Dept. of Energy, Emory Csulak, discuss Mobile Security](https://www.youtube.com/watch?v=TBH7nb0p_6k&feature=youtu.be) (video)
 
 ### Week of October 14th:  Wifi Hotspots & Travel
--[Wifi Hotspots & Travel One Pager - NASA]({{ site.baseurl }}/assets/resources/NASA-Travel-Safely-Technology-Fact-Sheet-508.pdf)
--[Cybersecurity While Traveling Tip Card - DHS](https://www.dhs.gov/sites/default/files/publications/Cybersecurity%20While%20Traveling_7.pdf)
+- [Wifi Hotspots & Travel One Pager - NASA]({{ site.baseurl }}/assets/resources/NASA-Travel-Safely-Technology-Fact-Sheet-508.pdf)
+- [Cybersecurity While Traveling Tip Card - DHS](https://www.dhs.gov/sites/default/files/publications/Cybersecurity%20While%20Traveling_7.pdf)
 
 ### Week of October 21st: Phishing
 - **NEW** [Phishing Fact Sheet - DOJ]({{ site.baseurl }}/assets/resources/Phishing%20Factsheet_FINAL.pdf)
