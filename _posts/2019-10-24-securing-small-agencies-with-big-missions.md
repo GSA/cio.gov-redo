@@ -7,7 +7,7 @@ display-date: 24 October 2019
 author: Patrick Bevill, Chief Information Secuirty Officer, Federal Retirement Thrift Investment Board
 tags: 2019 cybersecurity 
 
-image:    Beville.jjif
+image:   /assets/images/Bevill.jfif
 img-alt: Image of Patrick Bevill, Chief Information Security Officer, Federal Retirement Thrift Investment Board
 
 permalink: /securing-small-agencies-with-big-missions/
