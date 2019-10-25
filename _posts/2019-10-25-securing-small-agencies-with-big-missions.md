@@ -2,8 +2,8 @@
 layout: post
 title: Securing Small Agencies with Big Missions
 excerpt: Read how the Federal Retirement Thrift Investment Board thrives on adaptability and creativity when it comes to cybersecurity.
-date: October 24, 2019
-display-date: 24 October 2019
+date: October 25, 2019
+display-date: 25 October 2019
 author: Patrick Bevill, Chief Information Security Officer, Federal Retirement Thrift Investment Board
 tags: 2019 cybersecurity 
 
