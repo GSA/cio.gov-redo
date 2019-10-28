@@ -29,16 +29,22 @@ Resources
 ### Week of October 14th:  Wifi Hotspots & Travel
 - [Wifi Hotspots & Travel One Pager - NASA]({{ site.baseurl }}/assets/resources/NASA-Travel-Safely-Technology-Fact-Sheet-508.pdf)
 - [Cybersecurity While Traveling Tip Card - DHS](https://www.dhs.gov/sites/default/files/publications/Cybersecurity%20While%20Traveling_7.pdf)
-- **NEW** [Watch Chief Information Security Officer at NASA, Mike Witt, discuss Wifi Safety](https://m.youtube.com/watch?v=_q2yr0MJsMw&feature=youtu.be) (video)
-
+- [Watch Chief Information Security Officer at NASA, Mike Witt, discuss Wifi Safety](https://m.youtube.com/watch?v=_q2yr0MJsMw&feature=youtu.be) 
+<div class="iframe_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_q2yr0MJsMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ### Week of October 21st: Phishing
-- **NEW** [Phishing Fact Sheet - DOJ]({{ site.baseurl }}/assets/resources/Phishing%20Factsheet_FINAL.pdf)
-- **NEW** [Online Safety - USA.gov](https://www.usa.gov/online-safety)
-- **NEW** [Watch Chief Information Security Officer for Dept. of Justice, Nick Ward, discuss Phishing](https://www.youtube.com/embed/AYP2jwmXT0c) (video)
+- [Phishing Fact Sheet - DOJ]({{ site.baseurl }}/assets/resources/Phishing%20Factsheet_FINAL.pdf)
+- [Online Safety - USA.gov](https://www.usa.gov/online-safety)
+- [Watch Chief Information Security Officer for Dept. of Justice, Nick Ward, discuss Phishing](https://www.youtube.com/embed/AYP2jwmXT0c) (video)
 
 ### Week of October 28th: Securing the Home Network for Telework
-- _Securing the Home Network for Telework One Pager - Education_
-- _Telework Guidance - Telework.gov_
+- **NEW** [Securing the Home Network for Telework One Pager - Education]({{ site.baseurl }}/assets/resources/telework-infographic.pdf)
+- **NEW** [Telework Guidance - Telework.gov](https://www.telework.gov/guidance-legislation/telework-guidance/security-it/)
+- **NEW** 
+<div class="iframe_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fCOC9aw16Qo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Events
 
