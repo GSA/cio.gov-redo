@@ -26,7 +26,7 @@ Resources
 - [Mobile Security One Pager -DHS](https://www.dhs.gov/sites/default/files/publications/Mobile%20Security%20One%20Pager_3.pdf)
 - [Watch Deputy Chief Information Officer for Cybersecurity at Dept. of Energy, Emory Csulak, discuss Mobile Security](https://www.youtube.com/watch?v=TBH7nb0p_6k&feature=youtu.be) (video)
 <div class="iframe_container">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/TBH7nb0p_6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TBH7nb0p_6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Week of October 14th:  Wifi Hotspots & Travel
@@ -41,7 +41,7 @@ Resources
 - [Online Safety - USA.gov](https://www.usa.gov/online-safety)
 - [Watch Chief Information Security Officer for Dept. of Justice, Nick Ward, discuss Phishing](https://www.youtube.com/embed/AYP2jwmXT0c) (video)
 <div class="iframe_container">
-<iframe width="1280" height="538" src="https://www.youtube.com/embed/AYP2jwmXT0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AYP2jwmXT0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ### Week of October 28th: Securing the Home Network for Telework
 - **NEW** [Securing the Home Network for Telework One Pager - Education]({{ site.baseurl }}/assets/resources/telework-infographic.pdf)
