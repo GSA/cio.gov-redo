@@ -32,7 +32,7 @@ Resources
 ### Week of October 14th:  Wifi Hotspots & Travel
 - [Wifi Hotspots & Travel One Pager - NASA]({{ site.baseurl }}/assets/resources/NASA-Travel-Safely-Technology-Fact-Sheet-508.pdf)
 - [Cybersecurity While Traveling Tip Card - DHS](https://www.dhs.gov/sites/default/files/publications/Cybersecurity%20While%20Traveling_7.pdf)
-- [Watch Chief Information Security Officer at NASA, Mike Witt, discuss Wifi Safety](https://m.youtube.com/watch?v=_q2yr0MJsMw&feature=youtu.be) 
+- [Watch Chief Information Security Officer at NASA, Mike Witt, discuss Wifi Safety](https://m.youtube.com/watch?v=_q2yr0MJsMw&feature=youtu.be) (video)
 <div class="iframe_container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_q2yr0MJsMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -46,7 +46,7 @@ Resources
 ### Week of October 28th: Securing the Home Network for Telework
 - **NEW** [Securing the Home Network for Telework One Pager - Education]({{ site.baseurl }}/assets/resources/telework-infographic.pdf)
 - **NEW** [Telework Guidance - Telework.gov](https://www.telework.gov/guidance-legislation/telework-guidance/security-it/)
-- **NEW** [Watch Paul Cunningham, Chief Information Security Officer, Dept. of Veterans Affairs, discuss Securing the Home Network](https://www.youtube.com/watch?v=fCOC9aw16Qo&feature=youtu.be)
+- **NEW** [Watch Paul Cunningham, Chief Information Security Officer, Dept. of Veterans Affairs, discuss Securing the Home Network](https://www.youtube.com/watch?v=fCOC9aw16Qo&feature=youtu.be) (video)
 <div class="iframe_container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fCOC9aw16Qo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
