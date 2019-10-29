@@ -1,6 +1,6 @@
 ---
 title: CIO Council Meeting - Executive Committee
-featured:  #puts meeting on homepage
+featured: yes #puts meeting on homepage
 start-date: #only fill in start date if the events spans multiple days
 end-date: November 6, 2019 #otherwise use end-date
 description: Monthly meeting of the CIO Council Executive Committee only.
