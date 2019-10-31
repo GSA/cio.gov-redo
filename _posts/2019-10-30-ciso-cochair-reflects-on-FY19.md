@@ -2,7 +2,7 @@
 layout: post
 title: CISO Council Co-Chair, Steven Hernandez, reflects on FY19
 excerpt: The Chief Information Security Officers (CISO) Council Co-Chair, Steven Hernandez, reflects on FY19
-date: Nov. 1 2019
+date: Oct. 30 2019
 display-date: 01 November 2019
 author: Steven Hernandez, Chief Information Security Officer, Department of Education 
 tags: cybersecurity 2019
