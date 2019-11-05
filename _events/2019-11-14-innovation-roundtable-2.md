@@ -1,5 +1,6 @@
 ---
 title: Innovation Roundtable 2 - Data and Artificial Intelligence
+featured: yes #puts meeting on homepage
 start-date: #only fill in start date if the events spans multiple days
 end-date: November 14, 19 #otherwise use end-date
 description: A forum to connect subject matter experts in the areas of Data & Artificial Intelligence.
