@@ -41,7 +41,7 @@ Resources
 - [Online Safety - USA.gov](https://www.usa.gov/online-safety)
 - [Watch Chief Information Security Officer for Dept. of Justice, Nick Ward, discuss Phishing](https://www.youtube.com/embed/AYP2jwmXT0c) (video)
 <div class="iframe_container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AYP2jwmXT0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k2gRAuNuBtA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ### Week of October 28th: Securing the Home Network for Telework
 - **NEW** [Securing the Home Network for Telework One Pager - Education]({{ site.baseurl }}/assets/resources/telework-infographic.pdf)
