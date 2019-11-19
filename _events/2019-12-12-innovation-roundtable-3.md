@@ -1,5 +1,6 @@
 ---
 title: Innovation Roundtable 3 - Topic to be Announced
+featured: yes #puts meeting on homepage
 start-date: #only fill in start date if the events spans multiple days
 end-date: December 12, 19  #otherwise use end-date
 description: A forum to connect subject matter experts. Topic TBA.
