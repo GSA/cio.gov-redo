@@ -9,8 +9,10 @@ position: Chief Information Officer
 agency: National Science Foundation
 bio-image: /bio_aronson.png
 bio-image-alt-text: Dorothy Aronson
-bio-phone:
-bio-email:
+phone:
+email:
+firstName: Dorothy
+lastName: Aronson
 ---
 Ms. Aronson was recently named the Chief Information Officer for the National Science Foundation after serving for almost six months as both the Acting CIO and as the Director for the Division of Information Systems within the Office of Information and Resource Management.
 

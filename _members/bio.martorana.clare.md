@@ -9,8 +9,10 @@ position: Chief Information Officer
 agency: Office of Personnel Management
 bio-image: /martorana-claire.jpg
 bio-image-alt-text: Clare Martorana
-bio-phone:
-bio-email:
+phone:
+email:
+firstName: Clare
+lastName: Martorana
 ---
 
 Official biography information coming soon.

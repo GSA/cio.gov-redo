@@ -9,8 +9,10 @@ position: Chief Information Officer
 agency: General Services Administration
 bio-image: /bio_shive.png
 bio-image-alt-text: David Shive
-bio-phone: 202-501-6468
-bio-email:
+phone: 202-501-6468
+email:
+firstName: David
+lastName: Shive
 ---
 David A. Shive is the Chief Information Officer for the U.S. General Services Administration.
 

@@ -9,8 +9,10 @@ position: Chief Information Officer
 agency: National Archives and Records Administration
 bio-image: /bio_haldar.png
 bio-image-alt-text: Swarnali Haldar
-bio-phone: 301-837-2027
-bio-email:
+phone: 301-837-2027
+email:
+firstName: Swarnali
+lastName: Haldar
 ---
 Swarnali Haldar was appointed National Archives and Records Administration's (NARA) Executive/Chief Information Officer (CIO) effective June 29, 2014. She is responsible for leading programs and projects for information systems and tools that allows customers to permanently preserve digitized as well as born digital information and tools for customers to discover NARA's holdings. She will continue to develop strategies to enhance NARA's capabilities to support records management.
 

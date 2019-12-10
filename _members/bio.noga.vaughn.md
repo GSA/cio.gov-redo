@@ -9,8 +9,10 @@ position: Chief Information Officer
 agency: Environmental Protection Agency
 bio-image: /bio_noga.png
 bio-image-alt-text: Vaughn Noga
-bio-phone: 202-564-6665
-bio-email:  noga.vaughn@epa.gov
+phone: 202-564-6665
+email:  noga.vaughn@epa.gov
+firstName: Vaughn
+lastName: Noga
 ---
 Vaughn has served in key executive leadership positions with EPA since 2008 and is currently serving as the Principal Deputy Assistant Administrator for Environmental Information and the Deputy Chief Information Officer for EPA. Prior experience includes his role as the Director of the Office of Administration in EPA’s Office of Administration and Resources Management; EPA Chief Technology Officer and Director of the Office of Technology Operations and Planning.
 

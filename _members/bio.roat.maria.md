@@ -9,8 +9,10 @@ position: Chief Information Officer
 agency: Small Business Administration
 bio-image: /bio_roat.png
 bio-image-alt-text: Maria Roat
-bio-phone:
-bio-email:
+phone:
+email:
+firstName: Maria
+lastName: Roat
 ---
 Maria A Roat became the Small Business Administration Chief Information Officer in October 2016 bringing 30 years of professional experience in information technology.
 

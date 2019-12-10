@@ -9,8 +9,10 @@ position: Chief Information Officer
 agency: Department of Defense
 bio-image: /bio_deasy.png
 bio-image-alt-text: Dana Deasy
-bio-phone: 703-614-7323
-bio-email: osd.pentagon.dod-cio.mbx.front-office@mail.mil
+phone: 703-614-7323
+email: osd.pentagon.dod-cio.mbx.front-office@mail.mil
+firstName: Dana
+lastName: Deasy
 ---
 Mr. Dana Deasy is the Department of Defense Chief Information Officer (DoD CIO). He is the primary advisor to the Secretary of Defense for matters of information management, information technology, and information assurance, as well as non-intelligence space systems, critical satellite communications, navigation and timing programs, spectrum, and telecommunications.
 

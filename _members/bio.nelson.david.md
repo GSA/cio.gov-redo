@@ -9,8 +9,8 @@ position: Chief Information Officer
 agency: Nuclear Regulatory Commission
 bio-image: /bio_nelson.png
 bio-image-alt-text: David Nelson
-bio-phone:
-bio-email:
+firstName: David
+lastName: Nelson
 ---
 Mr. Nelson currently serves as the Chief Information Officer (CIO) of the Nuclear Regulatory Commission. He previously served as the CIO and Director, Office of Enterprise Information for the Centers for Medicare and Medicaid Services (CMS). He was selected for this role to manage the CMS $2.6B information technology (IT) portfolio including complex ecosystem of applications and trusted data exchanges supporting Healthcare.gov, the Medicare Claims Processing, Medicaid Support, and Quality Reporting Systems.
 

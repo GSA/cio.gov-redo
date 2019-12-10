@@ -9,8 +9,10 @@ position: Chief Information Officer
 agency: Department of Energy
 bio-image: /bio.campione.jpg
 bio-image-alt-text: Rocky Campione
-bio-phone:
-bio-email:  
+phone:
+email:
+firstName: Rocky
+lastName: Campione
 ---
 Rocky Campione was selected in July 2019 to serve as Chief Information Officer (CIO) for the Department of Energy (DOE). In this position, he oversees the Department’s information technology (IT) portfolio, serves as an advisor to the Deputy Secretary and Secretary, and leads and manages the various functions within the Office of the Chief Information Officer.
 

@@ -9,8 +9,10 @@ position: Chief Information Officer
 agency: Department of Agriculture
 bio-image: /bio_washington.png
 bio-image-alt-text: Gary Washington
-bio-phone:
-bio-email:
+phone:
+email:
+firstName: Gary
+lastName: Washington
 ---
 Gary Washington currently serves as the Chief Information Officer for the United States Department of Agriculture (USDA). Mr. Washington also served at USDA in previous roles as the Chief Information Officer (CIO) for the Animal and Plant Health Inspection Service (APHIS) and as CIO for the Natural Resources Conservation Service (NRCS). Prior to his leadership roles at USDA, Mr. Washington was a portfolio manager in the Electronic Government Office in the Executive Office of the President, Office of Management and Budget (OMB), where he was responsible for managing the Internal Effectiveness and Efficiency portfolio. Additionally, Mr. Washington managed the financial management, human resources and infrastructure lines of business, as well as the E-gov initiatives.
 

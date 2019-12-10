@@ -9,8 +9,10 @@ position: Chief Information Officer
 agency: Department of Treasury
 bio-image: /bio_olson.png
 bio-image-alt-text: Eric Olson
-bio-phone:
-bio-email:
+phone:
+email:
+firstName: Eric
+lastName: Olson
 ---
 In November 2017, Eric Olson was appointed Deputy Assistant Secretary for Information Systems and Chief Information Officer (CIO) for the US Department of the Treasury.  Olson provides leadership and oversight of the department’s $4B portfolio of information technology programs and services in support of the Department’s expansive mission as the steward of U.S. economic and financial systems.
 

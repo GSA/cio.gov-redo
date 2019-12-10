@@ -9,8 +9,10 @@ position: Chief Information Officer
 agency: Department of Homeland Security
 bio-image: /bio_zangardi.jpg
 bio-image-alt-text: Dr. John Zangardi
-bio-phone:
-bio-email:
+phone:
+email:
+firstName: John
+lastName: Zangardi
 ---
 Dr. John Zangardi is the Chief Information Officer of the U.S. Department of Homeland Security. He previously served as the Acting Chief Information Officer and the Principal Deputy Chief Information Officer of the U.S. Department of Defense.
 

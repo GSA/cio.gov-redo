@@ -9,8 +9,10 @@ position: Chief Information Officer
 agency: Department of Education
 bio-image: /bio_gray.png
 bio-image-alt-text: Jason Gray
-bio-phone:
-bio-email:
+phone:
+email:
+firstName: Jason
+lastName: Gray
 ---
 Jason Gray was selected in May 2016 to serve as the U. S. Department of Education’s chief information officer (CIO). In this position he oversees an information technology (IT) portfolio of $689 million in programs. As the CIO, Gray serves as a principal advisor to the under secretary, deputy secretary, and secretary with respect to the astute use of IT to exceed the expectations of the Department's customers. He serves as the day-to-day lead for coordinating and managing the various functions within Office of the Chief Information Officer, coordinates with and provides advice to the Department's senior leadership regarding IT, information management, information assurance, and website activities management and operations.
 

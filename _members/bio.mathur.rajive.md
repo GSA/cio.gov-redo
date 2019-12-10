@@ -9,8 +9,10 @@ position: Chief Information Officer
 agency: Social Security Administration
 bio-image: /bio_mathur.png
 bio-image-alt-text: Rajive Mathur
-bio-phone:
-bio-email:
+phone:
+email:
+firstName: Rajive
+lastName: Mathur
 ---
 Rajive Mathur comes to SSA after spending six years at the IRS as its director or online services. He left the IRS last fall.
 

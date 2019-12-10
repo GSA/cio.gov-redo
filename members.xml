@@ -1,0 +1,32 @@
+---
+layout: null
+title : "IT Dashboard"
+sitemap_exclude:
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for member in site.members %}
+	<entry>
+		<agency>
+			<agencyName>{{ member.agency }}</agencyName>
+			<agencyCode>{{ member.agencyCode }}</agencyCode>
+			<cio>
+				<firstName>{{ member.firstName }}</firstName>
+				<lastName>{{ member.lastName }}</lastName>
+				<email>{{ member.email }}</email>
+				<phone>{{ member.phone }}</phone>
+				<linkToPhoto>https://www.cio.gov/assets/images/members{{ member.bio-image }}</linkToPhoto>
+				<linkToBio>https://www.cio.gov{{ member.permalink }}</linkToBio>
+				<deptCIO>1</deptCIO>
+				<address>
+						<address1></address1>
+						<address2></address2>
+						<city></city>
+						<state></state>
+						<zip></zip>
+				</address>
+			</cio>
+		</agency>
+	</entry>
+  {% endfor %}
+</urlset>

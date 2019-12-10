@@ -9,7 +9,9 @@ position: Acting Chief Information Officer
 agency: Department of Commerce
 bio-image: /bio_mendes.jpg
 bio-image-alt-text: Andre Mendes
-bio-phone:
-bio-email:
+phone:
+email:
+firstName: Andre
+lastName: Mendes
 ---
 Official biography information coming soon.

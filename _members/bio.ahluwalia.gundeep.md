@@ -12,6 +12,9 @@ bio-image: /bio_ahluwalia.png
 alt-text: Gundeep Ahluwalia
 phone: 202-693-4446
 email: ahluwalia.gundeep@dol.gov
+agencyCode: 012
+firstName: Gundeep
+lastName: Ahluwalia
 
 ---
 As a tech leader with a unique view of IT innovation and a deep understanding of technical strategy, Mr. Gundeep Ahluwalia leads the growth and transformation of the Department of Labor’s Information Technology (IT). Since assuming the role of Chief Information Officer (CIO) in October 2016, Mr. Ahluwalia has provided strategic leadership for the Department’s IT planning, initiatives, staffing and services—ultimately advancing the mission critical work that the Department delivers to support American citizens.
