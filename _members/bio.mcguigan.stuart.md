@@ -13,6 +13,13 @@ phone: Coming soon
 email: CIO@state.gov
 firstName: Stuart
 lastName: McGuigan
+code: 014
+updated: 2019-12-17T12:30:30Z
+
+address: U.S. Department of State 2201 C Street NW
+city: Washington
+state: DC
+zip: 20522-0906
 ---
 Mr. Stuart McGuigan, a member of the Senior Executive Service, was named Chief Information Officer
 for the U.S. Department of State enterprise on March 25, 2019. As Chief Information Officer (CIO), he

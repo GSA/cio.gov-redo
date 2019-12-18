@@ -13,5 +13,12 @@ phone: 202-761-0273
 email: Dovarius.l.peoples@usace.army.mil
 firstName: Dovarius
 lastName: Peoples
+code: 20
+updated: 2019-12-17T12:30:30Z
+
+address: DHQ 441 G St. NW
+city: Washington
+state: DC
+zip: 20314-1000
 ---
 Dovarius L. Peoples was selected for the Senior Executive Service July 2018. He assumed the position of the Chief Information Officer/G-6 (CIO/G-6) at the US Army Corps of Engineers on 28 April 2019.  In this role, he serves as the principal advisor to the Corps Commanding General on information technology issues. He is responsible for all aspects of information resource management and information technology for the Corps.

@@ -1,10 +1,11 @@
 ---
 layout: bio
-name: Mr. Max Everett
+
 permalink: /about/members-and-leadership/everett-max/
 subtitle: Team and Leadership
 title: About Our Council
 
+name: Mr. Max Everett
 position: Chief Information Officer
 agency: Department of Energy
 bio-image: /bio_everett.png

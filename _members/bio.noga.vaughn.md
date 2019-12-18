@@ -13,6 +13,13 @@ phone: 202-564-6665
 email:  noga.vaughn@epa.gov
 firstName: Vaughn
 lastName: Noga
+code: 020
+updated: 2019-12-17T12:30:30Z
+
+address: 1200 Pennsylvania Ave NW
+city: Washington
+state: DC
+zip: 20004
 ---
 Vaughn has served in key executive leadership positions with EPA since 2008 and is currently serving as the Principal Deputy Assistant Administrator for Environmental Information and the Deputy Chief Information Officer for EPA. Prior experience includes his role as the Director of the Office of Administration in EPA’s Office of Administration and Resources Management; EPA Chief Technology Officer and Director of the Office of Technology Operations and Planning.
 

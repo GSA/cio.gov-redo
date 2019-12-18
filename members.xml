@@ -5,25 +5,41 @@ sitemap_exclude:
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <title>CIO.gov - Federal Chief Information Officers Council</title>
+  	<link rel="self" href="/feed"/>
+  	<updated>2019-12-18T13:36:46</updated>
+  	<author>
+  		<name></name>
+  	</author>
+  	<id></id>
   {% for member in site.members %}
 	<entry>
+    <title>{{ member.agency }} CIO Information</title>
+    <id> </id>
+    <updated>{{ member.updated }}</updated>
+    <content type="xml"> </content>
 		<agency>
-			<agencyName>{{ member.agency }}</agencyName>
-			<agencyCode>{{ member.agencyCode }}</agencyCode>
+      {% if agency-2 %}
+			<agencyName>{{ member.agency-2 }}</agencyName>
+      {% else %}
+      <agencyName>{{ member.agency }}</agencyName>
+      {% endif %}
+			<agencyCode>{{ member.code }}</agencyCode>
 			<cio>
 				<firstName>{{ member.firstName }}</firstName>
 				<lastName>{{ member.lastName }}</lastName>
 				<email>{{ member.email }}</email>
 				<phone>{{ member.phone }}</phone>
+        <dateAppointed> </dateAppointed>
 				<linkToPhoto>https://www.cio.gov/assets/images/members{{ member.bio-image }}</linkToPhoto>
 				<linkToBio>https://www.cio.gov{{ member.permalink }}</linkToBio>
 				<deptCIO>1</deptCIO>
 				<address>
-						<address1></address1>
+						<address1>{{ member.address }}</address1>
 						<address2></address2>
-						<city></city>
-						<state></state>
-						<zip></zip>
+						<city>{{ member.city }}</city>
+						<state>{{ member.state }}</state>
+						<zip>{{ member.zip }}</zip>
 				</address>
 			</cio>
 		</agency>

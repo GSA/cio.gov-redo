@@ -1,10 +1,10 @@
 ---
 layout: bio
-name:  Mr. James Gfrerer
 permalink: /about/members-and-leadership/gfrerer-james/
 subtitle: Team and Leadership
 title: About Our Council
 
+name:  Mr. James Gfrerer
 position: Asst. Sec. for IT and Chief Information Officer
 agency: Department of Veteran Affairs
 bio-image: /bio_gfrerer.jpg
@@ -13,6 +13,8 @@ phone: 202-461-6910
 email: vacocioexe@va.gov
 firstName: James
 lastName: Gfrerer
+updated: 2019-12-17T12:30:30Z
+code: 029
 ---
 James P. Gfrerer was nominated by President Donald J. Trump to serve as the Assistant Secretary for Information and Technology and Chief Information Officer and was confirmed by the United States Senate on January 2, 2019.
 

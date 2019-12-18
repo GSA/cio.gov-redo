@@ -13,6 +13,13 @@ phone:
 email:
 firstName: Maria
 lastName: Roat
+code: 028
+updated: 2019-12-17T12:30:30Z
+
+address: 409 Third Street, SW Suite 4000
+city: Washington
+state: DC
+zip: 20416
 ---
 Maria A Roat became the Small Business Administration Chief Information Officer in October 2016 bringing 30 years of professional experience in information technology.
 

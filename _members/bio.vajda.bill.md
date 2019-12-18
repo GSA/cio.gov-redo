@@ -13,6 +13,13 @@ phone:
 email:
 firstName: Bill
 lastName: Vajda
+code: 010
+updated: 2019-12-17T12:30:30Z
+
+address:
+city: Washington
+state: DC
+zip: 20240
 ---
 
 William E. Vajda joined the U.S. Department of the Interior (DOI) as the eighth CIO on March 4, 2019. Mr. Vajda’s extensive experience includes over 25 years of executive IT leadership in the private sector, international organizations, and in city, state, and federal government. As the DOI CIO, Mr. Vajda leads the Office of the Chief Information Officer (OCIO) and is responsible for the management and oversight of Interior’s $1+ billion information management and technology (IMT) portfolio.

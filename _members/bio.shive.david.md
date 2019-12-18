@@ -13,6 +13,13 @@ phone: 202-501-6468
 email:
 firstName: David
 lastName: Shive
+code: 023
+updated: 2019-12-17T12:30:30Z
+
+address: General Services Administration 1275 First St, NE
+city: Washington
+state: DC
+zip: 20417
 ---
 David A. Shive is the Chief Information Officer for the U.S. General Services Administration.
 

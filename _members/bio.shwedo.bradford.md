@@ -7,12 +7,20 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: U.S. Department of the Air Force
+agency-2: Department of Defense
 bio-image: /bio_shwedo.png
 bio-image-alt-text: LT. Gen. Bradford J. Shwedo
 phone:
 email:
 firstName: LT. Gen. Bradford J
 lastName: Shwedo
+code: 007
+updated: 2019-12-17T12:30:30Z
+
+address: Department of the Air Force 1800 Air Force Pentagon
+city: Washington
+state: DC
+zip: 20330
 ---
 Lt. Gen. Bradford J. “B.J.” Shwedo is the Chief, Information Dominance and Chief Information Officer, Office of the Secretary of the Air Force, the Pentagon, Washington, D.C. General Shwedo leads four directorates and supports 77,000 cyber operations and support personnel across the globe with a portfolio valued at $17 billion. He has overall responsibility for networks and network-centric policies, communications, information resources management, information assurance and related matters for the Department of the Air Force. As Chief Information Officer, General Shwedo provides oversight of portfolio management, delivers enterprise architecture and enforces Freedom of Information Act and Privacy Act laws. He integrates Air Force warfighting and mission support capabilities by networking air, space and terrestrial assets. Additionally, he shapes doctrine, strategy and policy for all cyberspace operations and support activities.
 

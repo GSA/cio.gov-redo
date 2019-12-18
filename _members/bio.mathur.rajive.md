@@ -9,10 +9,17 @@ position: Chief Information Officer
 agency: Social Security Administration
 bio-image: /bio_mathur.png
 bio-image-alt-text: Rajive Mathur
-phone:
+phone: 410-965-8399
 email:
 firstName: Rajive
 lastName: Mathur
+code: 016
+updated: 2019-12-17T12:30:30Z
+
+address: Social Security Administration 6401 Security Boulevard 400 Altmeyer Building
+city: Baltimore
+state: MD
+zip: 21235
 ---
 Rajive Mathur comes to SSA after spending six years at the IRS as its director or online services. He left the IRS last fall.
 

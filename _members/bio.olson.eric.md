@@ -13,6 +13,13 @@ phone:
 email:
 firstName: Eric
 lastName: Olson
+code: 015
+updated: 2019-12-17T12:30:30Z
+
+address: Department of the Treasury 1750 Pennsylvania Avenue, NW
+city: Washington
+state: DC
+zip: 20016
 ---
 In November 2017, Eric Olson was appointed Deputy Assistant Secretary for Information Systems and Chief Information Officer (CIO) for the US Department of the Treasury.  Olson provides leadership and oversight of the department’s $4B portfolio of information technology programs and services in support of the Department’s expansive mission as the steward of U.S. economic and financial systems.
 

@@ -1,18 +1,26 @@
 ---
 layout: bio
-name: LTG Bruce Crawford
 permalink: /about/members-and-leadership/crawford-bruce/
 subtitle: Team and Leadership
 title: About Our Council
 
+name: LTG Bruce Crawford
 position: Chief Information Officer
 agency: U.S. Department of the Army
+agency-2: Department of Defense
 bio-image: /bio_crawford.png
 bio-image-alt-text: LTG Bruce T. Crawford
-phone:
+phone: 703-695-4366
 email:
+code: 007
 firstName: LTG Bruce
 lastName: Crawford
+updated: 2019-12-17T12:30:30Z
+
+address: Department of the Army 107 Army Pentagon Room 3E608 Washington, DC 20310 Office
+city: Washington
+state: DC
+zip: 20310
 ---
 Lieutenant General Bruce T. Crawford became the Army Chief Information Officer (CIO)/G-6 on 1 August 2017.
 
