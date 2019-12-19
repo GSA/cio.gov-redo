@@ -19,8 +19,6 @@ As demonstrated by the President’s Management Agenda, building and maintaining
 
 **Background Information:**
 
-March 2018 - The first Women in Federal IT Conference at USDA
-Title: Women in Federal IT & Cyber
+March 2018 - The first Women in Federal IT Conference at USDA; Title: Women in Federal IT & Cyber
 
-June 2014 - The second Women in Federal IT Conference at the Institute of Peace
-Title: The Significance of her Perspective
+June 2014 - The second Women in Federal IT Conference at the Institute of Peace; Title: The Significance of her Perspective
