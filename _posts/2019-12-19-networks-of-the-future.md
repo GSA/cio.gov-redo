@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Networks of the Future - The Foundation of Tomorrow’s Technologies
-excerpt:
+excerpt: The CIO Council published a white paper titled Networks of the Future highlighting the new and emerging technologies that will disrupt the networking space.
 date: December 19, 2019
 display-date: 19 December 2019
 author: CIO Council’s Innovation Committee
@@ -9,7 +9,7 @@ tags:  2019 it-modernization
 image: cio-council-logo.jpg
 img-alt: CIO Seal
 
-permalink: /ciso-cochair-reflects-on-FY19/
+permalink: /networks-of-future-blog/
 ---
 
 The CIO Council’s Innovation Committee recently published a white paper titled [Networks of the Future]({{ site.baseurl }}/assets/resources/Networks-of-the-Future-FINAL.pdf) highlighting the new and emerging technologies that will disrupt the networking space. The white paper provides insight into how the next generation of networking technologies will impact Federal agencies and citizen services.
