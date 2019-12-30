@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: Department of Energy
-bio-image: /bio.campione.jpg
+bio-image: /rocky-campione.png
 bio-image-alt-text: Rocky Campione
 bio-phone:
 bio-email:  

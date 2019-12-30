@@ -13,7 +13,7 @@ The Innovation Roundtable is designed to connect subject matter experts to focus
 
 - Roundtable 1 - Thursday, October 10, 2019: Quantum Computing and Communications
 - Roundtable 2 - Thursday, November 14, 2019: Data and Artificial Intelligence
-- Roundtable 3 - Monday, January 6, 2020: User & Customer Experience
+- Roundtable 3 - Thursday, January 16, 2020: User/Customer Experience and Human Centered Design
 
 ## The Program ##
 
