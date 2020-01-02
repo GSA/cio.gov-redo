@@ -48,10 +48,8 @@ primary_navigation:
     url: /policies-and-priorities/
   - name: Programs & Events
     children:
-      - name: National Cybersecurity Awareness Month
-        url: /programs-and-events/2019-cybersecurity-awareness-month/
-      - name: CIO Bootcamp
-        url: /programs-and-events/cio-bootcamp/
+      - name: Women in IT
+        url: /programs-and-events/2020-women-in-IT/
       - name: Innnovation Roundtables
         url: /programs-and-events/innovation-roundtables/
       - name: All Events
