@@ -7,24 +7,16 @@ permalink: /about/members-and-leadership/accessibility-cop/
 
 ---
 # About Our CoP
-The IT Accessibility Community of Practice (508 CoP) consists of U.S. Government professionals who work to enhance access to federal information technology (IT). We identify and promote best practices for compliance with Section 508 law, and conformance to the Revised 508 Standards. We share successful practices and information, and engage advocacy groups, industry, and academia around innovative solutions for accessible technology.
 
-- [Section 508 of the Rehabilitation Act of 1973 (29 U.S.C ß 794 (d)) (Section 508)](http://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm)()
-- [Information and Communication Technology (ICT) Accessibility Standards (Revised 508 Standards)](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule)
+The Accessibility Community of Practice is the principal interagency forum to support accessibility of information technology (IT) products and services in the Federal government. [Section 508 of the Rehabilitation Act of 1973](http://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm) requires Federal agencies to ensure all IT products and services that they buy, build, maintain, or use, accessible to people with disabilities.
 
-This community is managed by GSA’s Government-wide IT Accessibility Team, which supports 508 Program Managers, content creators, web developers, procurement professionals, CIOs, and others working to buy and build accessible IT, through universal design, procurement best practices, accessible design and development, and compliance with Section 508.
+The U.S. Access Board is responsible for developing accessibility standards that Federal agencies must apply to Federal IT development and procurement. The [Revised 508 Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines) were updated in January 2018, and apply to things such as computers, telecommunications equipment, printers, software, websites, information kiosks, and electronic documents.
 
-Community Managers include Yvette Gibson, Avis Ryan, and John Sullivan
+Review the [Executive Guide to IT Accessibility](https://section508.gov/tools/playbooks/exec-guide-accessibility) to learn more. (The Executive Guide is also [available as a PDF](https://section508.gov/sites/default/files/Executive%20Guide%20to%20Federal%20IT%20Accessibility.pdf#overlay-context=tools/playbooks).)
 
-# How to Participate
-Email the Government-wide IT Accessibility Team at [section.508@gsa.gov](mailto:section.508@gsa.gov) with your request to join the 508 listserv. You must have an official government email address (e.g., .gov or .mil) to join.
-
-Visit the [Section 508 Contact page](https://section508.gov/contact-us) with questions.
-
-# Related Resources
-* [Accessibility Guidance - Section508.gov](http://section508.gov/)
-* [ADA’s Accessibility Webinars Archive](http://www.adaconferences.org/CIOC)
-* [Upcoming ADA Accessibility Events](https://dev.accessibilityonline.org/cioc-508/schedule)
+## Implementation Guidance
+* [Section508.gov](https://www.section508.gov/)
+* [Key Documents](https://community.max.gov/x/LRKSK)
 
 &nbsp;
 
