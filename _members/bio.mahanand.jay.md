@@ -1,7 +1,7 @@
 ---
 layout: bio
 permalink: /about/members-and-leadership/mahanand-jay/
-name: Mr. Jay Mahanand
+name: Mr. Jay Mahanan
 subtitle: Team and Leadership
 title: About Our Council
 
