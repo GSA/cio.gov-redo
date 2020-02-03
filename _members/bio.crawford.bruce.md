@@ -5,7 +5,7 @@ permalink: /about/members-and-leadership/crawford-bruce/
 subtitle: Team and Leadership
 title: About Our Council
 
-position: Chief Information Officer
+position: Army Chief Information Officer/G-6
 agency: U.S. Department of the Army
 bio-image: /bio_crawford.png
 bio-image-alt-text: LTG Bruce T. Crawford
