@@ -10,11 +10,11 @@ The 3rd Annual Women in Federal IT and Cyber Conference brings together the nati
 
 As demonstrated by the President’s Management Agenda, building and maintaining a diverse workforce with modern technology skills is a key priority, and the CIO Council is committed to supporting these efforts.
 
-**When**: Thursday, February 20, 2020, 9:00 am - 1:00 pm
+**When**: Thursday, March 23, 2020, 8:00 am - 1:00 pm
 
-**Where**: The General Services Administration, Auditorium, 1800 F Street, NW, Washington, DC 20405. The GSA Auditorium - is conveniently located near the White House closest to the Farragut West Metro station on the Blue, Orange, and Silver lines.  
+**Where**: Department of the Interior, Yates Auditorium, 1849 C Street Northwest, Washington, DC 20240  
 
-**Who**: Opening session will be open to the Public. In person attendance is limited to individuals who are registered. The event will be streamed live on GSA’s YouTube channel, for those who would like to participate virtually.
+**Who**: This event is for federal employees and those with a .gov or .mil email address. 
 
 <a title="Learn More" class="usa-button usa-button-big usa-button--accent-cool margin-bottom-2" href="https://www.eventbrite.com/e/women-in-it-event-tickets-86717547519">Register for the Women in IT & Cyber Conference</a><br>
 *Federal employees with a .gov or .mil email address only
@@ -23,4 +23,4 @@ As demonstrated by the President’s Management Agenda, building and maintaining
 
 March 2018 - The first Women in Federal IT Conference at USDA; Title: Women in Federal IT & Cyber
 
-June 2014 - The second Women in Federal IT Conference at the Institute of Peace; Title: The Significance of her Perspective
+June 2019 - The second Women in Federal IT Conference at the Institute of Peace; Title: The Significance of her Perspective
