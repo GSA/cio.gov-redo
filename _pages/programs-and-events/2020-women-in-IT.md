@@ -4,7 +4,6 @@ subtitle: Women in Federal IT & Cyber Conference
 layout: page
 permalink: /programs-and-events/2020-women-in-IT/
 ---
-The Chief Information Officer (CIO) Council is excited to announce the 2020 Women in Federal Information Technology (IT) and Cyber Conference will be held on February 20, 2020 at the General Services Administration (GSA) in downtown Washington, D.C.  
 
 The 3rd Annual Women in Federal IT and Cyber Conference brings together the nation’s top federal IT executives to celebrate the success of women thriving in today’s federal technology industry. The conference will feature speakers and panelists from across industry who will share their experiences and advice on career paths in IT. The conference aims to inspire and motivate more women to embark on careers in IT, building a diverse federal workforce and federal IT community.
 
