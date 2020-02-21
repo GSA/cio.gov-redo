@@ -5,15 +5,14 @@ permalink: /about/members-and-leadership/andre-mendes/
 subtitle: Team and Leadership
 title: About Our Council
 
-position: Acting Chief Information Officer
+position: Chief Information Officer
 agency: Department of Commerce
 bio-image: /bio_mendes.jpg
 bio-image-alt-text: Andre Mendes
 bio-phone:
 bio-email:
 ---
-André Mendes was appointed Chief Information Officer (Acting)
-for the Department of Commerce in August of 2019. There, he
+André Mendes was appointed Chief Information Officer for the Department of Commerce in August of 2019. There, he
 has overall responsibility and oversight of all technology systems
 at the United States Department of Commerce (DOC) and its
 associated Bureaus (FY2020 Budget $3.8B).
