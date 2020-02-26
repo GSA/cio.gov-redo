@@ -5,7 +5,7 @@ excerpt: The CIO Council published a white paper developed by the Innovation Com
 date: January 2, 2020
 display-date: January 2, 2020
 author: CIO Council Support
-tags:  2020 Innovation
+tags:  2020 innovation
 image: cio-council-logo.jpg
 img-alt: CIO Seal
 
