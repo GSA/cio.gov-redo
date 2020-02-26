@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Robotics Process Automation(RPA)- Priorities, Benefits, and Considerations for CIOs
+title: Robotics Process Automation(RPA) - Priorities, Benefits, and Considerations for CIOs
 excerpt: The CIO Council published a white paper developed by the Innovation Committee. Read more to find recommendations resources associated with RPA. 
 date: January 2, 2020
 display-date: January 2, 2020
