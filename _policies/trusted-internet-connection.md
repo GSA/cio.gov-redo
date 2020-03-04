@@ -5,7 +5,7 @@ description: Enhance network security across the Government
 permalink: /policies-and-priorities/trusted-internet-connection/
 layout: policy-landing
 policy-publish-date: September 12, 2019
-filters: fed-policy cybersecurity open
+filters: fed-policy cybersecurity 
 related-resources-url:
 
 date: September 12, 2019
