@@ -9,7 +9,7 @@ tags:  2020 cio-council workforce
 image: cio-council-logo.jpg
 img-alt: CIO Seal
 
-permalink: /Administration-Announces-Cybersecurity-Developmental-Detail-Opportunitie/
+permalink: /Administration-Announces-Cybersecurity-Developmental-Detail-Opportunities/
 ---
 
 THE OFFICE OF MANAGEMENT AND BUDGET
