@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Administration Announces Cybersecurity Developmental Detail Opportunities
-excerpt: Today, the Office of Management and Budget (OMB), the Chief Information Officers Council, and the Office of Personnel Management (OPM) are pleased to announce the availability of temporary detail opportunities to support the growth and development of the Federal cybersecurity workforce
+excerpt: Today, the Office of Management and Budget (OMB), the Chief Information Officers Council, and the Office of Personnel Management (OPM) are pleased to announce the availability of temporary detail opportunities to support the growth and development of the Federal cybersecurity workforce.
 date: March 13, 2020
 display-date: March 13, 2020
 author: CIO Council Support
