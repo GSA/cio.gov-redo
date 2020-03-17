@@ -1,0 +1,50 @@
+---
+title: DCOI Inventory File Validator
+permalink: /reporting/inventory-validator
+layout: page
+class: inventory-validator
+---
+
+<link type="text/css" rel="stylesheet" href="/assets/css/inventory-validator.css"/>
+<script src="/assets/js/jquery-3.4.1.min.js"></script>
+<script src="/assets/js/papaparse.min.js"></script>
+<script src="/assets/js/inventoryvalidate.js"></script>
+
+<h2 id="inventory-validator">Inventory File Validator</h2>
+
+<h3>Introduction</h3>
+<p>To assist agencies with preparation of their required DCOI Inventory files, a validation tool to check their inventory csv files is provided below. Agencies' final DCOI inventories must be submitted to OMB via the method listed in the quarterly IDC guidance.
+</p>
+
+<p>Please refer to the IDC guidance for more information about the fields that must be submitted to OMB.</p>
+
+<h3>Validator</h3>
+
+<p>
+    This tool helps to find common issues with inventory data CSV files. It may not catch every problem, and OMB may ask you to make further changes or modifications upon submission.
+</p>
+
+<p>
+    <strong>This website does not collect any inventory data. Please refer to the IDC Guidance for instructions on how to submit this data to OMB.</strong>
+</p>
+
+<section class="content">
+    <form id="validate-form" class="block validate-form">
+        <div class="form-group">
+            <label for="input-file" class="title-row">Choose a File</label>
+            <input type="file" id="input-file" class="form-control-file" />
+        </div>
+        <div class="form-group">
+            <input type="submit" name="submit" id="submit" value="Validate" class="btn btn-sm btn-primary"/>
+        </div>
+        <div class="form-group form-check">
+            <input type="checkbox" id="toggle-warnings" class="form-check-input" value="1" checked />
+            <label for="toggle-warnings" class="form-check-label">Show Warnings</label>
+        </div>
+    </form>
+
+    <h3>Results</h3>
+    <div id="results" class="block results-block">
+    </div>
+</section>
+

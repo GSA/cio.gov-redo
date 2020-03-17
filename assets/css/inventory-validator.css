@@ -1,0 +1,59 @@
+.inventory-validator h2 {
+    font-size: 2.5rem;
+}
+
+.inventory-validator label {
+    margin-top: 0;
+    max-width: 100%;
+}
+
+.inventory-validator input[type="file"] {
+    height: auto;
+    border: none;
+    padding: 0;
+    margin-top: 0.5rem;
+}
+
+.inventory-validator input[type="submit"] {
+    padding: 1rem 2rem;
+    height: auto;
+}
+
+.block {
+    padding: 15px;
+    border: 1px solid #666666;
+    margin-bottom: 1rem;
+}
+
+.title-row {
+    display: block;
+    font-weight: bold;
+}
+
+.message {
+    min-height: 1rem;
+}
+
+.pad-bottom {
+    margin-bottom: 2rem;
+}
+
+.error {
+    color: red;
+}
+
+.success {
+    color: green;
+}
+
+.indent-1 {
+    margin-left: 2rem;
+}
+.indent-2 {
+    margin-left: 4rem;
+}
+
+.hide-warnings .has-warnings:not(.has-errors),
+.hide-warnings .list-warnings {
+    display: none;
+}

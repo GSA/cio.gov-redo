@@ -1,0 +1,47 @@
+---
+title: Strategic Plan Generator
+permalink: /reporting/strategic-plan-generator
+layout: page
+sidenav: reporting
+---
+
+<link type="text/css" rel="stylesheet" href="/assets/css/json-editor-styles.css"/>
+
+<h2 id="strategic-plan-generator">Strategic Plan Generator</h2>
+
+<h3>Introduction</h3>
+<p>To assist agencies with preparation of their required DCOI Strategic Plans, a conversion tool for transferring text into a compatible, machine-readable JSON file is provided below. Agencies' final DCOI Strategic Plans then must be published at <code><em>agency</em>.gov/digitalstrategy/datacenteroptimizationstrategicplan.json</code> according to the following deadlines:
+</p>
+<table>
+    <tr>
+        <th>Fiscal Year</th><th>due on or before</th>
+    </tr>
+    <tr>
+        <td>2016</td><td>September 30, 2016</td>
+    </tr>
+    <tr>
+        <td>2017</td><td>April 14, 2017</td>
+    </tr>
+    <tr>
+        <td>2018</td><td>April 13, 2018</td>
+    </tr>
+    <tr>
+        <td>2019</td><td>February 15, 2019</td>
+    </tr>
+    <tr>
+        <td>2020</td><td>February 14, 2020</td>
+    </tr>
+</table>
+
+<h3>Guidance</h3>
+<p>Please enter the relevant data into each fields below. Data can be entered manually or automatically uploaded by clicking the ‘Load my own data’ button on the screen.</p>
+
+<p>Once the ‘Load my own data’ button is clicked,  a dialogue box will appear prompting you to enter your data in a JSON format. Once entered, click the ‘Load data’ button at the bottom of the screen.</p>
+<p>Please Note: Some fields will only accept numerical data. In the event that the data does not match the parameters for a specific field, an error statement will appear describing the type of data to be entered to correct the error.</p>
+<p>After filling in the data, either manually or by an upload, click the submit button at the very bottom. The tool will produce the entered data in a JSON format in a box at the very end. Copy this output into a text file and save it in a JSON format.</p>
+<p><strong>Please note that clicking "Generate" does not mean that the output is automatically submitted to OMB.</strong> The output must be posted on agencies' <code>[agency].gov/digitalstrategy/</code> website. OMB will access these files using the links listed in the Agency Strategic Plan Locations page of this site.</p>
+<p>NOTE that the DCOI also requires that agencies post data center-related milestones to their FITARAmilestones.json files describing steps the agency will take to achieve the goals of the DCOI. Guidance surrounding the DCOI milestones is located at <a href="https://management.cio.gov/schema" target="_blank">management.cio.gov/schema</a>. This tool does not address the DCOI milestones requirement of the DCOI.</p>
+
+<div id="app" class="strat-plan row app"></div>
+
+<script src="{{ site.baseurl }}/assets/js/bundle.js"></script>
