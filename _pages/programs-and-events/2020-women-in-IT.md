@@ -4,7 +4,7 @@ subtitle: Women in Federal IT & Cyber Conference
 layout: page
 permalink: /programs-and-events/2020-women-in-IT/
 ---
-**UPDATE: The CIO Council has been closely monitoring the ongoing developments with COVID-19 and the health and well-being of the CIO Community is our top priority. With that said, we’ve decided to postpone the Women in Federal IT and Cyber Conference until early summer.**
+**UPDATE: The CIO Council has and will continue to gather informational resources in response to COVID-19 and resiliency planning to support agency activities. The information is for IT professionals and is shared on the government's MAX portal. These resources are meant to support and accelerate agency activities as they respond to this national emergency. You must be a federal employee and have a MAX login to access. Please contact the CIO Council Support team for more information.**
 
 The 3rd Annual Women in Federal IT and Cyber Conference brings together the nation’s top federal IT executives to celebrate the success of women thriving in today’s federal technology industry. The conference will feature speakers and panelists from across industry who will share their experiences and advice on career paths in IT. The conference aims to inspire and motivate more women to embark on careers in IT, building a diverse federal workforce and federal IT community.
 
