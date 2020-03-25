@@ -1,8 +1,8 @@
 ---
 title: Policies & Priorities
 subtitle: Completing the Transition to Internet Protocol Version 6
-description: Describes Circular A-130, a general policy for information governance, acquisitions, records management, open data, workforce, security, and privacy.
-permalink: /policies-and-priorities/circular-a-130/
+description: Completing the Transition to Internet Protocol Version 6
+permalink: /policies-and-priorities/IPV6/
 layout: policy-landing
 policy-publish-date:  March 2, 20202
 filters: fed-policy open
