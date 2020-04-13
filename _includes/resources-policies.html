@@ -3,49 +3,6 @@
 <div class="usa-media-block tablet:grid-col-9">
     <p class="filter-count card-tag margin-top-0 text-gray-50 text-thin"></p>
     <div class="policies" >
-        {% for resources in site.resources %}
-        <div class="tablet:grid-col-3 grid-spacing policy {{ resources.filters }}" >
-
-            <!--sets border logic statements for resources-->
-            {% if resources.filters contains 'report' %}
-            <div class="shadow-1 report-border ">
-                {% endif %}
-                {% if resources.filters contains 'guidance' %}
-                <div class="shadow-1 guidance-border">
-                    {% endif %}
-                    {% if resources.filters contains 'presentation' %}
-                    <div class="shadow-1 presentation-border ">
-                        {% endif %}
-                        {% if resources.filters contains 'website' %}
-                        <div class="shadow-1 website-border ">
-                            {% endif %}
-
-                            <div class="text-container">
-                                {% if resources.filters contains 'report' %}
-                                <span class="card-tag">Report</span>
-                                {% endif %}
-                                {% if resources.filters contains 'guidance' %}
-                                <span class="card-tag">Guidance</span>
-                                {% endif %}
-                                {% if resources.filters contains 'presentation' %}
-                                <span class="card-tag">Presentation</span>
-                                {% endif %}
-                                {% if resources.filters contains 'website' %}
-                                <span class="card-tag">Website</span>
-                                {% endif %}
-
-                                {% if resources.external_url %}
-                                <p class="title-resources"><a class="text-ink text-no-underline" href="http://{{ resources.external_url }}">{{ resources.title }}</a></p>
-                                {% endif %}
-                                {% if resources.permalink %}
-                                <p class="title-resources"><a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resources.permalink }}">{{ resources.title }}</a></p>
-                                {% endif %}
-                                <!--for 508 accessibility-->
-                            </div>
-                        </div>
-
-                    </div>
-                    {% endfor %}
                     {% for policies in site.policies %}
                     <div class="tablet:grid-col-3 grid-spacing policy {{ policies.filters }}">
 
@@ -73,6 +30,49 @@
                         </div>
 
                         {% endfor %}
+                        {% for resources in site.resources %}
+                        <div class="tablet:grid-col-3 grid-spacing policy {{ resources.filters }}" >
+
+                            <!--sets border logic statements for resources-->
+                            {% if resources.filters contains 'report' %}
+                            <div class="shadow-1 report-border ">
+                                {% endif %}
+                                {% if resources.filters contains 'guidance' %}
+                                <div class="shadow-1 guidance-border">
+                                    {% endif %}
+                                    {% if resources.filters contains 'presentation' %}
+                                    <div class="shadow-1 presentation-border ">
+                                        {% endif %}
+                                        {% if resources.filters contains 'website' %}
+                                        <div class="shadow-1 website-border ">
+                                            {% endif %}
+
+                                            <div class="text-container">
+                                                {% if resources.filters contains 'report' %}
+                                                <span class="card-tag">Report</span>
+                                                {% endif %}
+                                                {% if resources.filters contains 'guidance' %}
+                                                <span class="card-tag">Guidance</span>
+                                                {% endif %}
+                                                {% if resources.filters contains 'presentation' %}
+                                                <span class="card-tag">Presentation</span>
+                                                {% endif %}
+                                                {% if resources.filters contains 'website' %}
+                                                <span class="card-tag">Website</span>
+                                                {% endif %}
+
+                                                {% if resources.external_url %}
+                                                <p class="title-resources"><a class="text-ink text-no-underline" href="http://{{ resources.external_url }}">{{ resources.title }}</a></p>
+                                                {% endif %}
+                                                {% if resources.permalink %}
+                                                <p class="title-resources"><a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resources.permalink }}">{{ resources.title }}</a></p>
+                                                {% endif %}
+                                                <!--for 508 accessibility-->
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    {% endfor %}
                 </div>
                 <p class="filter-count card-tag margin-top-0 text-gray-50"></p>
                 <div class="policies">
