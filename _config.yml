@@ -44,7 +44,7 @@ primary_navigation:
         url: /about/members-and-leadership/
       - name: Meetings and Operations
         url: /about/operations/
-  - name: Policies & Priorities
+  - name: Policies, Priorities & Resources
     url: /policies-and-priorities/
   - name: Programs & Events
     children:
