@@ -4,11 +4,11 @@
        alt="{{ include.image_alt }}"
        class="card-image-bg"
        src="{{ site.baseurl }}/assets/images/blog/{{ include.image_src }}"
-       style="width:100%;object-fit:cover;"
+       style="height:80%;width:100%;object-fit:cover;"
       >
     <div class="card-banner-homepage">
       <p class="card-tag">{{ include.end-date | date: '%B %d, %Y' }} </p>
         <p class="text-primary-darker font-serif-md text-bold margin-top-0">{{ include.tagline }}</p>
-      <p class="card-description">{{ include.description | truncate: 200 }}</p>
+      <p class="card-description">{{ include.description | truncate:70 }}</p>
       <a  href="{{ card_link }}">Continue reading</a>
     </div>
