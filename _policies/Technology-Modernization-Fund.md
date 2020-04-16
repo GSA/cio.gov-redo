@@ -5,7 +5,7 @@ description: Gives agencies additional ways to deliver services to the American 
 permalink: /policies-and-priorities/TMF/
 layout: policy-landing
 filters: fed-policy modernization it-spending active
-related-resources-url: /resources/#subject=*&role=.it-spending&status=*
+related-policies-url: /policies-and-priorities/#subject=*&role=.it-spending&status=*
 related-policies-url: /policies-and-priorities/#subject=*&role=.it-spending&status=*
 date: April 26, 2019
 
