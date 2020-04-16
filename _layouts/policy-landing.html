@@ -19,14 +19,14 @@ This template is for a single policy landing page.
     <p>The buttons below take you to our policy and resource catalogs. The catalog will show only items related to {{ page.subtitle }}. Use the filter buttons on the catalog page to show other results. </p>
     {% endif %}
 
-<!--    {% if page.related-resources-url %}-->
-<!--    <a class="usa-button usa-button&#45;&#45;secondary margin-bottom-3" href="{{ site.baseurl }}{{ page.related-resources-url }}">Related Resources</a>-->
-<!--    {% endif %}-->
+    {% if page.related-resources-url %}
+    <a class="usa-button usa-button--secondary margin-bottom-3" href="{{ site.baseurl }}{{ page.related-resources-url }}">Related Resources</a>
+    {% endif %}
     {% if page.related-policies-url %}
     <a class="usa-button usa-button--secondary margin-bottom-3" href="{{ site.baseurl }}{{ page.related-policies-url }}">Related Policies, Priorities & Resources</a>
     {% endif %}
 
-    <p class="card-tag padding-bottom-3"><a href="{{site.baseurl}}/policies-and-priorities/">&#10094; &nbsp; Back to Policies</a></p>
+    <p class="card-tag padding-bottom-3"><a href="{{site.baseurl}}/policies-and-priorities/">&#10094; &nbsp; Back to Policies, Priorities and Resources</a></p>
   </div>
 
 </div>
