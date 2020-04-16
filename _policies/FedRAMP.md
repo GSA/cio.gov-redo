@@ -7,7 +7,6 @@ layout: policy-landing
 policy-publish-date:
 filters: priority cloud cybersecurity modernization acquisition revision
 related-policies-url: /policies-and-priorities/#subject=*&role=.cloud&status=*
-related-policies-url: /policies-and-priorities/#subject=*&role=.cloud&status=*
 date: April 26, 2019
 ---
 ## Policy Overview ##

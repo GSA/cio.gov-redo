@@ -7,7 +7,6 @@ layout: policy-landing
 policy-publish-date:  July 28, 2016
 filters: fed-policy it-spending cybersecurity data governance active
 related-policies-url: /policies-and-priorities/#subject=*&role=.cybersecurity&status=*
-related-policies-url: /policies-and-priorities/#subject=*&role=.cybersecurity&status=*
 date: July 28, 2016
 ---
 ## Policy Overview ##

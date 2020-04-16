@@ -7,7 +7,6 @@ layout: policy-landing
 policy-publish-date: December 10, 2018
 filters: fed-policy it-spending cybersecurity active
 related-policies-url: /policies-and-priorities/#subject=*&role=.cybersecurity&status=*
-related-policies-url: /policies-and-priorities/#subject=*&role=.cybersecurity&status=*
 date: December 10, 2018
 ---
 ## Policy Overview ##

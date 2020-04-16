@@ -7,7 +7,6 @@ layout: policy-landing
 policy-publish-date: April 26, 2019
 filters: fed-policy shared-services active
 related-policies-url: /policies-and-priorities/#subject=*&role=.shared-services&status=*
-related-policies-url: /policies-and-priorities/#subject=*&role=.shared-services&status=*
 date: April 26, 2019
 ---
 ## Policy Overview ##

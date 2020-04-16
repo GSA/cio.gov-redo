@@ -7,7 +7,6 @@ layout: policy-landing
 policy-publish-date: August 1, 2016
 filters: fed-policy cloud data-center-consolidation active data
 related-policies-url: /policies-and-priorities/#subject=*&role=.data-center-consolidation&status=*
-related-policies-url: /policies-and-priorities/#subject=*&role=.data-center-consolidation&status=*
 date: August 1, 2016
 ---
 ## Policy Overview ##

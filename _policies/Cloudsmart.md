@@ -7,7 +7,6 @@ layout: policy-landing
 policy-publish-date: June 2019
 filters: fed-policy cloud modernization active
 related-policies-url: /policies-and-priorities/#subject=*&role=.cloud&status=*
-related-policies-url: /policies-and-priorities/#subject=*&role=.cloud&status=*
 date: June 2019
 
 

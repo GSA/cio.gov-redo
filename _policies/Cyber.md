@@ -6,7 +6,6 @@ permalink: /policies-and-priorities/cybersecurity/
 layout: policy-landing
 filters: priority cybersecurity active
 related-policies-url: /policies-and-priorities/#subject=*&role=.cybersecurity&status=*
-related-policies-url: /policies-and-priorities/#subject=*&role=.cybersecurity&status=*
 ---
 
 ## Priority Overview ##
