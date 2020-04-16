@@ -54,8 +54,6 @@ primary_navigation:
         url: /programs-and-events/innovation-roundtables/
       - name: All Events
         url: /programs-and-events/
-  - name: Resources
-    url: /resources/
   - name: News
     url: /news/
 
