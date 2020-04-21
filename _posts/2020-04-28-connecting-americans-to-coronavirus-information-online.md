@@ -10,7 +10,7 @@ tags: 2020 innovation
 image: cio-council-logo.jpg
 img-alt: White House .gov logo
 
-permalink:
+permalink: /connecting-americans-to-coronavirus-information-online/
 ---
 
 _This proclamation was first posted on [White House.gov](https://www.whitehouse.gov/articles/connecting-americans-coronavirus-information-online/) on April 15th, 2020._
