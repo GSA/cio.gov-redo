@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Connecting Americans to Coronavirus Information Online
-excerpt: This proclamation was first posted on White House.gov on April 15th, 2020. While there is no shortage of coronavirus content on the internet, the American people need access to the most up-to-date public health guidance and most relevant information on Coronavirus Disease 2019 (COVID-19) testing facilities in their communities.
+excerpt: This proclamation was first posted on White House.gov on April 15th, 2020. While there is no shortage of coronavirus content on the internet, the American people need access to the most up-to-date public health guidance and most relevant information on Coronavirus Disease 2019 (COVID-19).
 date: April 20, 2020
 display-date: 20 April 2020
 author: CIO Council Support
