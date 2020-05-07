@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PMA Tech Initiatives Support Rapid Response to COVID-19
-excerpt: This proclamation was first posted on Performance.gov on May 7th, 2020. Successfully transitioning a workforce as large as the Federal Government’s to telework while maintaining a high level of service continuity is no easy task.
+excerpt: This blog was first posted on Performance.gov on May 7th, 2020. Successfully transitioning a workforce as large as the Federal Government’s to telework while maintaining a high level of service continuity is no easy task.
 date: May 7, 2020
 display-date: 7 May 2020
 author: Suzette Kent, Federal Chief Information Officer
@@ -11,7 +11,7 @@ image: cio-council-logo.jpg
 permalink: /PMA-Tech-Initiatives-Support-Rapid-Response-to-COVID-19/
 ---
 
-_This proclamation was first posted on [Performance.gov](https://www.Performance.gov/PMA-tech-initiatives-support-rapid-response-to-COVID19/) on May 7th, 2020._
+_This blog was first posted on [Performance.gov](https://www.Performance.gov/PMA-tech-initiatives-support-rapid-response-to-COVID19/) on May 7th, 2020._
 
 Successfully transitioning a workforce as large as the Federal Government’s to telework while maintaining a high level of service continuity is no easy task. In response to the Coronavirus global pandemic, many Federal Government services have utilized capabilities included in the [President’s Management Agenda (PMA)](https://www.performance.gov/PMA/PMA.html) to quickly embrace an environment of maximum digital engagement to continue meeting the mission and service expectations for their agency. The CIO Community has provided guidance to federal agencies on how to leverage digital tools that support their workforce, deploy resources, and expand critical services to help meet the needs of citizens and businesses.  
 
