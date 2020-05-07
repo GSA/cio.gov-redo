@@ -4,7 +4,7 @@ title: PMA Tech Initiatives Support Rapid Response to COVID-19
 excerpt: This proclamation was first posted on Performance.gov on May 7th, 2020. Successfully transitioning a workforce as large as the Federal Government’s to telework while maintaining a high level of service continuity is no easy task.
 date: May 7, 2020
 display-date: 7 May 2020
-author: CIO Council Support
+author: Suzette Kent, Federal Chief Information Officer
 tags: 2020 innovation
 image: cio-council-logo.jpg
 
