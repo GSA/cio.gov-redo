@@ -6,7 +6,7 @@ date: May 8, 2020
 display-date: 8 May 2020
 author: Suzette Kent, Federal Chief Information Officer
 tags: 2020 cio-council
-image: cio-council-logo.jpg
+image: ../members/bio_kent.jpg
 
 permalink: /Suzette-Kent-thanks-the-federal-IT-workforce-for-their-public-service/
 ---
