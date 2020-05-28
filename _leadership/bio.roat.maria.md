@@ -5,10 +5,10 @@ permalink: /about/members-and-leadership/roat-maria/
 subtitle: Team and Leadership
 title: About Our Council
 
-position: Chief Information Officer
-agency: Small Business Administration
+position: Federal Deputy Chief Information Officer
+agency: Office of Management and Budget
 bio-image: /bio_roat.png
-bio-image-alt-text: Maria Roat
+bio-image-alt-text: OMB seal
 bio-phone:
 bio-email:
 ---
