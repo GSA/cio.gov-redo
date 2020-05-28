@@ -4,7 +4,7 @@ permalink: /about/members-and-leadership/deasy-dana/
 subtitle: Team and Leadership
 title: About Our Council
 
-name: Mr. Dana Deasy
+name: Honorable Dana Deasy
 position: Chief Information Officer
 agency: Department of Defense
 bio-image: /bio_deasy.png
