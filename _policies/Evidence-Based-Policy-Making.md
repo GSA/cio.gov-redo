@@ -6,7 +6,8 @@ permalink: /policies-and-priorities/evidence-based-policymaking/
 layout: policy-landing
 policy-publish-date: January 14, 2019
 filters: fed-policy data active
-date: January 14, 2019s
+related-policies-url: /policies-and-priorities/#subject=*&role=.data&status=*
+date: January 14, 2019
 ---
 
 ## Policy Overview ##
