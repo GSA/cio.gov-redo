@@ -19,7 +19,9 @@ var iso = $container.data('isotope');
 var $filterCount = $('.filter-count');
 
 function updateFilterCount() {
-  $filterCount.text( iso.filteredItems.length + ' items' );
+    if (iso != null ){
+        $filterCount.text( iso.filteredItems.length + ' items' );
+    }
 }
 
 
@@ -102,7 +104,15 @@ function updateFilterCount() {
             }
             // Toggle checked status of filter buttons
             $( ".filter-list" ).find(".checked").removeClass("checked").attr("aria-checked","false");
-            $( ".filter-list" ).find("[data-filter='" + hashFilter["subject"] + "'],[data-filter='" + hashFilter["role"] + "'] ,[data-filter='" + hashFilter["status"] + "']").addClass("checked").attr("aria-checked","true");
+            var subjectFilters = hashFilter["subject"].split(",");
+            var roleFilters = hashFilter["role"].split(",");
+            var statusFilters = hashFilter["status"].split(",");
+            var allFilters = subjectFilters.concat(roleFilters);
+            allFilters = allFilters.concat(statusFilters);
+            for (filter in allFilters){
+                $( ".filter-list" ).find("[data-filter='" + allFilters[filter] + "']").addClass("checked").attr("aria-checked","true");
+            }
+            // $( ".filter-list" ).find("[data-filter='" + hashFilter["subject"] + "'],[data-filter='" + hashFilter["role"] + "'] ,[data-filter='" + hashFilter["status"] + "']").addClass("checked").attr("aria-checked","true");
         }
     } // onHahschange
 
