@@ -25,7 +25,7 @@ We also have committees that focus on certain Council priorities. These include:
 ## Communities of Practice (CoP)
 Our CoP affiliates are also great resources and partners in achieving our priorities. These include:
 * [Federal Technology Investment Management Community of Practice]({{ site.baseurl }}/about/members-and-leadership/ftim-cop/)
-* [Cloud and Infrastructure Community of Practice]({{ site.baseurl }}/about/members-and-leadership/cloud-infrastructure-cop/)
+* [Cloud and Infrastructure Community of Practice]({{ site.baseurl }}/about/members-and-leadership/cloud-infrastructure-cop-1/)
 * [Accessibility Community of Practice]({{ site.baseurl }}/about/members-and-leadership/accessibility-cop/)
 
 &nbsp;
