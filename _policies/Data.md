@@ -6,7 +6,7 @@ permalink: /policies-and-priorities/data/
 layout: policy-landing
 policy-publish-date: June 4, 2019
 filters: priority data active
-related-policies-url: /policies-and-priorities/#subject=*&role=.governance,.modernization,.it-spending&status=*
+related-policies-url: /policies-and-priorities/#subject=.guidance&role=*&status=*
 date: June 4, 2019
 ---
 
