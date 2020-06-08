@@ -6,7 +6,6 @@ permalink: /policies-and-priorities/cyber-workforce-strategy/
 layout: policy-landing
 policy-publish-date: May 2, 2019
 filters: fed-policy cybersecurity workforce active
-related-resources-url: /policies-and-priorities/#subject=.website&role=.cybersecurity&status=*
 related-policies-url: /policies-and-priorities/#subject=*&role=.cybersecurity&status=*
 date: May 2, 2018
 ---
