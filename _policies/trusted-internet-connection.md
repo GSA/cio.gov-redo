@@ -7,7 +7,6 @@ layout: policy-landing
 policy-publish-date: September 12, 2019
 filters: fed-policy cybersecurity
 related-policies-url: /policies-and-priorities/#subject=*&role=.modernization,.cybersecurity&status=*
-
 date: September 12, 2019
 ---
 ## Policy Overview ##
