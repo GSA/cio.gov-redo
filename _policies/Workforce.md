@@ -5,8 +5,7 @@ description: The Council is committed to its strategic goal of providing the Fed
 permalink: /policies-and-priorities/workforce/
 layout: policy-landing
 filters: priority workforce active
-related-resources-url: /resources/#subject=*&role=.modernization&status=*
-related-policies-url: /policies-and-priorities/#subject=*&role=.workforce&status=*
+related-policies-url: /policies-and-priorities/#subject=*&role=.workforce,.modernization&status=*
 ---
 
 ## Policy Overview ##

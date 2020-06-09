@@ -5,7 +5,6 @@ description: Enables organizations to disaggregate IT spending into smaller, con
 permalink: /policies-and-priorities/tbm/
 layout: policy-landing
 filters: priority it-spending acquisition active
-related-resources-url: /resources/#subject=.website&role=.it-spending&status=*
 related-policies-url: /policies-and-priorities/#subject=*&role=.it-spending&status=*
 date: April 26, 2019
 

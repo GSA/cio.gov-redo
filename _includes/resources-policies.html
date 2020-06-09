@@ -1,0 +1,87 @@
+<!--********Generates resource catalog items. Individual cards live in the in the _presources folder**************-->
+
+<div class="usa-media-block tablet:grid-col-9">
+    <p class="filter-count card-tag margin-top-0 text-gray-50 text-thin"></p>
+    <div class="policies" >
+                    {% for policies in site.policies %}
+                    <div class="tablet:grid-col-3 grid-spacing policy {{ policies.filters }}">
+
+                        {% if policies.filters contains 'policy' %}
+                        <div class="shadow-1 policy-border ">
+                            {% endif %}
+                            {% if policies.filters contains 'priority' %}
+                            <div class="shadow-1 priority-border ">
+                                {% endif %}
+
+                                <div class="text-container">
+
+                                    {% if policies.filters contains 'policy' %}
+                                    <span class="card-tag">Policy</span>
+                                    {% endif %}
+                                    {% if policies.filters contains 'priority' %}
+                                    <span class="card-tag">Priority</span>
+                                    {% endif %}
+
+                                    <!--for 508 accessibility-->
+                                    <p class="title-resources"><a title="policy or priority title" class="no-style" href="{{ site.baseurl }}{{ policies.permalink }}">{{ policies.subtitle }}</a></p>
+                                    <!--<p class="text-light font-sans-3xs">Implemented on {{ policies.date | date: "%b %d, %y" }}</p>-->
+                                </div>
+                            </div>
+                        </div>
+
+                        {% endfor %}
+                        {% for resources in site.resources %}
+                        <div class="tablet:grid-col-3 grid-spacing policy {{ resources.filters }}" >
+
+                            <!--sets border logic statements for resources-->
+                            {% if resources.filters contains 'report' %}
+                            <div class="shadow-1 report-border ">
+                                {% endif %}
+                                {% if resources.filters contains 'guidance' %}
+                                <div class="shadow-1 guidance-border">
+                                    {% endif %}
+                                    {% if resources.filters contains 'presentation' %}
+                                    <div class="shadow-1 presentation-border ">
+                                        {% endif %}
+                                        {% if resources.filters contains 'website' %}
+                                        <div class="shadow-1 website-border ">
+                                            {% endif %}
+
+                                            <div class="text-container">
+                                                {% if resources.filters contains 'report' %}
+                                                <span class="card-tag">Report</span>
+                                                {% endif %}
+                                                {% if resources.filters contains 'guidance' %}
+                                                <span class="card-tag">Guidance</span>
+                                                {% endif %}
+                                                {% if resources.filters contains 'presentation' %}
+                                                <span class="card-tag">Presentation</span>
+                                                {% endif %}
+                                                {% if resources.filters contains 'website' %}
+                                                <span class="card-tag">Website</span>
+                                                {% endif %}
+
+                                                {% if resources.external_url %}
+                                                <p class="title-resources"><a class="text-ink text-no-underline" href="http://{{ resources.external_url }}">{{ resources.title }}</a></p>
+                                                {% endif %}
+                                                {% if resources.permalink %}
+                                                <p class="title-resources"><a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resources.permalink }}">{{ resources.title }}</a></p>
+                                                {% endif %}
+                                                {% if resources.doc-link %}
+                                                <p class="title-resources"><a class="text-ink text-no-underline" href="{{ site.baseurl }}/{{ resources.doc-link }}">{{ resources.title }}</a></p>
+                                                {% endif %}
+                                                <!--for 508 accessibility-->
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    {% endfor %}
+                </div>
+                <div class="policies">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
