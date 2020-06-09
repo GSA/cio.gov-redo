@@ -73,7 +73,8 @@ function updateFilterCount() {
             filters[ filterGroup ] = $(this).attr("data-filter");
         }
         // Create new hash
-        var newHash = "subject=" + encodeURIComponent( filters["subject"] ) + "&role=" + encodeURIComponent( filters["role"] ) + "&status=" + encodeURIComponent( filters["status"] );
+        // var newHash = "subject=" + encodeURIComponent( filters["subject"] ) + "&role=" + encodeURIComponent( filters["role"] ) + "&status=" + encodeURIComponent( filters["status"] );
+        var newHash = "subject=" +  filters["subject"]  + "&role=" +  filters["role"]   + "&status=" +  filters["status"] ;
         // If sort value exists, add it to hash
         if ( sortValue ) {
             newHash = newHash + "&sort=" + encodeURIComponent( sortValue );
