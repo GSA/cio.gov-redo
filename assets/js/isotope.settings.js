@@ -120,6 +120,7 @@ function updateFilterCount() {
         hashFilter["role"] = role ? role[1] : "*";
         hashFilter["status"] = status ? status[1] : "*";
         hashFilter["sorts"] = sorts ? sorts[1]: "";
+        // test
 
         return hashFilter;
     } // getHashFilter
