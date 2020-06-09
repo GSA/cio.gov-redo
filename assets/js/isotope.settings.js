@@ -104,7 +104,7 @@ function updateFilterCount() {
             $( ".filter-list" ).find(".checked").removeClass("checked").attr("aria-checked","false");
             $( ".filter-list" ).find("[data-filter='" + hashFilter["subject"] + "'],[data-filter='" + hashFilter["role"] + "'] ,[data-filter='" + hashFilter["status"] + "']").addClass("checked").attr("aria-checked","true");
         }
-    } // onHahschange
+    } // onHahschange test
 
     function getHashFilter() {
         // Get filters (matches) and sort order (sorts)
