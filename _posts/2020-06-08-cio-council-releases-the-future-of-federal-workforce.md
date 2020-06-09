@@ -2,14 +2,15 @@
 layout: post
 title: CIO Council Releases the Future of the Federal IT Workforce Update
 excerpt: The Federal CIO Council authored an update that analyzed the major challenges affecting the Federal IT workforce. Check out the Future of the Federal IT Workforce Update. 
-date: June 8, 2020
-display-date: 8 June 2020
+date: June 9, 2020
+display-date: 9 June 2020
 author: CIO Council Operations 
 tags: 2020 cio-council workforce
-
 permalink: /CIO-Council-Releases-the-Future-of-the-Federal-IT-Workforce-Update/
 ---
-
+Over the past nine months, the Federal Chief Information Officers Council (CIOC) worked to 
+author an update that analyzed the major challenges affecting the Federal IT workforce. 
+This update -- <a href="{{site.baseurl}}/assets/resources/Future_of_Federal_IT_Workforce_Update_Public_Version.pdf">the Future of the Federal IT Workforce </a>-- is a follow-up to the State of Federal Information Technology (SOFIT) Report released in 2017 which provided an overview of the current and future state of Federal IT. 
 
 ## Why We Created the Update ##
 Because of the rapid changes in modern technology, cyber threats, and artificial intelligence, we wanted a deep understanding of the demands and risks associated with the changes in the Federal IT workforce. 

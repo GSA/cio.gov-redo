@@ -67,6 +67,9 @@
                                                 {% if resources.permalink %}
                                                 <p class="title-resources"><a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resources.permalink }}">{{ resources.title }}</a></p>
                                                 {% endif %}
+                                                {% if resources.doc-link %}
+                                                <p class="title-resources"><a class="text-ink text-no-underline" href="{{ site.baseurl }}/{{ resources.doc-link }}">{{ resources.title }}</a></p>
+                                                {% endif %}
                                                 <!--for 508 accessibility-->
                                             </div>
                                         </div>
