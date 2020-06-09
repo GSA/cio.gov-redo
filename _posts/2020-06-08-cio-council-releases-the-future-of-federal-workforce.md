@@ -7,6 +7,7 @@ display-date: 9 June 2020
 author: CIO Council Operations 
 tags: 2020 cio-council workforce
 permalink: /CIO-Council-Releases-the-Future-of-the-Federal-IT-Workforce-Update/
+image: cio-council-logo.jpg
 ---
 Over the past nine months, the Federal Chief Information Officers Council (CIOC) worked to 
 author an update that analyzed the major challenges affecting the Federal IT workforce. 
