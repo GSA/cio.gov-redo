@@ -25,4 +25,4 @@ For more information regarding the IT Modernization Progress and the Release of 
 - [Federal Cybersecurity Risk Determination Report and Action Plan](https://www.cio.gov/2018/05/30/Risk-Report/)
 &nbsp;
 
-<a href="{{site.baseurl}}/resources/">&#10094; &nbsp; Back to Resoures</a><br>
+<a href="{{site.baseurl}}/policies-and-priorities/">&#10094; &nbsp; Back to Policies, Priorities & Resoures</a><br>

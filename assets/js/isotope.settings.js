@@ -19,7 +19,9 @@ var iso = $container.data('isotope');
 var $filterCount = $('.filter-count');
 
 function updateFilterCount() {
-  $filterCount.text( iso.filteredItems.length + ' items' );
+    if (iso != null ){
+        $filterCount.text( iso.filteredItems.length + ' items' );
+    }
 }
 
 
@@ -71,7 +73,8 @@ function updateFilterCount() {
             filters[ filterGroup ] = $(this).attr("data-filter");
         }
         // Create new hash
-        var newHash = "subject=" + encodeURIComponent( filters["subject"] ) + "&role=" + encodeURIComponent( filters["role"] ) + "&status=" + encodeURIComponent( filters["status"] );
+        // var newHash = "subject=" + encodeURIComponent( filters["subject"] ) + "&role=" + encodeURIComponent( filters["role"] ) + "&status=" + encodeURIComponent( filters["status"] );
+        var newHash = "subject=" +  filters["subject"]  + "&role=" +  filters["role"]   + "&status=" +  filters["status"] ;
         // If sort value exists, add it to hash
         if ( sortValue ) {
             newHash = newHash + "&sort=" + encodeURIComponent( sortValue );
@@ -102,7 +105,15 @@ function updateFilterCount() {
             }
             // Toggle checked status of filter buttons
             $( ".filter-list" ).find(".checked").removeClass("checked").attr("aria-checked","false");
-            $( ".filter-list" ).find("[data-filter='" + hashFilter["subject"] + "'],[data-filter='" + hashFilter["role"] + "'] ,[data-filter='" + hashFilter["status"] + "']").addClass("checked").attr("aria-checked","true");
+            var subjectFilters = hashFilter["subject"].split(",");
+            var roleFilters = hashFilter["role"].split(",");
+            var statusFilters = hashFilter["status"].split(",");
+            var allFilters = subjectFilters.concat(roleFilters);
+            allFilters = allFilters.concat(statusFilters);
+            for (filter in allFilters){
+                $( ".filter-list" ).find("[data-filter='" + allFilters[filter] + "']").addClass("checked").attr("aria-checked","true");
+            }
+            // $( ".filter-list" ).find("[data-filter='" + hashFilter["subject"] + "'],[data-filter='" + hashFilter["role"] + "'] ,[data-filter='" + hashFilter["status"] + "']").addClass("checked").attr("aria-checked","true");
         }
     } // onHahschange
 
