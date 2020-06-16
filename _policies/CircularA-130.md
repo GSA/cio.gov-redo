@@ -6,6 +6,7 @@ permalink: /policies-and-priorities/circular-a-130/
 layout: policy-landing
 policy-publish-date:  July 28, 2016
 filters: fed-policy it-spending cybersecurity data governance active
+related-filters: 'cybersecurity'
 related-policies-url: /policies-and-priorities/#subject=*&role=.cybersecurity&status=*
 date: July 28, 2016
 ---
@@ -16,3 +17,8 @@ The Circular establishes general policy for information governance, acquisitions
 
 The Circular promotes innovation, enables appropriate information sharing, and fosters the wide-scale and rapid adoption of new technologies while strengthening protections for security and privacy. [View the full, revised policy here](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf).
 &nbsp;
+
+{% assign related-tiles = page.related-filters %}
+{% assign sub-title = page.subtitle %}
+{% include related_tiles.html  related_filters=related-tiles subtitle=sub-title %}
+

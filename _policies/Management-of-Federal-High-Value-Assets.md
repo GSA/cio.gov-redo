@@ -7,6 +7,7 @@ layout: policy-landing
 policy-publish-date: December 10, 2018
 filters: fed-policy it-spending cybersecurity active
 related-policies-url: /policies-and-priorities/#subject=*&role=.cybersecurity&status=*
+related-filters: 'cybersecurity'
 date: December 10, 2018
 ---
 ## Policy Overview ##
@@ -16,3 +17,8 @@ As of memorandum M-19-03 in December 2018, [Management of High Value Assets](htt
 
 This memorandum rescinds M-16-04, Cybersecurity Strategy and Implementation Plan (CSIP) for the Federal Civilian Government, and M-17-09, Management of Federal High Value Assets.
 &nbsp;
+
+{% assign related-tiles = page.related-filters %}
+{% assign sub-title = page.subtitle %}
+{% include related_tiles.html  related_filters=related-tiles subtitle=sub-title %}
+

@@ -6,6 +6,7 @@ permalink: /policies-and-priorities/workforce/
 layout: policy-landing
 filters: priority workforce active
 related-policies-url: /policies-and-priorities/#subject=*&role=.workforce,.modernization&status=*
+related-filters: 'workforce modernization'
 ---
 
 ## Policy Overview ##
@@ -18,3 +19,8 @@ Our [Workforce Committee]({{ site.baseurl }}/about/members-and-leadership/workfo
 
 Learn more about how to become a part of the Federal Technology and Cybersecurity Workforce on our [Jobs page]({{ site.baseurl }}/government-technology-jobs/).
 &nbsp;
+
+{% assign related-tiles = page.related-filters %}
+{% assign sub-title = page.subtitle %}
+{% include related_tiles.html  related_filters=related-tiles subtitle=sub-title %}
+

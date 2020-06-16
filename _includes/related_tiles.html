@@ -1,0 +1,98 @@
+
+<div class="usa-media-block tablet:grid-col-9">
+    <p class="filter-count card-tag margin-top-0 text-gray-50 text-thin"></p>
+    <div class="policies" >
+        {% for policy in site.policies %}
+
+        {% assign string_filter = policy.filters | append: "" | split: " " %}
+        {% assign title = include.subtitle | append: "" %}
+        {% assign policy_title = policy.subtitle | append: "" %}
+        {% assign related = include.related_filters | split: " " %}
+        {% for filter in string_filter | split: " " %}
+        {% if related contains filter and title!=policy_title %}
+         <div class="tablet:grid-col-3 grid-spacing policy {{ policy.filters }}">
+
+                {% if policy.filters contains 'policy' %}
+                <div class="shadow-1 policy-border ">
+                    {% endif %}
+                    {% if policy.filters contains 'priority' %}
+                    <div class="shadow-1 priority-border ">
+                        {% endif %}
+
+                        <div class="text-container">
+
+                            {% if policy.filters contains 'policy' %}
+                            <span class="card-tag">Policy</span>
+                            {% endif %}
+                            {% if policy.filters contains 'priority' %}
+                            <span class="card-tag">Priority</span>
+                            {% endif %}
+
+                            <p class="title-resources"><a title="policy or priority title" class="no-style" href="{{ site.baseurl }}{{ policy.permalink }}">{{ policy.subtitle }}</a></p>
+                        </div>
+                    </div>
+            </div>
+        {% endif %}
+
+
+        {% endfor %}
+        {% endfor %}
+
+
+             {% for resources in site.resources %}
+             {% assign string_filter = resources.filters | append: "" | split: " " %}
+             {% assign title = include.subtitle | append: "" %}
+             {% assign policy_title = policy.subtitle | append: "" %}
+             {% assign related = include.related_filters | split: " " %}
+             {% for filter in string_filter | split: " " %}
+             {% if related contains filter and title!=policy_title %}
+             <div class="tablet:grid-col-3 grid-spacing policy {{ resources.filters }}" >
+
+                 <!--sets border logic statements for resources-->
+                 {% if resources.filters contains 'report' %}
+                 <div class="shadow-1 report-border ">
+                     {% endif %}
+                     {% if resources.filters contains 'guidance' %}
+                     <div class="shadow-1 guidance-border">
+                         {% endif %}
+                         {% if resources.filters contains 'presentation' %}
+                         <div class="shadow-1 presentation-border ">
+                             {% endif %}
+                             {% if resources.filters contains 'website' %}
+                             <div class="shadow-1 website-border ">
+                                 {% endif %}
+
+                                 <div class="text-container">
+                                     {% if resources.filters contains 'report' %}
+                                     <span class="card-tag">Report</span>
+                                     {% endif %}
+                                     {% if resources.filters contains 'guidance' %}
+                                     <span class="card-tag">Guidance</span>
+                                     {% endif %}
+                                     {% if resources.filters contains 'presentation' %}
+                                     <span class="card-tag">Presentation</span>
+                                     {% endif %}
+                                     {% if resources.filters contains 'website' %}
+                                     <span class="card-tag">Website</span>
+                                     {% endif %}
+
+                                     {% if resources.external_url %}
+                                     <p class="title-resources"><a class="text-ink text-no-underline" href="http://{{ resources.external_url }}">{{ resources.title }}</a></p>
+                                     {% endif %}
+                                     {% if resources.permalink %}
+                                     <p class="title-resources"><a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resources.permalink }}">{{ resources.title }}</a></p>
+                                     {% endif %}
+                                     {% if resources.doc-link %}
+                                     <p class="title-resources"><a class="text-ink text-no-underline" href="{{ site.baseurl }}/{{ resources.doc-link }}">{{ resources.title }}</a></p>
+                                     {% endif %}
+                                     <!--for 508 accessibility-->
+                                 </div>
+                             </div>
+
+                         </div>
+                         {% endif %}
+                         {% endfor %}
+                         {% endfor %}
+
+    </div>
+</div>

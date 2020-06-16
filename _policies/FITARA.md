@@ -7,6 +7,7 @@ layout: policy-landing
 policy-publish-date: January 1, 2018
 filters: fed-policy modernization governance active
 related-policies-url: /policies-and-priorities/#subject=*&role=.governance,.modernization,.it-spending&status=*
+related-filters: 'governance modernization it-spending'
 date: July 24, 2019
 ---
 ## Policy Overview ##
@@ -21,3 +22,8 @@ FITARA does the following:
 6. Maximizes the Benefit of the Federal Strategic Sourcing Initiative (SSI)
 7. Expands Government-wide Software Purchasing Programs
 &nbsp;
+
+{% assign related-tiles = page.related-filters %}
+{% assign sub-title = page.subtitle %}
+{% include related_tiles.html  related_filters=related-tiles subtitle=sub-title %}
+

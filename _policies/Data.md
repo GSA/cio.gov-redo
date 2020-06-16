@@ -7,6 +7,7 @@ layout: policy-landing
 policy-publish-date: June 4, 2019
 filters: priority data active
 related-policies-url: /policies-and-priorities/#subject=.guidance&role=*&status=*
+related-filters: 'guidance'
 date: June 4, 2019
 ---
 
@@ -28,3 +29,8 @@ The Administration is focused on [Leveraging Data as a Strategic Asset](https://
 - Enable government data to be accessible and useful for the American public, businesses, and researchers; and
 - Improve the use of data for decision-making and accountability for the Federal Government, including for policy-making, innovation, oversight, and learning."
 &nbsp;
+
+{% assign related-tiles = page.related-filters %}
+{% assign sub-title = page.subtitle %}
+{% include related_tiles.html  related_filters=related-tiles subtitle=sub-title %}
+
