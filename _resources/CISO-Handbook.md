@@ -51,4 +51,4 @@ The Handbook is a key document, coordinated through the CIO and CISO Councils, t
 
 &nbsp;
 
-<a href="{{site.baseurl}}/resources/">&#10094; &nbsp; Back to Resoures</a><br>
+<a href="{{site.baseurl}}/policies-and-priorities/">&#10094; &nbsp; Back to Policies, Priorities & Resoures</a><br>
