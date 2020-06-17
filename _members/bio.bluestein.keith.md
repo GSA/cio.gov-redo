@@ -5,7 +5,7 @@ background-image: /assets/img/grey.background.png
 subtitle: Team and Leadership
 title: About Our Council
 
-name: Mr. Keith A. Bluestein, CISSP, PMP
+name: Mr. Keith A. Bluestein
 position: Chief Information Officer
 agency: U.S. Small Business Administration
 bio-image: /bio_bluestein.png
