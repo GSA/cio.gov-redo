@@ -7,8 +7,7 @@ title: About Our Council
 position: Chief Information Officer
 agency: Department of Homeland Security
 bio-image: /DHS_logo.png
-bio-image-alt-text: Karen Evans
-bio-phone:
+bio-image-alt-text: DHS logo
 bio-email:
 ---
 Official biography information coming soon.
