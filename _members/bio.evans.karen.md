@@ -1,13 +1,14 @@
 ---
 layout: bio
-name: Vacant
+name: Ms. Karen Evans
+permalink: /about/members-and-leadership/evans-karen/
 subtitle: Team and Leadership
 title: About Our Council
 position: Chief Information Officer
 agency: Department of Homeland Security
 bio-image: /DHS_logo.png
-bio-image-alt-text: Elizabeth A. Cappello
+bio-image-alt-text: Karen Evans
 bio-phone:
-bio-email: Elizabeth.Cappello@HQ.DHS.gov
+bio-email:
 ---
 Official biography information coming soon.
