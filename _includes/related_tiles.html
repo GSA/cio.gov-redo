@@ -3,6 +3,7 @@
     <h3>Related Policies, Priorities and Resources</h3>
     <p class="filter-count card-tag margin-top-0 text-gray-50 text-thin"></p>
     <div class="policies" >
+        {% assign displayed_tiles = "" | split: ',' %}
         {% for policy in site.policies %}
 
         {% assign string_filter = policy.filters | append: "" | split: " " %}
@@ -10,8 +11,10 @@
         {% assign policy_title = policy.subtitle | append: "" %}
         {% assign related = include.related_filters | split: " " %}
         {% for filter in string_filter | split: " " %}
-        {% if related contains filter and title!=policy_title %}
+        {% capture tile_displayed %}{% if displayed_tiles contains policy_title %}Yes{% else %}No{% endif %}{% endcapture%}
+        {% if related contains filter and title!=policy_title and tile_displayed=='No' %}
          <div class="tablet:grid-col-3 grid-spacing policy {{ policy.filters }}">
+             {% assign displayed_tiles = displayed_tiles | push: policy_title %}
 
                 {% if policy.filters contains 'policy' %}
                 <div class="shadow-1 policy-border ">
@@ -43,7 +46,7 @@
              {% for resources in site.resources %}
              {% assign string_filter = resources.filters | append: "" | split: " " %}
              {% assign title = include.subtitle | append: "" %}
-             {% assign policy_title = policy.subtitle | append: "" %}
+             {% assign policy_title = resources.subtitle | append: "" %}
              {% assign related = include.related_filters | split: " " %}
              {% for filter in string_filter | split: " " %}
              {% if related contains filter and title!=policy_title %}
