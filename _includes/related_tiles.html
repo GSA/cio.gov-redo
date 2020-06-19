@@ -10,8 +10,11 @@
         {% assign title = include.subtitle | append: "" %}
         {% assign policy_title = policy.subtitle | append: "" %}
         {% assign related = include.related_filters | split: " " %}
+
         {% for filter in string_filter | split: " " %}
+
         {% capture tile_displayed %}{% if displayed_tiles contains policy_title %}Yes{% else %}No{% endif %}{% endcapture%}
+
         {% if related contains filter and title!=policy_title and tile_displayed=='No' %}
          <div class="tablet:grid-col-3 grid-spacing policy {{ policy.filters }}">
              {% assign displayed_tiles = displayed_tiles | push: policy_title %}
@@ -42,15 +45,22 @@
         {% endfor %}
         {% endfor %}
 
-
+             {% assign displayed_resource_tiles = "" | split: ',' %}
              {% for resources in site.resources %}
+
              {% assign string_filter = resources.filters | append: "" | split: " " %}
              {% assign title = include.subtitle | append: "" %}
-             {% assign policy_title = resources.subtitle | append: "" %}
+             {% assign resource_title = resources.title | append: "" %}
              {% assign related = include.related_filters | split: " " %}
+
              {% for filter in string_filter | split: " " %}
-             {% if related contains filter and title!=policy_title %}
+
+             {% capture tile_displayed %}{% if displayed_resource_tiles contains resource_title %}Yes{% else %}No{% endif %}{% endcapture%}
+
+             {% if related contains filter and title!=resource_title and tile_displayed=='No' %}
              <div class="tablet:grid-col-3 grid-spacing policy {{ resources.filters }}" >
+
+                 {% assign displayed_resource_tiles = displayed_resource_tiles | push: resource_title %}
 
                  <!--sets border logic statements for resources-->
                  {% if resources.filters contains 'report' %}
