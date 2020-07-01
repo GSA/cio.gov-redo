@@ -1,0 +1,27 @@
+---
+layout: post
+title: Meeting IT Priorities with TBM 
+excerpt:  The Federal Technology and Investment Management (FTIM) CoP  developed a guide to help CIOs meet IT Priorities with Technology Business Management (TBM). Check it out!
+date: June 30, 2020
+display-date: 30 June 2020
+author: CIO Council Operations 
+tags: 2020 it-modernization TBM TMF cybersecurity
+permalink: /meeting-it-priorities-with-tbm/
+image: feed_image.png
+---
+<p ><u>Technology Business Management (TBM) </u>[ link: <a href="https://www.cio.gov/policies-and-priorities/tbm/" target="_blank" data-saferedirecturl="https://www.cio.gov/policies-and-priorities/tbm/">https://www.cio.gov/policies-and-priorities/tbm/</a>] aligns cost to IT services to improve delivery and efficiency, meaning this framework can be leveraged successfully amongst Executive Leadership across agencies. TBM will ultimately empower agency CIOs to better understand and communicate the business and mission value of IT spending to senior executives, mission support offices, and program managers</p>
+<p ><u>The Federal Technology and Investment Management (FTIM) CoP</u> [link: <a href="https://www.cio.gov/about/members-and-leadership/ftim-cop/" target="_blank" data-saferedirecturl="https://www.cio.gov/about/members-and-leadership/ftim-cop/">https://www.cio.gov/about/members-and-leadership/ftim-cop/</a>], in collaboration with the GSA Office of Government-wide Policy (OGP), has developed an informative guide, <u>Meeting IT Priorities with TBM </u>[link to the resource], to illustrate how IT Cost Transparency can be enhanced through the TBM framework.&nbsp;</p>
+<p >Five major priorities were selected based on the focus of the President Management&rsquo;s Agenda, the CIO Council, and Congress. Each priority outlines initiatives and related requirements from OMB guidance, memos, and/or legislation. The five priorities are:&nbsp;</p>
+<ul>
+<li> <u>Capital Planning and Investment Control (CPIC)</u>&nbsp;[<a href="https://www.cio.gov/policies-and-priorities/cpic/" target="_blank" data-saferedirecturl="https://www.cio.gov/policies-and-priorities/cpic/">https://www.cio.gov/policies-and-priorities/cpic/</a>]</li>
+<li> <u>Cybersecurity</u>&nbsp;[<a href="https://www.cio.gov/policies-and-priorities/cybersecurity/" target="_blank" data-saferedirecturl="https://www.cio.gov/policies-and-priorities/cybersecurity/">https://www.cio.gov/policies-and-priorities/cybersecurity/</a>]</li>
+<li> <u>Data</u>&nbsp;[<a href="https://www.cio.gov/policies-and-priorities/data/" target="_blank" data-saferedirecturl="https://www.cio.gov/policies-and-priorities/data/">https://www.cio.gov/policies-and-priorities/data/</a>]</li>
+<li> <u>Acquisitions</u>&nbsp;[<a href="https://www.cio.gov/policies-and-priorities/FITARA/" target="_blank" data-saferedirecturl="https://www.cio.gov/policies-and-priorities/FITARA/">https://www.cio.gov/policies-and-priorities/FITARA/</a>]</li>
+<li> <u>IT Modernization</u>&nbsp;[<a href="https://www.cio.gov/policies-and-priorities/TMF/" target="_blank" data-saferedirecturl="https://www.cio.gov/policies-and-priorities/TMF/">https://www.cio.gov/policies-and-priorities/TMF/</a>]</li>
+</ul>
+<p >The guide then aligns the priority activities to the four disciplines of TBM (Transparency, Delivering Value, Shaping Business Demand, and Planing &amp; Governing) for a more enhanced description of <em>how </em>TBM can help meet the agency goals. See the example below:</p>
+
+<img width="610" height="495" src="/assets/images/blog/cpic.png" alt="CPIC">
+<br>
+
+<P>The individual sections on how ‘How TBM Helps’ is definitely something you don’t want to miss. Review the easy to follow guide <a href="/assets/resources/MIPT-draft-5.0-Final-2020_06.pdf">[link to the resource again]! </a></P>
