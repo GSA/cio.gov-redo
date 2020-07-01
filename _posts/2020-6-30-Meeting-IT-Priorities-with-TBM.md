@@ -24,4 +24,4 @@ image: feed_image.png
 <img width="610" height="495" src="/preview/gsa/cio.gov-redo/blog_post/assets/images/blog/cpic.png" alt="CPIC">
 <br>
 
-<P>The individual sections on how ‘How TBM Helps’ is definitely something you don’t want to miss. Review the easy to follow guide <a href="/preview/gsa/cio.gov-redo/blog_post/assets/resources/MIPT-draft-5.0-Final-2020_06.pdf">[link to the resource again]! </a></P>
+<P>The individual sections on how ‘How TBM Helps’ is definitely something you don’t want to miss. Review the easy to follow guide <a href= "/preview/gsa/cio.gov-redo/blog_post/assets/resources/MIPT-draft-5.0-Final-2020_06.pdf">[link to the resource again]! </a></P>
