@@ -5,7 +5,7 @@ excerpt:  The Federal Technology and Investment Management (FTIM) CoP  developed
 date: June 30, 2020
 display-date: 30 June 2020
 author: CIO Council Operations 
-tags: 2020 it-modernization TBM TMF cybersecurity
+tags: 2020 it-modernization tbm tmf cybersecurity
 permalink: /meeting-it-priorities-with-tbm/
 image: feed_image.png
 ---
