@@ -9,7 +9,7 @@ tags: 2020 it-modernization TBM TMF cybersecurity
 permalink: /meeting-it-priorities-with-tbm/
 image: feed_image.png
 ---
-<p ><u>Technology Business Management (TBM) </u>[ link: <a href="https://www.cio.gov/policies-and-priorities/tbm/" target="_blank" data-saferedirecturl="https://www.cio.gov/policies-and-priorities/tbm/">https://www.cio.gov/policies-and-priorities/tbm/</a>] aligns cost to IT services to improve delivery and efficiency, meaning this framework can be leveraged successfully amongst Executive Leadership across agencies. TBM will ultimately empower agency CIOs to better understand and communicate the business and mission value of IT spending to senior executives, mission support offices, and program managers</p>
+<p ><u>Technology Business Management (TBM) </u>[ link: <a href="https://www.cio.gov/policies-and-priorities/tbm/" target="_blank" data-saferedirecturl="https://www.cio.gov/policies-and-priorities/tbm/">https://www.cio.gov/policies-and-priorities/tbm/</a>] aligns cost to IT services to improve delivery and efficiency, meaning this framework can be leveraged successfully amongst Executive Leadership across agencies. TBM will ultimately empower agency CIOs to better understand and communicate the business and mission value of IT spending to senior executives, mission support offices, and program managers.</p>
 <p ><u>The Federal Technology and Investment Management (FTIM) CoP</u> [link: <a href="https://www.cio.gov/about/members-and-leadership/ftim-cop/" target="_blank" data-saferedirecturl="https://www.cio.gov/about/members-and-leadership/ftim-cop/">https://www.cio.gov/about/members-and-leadership/ftim-cop/</a>], in collaboration with the GSA Office of Government-wide Policy (OGP), has developed an informative guide, <u>Meeting IT Priorities with TBM </u>[link to the resource], to illustrate how IT Cost Transparency can be enhanced through the TBM framework.&nbsp;</p>
 <p >Five major priorities were selected based on the focus of the President Management&rsquo;s Agenda, the CIO Council, and Congress. Each priority outlines initiatives and related requirements from OMB guidance, memos, and/or legislation. The five priorities are:&nbsp;</p>
 <ul>
@@ -24,4 +24,4 @@ image: feed_image.png
 <img width="610" height="495" src="/preview/gsa/cio.gov-redo/blog_post/assets/images/blog/cpic.png" alt="CPIC">
 <br>
 
-<P>The individual sections on how ‘How TBM Helps’ is definitely something you don’t want to miss. Review the easy to follow guide <a href="/assets/resources/MIPT-draft-5.0-Final-2020_06.pdf">[link to the resource again]! </a></P>
+<P>The individual sections on how ‘How TBM Helps’ is definitely something you don’t want to miss. Review the easy to follow guide <a href="/preview/gsa/cio.gov-redo/blog_post/assets/resources/MIPT-draft-5.0-Final-2020_06.pdf">[link to the resource again]! </a></P>
