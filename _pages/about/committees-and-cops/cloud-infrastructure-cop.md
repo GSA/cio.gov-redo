@@ -2,7 +2,7 @@
 title: Our Team and Leadership
 subtitle: Cloud and Infrastructure Community of Practice
 layout: page
-permalink: /about/members-and-leadership/cloud-infrastructure-cop/
+permalink: /about/members-and-leadership/cloud-infrastructure-cop-2/
 
 ---
 # About Our CoP
