@@ -21,7 +21,7 @@ image: feed_image.png
 </ul>
 <p >The guide then aligns the priority activities to the four disciplines of TBM (Transparency, Delivering Value, Shaping Business Demand, and Planing &amp; Governing) for a more enhanced description of <em>how </em>TBM can help meet the agency goals. See the example below:</p>
 
-<img width="610" height="495" src="/preview/gsa/cio.gov-redo/blog_post/assets/images/blog/cpic.png" alt="CPIC">
+<img width="610" height="495" src="{{ site.baseurl }}/assets/images/blog/cpic.png" alt="CPIC">
 <br>
 
 <P>The individual sections on how ‘How TBM Helps’ are definitely something you don’t want to miss. <a href= "/preview/gsa/cio.gov-redo/blog_post/assets/resources/MIPT-draft-5.0-Final-2020_06.pdf">Review the easy to follow guide. </a></P>
