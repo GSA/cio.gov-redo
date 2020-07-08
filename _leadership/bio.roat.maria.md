@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Deputy Federal Chief Information Officer
 agency: Office of Management and Budget
-bio-image: /bio_roat.png
+bio-image: /bio_maria1.jpg
 bio-image-alt-text: OMB seal
 bio-phone:
 bio-email:
