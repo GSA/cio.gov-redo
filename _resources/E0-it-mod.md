@@ -21,7 +21,7 @@ The insights and findings from these two reports have helped bring clarity to is
 
 For more information regarding the IT Modernization Progress and the Release of the Federal Cybersecurity Risk Determination Report and Action Plan, please visit the blog entries below:
 
-- [IT Modernization Progress Update](https://www.cio.gov/2018/05/30/IT-Modernization/)
+- [IT Modernization Progress Update](https://www.cio.gov/2018/05/30/it-modernization/)
 - [Federal Cybersecurity Risk Determination Report and Action Plan](https://www.cio.gov/2018/05/30/Risk-Report/)
 &nbsp;
 

@@ -11,7 +11,7 @@ permalink:
 ---
 _This [blog post](https://www.whitehouse.gov/articles/final-modernization-report/) was originally posted on the White House blog on December 13, 2017._
 
-[Read the Full Report Here](https://itmodernization.cio.gov/report/preface/)
+[Read the Full Report Here]({{ site.baseurl }}/assets/resources/Report-to-the-President-on-IT-Modernization-Final.pdf)
 
 Today we delivered the final Federal IT Modernization Report (in response to EO 13800).
 
