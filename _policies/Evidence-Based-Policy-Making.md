@@ -7,6 +7,7 @@ layout: policy-landing
 policy-publish-date: January 14, 2019
 filters: fed-policy data active
 related-policies-url: /policies-and-priorities/#subject=*&role=.data&status=*
+related-filters: 'data'
 date: January 14, 2019
 ---
 
@@ -22,3 +23,8 @@ The bill requires agencies to submit annually to the Office of Management and Bu
 * Each agency shall designate a senior employee as Evaluation Officer to coordinate evidence-building activities and an official with statistical expertise to advise on statistical policy, techniques, and procedures.
 
 [Learn more about this policy](https://www.congress.gov/bill/115th-congress/house-bill/4174).
+
+{% assign related-tiles = page.related-filters %}
+{% assign sub-title = page.subtitle %}
+{% include related_tiles.html  related_filters=related-tiles subtitle=sub-title %}
+

@@ -7,6 +7,7 @@ layout: policy-landing
 policy-publish-date: May 2, 2019
 filters: fed-policy cybersecurity workforce active
 related-policies-url: /policies-and-priorities/#subject=*&role=.cybersecurity&status=*
+related-filters: 'cybersecurity'
 date: May 2, 2018
 ---
 ## Policy Overview ##
@@ -19,3 +20,8 @@ This Executive Order, along with the National Cyber Strategy and the [President�
 - Recognize and reward the country’s highest-performing cybersecurity practitioners and teams; and
 - Create the organizational and technological tools required to maximize the cybersecurity talents and capabilities of American workers –-especially when those talents and capabilities can advance our national and economic security.  
 &nbsp;
+
+{% assign related-tiles = page.related-filters %}
+{% assign sub-title = page.subtitle %}
+{% include related_tiles.html  related_filters=related-tiles subtitle=sub-title %}
+

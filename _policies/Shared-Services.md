@@ -7,6 +7,7 @@ layout: policy-landing
 policy-publish-date: April 26, 2019
 filters: fed-policy shared-services active
 related-policies-url: /policies-and-priorities/#subject=*&role=.shared-services&status=*
+related-filters: 'shared-services'
 date: April 26, 2019
 ---
 ## Policy Overview ##
@@ -19,3 +20,8 @@ Overseeing implementation of this strategy requires strong government-wide gover
 3. Continuing to expedite the adoption of existing quality services that currently perform
 well and provide demonstrated value to agency customers.
 &nbsp;
+
+{% assign related-tiles = page.related-filters %}
+{% assign sub-title = page.subtitle %}
+{% include related_tiles.html  related_filters=related-tiles subtitle=sub-title %}
+
