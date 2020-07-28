@@ -7,6 +7,7 @@ layout: policy-landing
 policy-publish-date: August 1, 2016
 filters: fed-policy cloud data-center-consolidation active data
 related-policies-url: /policies-and-priorities/#subject=*&role=.data-center-consolidation&status=*
+related-filters: 'data-center-consolidation'
 date: August 1, 2016
 ---
 ## Policy Overview ##
@@ -14,3 +15,8 @@ The [Data Center Optimization Initiative (DCOI)](https://datacenters.cio.gov/) w
 
 The DCOI requires agencies to develop and report on data center strategies to consolidate inefficient infrastructure, optimize existing facilities, improve security posture, achieve cost savings, and transition to more efficient infrastructure, such as cloud services and inter-agency shared services
 &nbsp;
+
+{% assign related-tiles = page.related-filters %}
+{% assign sub-title = page.subtitle %}
+{% include related_tiles.html  related_filters=related-tiles subtitle=sub-title %}
+

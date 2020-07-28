@@ -7,6 +7,7 @@ layout: policy-landing
 policy-publish-date: June 2019
 filters: fed-policy cloud modernization active
 related-policies-url: /policies-and-priorities/#subject=*&role=.cloud&status=*
+related-filters: 'cloud'
 date: June 2019
 
 
@@ -28,3 +29,8 @@ The case for using cloud capabilities in government has been clearly proven – 
 
 The Federal Government’s responsibility is to achieve the benefits of cloud computing as quickly as possible. Any inefficiencies negatively impact its ability to serve the American public. Cloud computing has the potential to play a major part in addressing these inefficiencies and improving government service delivery.
 &nbsp;
+
+{% assign related-tiles = page.related-filters %}
+{% assign sub-title = page.subtitle %}
+{% include related_tiles.html  related_filters=related-tiles subtitle=sub-title %}
+

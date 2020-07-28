@@ -7,6 +7,7 @@ layout: policy-landing
 policy-publish-date: January 18, 2018
 filters: fed-policy accessibility web active
 related-policies-url: /policies-and-priorities/#subject=*&role=.accessibility&status=*
+related-filters: 'accessibility'
 date: January 18, 2018
 ---
 ## Policy Overview ##
@@ -17,3 +18,8 @@ The U.S. Access Board is responsible for developing [Information and Communicati
 The rule updated and reorganized the Section 508 Standards and Section 255 Guidelines in response to market trends and innovations in technology. The refresh also harmonized these requirements with other guidelines and standards both in the U.S. and abroad, including standards issued by the European Commission, and with the World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG 2.0), a globally recognized voluntary consensus standard for web content and ICT.
 
 Learn more at [Section508.gov](https://www.section508.gov/).
+
+{% assign related-tiles = page.related-filters %}
+{% assign sub-title = page.subtitle %}
+{% include related_tiles.html  related_filters=related-tiles subtitle=sub-title %}
+

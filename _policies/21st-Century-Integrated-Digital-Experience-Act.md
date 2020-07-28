@@ -7,6 +7,7 @@ layout: policy-landing
 policy-publish-date: December 20, 2018
 filters: fed-policy web governance modernization active
 related-policies-url: /policies-and-priorities/#subject=*&role=.governance,.web,.modernization&status=*
+related-filters: 'web governance modernization'
 
 date: December 20, 2018
 ---
@@ -17,3 +18,8 @@ All new and redesigned websites must be fully functional on mobile devices, acce
 
 Digital products should also be tested continually, and provided through an industry-standard, secure connection. Finally, agencies must assess digital products and their content to remove duplication whenever possible.
 &nbsp;
+
+{% assign related-tiles = page.related-filters %}
+{% assign sub-title = page.subtitle %}
+{% include related_tiles.html  related_filters=related-tiles subtitle=sub-title %}
+
