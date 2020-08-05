@@ -5,7 +5,7 @@ excerpt: Over the past six months, the Federal CIO Council (CIOC), in partnershi
 date: January 19, 2017
 display-date: 19 January 2017
 author: CIO Council Operations
-tags: SOFIT 2017
+tags: 2017 policy
 
 permalink:
 ---
