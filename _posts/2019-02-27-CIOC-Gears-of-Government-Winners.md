@@ -4,7 +4,7 @@ title: CIOC Members honored as Gears of Government Award Recipients
 excerpt: Several teams and individuals from across the government have been named Gears of Government Award winners on behalf of the CIO Council. The awards include many examples of how IT modernization is allowing agencies to better meet customer expectations, keep data and systems secure, build a modern workforce and ensure access to services.
 date: February 27, 2019
 author: CIO Council Operations
-tags: GEARS 2019
+tags: gears 2019
 
 image: 2019.2.27.gears-of-gov-awards-logo.png
 img-alt: Gears of Government Awards around eagle with gears

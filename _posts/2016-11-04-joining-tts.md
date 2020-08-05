@@ -5,7 +5,7 @@ excerpt: This blog entry was originally published on October 31st, 2016 on the G
 date: November 4, 2016
 display-date: 04 November 2016
 author: Rob Cook, Commissioner of the Technology Transformation Service
-tags: tts 2016
+tags:  2016 it-modernization 
 
 permalink: 
 ---
