@@ -50,6 +50,8 @@ primary_navigation:
     url: /policies-and-priorities/
   - name: Programs & Events
     children:
+      - name: Data Science Training Program
+        url: /programs-and-events/data-science-training-program/
       - name: Women in IT
         url: /programs-and-events/2020-women-in-IT/
       - name: Innnovation Roundtables
