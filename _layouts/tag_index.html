@@ -15,7 +15,7 @@ layout: defaultwithbanner
         {% assign tags = post.tags %}
         <ul class="tags">
           {% for tag in tags %}
-            <a href="{{ site.baseurl }}/tags/{{ tag }}"<li class="tag">{{ tag }}</li></a>
+            <a href="{{ site.baseurl }}/tags/{{ tag }}"><li class="tag">{{ tag }}</li></a>
         </ul>
         {% endfor %}
       {% endif %}
