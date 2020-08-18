@@ -23,10 +23,10 @@ The committee focuses on acquisition reform and Federal IT infrastructure throug
 * Shared Services
 
 # Leadership
-**David Shive, Co-Chair**<br/>
-Chief Information Officer<br/>
-General Services Administration<br/>
-[View David Shive's profile]({{ site.baseurl }}/about/members-and-leadership/shive-david/)
+**Sylvia Burns, Co-Chair**<br/>
+Chief Information Officer and Chief Privacy Officer<br/>
+Federal Deposit Insurance Corporation <br/>
+
 
 **Rajive Mathur, Co-Chair**<br/>
 Chief Information Officer<br/>
