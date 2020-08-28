@@ -3,7 +3,7 @@ layout: post
 title: Wrapping up the Women in IT and Cyber Conference
 excerpt:  The CIO Council hosted the third annual Women in Federal IT and Cyber Conference virtually to celebrate the success of women thriving in federal technology careers. Read the wrap up to find out more.
 display-date: 26 August 2020
-author:  
+author: CIO Council Support Team
 tags: 2020 workforce 
 permalink: /2020-women-in-it-conference-series-wrap-up/
 image: blue-banner-abstract.png
