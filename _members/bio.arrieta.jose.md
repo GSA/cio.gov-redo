@@ -5,7 +5,7 @@ permalink: /about/members-and-leadership/ashmore-perryn/
 subtitle: Team and Leadership
 title: About Our Council
 
-position: Acting Chief Information Officer, Dept. of Health and Human Services
+position: Acting Chief Information Officer
 agency: Dept. of Health and Human Services
 bio-image: /bio_ashmore.png
 bio-image-alt-text: Jose Arrieta
