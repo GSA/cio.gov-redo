@@ -60,3 +60,19 @@
     display: block;
   }
 }
+
+.card__cloud {
+  img {
+    max-height: 100%;
+    max-width: 100px;
+  }
+
+  .left {
+    width: auto;
+  }
+
+  .right {
+    float: none;
+    display: inline-block;
+  }
+}

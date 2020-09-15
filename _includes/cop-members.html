@@ -1,0 +1,15 @@
+<!-- *****LOOP FOR MEMBERS PAGE *********-->
+<div>
+      {% for bio in site.cop-leadership %}
+    <div class="container card__cloud">
+        <div class="left">
+           <img src="{{ site.baseurl }}/assets/images/members{{ bio.bio-image }}">
+        </div>
+        <div class="right">
+            <span class="role">{{ bio.role }}</span>
+            <p><span class="name">{{ bio.name }}, {{ bio.comm-title }}<br></span>
+            <span class="title">{{ bio.position }}, {{ bio.agency }}</span></p>
+        </div>
+    </div>
+      {% endfor %}
+</div>
