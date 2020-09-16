@@ -1,12 +1,12 @@
 <!-- *****LOOP FOR MEMBERS PAGE *********-->
 <div>
-      {% for bio in site.cop-members %}
+      {% for bio in site.cop-leadership %}
     <div class="container card__cloud padding-bottom-3">
         <div class="left">
            <img src="{{ site.baseurl }}/assets/images/members{{ bio.bio-image }}">
         </div>
         <div class="right padding-top-1 padding-left-1">
-            <span class="role text-bold text-uppercase">{{ bio.role }}</span>
+            <span class="role text-bold text-uppercase desktop:padding-bottom-1">{{ bio.role }}</span>
             <div class="name"><span class="card__cop-name text-uppercase text-normal">{{ bio.name }},</span><span class="text-normal"> {{ bio.comm-title }}</span><br></div>
             <span class="title text-italic">{{ bio.position }}, {{ bio.agency }}</span>
         </div>
