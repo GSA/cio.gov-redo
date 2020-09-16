@@ -2,8 +2,8 @@
 role: Federal Network Representative
 name: Robert Sears
 comm-title: Co-Chair
-position: Deputy Chief Information Officer
-agency: Office of Personnel Management
+position: N-Wave Branch Chief
+agency: National Oceanic and Atmospheric Administration
 bio-image: /bio_sears.jpg
 alt-text: Guy Cavallo
 ---
