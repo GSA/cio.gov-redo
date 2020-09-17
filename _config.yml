@@ -97,7 +97,10 @@ collections:
     output: true
   leadership:
     output: true
-
+  cop-leadership:
+    output: true
+  cop-members:
+    output: true
 
 
 markdown: kramdown
