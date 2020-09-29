@@ -38,9 +38,10 @@ Now, more than ever, we are learning that the line between our online and offlin
 Speaker: Bryan Ware, Assistant Director for Cybersecurity at the Cybersecurity, CISA  
 
 <br/>
+
 **Tuesday, October 27 - Wednesday, October 28, 2020**
 
-**USDA Cybersecurity Expo 2020**
+### [USDA Cybersecurity Expo 2020](https://www.fbcinc.com/e/USDA/attendeereg.aspx)
 
 The USDA Cyber Security Expo is designed to engage and educate cybersecurity professionals and enthusiasts with the goal of raising awareness about cybersecurity and increasing the resiliency in the event of a cyber incident.
 
