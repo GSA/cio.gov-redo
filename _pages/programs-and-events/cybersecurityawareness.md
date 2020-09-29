@@ -22,37 +22,6 @@ We will feature one-pagers for each theme authored by agencies, blog posts from 
 
 ## Events
 
-**Thursday, September 24, 2020**
-### [Don't Let Cyber Criminals Steal Your Connections: Securing internet-accessible systems](https://dhsconnect.connectsolutions.com/imr104v1/event/registration.html)
-
-This course provides key knowledge to inform organizational awareness of internet-accessible system attacks as well as best practices that minimize and mitigate vulnerabilities, and ensure effective response and recovery in the event of an attack. This webinar is accessible to non-technical learners including managers and business leaders, and offers an organizational perspective useful to technical specialists.
-
-**Time:** 11 a.m. - noon EDT
-
-**Location:** Online via Adobe Connect
-
-**Duration:** 1 hour
-
-**REGISTER:** [https://dhsconnect.connectsolutions.com/imr104v1/event/registration.html](https://dhsconnect.connectsolutions.com/imr104v1/event/registration.html)
-
-You will receive a confirmation email with the Adobe Connect meeting room link once your registration is complete. That email address will come from: Cyber Insights support@cosocloud.com 
-
-<br/>
-**Friday, September 25, 2020**
-### [Business Email Compromise Cyber Range Challenge](https://dhsconnect.connectsolutions.com/r2-imr203/event/registration.html)
-
-The Business Email Compromise Challenge is a six-hour, live-fire Cyber Range training exercise led by technical instructors and expert cybersecurity engineers.
-
-This exercise is structured with the following scenario: Your organization receives an announcement that a successful phishing attack is suspected to have occurred. Participants will use tools on the host environment to investigate the intrusion and uncover evidence, submit a briefing, and discuss their findings.
-
-- Ideal candidates for this course are beginner, intermediate, and expert incident response and cybersecurity analysts wishing to exercise their hands-on skills. The exercise assumes a mixed audience (e.g. from disparate teams and organizations) of mixed capability. Registrants are able to sign up as individuals, or can participate with specific teammates by providing a team name on the registration form.
-- The bulk of the course requires active use of cyber defense and forensic tools including Squert, Kibana, and Cyber Chef to investigate a business email compromise. While experience with these tools is not necessary, prior hands-on experience working incident response is highly beneficial.
-
-**Time:** 8:30 a.m. – 3:30 p.m. EDT  
-**Location:** Online via Adobe Connect  
-**Duration:** 7 hours (6-hour course with breaks)  
-
-<br/>
 **Wednesday, October 7,2020**
 ### [If You Connect It, Protect It:  A Live Hacking Demo](https://hhs.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=hhs&service=6&rnd=0.11490256532433796&main_url=https%3A%2F%2Fhhs.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b0000000257e3789c825c483875f206c4c058da349c03a6cb632670b66b36fd28e2366a94%26siteurl%3Dhhs%26confViewID%3D172639112470224842%26encryptTicket%3DSDJTSwAAAAIjyJQrxuA9QpUUoWKoDf5aW6YDXgFd_xNLIDV6XYNo6w2%26)
 
@@ -67,6 +36,27 @@ Now, more than ever, we are learning that the line between our online and offlin
 ### [ACT-IAC: Cyber CIO Meeting](https://www.actiac.org/events/act-iac-cybersecurity-coi-october-2020)
 
 Speaker: Bryan Ware, Assistant Director for Cybersecurity at the Cybersecurity, CISA  
+
+<br/>
+**Tuesday, October 27 - Wednesday, October 28, 2020**
+
+**USDA Cybersecurity Expo 2020**
+
+The USDA Cyber Security Expo is designed to engage and educate cybersecurity professionals and enthusiasts with the goal of raising awareness about cybersecurity and increasing the resiliency in the event of a cyber incident.
+
+* Speakers from government and academia and industry
+* Cyber escape rooms
+* Virtual exhibit hall
+* Live and on-demand sessions
+* Security improve live
+* Networking
+
+Tuesday, October 27th from 10:30 am - 5:00 pm
+
+Wednesday, October 28th from 11:00 am - 5:00 pm
+
+**Registration:** [https://www.fbcinc.com/e/USDA/attendeereg.aspx](https://www.fbcinc.com/e/USDA/attendeereg.aspx)
+
 
 <br/>
 **Thursday, October 29, 2020**
