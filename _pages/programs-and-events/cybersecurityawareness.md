@@ -53,6 +53,16 @@ This exercise is structured with the following scenario: Your organization recei
 **Duration:** 7 hours (6-hour course with breaks)  
 
 <br/>
+**Wednesday, October 7,2020**
+### [If You Connect It, Protect It:  A Live Hacking Demo](https://hhs.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=hhs&service=6&rnd=0.11490256532433796&main_url=https%3A%2F%2Fhhs.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b0000000257e3789c825c483875f206c4c058da349c03a6cb632670b66b36fd28e2366a94%26siteurl%3Dhhs%26confViewID%3D172639112470224842%26encryptTicket%3DSDJTSwAAAAIjyJQrxuA9QpUUoWKoDf5aW6YDXgFd_xNLIDV6XYNo6w2%26)
+
+Now, more than ever, we are learning that the line between our online and offline lives is dissolving.  With more of our lives taking place in a virtual world it’s critically important to protect your online connections!  Trustwave SpiderLabs will present an attack scenario that is played out daily across the globe and emulated by many Red Teams in order to help improve the security posture of organizations.  They will demonstrate why password hygiene is an important part of everyone’s cyber-security plan.  The demonstration will highlight how weak and previously compromised passwords used across organizational and personal accounts may lead to a full breach scenario.
+
+**Time:** 12:00 p.m. - 1:00 p.m. EST  
+**Location:** Everywhere! This event is 100% virtual via WebEx  
+**Register Now:** [https://hhs.webex.com/hhs/j.php?MTID=ec58009c9bc2f48cf38edec6bf8ad82b1](https://hhs.webex.com/hhs/j.php?MTID=ec58009c9bc2f48cf38edec6bf8ad82b1) 
+
+<br/>
 **Friday, October 16th, 2020**
 ### [ACT-IAC: Cyber CIO Meeting](https://www.actiac.org/events/act-iac-cybersecurity-coi-october-2020)
 
