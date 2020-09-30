@@ -34,6 +34,9 @@
                         <div class="tablet:grid-col-3 grid-spacing policy {{ resources.filters }}" >
 
                             <!--sets border logic statements for resources-->
+                            {% if resources.filters contains 'whitepaper' %}
+                            <div class="shadow-1 whitepaper-border ">
+                                {% endif %}
                             {% if resources.filters contains 'report' %}
                             <div class="shadow-1 report-border ">
                                 {% endif %}
@@ -48,6 +51,9 @@
                                             {% endif %}
 
                                             <div class="text-container">
+                                                 {% if resources.filters contains 'whitepaper' %}
+                                                <span class="card-tag">white Paper</span>
+                                                {% endif %}
                                                 {% if resources.filters contains 'report' %}
                                                 <span class="card-tag">Report</span>
                                                 {% endif %}
