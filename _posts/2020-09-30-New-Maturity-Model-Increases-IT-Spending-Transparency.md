@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Maturity Model Increases IT Spending Transparency, Meets Federal Action Plan Milestone
-excerpt:  Agencies can leverage the IT spending transparency maturity model to support their TBM implementation of Action #9 in the Federal Data Strategy Action Plan. Read more.
+excerpt:  Agencies can leverage the IT spending maturity model to support their TBM implementation.
 display-date: 30 September 2020
 author: Federal Technology Investment Management CoP
 tags: 2020 tbm 
