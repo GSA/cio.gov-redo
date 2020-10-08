@@ -17,7 +17,7 @@ Held throughout the month of October, CIO.gov will post information related to t
 We will feature one-pagers for each theme authored by agencies, blog posts from CISO Council leadership, short video blogs, and various cybersecurity events hosted by agencies. Resources
 - **Week of October 5th:** Kick-Off - Privacy, Access, and Authentication
 <div class="iframe_container">
-<iframe title="How USDA Works from Home" src="https://player.vimeo.com/video/465930277?byline=0&portrait=0" width="640" height="368" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<div style="padding:57.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/465930277?byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <p><a href="https://vimeo.com/465930277">How USDA Works from Home</a> from <a href="https://vimeo.com/user123388606">Shared Solutions &amp; Performance</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 - **Week of October 12th:** Network safety, Collaboration and Telework Best Practices
