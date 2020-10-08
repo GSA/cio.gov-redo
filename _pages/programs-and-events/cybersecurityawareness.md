@@ -20,6 +20,15 @@ We will feature one-pagers for each theme authored by agencies, blog posts from 
 <div style="padding:57.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/465930277?byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <p><a href="https://vimeo.com/465930277">How USDA Works from Home</a> from <a href="https://vimeo.com/user123388606">Shared Solutions &amp; Performance</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
+
+CISA - [Multi-factor Authentication Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_MFAGuide_2020.pdf)
+
+CISA - [Password Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_CreatingPasswords_2020.pdf )
+
+USDA - [Multifactor Authentication Tip Sheet]({{site.baseurl}}/assets/files/MFA-Secure-Telework-Infosheet-USDA-2020.pdf)
+
+USDA - [Privacy, Access & Authentication Tip Sheet]({{site.baseurl}}/assets/files/USDA_Privacy-Infographic-Accessible-20200924.pdf)
+    
 - **Week of October 12th:** Network safety, Collaboration and Telework Best Practices
 - **Week of October 19th:** Social Engineering
 - **Week of October 26th:** Future of Connected Devices, The Internet of Things and Security
