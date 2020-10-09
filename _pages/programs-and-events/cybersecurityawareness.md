@@ -15,23 +15,20 @@ Held throughout the month of October, CIO.gov will post information related to t
 - Security in the age of Internet of Things (IoT).  
 
 We will feature one-pagers for each theme authored by agencies, blog posts from CISO Council leadership, short video blogs, and various cybersecurity events hosted by agencies. Resources
-- **Week of October 5th:** Kick-Off - Privacy, Access, and Authentication
+### Cybersecurity Awareness Month Kick-Off - Privacy, Access and Authentication
 <div class="iframe_container">
 <div style="padding:57.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/465930277?byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <p><a href="https://vimeo.com/465930277">How USDA Works from Home</a> from <a href="https://vimeo.com/user123388606">Shared Solutions &amp; Performance</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 
-CISA - [Multi-factor Authentication Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_MFAGuide_2020.pdf)
-
-CISA - [Password Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_CreatingPasswords_2020.pdf )
-
-USDA - [Multifactor Authentication Tip Sheet]({{site.baseurl}}/assets/files/MFA-Secure-Telework-Infosheet-USDA-2020.pdf)
-
-USDA - [Privacy, Access & Authentication Tip Sheet]({{site.baseurl}}/assets/files/USDA_Privacy-Infographic-Accessible-20200924.pdf)
+- CISA - [Multi-factor Authentication Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_MFAGuide_2020.pdf)
+- CISA - [Password Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_CreatingPasswords_2020.pdf )
+- USDA - [Multifactor Authentication Tip Sheet]({{site.baseurl}}/assets/files/MFA-Secure-Telework-Infosheet-USDA-2020.pdf)
+- USDA - [Privacy, Access & Authentication Tip Sheet]({{site.baseurl}}/assets/files/USDA_Privacy-Infographic-Accessible-20200924.pdf)
     
-- **Week of October 12th:** Network safety, Collaboration and Telework Best Practices
-- **Week of October 19th:** Social Engineering
-- **Week of October 26th:** Future of Connected Devices, The Internet of Things and Security
+### Week of October 12th: Network safety, Collaboration and Telework Best Practices
+### Week of October 19th: Social Engineering
+### Week of October 26th: Future of Connected Devices, The Internet of Things and Security
 
 ## Events
 
@@ -74,7 +71,7 @@ Wednesday, October 28th from 11:00 am - 5:00 pm
 
 <br/>
 **Thursday, October 29, 2020**
-### HACK - Helpful Applied Cyber Knowledge
+### [HACK - Helpful Applied Cyber Knowledge](https://www.fbcinc.com/e/nrchack/attendeereg.aspx)
 
 In its fifth year, HACK aims to increase the knowledge of all technology users to be aware of the impact of potential threats they may unknowingly face as a result of their activities and behaviors online and offline at work and at home. This half-day seminar features dynamic speakers from government, education, and industry discussing a wide range of current technologies and the cybersecurity challenges that come with them. The event hosts today’s top industry exhibitors in a virtual exhibit hall. HACK will be held virtually from NRC Headquarters in Rockville, MD and will be streamed live to select audiences.   
 
