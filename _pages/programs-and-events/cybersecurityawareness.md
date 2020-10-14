@@ -21,12 +21,19 @@ We will feature one-pagers for each theme authored by agencies, blog posts from 
 <p><a href="https://vimeo.com/465930277">How USDA Works from Home</a> from <a href="https://vimeo.com/user123388606">Shared Solutions &amp; Performance</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 
-- CISA - [Multi-factor Authentication Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_MFAGuide_2020.pdf)
-- CISA - [Password Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_CreatingPasswords_2020.pdf )
-- USDA - [Multifactor Authentication Tip Sheet]({{site.baseurl}}/assets/files/MFA-Secure-Telework-Infosheet-USDA-2020.pdf)
-- USDA - [Privacy, Access & Authentication Tip Sheet]({{site.baseurl}}/assets/files/USDA_Privacy-Infographic-Accessible-20200924.pdf)
+- Read the [Kick Off Blog by Steven Hernandez, CISO](https://www.cio.gov/2020-10-02-Cybersecurity-Awareness-Month-2020-Kicks-Off/), Department of Ed.
+- CISA - [Multi-factor Authentication Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_MFAGuide_2020.pdf) 
+- CISA - [Password Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_CreatingPasswords_2020.pdf ) 
+- USDA - [Multifactor Authentication Tip Sheet]({{site.baseurl}}/assets/files/MFA-Secure-Telework-Infosheet-USDA-2020.pdf) 
+- USDA - [Privacy, Access & Authentication Tip Sheet]({{site.baseurl}}/assets/files/USDA_Privacy-Infographic-Accessible-20200924.pdf) 
     
 ### Week of October 12th: Network safety, Collaboration and Telework Best Practices
+- SBA - [Cybersecurity Tips: Social Media and Scams]({{site.baseurl}}/assets/files/Social-Media-and-Scams.pdf)
+- [2019 Teleworking Video by VA](https://www.youtube.com/watch?v=fCOC9aw16Qo&feature=youtu.be) 
+- CISA - [Cybersecurity at Work Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_WorkSecure_2020.pdf ) (PDF)
+- CISA - [Protecting Your Digital Home Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_YourDigitalHome_2020.pdf) (PDF)
+- CISA - [Social Media Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_SocialMediaCybersecurity_2020.pdf) (PDF)
+
 ### Week of October 19th: Social Engineering
 ### Week of October 26th: Future of Connected Devices, The Internet of Things and Security
 
