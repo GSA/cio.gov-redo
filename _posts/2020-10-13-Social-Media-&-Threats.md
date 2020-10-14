@@ -13,16 +13,16 @@ image: SBA-Logo-Stacked.png
 <p>Social media enables people to communicate, share, and seek information at an accelerated rate. In recent years, social media became the pinnacle of news consumption through its rapid dissemination, low costs, and its accessibility to consumers worldwide.[1] Often breaking and sensitive news is first made available on social media. Whether the information is fact-checked or not, it disseminates around the globe within minutes. Social media provides users the ability to exchange thoughts and ideas with people from corners of the worlds they might not have visited, enables strangers to collaborate and positively impact our collective society, and increase awareness to help grow our businesses and communities. However, social media is a double-edged sword, for all the good we intend to accomplish, social media is also an adversary breeding ground for subverting social media use for their illicit gain.<br />In this blog, the United States Small Business Administration (SBA) Cybersecurity team members explain common social media risks posed by misinformation campaigns, phishing and scams, malware, and account takeovers. Along with tips to protect businesses, home networks, and individuals.</p>
 <p><strong>Social Media Threats<br /><em> Social Media Misinformation Campaigns and Measures to Fact-Check (Elizabeth Iskow, Cyber Threat Intelligence )</em> </strong></p>
 
-<img src="/assets/images/blog/Picture1.png" style="float: right;width:149px;height:180px;">
+<img src="{{site.baseurl}}/assets/images/blog/Picture1.png" style="float: right;width:149px;height:180px;">
 <p> Quick dissemination and viral posts allow adversaries to spread misinformation and &ldquo;fake news&rdquo; through deepfake accounts, bots, big data, and trolls to create circumstances to benefit their agendas.[2] Misinformation campaigns are stories presented as if they are legitimate.[3] In 2016, &ldquo;fake news&rdquo; emanated on social media as the deliberate presentation of typically misleading or false news claims.[4] Deepfakes evolved the past couple of years as a subset of Artificial Intelligence (AI) that leverages neural networks to manipulate videos and photos while maintaining an authentic presence.[5]</p>
 
-<img src="/assets/images/blog/Picture2.png" style="width:100%;height:100%;">
+<img src="{{site.baseurl}}/assets/images/blog/Picture2.png" style="width:100%;height:100%;">
 <p><em>Deepfake video (right side) of Robert de Niro from iFake in The Irishman:&nbsp;<a href="https://www.youtube.com/watch?v=dyRvbFhknRc" target="_blank" >https://www.youtube.com/watch?<wbr />v=dyRvbFhknRc</a></em> </p>
 
 <p>To identify misinformation and check against deepfakes, users can scrutinize and exercise skepticism when reading about divisive and emotionally charged topics;[6] verify the information or claims online through reliable sources; search for additional social media accounts for the person to verify their identity; and inspect the content posted. For example, many adversaries push an old image out of context to fit their current narrative. Users can reverse image search to verify if the image was previously posted from a different story.[7] Lastly, if a user identifies what they believe is information, the following social media platforms have options to report posts and accounts, to reduce the spread of false information: Facebook, Instagram , LinkedIn, TikTok, Twitter, WhatsApp, and YouTube.[8]</p>
 
 <p><strong>Phishing &amp; Scams (Ben Frost, Cyber Threat Intelligence Analyst)</strong></p>
-<img src="/assets/images/blog/Picture3.png" style="float: left; width:35%;height:35%; margin-right:1em">
+<img src="{{site.baseurl}}/assets/images/blog/Picture3.png" style="float: left; width:35%;height:35%; margin-right:1em">
 
 <p>Phishing scams are one of the most common forms of social engineering tactics used by adversaries to fraudulently acquire a recipient&rsquo;s personally identifiable information (PII). Examples of PII include credit card and bank account numbers, debit card PINs, and account credentials.[9] Phishing emails often include a malicious attachment or link and the sender may appear to be legitimate, coming from a recognizable or reputable contact &ndash; whether it is the recipients bank, phone company, a frequented store, or even a friend or coworker.</p>
 
@@ -32,7 +32,7 @@ image: SBA-Logo-Stacked.png
 
 <p><strong>Malware (James Saunders, CISO)</strong><br />&nbsp;Adversaries treat social media as a golden opportunity to spread malware to unsuspecting individuals. Links from untrusted or unsolicited social media accounts, profiles, and messages can be boobytrapped to deliver malware to your devices. As such, malware poses a serious threat that homes, businesses (of all sizes), and individuals. The following are common types of computer and mobile malware:</p>
 
-<img src="/assets/images/blog/Picture4.png" style="float: right; width:35%;height:35%; margin-right:1em">
+<img src="{{site.baseurl}}/assets/images/blog/Picture4.png" style="float: right; width:35%;height:35%; margin-right:1em">
 <ul>
 <li> Virus &ndash; Malicious code designed to harm or interrupt confidentially, integrity, and availability of computing and mobile devices. Viruses require human interaction, such as downloading unverified applications and programs from the internet or clicking links from untrusted sources to initiate.</li>
 <li> Worms &ndash; Take advantage of weaknesses and vulnerabilities in a system to self-replicate and automatically infect other systems without human intervention.</li>
