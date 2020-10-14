@@ -28,6 +28,7 @@ We will feature one-pagers for each theme authored by agencies, blog posts from 
 - USDA - [Privacy, Access & Authentication Tip Sheet]({{site.baseurl}}/assets/files/USDA_Privacy-Infographic-Accessible-20200924.pdf) 
     
 ### Week of October 12th: Network safety, Collaboration and Telework Best Practices
+- SBA - [Cybersecurity Tips: Social Media and Scams]({{site.baseurl}}/assets/files/Social-Media-and-Scams.pdf)
 - [2019 Teleworking Video by VA](https://www.youtube.com/watch?v=fCOC9aw16Qo&feature=youtu.be) 
 - CISA - [Cybersecurity at Work Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_WorkSecure_2020.pdf ) (PDF)
 - CISA - [Protecting Your Digital Home Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_YourDigitalHome_2020.pdf) (PDF)
