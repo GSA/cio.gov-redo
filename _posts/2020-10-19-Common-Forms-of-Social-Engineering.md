@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Common Forms of Social Engineering
-excerpt: Here from the Department of Energy on Social Engineering Scams like Phishing, Smishing and Spoofing.
+excerpt: Hear from the Department of Energy on Social Engineering Scams like Phishing, Smishing and Spoofing.
 display-date: 19 October 2020
 author: Greg Sisson, Acting Deputy CIO for Cybersecurity and Chief Information Security Officer, Department of Energy
 tags: 2020 cybersecurity 
