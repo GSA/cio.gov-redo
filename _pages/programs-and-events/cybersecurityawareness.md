@@ -21,40 +21,31 @@ We will feature one-pagers for each theme authored by agencies, blog posts from 
 <p><a href="https://vimeo.com/465930277">How USDA Works from Home</a> from <a href="https://vimeo.com/user123388606">Shared Solutions &amp; Performance</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 
-- Read the [Kick Off Blog by Steven Hernandez, CISO](https://www.cio.gov/2020-10-02-Cybersecurity-Awareness-Month-2020-Kicks-Off/), Department of Ed.
+- Read the [Kick Off Blog by Steven Hernandez,](https://www.cio.gov/2020-10-02-Cybersecurity-Awareness-Month-2020-Kicks-Off/) CISO, Department of Ed.
 - CISA - [Multi-factor Authentication Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_MFAGuide_2020.pdf) 
 - CISA - [Password Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_CreatingPasswords_2020.pdf ) 
 - USDA - [Multifactor Authentication Tip Sheet]({{site.baseurl}}/assets/files/MFA-Secure-Telework-Infosheet-USDA-2020.pdf) 
 - USDA - [Privacy, Access & Authentication Tip Sheet]({{site.baseurl}}/assets/files/USDA_Privacy-Infographic-Accessible-20200924.pdf) 
     
 ### Week of October 12th: Network safety, Collaboration and Telework Best Practices
-- SBA - [Cybersecurity Tips: Social Media and Scams]({{site.baseurl}}/assets/files/Social-Media-and-Scams.pdf)
+- [Read the blog about Social Media & Threats by SBA](https://www.cio.gov/2020-10-13-Social-Media-&-Threats/)
 - [2019 Teleworking Video by VA](https://www.youtube.com/watch?v=fCOC9aw16Qo&feature=youtu.be) 
 - CISA - [Cybersecurity at Work Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_WorkSecure_2020.pdf ) (PDF)
 - CISA - [Protecting Your Digital Home Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_YourDigitalHome_2020.pdf) (PDF)
 - CISA - [Social Media Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_SocialMediaCybersecurity_2020.pdf) (PDF)
 
 ### Week of October 19th: Social Engineering
+- [Read the blog about Common Forms of Social Engineering by DOE](https://www.cio.gov/2020-10-19-Common-Forms-of-Social-Engineering/) 
+- CISA - [Identity Theft and INternet Scams Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_TheftScams_2020.pdf) (PDF)
+- CISA - [E-skimming Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_ESkimming_2020.pdf) (PDF)
+- CISA - [Phishing Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_Phishing_2020.pdf) (PDF)
+- HHS - [Vishing Threat Advisory]() (PDF)
+- VA - [Tips for Virtual Appointments]() (PDF)
+- VA - [Flow of Misinformation Blog](https://www.oit.va.gov/news/article/?read=the-flow-of-misinformation) 
+
 ### Week of October 26th: Future of Connected Devices, The Internet of Things and Security
 
 ## Events
-
-**Wednesday, October 7,2020**
-### [If You Connect It, Protect It:  A Live Hacking Demo](https://hhs.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=hhs&service=6&rnd=0.11490256532433796&main_url=https%3A%2F%2Fhhs.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b0000000257e3789c825c483875f206c4c058da349c03a6cb632670b66b36fd28e2366a94%26siteurl%3Dhhs%26confViewID%3D172639112470224842%26encryptTicket%3DSDJTSwAAAAIjyJQrxuA9QpUUoWKoDf5aW6YDXgFd_xNLIDV6XYNo6w2%26)
-
-Now, more than ever, we are learning that the line between our online and offline lives is dissolving.  With more of our lives taking place in a virtual world it’s critically important to protect your online connections!  Trustwave SpiderLabs will present an attack scenario that is played out daily across the globe and emulated by many Red Teams in order to help improve the security posture of organizations.  They will demonstrate why password hygiene is an important part of everyone’s cyber-security plan.  The demonstration will highlight how weak and previously compromised passwords used across organizational and personal accounts may lead to a full breach scenario.
-
-**Time:** 12:00 p.m. - 1:00 p.m. EST  
-**Location:** Everywhere! This event is 100% virtual via WebEx  
-**Register Now:** [https://hhs.webex.com/hhs/j.php?MTID=ec58009c9bc2f48cf38edec6bf8ad82b1](https://hhs.webex.com/hhs/j.php?MTID=ec58009c9bc2f48cf38edec6bf8ad82b1) 
-
-<br/>
-**Friday, October 16th, 2020**
-### [ACT-IAC: Cyber CIO Meeting](https://www.actiac.org/events/act-iac-cybersecurity-coi-october-2020)
-
-Speaker: Bryan Ware, Assistant Director for Cybersecurity at the Cybersecurity, CISA  
-
-<br/>
 
 **Tuesday, October 27 - Wednesday, October 28, 2020**
 
