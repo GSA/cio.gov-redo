@@ -39,8 +39,8 @@ We will feature one-pagers for each theme authored by agencies, blog posts from 
 - CISA - [Identity Theft and INternet Scams Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_TheftScams_2020.pdf) (PDF)
 - CISA - [E-skimming Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_ESkimming_2020.pdf) (PDF)
 - CISA - [Phishing Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_Phishing_2020.pdf) (PDF)
-- HHS - [Vishing Threat Advisory]() (PDF)
-- VA - [Tips for Virtual Appointments]() (PDF)
+- HHS - [Vishing Threat Advisory]({{site.baseurl}}/assets/files/CyberCARE-Vishing-Threat-Advisor.pdf) (PDF)
+- VA - [Tips for Virtual Appointments]({{site.baseurl}}/assets/files/Tips-Virtual-Appt.pdf) (PDF)
 - VA - [Flow of Misinformation Blog](https://www.oit.va.gov/news/article/?read=the-flow-of-misinformation) 
 
 ### Week of October 26th: Future of Connected Devices, The Internet of Things and Security
