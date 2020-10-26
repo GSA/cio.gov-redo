@@ -5,7 +5,7 @@ excerpt: Federal Chief Information Security Officer, Camilo Sandoval, wraps up c
 display-date: 23 October 2020
 author: Camilo Sandoval, Federal Chief Information Security Officer
 tags: 2020 cybersecurity 
-permalink: /2020-10-25-The-Federal-CISO-Wraps-Up-Cybersecurity-Awareness-Month/
+permalink: /2020-10-23-The-Federal-CISO-Wraps-Up-Cybersecurity-Awareness-Month/
 image: EOP.png
 ---
 
