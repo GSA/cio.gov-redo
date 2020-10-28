@@ -24,10 +24,10 @@ The Council promotes collaboration and community building among Federal Agency C
 * Performance Metrics
 
 # Leadership
-**Grant Schneider, Chair**<br/>
+**Camilo Sandoval, Chair**<br/>
 Federal Chief Information Security Officer<br/>
 Office of Management and Budget<br/>
-[View Grant Schneider's profile]({{ site.baseurl }}/about/members-and-leadership/schneider-grant/)
+
 
 **Steven Hernandez, Vice-Chair**<br/>
 Chief Information Security Officer<br/>
