@@ -44,6 +44,9 @@ We will feature one-pagers for each theme authored by agencies, blog posts from 
 - VA - [Flow of Misinformation Blog](https://www.oit.va.gov/news/article/?read=the-flow-of-misinformation) 
 
 ### Week of October 26th: Future of Connected Devices, The Internet of Things and Security
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b4hfs6203Jo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- Read the blog by the Federal Mobility Group for [Tips on Mobile Security](https://www.cio.gov/2020-10-28-FMG-Offers-Mobile-Security-Advice-for-National-Cybersecurity-Awareness-Month/)
+- CISA - [Internet of Things (IoT) Tip Sheet](https://www.cisa.gov/sites/default/files/publications/NCSAM_InternetofThings_2020.pdf) (PDF)
 
 ## Events
 
