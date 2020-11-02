@@ -36,4 +36,4 @@ competitions, and represented NASA as a national master of ceremonies. He has re
 numerous awards for his service to the Agency, including NASA’s Outstanding Leadership
 Medal in 2014.
 
-Jeff holds B.S. and M.S. degrees in electrical engineering from Virginia Polytechnic Institute
+Jeff holds B.S. and M.S. degrees in electrical engineering from Virginia Polytechnic Institute and State University (Virginia Tech).
