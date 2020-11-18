@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Federal Mobility Group Unveils 5G Testbed Framework
+title: Federal Mobility Group Unveils 5G Testing Framework
 excerpt: The FMG developed a 5G testing framework—titled Framework to Conduct 5G Testing which builds on the insights gained from lab visits, initiatives and expected uses identified by federal agencies.  
 display-date: 18 November 2020
 author: The Federal Mobility Group
