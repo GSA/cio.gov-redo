@@ -5,7 +5,7 @@ excerpt: The Small Business Administration shares information to help stay safe 
 display-date: 13 October 2020
 author: Small Business Administration Staff 
 tags: 2020 cybersecurity 
-permalink: /2020-10-13-Social-Media-&-Threats/
+permalink: /2020-10-13-Social-Media-and-Threats/
 image: SBA-Logo-Stacked.png
 ---
 
