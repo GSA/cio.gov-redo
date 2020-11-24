@@ -1,6 +1,6 @@
 ---
 layout: bio
-name: WILLIAM E. MARION II
+name: Mr. William E. Marion II
 permalink: /about/team-and-leadership/marion-william/
 subtitle: Team and Leadership
 title: About Our Council
