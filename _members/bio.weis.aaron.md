@@ -1,0 +1,22 @@
+---
+layout: bio
+name: Aaron Weis
+permalink: /about/members-and-leadership/weis-aaron/
+subtitle: Team and Leadership
+title: About Our Council
+
+position: Chief Information Officer
+agency: U.S. Department of the Navy
+bio-image: /AaronWeis.png
+bio-image-alt-text: Aaron Weis
+bio-phone:
+bio-email:
+---
+
+<p>I am writing this column after having wrapped up our virtual 2020 East Coast DON IT Conference. The conference was originally scheduled to take place in Norfolk, Virginia, but as with many things we used to take for granted, we had to adapt to a new normal during this era of COVID-19.</p>
+<p>Since our West Coast conference last March, a great deal of progress has been made by many teams across the DON IT community in terms of supporting and delivering the&nbsp;<a href="https://www.doncio.navy.mil/ContentView.aspx?id=13181" target="whole">Information Superiority Vision</a>&nbsp;(ISV). With restrictions placed on travel and gatherings, and having a great deal of information to share, we decided it was important to hold a virtual conference and provide important updates. We embraced the teleworking tools the Department of the Navy has adopted over the past six months and used CVR Teams Live to host the event.</p>
+<p>There were three tracks running simultaneously, aligned with the ISV's strategic objectives of&nbsp;<em>Modernizing our Infrastructure, Innovating and Deploying New Capabilities,</em>&nbsp;and&nbsp;<em>Defending our Information;&nbsp;</em>adding the ISV strategic assets of&nbsp;<em>Leveraging our Data to Drive Advantage</em>&nbsp;and&nbsp;<em>Empowering our Digital Workforce.</em>&nbsp;I participated as a speaker in three of the conference events and joined some of the many sessions presented over the two-day conference. Going into it, we didn't know how well a virtual conference would be received and how well the platform would hold up, but from my vantage point, the conference was a success. The content and caliber of presenters were excellent, and the platform capably hosted the sessions, experiencing only a few minor technical issues. One benefit of holding a virtual conference was that we were able to significantly increase our participant numbers and saw over 1,200 registered individuals from across the DON, DoD, and industry.</p>
+<p>Another advantage of holding the conference on the CVR platform is that each of the&nbsp;<a href="https://www.doncio.navy.mil/ContentView.aspx?id=14090" target="whole">conference sessions were recorded and are available for viewing</a>&nbsp;on demand. If you were unable to participate in the conference, I encourage you to take advantage of the recordings that afford the opportunity to learn about many ongoing IT and cybersecurity efforts occurring across the department.</p>
+<p>The conference briefings remind us that this is an exciting time to be part of the DON IT community, especially with so much change and innovation taking place now and in the near future. From conducting experiments with 5G, embracing artificial intelligence and machine learning, to modernizing our IT infrastructure, the list of initiatives and programs supporting the ISV is as extensive as it is varied. Each of these initiatives relies on the dedication and expertise of our IT workforce within the DON and our industry partners.</p>
+<p>In addition to the virtual DON IT Conference, since the last CIO column was published, we successfully completed our annual Cybersecurity Awareness Month campaign. The campaign included&nbsp;<a href="https://www.doncio.navy.mil/ContentView.aspx?id=13869" target="whole">cybersecurity-related information and videos posted on this website</a>&nbsp;each week during the month of October. While it is important for us to dedicate a month to discuss how we can best protect our data and personal information, it is equally important that as a community we are continuously learning best practices from our subject matter experts.</p>
+<p>Our conferences, CHIPS magazine, and the DON CIO website are a few of the channels in which we share our knowledge and progress in achieving Information Superiority throughout the DON. I invite you to share your knowledge and experiences in advancing the DON Information Superiority Vision and IT in general.</p>
