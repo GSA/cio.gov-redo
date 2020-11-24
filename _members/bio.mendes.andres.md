@@ -1,7 +1,7 @@
 ---
 layout: bio
 name: Mr. Andre Mendes
-permalink: /about/members-and-leadership/andre-mendes/
+permalink: /about/members-and-leadership/mendes-andre/
 subtitle: Team and Leadership
 title: About Our Council
 
