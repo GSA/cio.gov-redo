@@ -8,8 +8,8 @@ title: About Our Council
 position: Acting Chief Information Officer
 agency: Dept. of Health and Human Services
 bio-image: /bio_ashmore.png
-bio-image-alt-text: Jose Arrieta
-bio-email: Jose.Arrieta@hhs.gov
+bio-image-alt-text: Perryn Ashmore
+bio-email:
 ---
 
 Official biography information coming soon.
