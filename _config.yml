@@ -52,6 +52,8 @@ primary_navigation:
     children:
       - name: Data Science Training Program
         url: /programs-and-events/data-science-training-program/
+      - name: CIO Bootcamp
+        url: /programs-and-events/2020-cio-bootcamp/
       - name: Innnovation Roundtables
         url: /programs-and-events/innovation-roundtables/
       - name: All Events
