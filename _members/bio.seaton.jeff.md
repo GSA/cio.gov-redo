@@ -5,7 +5,7 @@ permalink: /about/members-and-leadership/jeff-seaton/
 subtitle: Team and Leadership
 title: About Our Council
 
-position: Acting Chief Information Officer
+position: Chief Information Officer
 agency: National Aeronautics and Space Administration
 bio-image: /bio_seaton.jpg
 bio-image-alt-text: Jeff Seaton
