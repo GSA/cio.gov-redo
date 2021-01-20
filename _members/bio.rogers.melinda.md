@@ -5,7 +5,7 @@ permalink: /about/members-and-leadership/rogers-melinda/
 subtitle: Team and Leadership
 title: About Our Council
 
-position: Acting Chief Information Officer
+position: Chief Information Officer
 agency: Department of Justice
 bio-image: /bio_rogers.png
 bio-image-alt-text: DOJ seal
