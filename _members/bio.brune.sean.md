@@ -1,7 +1,7 @@
 ---
 layout: bio
 permalink: /about/members-and-leadership/brun-sean/
-name: Mr. Sean Brun
+name: Mr. Sean Brune
 subtitle: Team and Leadership
 title: About Our Council
 
