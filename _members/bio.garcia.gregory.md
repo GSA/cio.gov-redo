@@ -1,14 +1,14 @@
 ---
 layout: bio
-name: Mr. Raj Iyer
-permalink: /about/members-and-leadership/iyer-raj/
+name: Mr. Gregory Garcia
+permalink: /about/members-and-leadership/garcia-gregory/
 subtitle: Team and Leadership
 title: About Our Council
 
-position: Army Chief Information Officer
+position: Acting Army Chief Information Officer
 agency: U.S. Department of the Army
-bio-image: /Raj-Iyer.jpg
-bio-image-alt-text: Raj Iyer
+bio-image: /DOA.png
+bio-image-alt-text: DOA
 bio-phone:
 bio-email:
 ---
