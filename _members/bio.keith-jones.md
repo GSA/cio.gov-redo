@@ -1,14 +1,14 @@
 ---
 layout: bio
-name: Mr. Michael Mestrovich
-permalink: /about/members-and-leadership/mestrovich-michael/
+name: Mr. Keith Jones
+permalink: /about/members-and-leadership/keith-jones/
 subtitle: Team and Leadership
 title: About Our Council
 
-position: Acting Chief Information Officer
+position: Chief Information Officer
 agency: Department of State
 bio-image: /agency_DOS.jpg
-bio-image-alt-text: Stuart McGuigan
+bio-image-alt-text: agency DOS
 bio-phone: Coming soon
 bio-email: CIO@state.gov
 ---
