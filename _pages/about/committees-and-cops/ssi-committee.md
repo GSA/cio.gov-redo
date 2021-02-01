@@ -28,15 +28,7 @@ Chief Information Officer and Chief Privacy Officer<br/>
 Federal Deposit Insurance Corporation <br/>
 
 
-**Rajive Mathur, Co-Chair**<br/>
-Chief Information Officer<br/>
-Social Security Administration<br/>
-[View Rajive Mathur's profile]({{ site.baseurl }}/about/members-and-leadership/mathur-rajive/)
 
-**Stuart McGuigan, Co-Chair**<br/>
-Chief Information Officer<br/>
-Department of State<br/>
-[View Stuart McGuigan's profile]({{ site.baseurl }}/about/members-and-leadership/mcguigan-stuart/)
 
 The [SSI Committee Max Page](https://community.max.gov/x/URp5K) **(login required)** provides tools and resources to encourage information sharing and collaboration.
 
