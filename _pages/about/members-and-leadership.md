@@ -28,6 +28,7 @@ Our CoP affiliates are also great resources and partners in achieving our priori
 * [Cloud and Infrastructure Community of Practice]({{ site.baseurl }}/about/members-and-leadership/cloud-infrastructure-cop/)
 * [Federal Mobility Group]({{ site.baseurl }}/about/members-and-leadership/Federal-Mobility-Group/)
 * [Federal Technology Investment Management Community of Practice]({{ site.baseurl }}/about/members-and-leadership/ftim-cop/)
+* [Small and Micro Agency CIO and CISO Council]({{ site.baseurl }}/about/members-and-leadership/SMACC/)
 
 
 &nbsp;

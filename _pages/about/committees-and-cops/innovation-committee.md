@@ -16,10 +16,6 @@ Innovation can bring about both incremental growth and radical change in how we 
 * Transforming Mobility
 
 # Leadership
-**Ryan Cote, Co-Chair**<br/>
-Chief Information Officer<br/>
-Department of Transportation<br/>
-[View Ryan Cote's profile]({{ site.baseurl }}/about/members-and-leadership/cote-ryan/)
 
 **Ron Bewtra, Co-Chair**<br/>
 Chief Technology Officer<br/>
