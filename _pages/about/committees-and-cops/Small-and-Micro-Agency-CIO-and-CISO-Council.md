@@ -17,18 +17,22 @@ permalink: /about/members-and-leadership/SMACC/
 <li>Collaborate with the Chief Human Capital Officers Council through the CIOC to address the hiring, training, classification, and professional development needs of federal employees in small / micro-agencies.</li>
 </ul>
 <h1><strong>Leadership</strong></h1>
-<p><strong>SAAC Leadership&nbsp;</strong></p>
-<p><strong>Anthony W. McDonald</strong></p>
-<p>Chief Information Officer</p>
-<p>Office of Management and Budget (OMB)</p>
-<p>Executive Office of the President (EOP)</p>
-<p><strong>Christopher Chilbert</strong></p>
-<p>Chief Information Officer</p>
-<p>Consumer Financial Protection Bureau</p>
+<p><strong>SAAC Leadership&nbsp;</strong><br>
+<strong>Anthony W. McDonald</strong><br>
+Chief Information Officer<br>
+Office of Management and Budget (OMB)<br>
+Executive Office of the President (EOP)</p>
+
+<p><strong>Christopher Chilbert</strong><br>
+Chief Information Officer<br>
+Consumer Financial Protection Bureau</p>
+
 <p><strong>SMAC Leadership</strong></p>
-<p><strong>Alen Kirkorian - Community Lead</strong></p>
-<p>Technical Special Advisor</p>
-<p>Department of State&nbsp;</p>
-<p><strong>Patrick Bevill - CISO Council Liaison&nbsp;</strong></p>
-<p>Chief Information Security Officer</p>
-<p>Federal Retirement Thrift Investment Board</p>
+
+<p><strong>Alen Kirkorian - Community Lead</strong><br>
+Technical Special Advisor<br>
+Department of State&nbsp;</p>
+
+<p><strong>Patrick Bevill - CISO Council Liaison&nbsp;</strong><br>
+Chief Information Security Officer<br>
+Federal Retirement Thrift Investment Board</p>
