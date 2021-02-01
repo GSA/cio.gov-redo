@@ -22,3 +22,13 @@ permalink: /about/members-and-leadership/SMACC/
 <p>Chief Information Officer</p>
 <p>Office of Management and Budget (OMB)</p>
 <p>Executive Office of the President (EOP)</p>
+<p><strong>Christopher Chilbert</strong></p>
+<p>Chief Information Officer</p>
+<p>Consumer Financial Protection Bureau</p>
+<p><strong>SMAC Leadership</strong></p>
+<p><strong>Alen Kirkorian - Community Lead</strong></p>
+<p>Technical Special Advisor</p>
+<p>Department of State&nbsp;</p>
+<p><strong>Patrick Bevill - CISO Council Liaison&nbsp;</strong></p>
+<p>Chief Information Security Officer</p>
+<p>Federal Retirement Thrift Investment Board</p>
