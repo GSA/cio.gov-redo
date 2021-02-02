@@ -8,7 +8,7 @@ title: About Our Council
 position: Acting Chief Information Officer
 agency: Social Security Administration
 bio-image: /agency_SSA.jpg
-bio-image-alt-text: Rajive Mathur
+bio-image-alt-text: Sean Brune
 bio-phone:
 bio-email:
 ---
