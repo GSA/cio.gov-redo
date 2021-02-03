@@ -5,12 +5,12 @@ name: Mr. Sean Brune
 subtitle: Team and Leadership
 title: About Our Council
 
-position: Acting Chief Information Officer
+position: Chief Information Officer
 agency: Social Security Administration
-bio-image: /agency_SSA.jpg
+bio-image: /bio_brune.jpg
 bio-image-alt-text: Sean Brune
-bio-phone:
-bio-email:
+bio-phone: (303) 844-2388
+bio-email: Sean.Brune@ssa.gov
 ---
 
 Official biography information coming soon.
