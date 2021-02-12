@@ -50,7 +50,7 @@ primary_navigation:
     children:
       - name: BETA Policy and Priority Catalog
         url: /policies-and-priorities/
-      - name: CIO HAndbook
+      - name: CIO Handbook
         url: /cio-handbook/
   - name: Programs & Events
     children:
