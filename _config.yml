@@ -50,8 +50,10 @@ primary_navigation:
     url: /policies-and-priorities/
   - name: Programs & Events
     children:
-      - name: Women in IT
-        url: /programs-and-events/2020-women-in-IT/
+      - name: Data Science Training Program
+        url: /programs-and-events/data-science-training-program/
+      - name: CIO Bootcamp
+        url: /programs-and-events/2020-cio-bootcamp/
       - name: Innnovation Roundtables
         url: /programs-and-events/innovation-roundtables/
       - name: All Events
@@ -95,7 +97,10 @@ collections:
     output: true
   leadership:
     output: true
-
+  cop-leadership:
+    output: true
+  cop-members:
+    output: true
 
 
 markdown: kramdown

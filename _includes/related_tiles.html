@@ -63,6 +63,9 @@
                  {% assign displayed_resource_tiles = displayed_resource_tiles | push: resource_title %}
 
                  <!--sets border logic statements for resources-->
+                 {% if resources.filters contains 'whitepaper' %}
+                 <div class="shadow-1 whitepaper-border ">
+                     {% endif %}
                  {% if resources.filters contains 'report' %}
                  <div class="shadow-1 report-border ">
                      {% endif %}
@@ -79,6 +82,9 @@
                                  <div class="text-container">
                                      {% if resources.filters contains 'report' %}
                                      <span class="card-tag">Report</span>
+                                     {% endif %}
+                                     {% if resources.filters contains 'whitepaper' %}
+                                     <span class="card-tag">whitepaper</span>
                                      {% endif %}
                                      {% if resources.filters contains 'guidance' %}
                                      <span class="card-tag">Guidance</span>

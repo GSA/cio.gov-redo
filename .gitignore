@@ -3,3 +3,14 @@ _site
 .jekyll-metadata
 node_modules
 .bundle
+/aia-2/.idea/aia-2.iml
+/.idea/cio.gov-redo.iml
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/aia-2/.idea/modules.xml
+/.idea/copyright/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/aia-2/.idea/workspace.xml
