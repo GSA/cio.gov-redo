@@ -12,7 +12,7 @@ The Office of Management and Budget’s Deputy Director for Management is the Ch
 {% include leadership.html %}
 
 ## Members
-Our members represent CIOs from across the U.S. Federal Government. You can also browse our [committee pages and membership](#council-committees).
+Our members represent CIOs from across the U.S. Federal Government Executive Branch. You can also browse our [Committees and Communities of Practice](#council-committees).
 {% include members.html %}
 
 ## Council Committees
