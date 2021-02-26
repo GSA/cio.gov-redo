@@ -1,7 +1,7 @@
-<!-- ---
+---
 layout: bio
-name: Ms. Elizabeth Cappello
-permalink: /about/members-and-leadership/cappello-elizabeth/
+name: Mr. Eric Hysen
+permalink: /about/members-and-leadership/hysen-eric/
 subtitle: Team and Leadership
 title: About Our Council
 position: Acting Chief Information Officer
@@ -11,4 +11,4 @@ bio-image-alt-text: HHS logo
 bio-email:
 ---
 
-Official biography information coming soon. -->
+Official biography information coming soon.
