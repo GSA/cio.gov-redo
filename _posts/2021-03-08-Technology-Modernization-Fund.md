@@ -4,7 +4,7 @@ title: Technology Modernization Fund 3rd Anniversary
 excerpt: We're celebrating the three-year anniversary of the Technology Modernization Fund (TMF), a funding vehicle that gives Federal agencies additional ways to deliver services to the public, better secure sensitive systems and data, and use taxpayer dollars more efficiently.
 date: 08 March 2021
 display-date: 08 March 2021
-author: Maria Roat, Deputy CIO
+author: Maria Roat, Deputy Federal CIO
 tags: 2021 it-modernization tmf
 permalink: /2021-03-08-Technology-Modernization-Fund/
 image: tmf-logo.png
