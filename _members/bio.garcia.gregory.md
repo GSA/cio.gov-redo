@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: bio
 name: Mr. Gregory Garcia
 permalink: /about/members-and-leadership/garcia-gregory/
@@ -13,4 +13,4 @@ bio-phone:
 bio-email:
 ---
 
-Official biography information coming soon.
+Official biography information coming soon. -->
