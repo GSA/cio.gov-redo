@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Technology Modernization Fund at Three Years &#58; The Modernization of USDA’s Specialty Crops Program
-excerpt: Read about how the USDA will replace two aging legacy systems and provide a modernized holistic tool to manage business operations and provide an excellent user experience for in the near future using TMF loan funding.
+excerpt: Read about how the USDA will replace two aging legacy systems and provide a modernized holistic tool to manage business operations and provide an excellent user experience in the near future using TMF loan funding.
 date: 08 March 2021
 display-date: 09 March 2021
 author: The GSA Blog Team
