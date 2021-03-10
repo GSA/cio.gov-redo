@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Federal Chief Information Officer
 agency: Office of Personnel Management
-bio-image: /agency_OPM.jpg
+bio-image: /agency_OPM.png
 bio-image-alt-text: OPM
 bio-phone:
 bio-email:
