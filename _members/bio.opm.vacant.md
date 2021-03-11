@@ -5,7 +5,7 @@ permalink: /about/members-and-leadership/vacant-opm/
 subtitle: Team and Leadership
 title: About Our Council
 
-position: Federal Chief Information Officer
+position: Chief Information Officer
 agency: Office of Personnel Management
 bio-image: /agency_OPM.png
 bio-image-alt-text: OPM
