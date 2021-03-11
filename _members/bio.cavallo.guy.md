@@ -1,15 +1,13 @@
 ---
 layout: bio
-name: Vacant
+name: Guy Cavallo
 permalink: /about/members-and-leadership/vacant-opm/
 subtitle: Team and Leadership
 title: About Our Council
 
-position: Chief Information Officer
+position: Acting Chief Information Officer
 agency: Office of Personnel Management
-bio-image: /agency_OPM.png
+bio-image: /bio_Cavallo.png
 bio-image-alt-text: OPM
-bio-phone:
-bio-email:
 ---
 
