@@ -1,6 +1,6 @@
 ---
 layout: bio
-name: Guy Cavallo
+name: Mr. Guy Cavallo
 permalink: /about/members-and-leadership/vacant-opm/
 subtitle: Team and Leadership
 title: About Our Council
