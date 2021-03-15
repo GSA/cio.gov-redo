@@ -8,8 +8,8 @@ The U.S. Department of Justice (DOJ) Office of the Chief Information Officer (OC
 
 DOJ is proud to present the Capture the Flag Cybersecurity Challenge in conjunction with the annual cybersecurity symposium.  This year’s challenge will feature five (5) individual challenges rank from non-technical to expert level. Additional information will be provided.  
 
-**When**: Tue, May 4, 2021 - Wed, May 6, 2021
+**When**: Tue, May 4, 2021 - Thu, May 6, 2021
 
 **Where**: Hosted virtually via WebEx
 
-**Who**: The symposium is open to all federal employees and contractors.  Space is limited to the first 1,000 registrants. Space is limited to the first 1,000 registrants.  Sign up to secure your spot at [https://www.justice.gov/jmd/webform/doj-cybersecurity-symposium-registration](https://www.justice.gov/jmd/webform/doj-cybersecurity-symposium-registration).
+**Who**: The symposium is open to all federal employees and contractors.  Space is limited to the first 1,000 registrants. Sign up to secure your spot at [https://www.justice.gov/jmd/webform/doj-cybersecurity-symposium-registration](https://www.justice.gov/jmd/webform/doj-cybersecurity-symposium-registration).
