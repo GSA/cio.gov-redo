@@ -3,13 +3,23 @@ The sidenav is not loaded by default on the main pages. To include this navigati
 _layouts/page.html layout template, or you can add "sidenav: true" in the front-matter of your pages
 {% endcomment %}
 
-<aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-top-34r">
+<aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-top-34r padding-top-3">
   <nav>
     <ul class="usa-sidenav">
-
-      <li class="usa-sidenav__item">
-        <a class="usa-current" href="{{site.baseurl}}/{{ page.permalink }}">{{ page.sidenav-title }}</a>
+      <!--
+      {% assign items = site.data.sidenavbar %}
+      {% for item in items %}
+      <li class="usa-current"><a href="{{  item.link }}">{{  item.text }}</a>
+        {% for subnav_item in item.children %}
+        <li class="usa-sidenav__item"><a href="{{  subnav_item.link }}">{{  subnav_item.text }}</a></li>
+            {% for grandchild_item in subnav_item.grandchild %}
+            <li class="usa-sidenav__item"><a href="{{  grandchild_item.link }}">{{  grandchild_item.text }}</a></li>
+            {% endfor %}
+        {% endfor %}
       </li>
+      {% endfor %}-->
+
+      <a class="usa-current" href="{{site.baseurl}}/{{ page.permalink }}">{{ page.sidenav-title }}</a> 
       <li class="usa-sidenav__item">
         <a href="{{site.baseurl}}/{{ page.permalink }}">{{ page.sidenav-title }}</a>
       </li>
