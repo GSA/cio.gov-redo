@@ -8,13 +8,11 @@ This template is for a single page that does not have a date associated with it.
 
 
 <div class="grid-row grid-gap">
-  {% comment %}
   {% if page.sidenav == true %}
   {% include sidenav.html %}
   {% endif %}
-  {% endcomment %}
 
-  <div class="usa-layout-docs__main desktop:grid-col-12">
+  <div class="usa-layout-docs__main desktop:grid-col-9">
     {{ content }}
   </div>
 </div>
