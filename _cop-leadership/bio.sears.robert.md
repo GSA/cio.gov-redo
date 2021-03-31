@@ -5,6 +5,6 @@ comm-title: Co-Chair
 position: N-Wave Branch Chief
 agency: National Oceanic and Atmospheric Administration
 bio-image: /bio_sears.jpg
-alt-text: Guy Cavallo
+alt-text: Robert Sears
 ---
 
