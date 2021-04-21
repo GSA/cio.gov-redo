@@ -17,7 +17,9 @@
     </p>
 
     <p class="text-primary-darker font-serif-lg text-bold">
-      {% if events.link %}
+      {% if events.link and events.link contains "http" %}
+        <a class="text-no-underline" href="{{ events.link }}">{{ events.title }}</a>
+      {% elsif events.link }
         <a class="text-no-underline" href="{{ site.baseurl }}{{ events.link }}">{{ events.title }}</a>
       {% else %}
         {{ events.title }}
