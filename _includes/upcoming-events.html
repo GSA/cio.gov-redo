@@ -24,8 +24,8 @@
       {% endif %}
     </p>
 
-    <p class="">{{ events.overview | truncate: 200 }}
-      {% if events.link %}
+    <p class="">{{ events.overview | truncate: 700 }}
+      {% if events.external != 1 %}
         <a href="{{ site.baseurl }}{{ events.link }}">Read more about {{ events.title}}</a>
       {% endif %}
     </p>
