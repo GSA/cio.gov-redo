@@ -16,14 +16,14 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
       
       <ul id="sub-nav-list-{{i}}" class="usa-sidenav__sublist">
         {% for subnav_item in item.children %}
-             <li class="usa-sidenav__item"><a id="href-list-{{i}}"href="{{  subnav_item.link }}">{{  subnav_item.text }}</a></li>
+             <li class="usa-sidenav__item"><a id="href-list-{{i}}"href="{{ site.baseurl }}{{  subnav_item.link }}">{{  subnav_item.text }}</a></li>
             
              {% for grandchild_item in subnav_item.grandchildren %}
                 {% if forloop.first %}
 
                 <ul id="grandchild-sub-nav-list-{{i}}" class="usa-sidenav__sublist">
                 {% endif %}  
-                    <li class="usa-sidenav__item"><a href="{{  grandchild_item.link }}">{{  grandchild_item.text }}</a></li>
+                    <li class="usa-sidenav__item"><a href="{{ site.baseurl }}{{  grandchild_item.link }}">{{  grandchild_item.text }}</a></li>
                 {% if forloop.last %}
                 </ul>
                 {% endif %}  
