@@ -1,5 +1,4 @@
 // Add your custom javascript here
-
 // Add Jquery onload to hide child items
 //Will work on expanding the selected items
 
