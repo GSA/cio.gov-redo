@@ -19,7 +19,14 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
         {% for subnav_item in item.children %}
              
             {% assign j = j | plus:1 %}   <!--incrementing the counter-->
-             <li class="usa-sidenav__item"><a id="href-list-{{j}}" href="{{ site.baseurl }}{{  subnav_item.link }}">{{  subnav_item.text }}</a></li>
+          <!--check if child is current--and added an indicator for clickevent-->
+
+            {% if page.url ==   subnav_item.link  %}
+            <li class="usa-current"><a id="href-list-{{j}}" href="{{ site.baseurl }}{{  subnav_item.link }}?clickEvt">{{  subnav_item.text }}</a></li>
+            {% else %}
+            <li class="usa-sidenav__item"><a id="href-list-{{j}}" href="{{ site.baseurl }}{{  subnav_item.link }}?clickEvt">{{  subnav_item.text }}</a></li>
+            {% endif %}
+             
             
              {% for grandchild_item in subnav_item.grandchildren %}
                 
@@ -27,8 +34,14 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
                
                 <ul id="grandchild-sub-nav-list-{{j}}" class="usa-sidenav__sublist">
                 {% endif %}  
-      
-                    <li class="usa-sidenav__item"><a  href="{{ site.baseurl }}{{  grandchild_item.link }}">{{  grandchild_item.text }}</a></li>
+                     <!--check if grandchild is current-- and added an indicator for clickevent-->
+
+                    {% if page.url ==   grandchild_item.link  %}
+                    <li class="usa-current"><a  href="{{ site.baseurl }}{{  grandchild_item.link }}?clickEvt">{{  grandchild_item.text }}</a></li>
+                    {% else %}
+                    <li class="usa-sidenav__item"><a  href="{{ site.baseurl }}{{  grandchild_item.link }}?clickEvt">{{  grandchild_item.text }}</a></li>
+                    {% endif %}
+                   
                 {% if forloop.last %}
                 </ul>
                 {% endif %}  
