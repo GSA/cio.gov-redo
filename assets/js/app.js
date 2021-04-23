@@ -10,10 +10,13 @@ $( document ).ready(function() {
   
 // adding usa-current based on the url of the parent
     $( "ul[class^='usa-sidenav__sublist']" ).hide();
+    $( "ul[id^='grandchild-sub-nav-list']" ).hide();
+    
     if(link.indexOf("cio-responsibilities") != -1){
         $('#sub-nav-list-1').show();
         $('#href-list-1').removeClass('usa-sidenav__item').addClass('usa-current');
-        $( "ul[id^='grandchild']" ).show();
+     //   $( "ul[id^='grandchild']" ).show();
+        
     }
     if(link.indexOf("it-laws") != -1){
         $('#sub-nav-list-2').show();
@@ -48,7 +51,35 @@ $( document ).ready(function() {
         $('#href-list-9').removeClass('usa-sidenav__item').addClass('usa-current');
     }
 
+    if(link.indexOf("/cio-responsibilities/it-leadership-and-accountability/") != -1){
+        $('#grandchild-sub-nav-list-1').show();
+    }
+    if(link.indexOf("/cio-responsibilities/it-strategic-planning/") != -1){
+        $('#grandchild-sub-nav-list-2').show();
+    }
+    if(link.indexOf("/cio-responsibilities/it-workforce/") != -1){
+        $('#grandchild-sub-nav-list-3').show();
+    }
+    if(link.indexOf("/cio-responsibilities/it-budgeting/") != -1){
+        $('#grandchild-sub-nav-list-4').show();
+    }
+    if(link.indexOf("/cio-responsibilities/it-investment-management/") != -1){
+        $('#grandchild-sub-nav-list-5').show();
+    }
+    if(link.indexOf("/cio-responsibilities/information-security-and-privacy/") != -1){
+        $('#grandchild-sub-nav-list-6').show();
+    }
+    if(link.indexOf("/cio-responsibilities/architecture/") != -1){
+        $('#grandchild-sub-nav-list-7').show();
+    }
+    if(link.indexOf("/cio-responsibilities/information-resources-and-data/") != -1){
+        $('#grandchild-sub-nav-list-8').show();
+    }
+    
 });
+
+
+
 //This  code makes the parent selected link usa-current
  $(document).ready(function (e) {
     $('.usa-sidenav > li > a').click(function(){
@@ -62,4 +93,24 @@ $( document ).ready(function() {
       }
     });
 
+  });
+
+  $(document).ready(function (e) {
+    $('.usa-sidenav > li > ul > li > a').click(function(){
+        //get id of a link and extract counter
+        var gchild = parseInt($( this ).attr('id').substring(10));
+        //double the counter
+        var dg  = gchild+gchild;
+        //get the nth child and check if its id has grandchild in the text 
+      if($( this ).parent().parent().children(':nth-child('+dg+')').attr('id').indexOf("grandchild") != -1){
+        // hide other grandchildren
+        $( "ul[id^='grandchild-sub-nav-list']" ).hide();
+        // open the corresponding ul for the grandchild 
+        $( this ).parent().parent().children(':nth-child('+dg+')').show();
+        return false;
+      }
+      
+    });
+
+    
   });
