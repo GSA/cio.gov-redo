@@ -2,10 +2,12 @@
 # In this example, we create a simple array of options and then in the _pages/collections.md file we 
 # Reference this data file in 'datafile' in the Front Matter and _layouts/list.html renders it 
 # This is simple, hopefully provides you with a good enough example to make changes as needed
+- parent: 'Executive Summary|||/handbook/executive-summary/'
+- parent: 'CIO Role at a Glance|||/handbook/cio-role-at-glance/'
 - parent: '1. CIO Responsibilities'
   children:
       - text: '1.1 IT Leadership and Accountability'
-        link: /handbook/cio-responsibilities/it-leadership-and-accountability/cio-responsibilities-laws-and-executive-orders/
+        link: ''
         grandchildren:
            - text: '1.1.1 CIO Responsibilities – Laws and Executive Orders'
              link: /handbook/cio-responsibilities/it-leadership-and-accountability/cio-responsibilities-laws-and-executive-orders/
@@ -16,7 +18,7 @@
            - text: '1.1.4 Agency IT Authorities – OMB Guidance'
              link: /handbook/cio-responsibilities/it-leadership-and-accountability/agency-it-authorities-omb-guidance/
       - text: '1.2 IT Strategic Planning'
-        link: '/handbook/cio-responsibilities/it-strategic-planning/cio-responsibilities-laws-and-executive-orders/'
+        link: ''
         grandchildren:
            - text: '1.2.1 CIO Responsibilities - Laws and Executive Orders'
              link: /handbook/cio-responsibilities/it-strategic-planning/cio-responsibilities-laws-and-executive-orders/
@@ -27,7 +29,7 @@
            - text: '1.2.4 Agency IT Authorities - OMB Guidance'
              link: /handbook/cio-responsibilities/it-strategic-planning/agency-it-authorities-omb-guidance/
       - text: '1.3 IT Workforce'
-        link: '/handbook/cio-responsibilities/it-workforce/cio-responsibilities-laws-and-executive-orders/'
+        link: ''
         grandchildren:
            - text: '1.3.1 CIO Responsibilities - Laws and Executive Orders'
              link: /handbook/cio-responsibilities/it-workforce/cio-responsibilities-laws-and-executive-orders/
@@ -38,7 +40,7 @@
            - text: '1.3.4 Agency IT Authorities - OMB Guidance'
              link: /handbook/cio-responsibilities/it-workforce/agency-it-authorities-omb-guidance/
       - text: '1.4 IT Budgeting'
-        link: '/handbook/cio-responsibilities/it-budgeting/cio-responsibilities-laws-executive-orders/'
+        link: ''
         grandchildren:
            - text: '1.4.1 CIO Responsibilities - Laws and Executive Orders'
              link: /handbook/cio-responsibilities/it-budgeting/cio-responsibilities-laws-executive-orders/
@@ -47,7 +49,7 @@
            - text: '1.4.3 Agency IT Authorities – OMB Guidance'
              link: /handbook/cio-responsibilities/it-budgeting/agency-it-authorities-omb-guidance/
       - text: '1.5 IT Investment Management'
-        link: '/handbook/cio-responsibilities/it-investment-management/cio-responsibilities-laws-and-executive-orders/'
+        link: ''
         grandchildren:
            - text: '1.5.1 CIO Responsibilities – Laws and Executive Orders'
              link: /handbook/cio-responsibilities/it-investment-management/cio-responsibilities-laws-and-executive-orders/
@@ -56,7 +58,7 @@
            - text: '1.5.3 Agency IT Authorities – OMB Guidance'
              link: /handbook/cio-responsibilities/it-investment-management/agency-it-authorities-omb-guidance/
       - text: '1.6 Information Security and Privacy'
-        link: '/handbook/cio-responsibilities/information-security-and-privacy/cio-responsibilities-laws-and-executive-orders/'
+        link: ''
         grandchildren:
            - text: '1.6.1 CIO Responsibilities – Laws and Executive Orders'
              link: /handbook/cio-responsibilities/information-security-and-privacy/cio-responsibilities-laws-and-executive-orders/
@@ -67,14 +69,14 @@
            - text: '1.6.4 Agency IT Authorities – OMB Guidance'
              link: /handbook/cio-responsibilities/information-security-and-privacy/agency-it-authorities-omb-guidance/
       - text: '1.7 Architecture'
-        link: '/handbook/cio-responsibilities/architecture/agency-it-authorities-omb-guidance/'
+        link: ''
         grandchildren:
            - text: '1.7.1 CIO Responsibilities – Laws and Executive Orders'
              link: /handbook/cio-responsibilities/architecture/agency-it-authorities-omb-guidance/
            - text: '1.7.2 CIO Responsibilities – OMB Guidance'
              link: /handbook/cio-responsibilities/architecture/cio-responsibilities-omb-guidance/
       - text: '1.8 Information Resources and Data'
-        link: '/handbook/cio-responsibilities/information-resources-and-data/agency-itauthorities-laws-and-executive-orders/'
+        link: ''
         grandchildren:
            - text: '1.8.1 Agency IT Authorities – Laws and Executive Orders'
              link: /handbook/cio-responsibilities/information-resources-and-data/agency-itauthorities-laws-and-executive-orders/
@@ -217,7 +219,7 @@
 - parent: '8. Reporting Calendar'
   children:
       - text: 'Reporting Calendar'
-        link: /handbook/rep-calendar/reporting-calendar/
+        link: /handbook/rep-calendar/rep-calendar/
 - parent: '9. Additional Resources'
   children:
       - text: '9.1 CIO Council Resources'
@@ -229,4 +231,5 @@
       - text: '9.4 GSA Resources'
         link: /handbook/additional-resources/gsa-resources/
       - text: '9.5 OPM Resources'
-        link: /handbook/additional-resources/opm-resources/                                          
+        link: /handbook/additional-resources/opm-resources/
+                                   
