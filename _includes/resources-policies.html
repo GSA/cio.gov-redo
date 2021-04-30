@@ -23,7 +23,12 @@
                                     {% endif %}
 
                                     <!--for 508 accessibility-->
+                                    {% if policies.permalink %}
                                     <p class="title-resources"><a title="policy or priority title" class="no-style" href="{{ site.baseurl }}{{ policies.permalink }}">{{ policies.subtitle }}</a></p>
+                                    {% endif %}
+                                    {% if policies.doc-link %}
+                                    <p class="title-resources"><a class="text-ink text-no-underline" href="{{ site.baseurl }}/{{ policies.doc-link }}">{{ policies.subtitle }}</a></p>
+                                    {% endif %}
                                     <!--<p class="text-light font-sans-3xs">Implemented on {{ policies.date | date: "%b %d, %y" }}</p>-->
                                 </div>
                             </div>
