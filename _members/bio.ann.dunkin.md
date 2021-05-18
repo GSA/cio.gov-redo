@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: Department of Energy
-bio-image: /Ann-Dunkin.png
+bio-image: /bio-ann-dunkin.png
 bio-image-alt-text: Ann Dunkin
 bio-phone:
 bio-email:  
