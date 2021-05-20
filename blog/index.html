@@ -49,7 +49,7 @@ redirect_from:
            {% assign tags = post.tags %}
            <ul class="tags">
              {% for tag in tags %}
-               <a href="{{ site.baseurl }}/tags/{{ tag }}"<li class="tag">{{ tag }}</li></a>
+             <li class="tag"><a style="color: #333; text-decoration: none;" href="{{ site.baseurl }}/tags/{{ tag }}">{{ tag }}</a></li>
            </ul>
            {% endfor %}
            {% endif %}

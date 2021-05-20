@@ -54,11 +54,13 @@ primary_navigation:
         url: /cio-handbook/
   - name: Programs & Events
     children:
+      - name: Women in IT & Cyber
+        url: /2021-women-in-IT/
       - name: Data Science Training Program
         url: /programs-and-events/data-science-training-program/
       - name: CIO Bootcamp
         url: /programs-and-events/2020-cio-bootcamp/
-      - name: Innnovation Roundtables
+      - name: Innovation Roundtables
         url: /programs-and-events/innovation-roundtables/
       - name: All Events
         url: /programs-and-events/

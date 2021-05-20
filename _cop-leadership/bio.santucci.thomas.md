@@ -5,6 +5,6 @@ comm-title: Co-Chair
 position: DCCOI PMO Director
 agency: General Services Administration
 bio-image: /bio_santucci.jpeg
-alt-text: Guy Cavallo
+alt-text: Thomas santucci
 ---
 
