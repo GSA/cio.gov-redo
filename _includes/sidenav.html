@@ -16,32 +16,32 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
        {% assign ahref = item.parent | split: '|||' %}
        {% endif %}
       {% if page.url contains "executive-summary"  and  i == 1   %}
-         <li><a id="href-list-{{i}}" href="{{ site.baseurl }}{{ ahref[1] }}" class="usa-current">{{ ahref[0] }}</a>
+         <li><a id="parent-href-list-{{i}}" href="{{ site.baseurl }}{{ ahref[1] }}" class="usa-current">{{ ahref[0] }}</a>
       {% elsif page.url contains "cio-role-at-glance"  and i == 2   %}
-          <li><a id="href-list-{{i}}" href="" class="usa-current">{{ ahref[0] }}</a>
+          <li><a id="parent-href-list-{{i}}" href="" class="usa-current">{{ ahref[0] }}</a>
       {% elsif page.url contains "cio-responsibilities"  and i == 3   %}
-         <li><a id="href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
+         <li><a id="parent-href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
       {% elsif page.url contains "it-laws"  and i == 4 %}
-         <li><a id="href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
+         <li><a id="parent-href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
       {% elsif page.url contains "other-it-authorities"  and i == 5 %}
-         <li><a id="href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
+         <li><a id="parent-href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
       {% elsif page.url contains "key-stakeholders"  and i == 6 %}
-          <li><a id="href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
+          <li><a id="parent-href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
       {% elsif page.url contains "key-organizations"  and i == 7 %}
-          <li><a id="href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
+          <li><a id="parent-href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
       {% elsif page.url contains "policies-initiatives"  and i == 8 %}
-          <li><a id="href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
+          <li><a id="parent-href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
       {% elsif page.url contains "reporting"  and i == 9 %}
-          <li><a id="href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
-      {% elsif page.url contains "rep-calendar"  and i == 10 %}
-          <li><a id="href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
+          <li><a id="parent-href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
+      {% elsif page.url contains "rep-calendar"  and i == 10   %}
+      <li><a id="parent-href-list-{{i}}" href="" class="usa-current">{{ ahref[0] }}</a>
       {% elsif page.url contains "additional-resources"  and i == 11 %}
-            <li><a id="href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>                           
+            <li><a id="parent-href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>                           
       {% else %} 
         {% if item.parent contains "|||" %}
-        <li><a id="href-list-{{i}}" href="{{ site.baseurl }}{{ ahref[1] }}" class="usa-sidenav__item">{{ ahref[0] }} </a>
+        <li><a id="parent-href-list-{{i}}" href="{{ site.baseurl }}{{ ahref[1] }}" class="usa-sidenav__item">{{ ahref[0] }} </a>
         {% else %} 
-        <li><a id="href-list-{{i}}" href="" class="usa-sidenav__item">{{  item.parent }} </a>
+        <li><a id="parent-href-list-{{i}}" href="" class="usa-sidenav__item">{{  item.parent }} </a>
         {% endif %}
       {% endif %}
       
@@ -53,9 +53,9 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
           <!--check if child is current--and added an indicator for clickevent-->
 
             {% if page.url ==   subnav_item.link  %}
-            <li class="usa-sidenav__item"><a class="usa-current" id="href-list-{{j}}" href="{{ site.baseurl }}{{  subnav_item.link }}?clickEvt">{{  subnav_item.text }}</a></li>
+            <li class="usa-sidenav__item"><a class="usa-current" id="child-href-list-{{i}}-{{j}}" href="{{ site.baseurl }}{{  subnav_item.link }}?clickEvt">{{  subnav_item.text }}</a></li>
             {% else %}
-            <li class="usa-sidenav__item"><a id="href-list-{{j}}" href="{{ site.baseurl }}{{  subnav_item.link }}?clickEvt">{{  subnav_item.text }}</a></li>
+            <li class="usa-sidenav__item"><a id="child-href-list-{{i}}-{{j}}" href="{{ site.baseurl }}{{  subnav_item.link }}?clickEvt">{{  subnav_item.text }}</a></li>
             {% endif %}
              
             

@@ -124,7 +124,7 @@
   children:
       - text: '3.1 Executive Orders (EOs)'
         link: /handbook/other-it-authorities/executive-orders/
-      - text: '3.2 OMD Circulars'
+      - text: '3.2 OMB Circulars'
         link: /handbook/other-it-authorities/omb-circulars/
       - text: '3.3 OMB Memoranda'
         link: /handbook/other-it-authorities/omb-memoranda/
@@ -216,10 +216,7 @@
         link: /handbook/reporting/fitara-reporting/
       - text: '7.6 FISMA Report to Congress'
         link: /handbook/reporting/fisma-report-to-congress/
-- parent: '8. Reporting Calendar'
-  children:
-      - text: 'Reporting Calendar'
-        link: /handbook/rep-calendar/rep-calendar/
+- parent: '8. Reporting Calendar|||/handbook/rep-calendar/rep-calendar'
 - parent: '9. Additional Resources'
   children:
       - text: '9.1 CIO Council Resources'

@@ -4,7 +4,6 @@
 
 
 $( document ).ready(function() {
-    
     var link = window.location.href;
    
  // adding usa-current based on the url of the parent
@@ -33,9 +32,7 @@ $( document ).ready(function() {
      if(link.indexOf("/reporting/") != -1 && link.indexOf("?clickEvt") != -1){
          $('#sub-nav-list-9').show();
      }
-     if(link.indexOf("rep-calendar") != -1 && link.indexOf("?clickEvt") != -1){
-         $('#sub-nav-list-10').show();
-     }
+
      if(link.indexOf("additional-resources") != -1 && link.indexOf("?clickEvt") != -1){
          $('#sub-nav-list-11').show();
      }
@@ -71,16 +68,19 @@ $( document ).ready(function() {
  
  //This  code makes the parent selected link usa-current
   $(document).ready(function (e) {
-    
+ 
      $('.usa-sidenav > li > a').click(function(){
+       
      //  if ($(this).attr('class') != 'usa-current'){
         // $('.usa-sidenav li ul').slideUp();
 
          $(this).next().slideToggle();
        // $('.usa-sidenav li ul').show();
          $('.usa-sidenav li a').removeClass('usa-current');
+         
          $(this).addClass('usa-current');
-        if ($( this ).attr('id') == 'href-list-1' || $( this ).attr('id') == 'href-list-2' ){
+        if ($( this ).attr('id') == 'parent-href-list-1' || $( this ).attr('id') == 'parent-href-list-2' || $( this ).attr('id') == 'parent-href-list-10' ){
+           
         }else {
             return false;
         }
@@ -89,16 +89,15 @@ $( document ).ready(function() {
    });
  
    $(document).ready(function (e) {
-
-   
+  
      $('.usa-sidenav > li > ul > li > a').click(function(){
          //get id of a link and extract counter
-         var gchild = parseInt($( this ).attr('id').substring(10));
-         
+         var gchild = parseInt($( this ).attr('id').substring(18));
+    
          //double the counter
          var dg  = gchild+gchild;
-        
-         //get the nth child and check if its id has grandchild in the text 
+         //get the nth child and check if its id has grandchild in the text
+         
        if($( this ).parent().parent().children(':nth-child('+dg+')').attr('id').indexOf("grandchild") != -1){
          // hide other grandchildren
 
@@ -107,6 +106,8 @@ $( document ).ready(function() {
          $( this ).parent().parent().children(':nth-child('+dg+')').show();
         
          return false;
+       }else{
+
        }
        //return false;
      });
