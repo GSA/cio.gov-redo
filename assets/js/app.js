@@ -1,11 +1,11 @@
 // Add your custom javascript here
-<script src="https://unpkg.com/isotope-layout@2/dist/isotope.pkgd.min.js"></script>
+{/* <script src="https://unpkg.com/isotope-layout@2/dist/isotope.pkgd.min.js"></script> */}
 
 $( document ).ready(function() {
     
     // sort the cards under cloud smart alphabetically
     var cloudSmartList = $('.cloud-smart .policies-container');
-    var listitems = cloudSmartList.children('.policy');
+    var listitems = cloudSmartList.children('.policy-card');
 
     listitems.sort(function(a, b) {
     if (a.textContent < b.textContent) {
