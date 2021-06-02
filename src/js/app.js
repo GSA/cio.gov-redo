@@ -91,19 +91,14 @@ $( document ).ready(function() {
    $(document).ready(function (e) {
   
      $('.usa-sidenav > li > ul > li > a').click(function(){
-         //get id of a link and extract counter
-         var gchild = parseInt($( this ).attr('id').substring(18));
-    
-         //double the counter
-         var dg  = gchild+gchild;
-         //get the nth child and check if its id has grandchild in the text
-         
-       if($( this ).parent().parent().children(':nth-child('+dg+')').attr('id').indexOf("grandchild") != -1){
-         // hide other grandchildren
+
+       var gchild=2;
+       
+       if($( this ).parent().children(':nth-child('+gchild+')').attr('id').indexOf("grandchild") != -1){
 
          $( "ul[id^='grandchild-sub-nav-list']" ).hide();
          // open the corresponding ul for the grandchild 
-         $( this ).parent().parent().children(':nth-child('+dg+')').show();
+         $( this ).parent().children(':nth-child('+gchild+')').show();
         
          return false;
        }else{
