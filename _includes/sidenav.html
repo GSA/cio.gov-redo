@@ -53,9 +53,9 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
           <!--check if child is current--and added an indicator for clickevent-->
 
             {% if page.url ==   subnav_item.link  %}
-            <li class="usa-sidenav__item"><a class="usa-current" id="child-href-list-{{i}}-{{j}}" href="{{ site.baseurl }}{{  subnav_item.link }}?clickEvt">{{  subnav_item.text }}</a></li>
+            <li class="usa-sidenav__item"><a class="usa-current" id="child-href-list-{{i}}-{{j}}" href="{{ site.baseurl }}{{  subnav_item.link }}?clickEvt">{{  subnav_item.text }}</a>
             {% else %}
-            <li class="usa-sidenav__item"><a id="child-href-list-{{i}}-{{j}}" href="{{ site.baseurl }}{{  subnav_item.link }}?clickEvt">{{  subnav_item.text }}</a></li>
+            <li class="usa-sidenav__item"><a id="child-href-list-{{i}}-{{j}}" href="{{ site.baseurl }}{{  subnav_item.link }}?clickEvt">{{  subnav_item.text }}</a>
             {% endif %}
              
             
@@ -77,7 +77,7 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
                 </ul>
                 {% endif %}  
              {% endfor %}
-            
+            </li>
         {% endfor %}
           </ul>
         </li>
