@@ -256,3 +256,11 @@ a:active, a:hover {
 .usa-banner__header-text {
   margin: 3px 5px !important;
 }
+
+.project-link {
+  text-align: center;
+}
+
+.alert.alert-info {
+  margin-top: 10px;
+}
