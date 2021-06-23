@@ -7,7 +7,6 @@ function reloadTemplate(){
   var switchLanguage = language.startsWith('en') ? 'fr' : 'en';
 
   /* var defTop = document.getElementById("def-top");
-  
   defTop.outerHTML = wet.builder.appTop({
     appName: [
       {
