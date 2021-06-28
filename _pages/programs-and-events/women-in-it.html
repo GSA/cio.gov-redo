@@ -78,24 +78,24 @@ permalink: /2021-women-in-IT/
           We’re releasing videos to highlight the work of women in our Federal tech force all month long. Check back here for more updates, or <a href="https://twitter.com/ciodotgov">follow us on Twitter to view videos as they’re posted</a>!
         </p>
       </div>
-      <div class="tablet:grid-col-6">
-        <p><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/544602458?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></p> 
-        <p><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/540733799?byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></p>
-       <p><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/546061404?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Q&amp;amp;A with Sheena Burrell, Deputy CIO NARA"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></p>
-          <p><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/546078304?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Q&amp;amp;A with Dorothy Aronson, CIO NSF"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></p>  
-        </p>
-<p><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/553075629?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></p>
-<p><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/553087993?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script><p>
-</div>
-<div class="tablet:grid-col-6">
-<p><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/546661770?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Q&amp;amp;A with Melinda Rogers, DOJ CIO"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></p>
-<p><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/549379313?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Q&amp;amp;A with Venice Goodwine, CISO USDA"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></p>      
-<p><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/549458709?byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<p><div style="padding:56.09% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/551631019?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></p>
-<p><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/553107088?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></p>
-<p><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/552489194?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></p>
-</div>
 
+      {% assign sorted = site.women-in-it-videos %}
+      {% for women-in-it-videos in sorted %}
+
+      <div class="tablet:grid-col-6">
+        <div class="ty-compact" tabindex="0">
+        <p><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="{{ women-in-it-videos.src }}" title="{{ women-in-it-videos.title }}" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></p>
+        </div>
+
+
+      </div>
+
+      {% endfor %}
+
+    </div>
+    <div class="grid-row">
+      <div class="tablet:grid-col-9"></div>
+      <div class="tablet:grid-col-3"><a class="show-more card-tag2" tabindex="0" role="button" aria-pressed="false" href="#pos" style="color: white; display: inline;">Show all</a></div>
     </div>
 
     <div class="grid-row grid-gap border-top-2px border-accent-cool-light padding-top-2">
@@ -159,4 +159,33 @@ permalink: /2021-women-in-IT/
     </div>
   </div>
 </section>
-  
+
+<style>
+  .card-tag2 {
+    font-size: .9rem;
+    margin-top: .2em;
+    margin-bottom: .15em;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: #323a45;
+}
+
+.show-more {
+    display: none;
+    cursor: pointer;
+    float: right;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: .7em;
+    text-decoration: none;
+    background-color: #e31c3d;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 25px;
+    }
+}
+</style>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="/assets/js/women-in-it-toggle.js"></script>
