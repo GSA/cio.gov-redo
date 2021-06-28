@@ -9,6 +9,4 @@ $('.show-more').bind("keypress click", function() {
   $(this).text() === 'Show all' ? $(this).text('Show less') : $(this).text('Show all');
 });
 
-
-
 });
