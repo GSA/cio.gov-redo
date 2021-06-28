@@ -65,6 +65,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "8d7a9fd9aa3a75fe05a17c0b2bc752e7",
-    "url": "/survey.css"
+    "url": "../aia-eia-js/survey.css"
   }
 ]);
