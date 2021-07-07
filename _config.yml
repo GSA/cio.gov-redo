@@ -107,6 +107,8 @@ collections:
     output: true
   cop-members:
     output: true
+  women-in-it-videos:
+    output: true
 
 
 markdown: kramdown
