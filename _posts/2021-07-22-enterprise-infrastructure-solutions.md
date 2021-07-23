@@ -4,7 +4,7 @@ title: Enterprise Infrastructure Solutions
 excerpt: Enterprise Infrastructure Solutions (EIS) is a comprehensive solution-based contract vehicle to address all federal agency IT telecommunications and infrastructure requirements. It reduces agency costs and acquisition time by leveraging an existing contract and allows agencies to focus on missions. EIS is required for GSA to fulfill its Congressional mandate to provide telecommunications services for the Federal Government.
 date: 22 July 2021
 display-date: 22 July 2021
-author: 
+author: Federal Technology Investment Management CoP
 tags: 2021 acquisition
 permalink: /2021-07-22-enterprise-infrastructure-solutions/
 
