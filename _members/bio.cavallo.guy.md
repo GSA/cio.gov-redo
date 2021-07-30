@@ -1,17 +1,17 @@
 ---
 layout: bio
 name: Mr. Guy Cavallo
-permalink: /about/members-and-leadership/vacant-opm/
+permalink: /about/members-and-leadership/guy-cavallo/
 subtitle: Team and Leadership
 title: About Our Council
 
-position: Acting Chief Information Officer
+position: Chief Information Officer
 agency: Office of Personnel Management
 bio-image: /bio_Cavallo.png
 bio-image-alt-text: Guy Cavallo
 ---
 
-Guy Cavallo was selected in March 2021 to serve as the Acting Chief Information Officer of the Office of Personnel Management. In this capacity he is the senior executive leading OPM’s enterprise information technology (IT) services, including the development and execution of current state and future IT strategic plans, and the day to day management oversight of the agency's technology services.  He also serves as the executive leading OPM’s all IT modernization efforts.
+Guy Cavallo serves as the Chief Information Officer of the Office of Personnel Management (OPM). In this capacity he is the senior executive leading OPM’s enterprise information technology (IT) services, including the development and execution of current state and future IT strategic plans, and the day to day management oversight of the agency’s technology services. He also serves as the executive leading OPM’s all IT modernization efforts
 
 He previously served as the Deputy Chief Information Officer at the U.S. Small Business Administration (SBA). He was a key leader in SBA’s leveraging the cloud to quickly implement the CARES Act Payroll Protection Program and the Economic Injury Disaster Loan programs. Those programs distributed over $450B in a short period of time to America’s small businesses and citizens. For his successful accomplishments at SBA, he received both the <b><em>Federal 100 award</em></b> and was twice selected for the <b><em>FedScoop 50 award for Federal IT Leadership</em></b>.  
 
