@@ -728,6 +728,46 @@ button.usa-button > span {
   visibility: hidden;
 }
 
+.usa-footer {
+  font-family: Source Sans Pro Web,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+  padding: 3rem;
+}
+
+.bg-primary-darker {
+  background-color: #162e51;
+}
+
+.logo-links {
+  text-align: center;
+}
+
+.add-list-reset > li > a {
+  font-size: 1.35rem;
+  color: white;
+  text-decoration: underline;
+}
+
+.social-buttons {
+  display: flex;
+  flex-direction: column;
+}
+
+.social-buttons > a {
+  padding: 15px;
+  text-align: center;
+  color: white;
+  width: 50px;
+}
+
+.social-buttons > a.usa-button-red {
+  background: #D83933 !important;
+}
+
+.social-buttons > a.usa-button-blue {
+  background: #55ACEE !important;
+  margin-top: 5px;
+}
+
 @media screen and (min-width: 760px) {
   .usa-banner__row {
     flex-wrap: nowrap;
@@ -746,11 +786,7 @@ button.usa-button > span {
     margin: 3rem 0 1.5rem;
   }
 
-	.cio-header-search {
-    background: blue;
-  }
-
-  .usa-menu-btn{
+  .usa-menu-btn, .usa-nav__close {
     display: none;
   }
 
@@ -768,21 +804,46 @@ button.usa-button > span {
     margin-left: -15px !important;
   }
 
+  .usa-nav__primary.usa-accordion {
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction:normal;
+    -ms-flex-direction:row;
+    flex-direction:row;
+  }
+
   /***** Search ****/
+
+  .cio-header-search {
+    margin-top: -170px;
+  }
 
   .cio-menu-search {
     display: block;
+    width: 100%;
     position: relative;
+    overflow-x: unset;
     background: #fff;
-    overflow-x: hidden;
+    padding-top: 0;
+  }
+
+  .usa-nav {
+    width: 100%;
+  }
+
+  .cio-search-links {
+    justify-content: right;
+    text-align: right;
+    flex-direction: row;
+    width: 100%;
   }
 
   .cio-search-links > ul {
     list-style: none;
     display: flex;
+    flex-direction: row;
     justify-content: right;
     text-align: right;
-    margin-top: 40px;
   }
 
   .cio-search-links > ul > li a:first-child {
@@ -853,5 +914,13 @@ button.usa-button > span {
 
   button.usa-button > span {
     visibility: hidden;
+  }
+
+  .usa-nav__primary button, .usa-nav__link {
+    width: auto;
+  }
+
+  main#wb-cont {
+    margin-top: 50px;
   }
 }
