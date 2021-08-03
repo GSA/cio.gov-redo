@@ -566,10 +566,11 @@ ul.usa-nav__primary {
 }
 
 .usa-nav__primary button:focus, .usa-nav__link:focus {
-  border: 0.35rem solid #2491ff;
+  outline: 0.45rem solid #2491ff;
+  outline-offset: 0px;
 }
 
-.usa-nav__primary button:visited{
+.usa-nav__primary button:visited {
   color:#ffffff;
 }
 
@@ -765,11 +766,14 @@ ul.add-list-reset {
 /* Medium view and over */
 @media screen and (min-width: 1034px) {
   .usa-nav {
-    border-top: 1px solid #dcdee0;
-    border-bottom: 1px solid #dcdee0;
     width: 23rem;
     margin-left: 0;
     margin-right: 0;
+  }
+
+  .usa-nav__inner {
+    border-top: 1px solid #dcdee0;
+    border-bottom: 1px solid #dcdee0;
   }
 
   .usa-nav__primary.usa-accordion {
@@ -782,16 +786,8 @@ ul.add-list-reset {
     border-top: 0;
   }
 
-  .usa-nav__primary button::after {
-    background-color: #005ea2;
-    border-radius: 0;
-    content: '';
-    display: block;
-    position: absolute;
-    height: 0.25rem;
-    left: 1rem;
-    right: 1rem;
-    bottom: 0;
+  .usa-nav__primary button > span:focus {
+    color: white;
   }
 
   .usa-banner > .container {
@@ -856,6 +852,12 @@ ul.add-list-reset {
     background-position: right 0rem top 53%;
   }
 
+  .usa-nav__primary button[aria-expanded="false"]:hover {
+    background-image:url("img/angle-arrow-down-primary.svg"), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
+    background-image:url("img/angle-arrow-down-primary.svg"), linear-gradient(transparent, transparent);
+    background-repeat:no-repeat;
+  }
+
   .usa-nav__primary button[aria-expanded="true"] {
     background-image: url("img/angle-arrow-up-white.svg"), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
     background-image: url("img/angle-arrow-up-white.svg"), linear-gradient(transparent, transparent);
@@ -868,9 +870,8 @@ ul.add-list-reset {
     color: white;
   }
 
-  .usa-nav__primary button:focus[aria-expanded="true"] {
+  .usa-nav__primary button[aria-expanded="true"]:focus {
     color: white !important;
-    border-bottom: 2px solid 
   }
 
   .usa-nav__submenu-item:not(:last-child) {
