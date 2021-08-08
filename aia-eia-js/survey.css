@@ -233,12 +233,7 @@ a:focus, a:hover {
 
 .usa-accordion__button {
   color: #005ea2;
-  text-decoration: underline !important;
   cursor: pointer;
-}
-
-.usa-accordion__button:hover {
-  color: #333 !important;
 }
 
 .usa-banner__button-arrow {
@@ -419,15 +414,15 @@ a:focus{
   margin: 0;
   padding: 0;
   text-align: left;
-  height: 4rem;
-  width: 4rem;
+  height: 5rem;
+  width: 5rem;
   color: currentColor;
   -webkit-box-flex:0;
       -ms-flex:none;
           flex:none;
-  float: right;
-  margin:0.75rem 0rem 1rem auto;
+  margin: 0.75rem 0rem 1rem auto;
   text-align: center;
+  margin-right: -2rem;
 }
 
 .usa-nav__close:hover {
@@ -439,7 +434,7 @@ a:focus{
 }
 
 .usa-nav__close:focus {
-  outline: 0.25rem solid #2491ff;
+  outline: 0.5rem solid #2491ff;
   outline-offset:0;
 }
 
@@ -491,7 +486,6 @@ a:focus{
   right: 0;
   background: #fff;
   overflow-x: hidden;
-  padding-top: 15px;
 }
 
 .usa-nav {
@@ -501,15 +495,14 @@ a:focus{
   -ms-flex-direction: column;
   flex-direction: column;
   overflow-y: auto;
-  border-top: 0;
-  border-bottom: 0;
-  width: 22rem;
+  padding: 1rem 2rem;
+  width: 100%;
   z-index: 500;
 }
 
 .usa-nav__inner {
-  border-top: 1px solid #dcdee0;
-  border-bottom: 1px solid #dcdee0;
+  border: 0;
+  text-align: right;
 }
 
 .usa-nav.is-visible {
@@ -526,14 +519,18 @@ ul.usa-nav__primary {
   list-style: none;
 }
 
+.usa-banner__header > a.usa-accordion__button.usa-banner__button > span {
+  color:#005ea2;
+}
+
 .usa-nav__primary .usa-nav__primary-item a {
   text-decoration:none;
   list-style: none;
+  text-align: left;
 }
 
 .usa-nav__primary > .usa-nav__primary-item {
   line-height:1.12707;
-  margin-left: 3px;
 }
 
 .usa-nav__primary button, .usa-nav__link {
@@ -558,7 +555,9 @@ ul.usa-nav__primary {
 }
 
 .usa-nav__primary button:hover, .usa-nav__link:hover {
-  color:#1a4480;
+  background-color:#dcdee0;
+  color:#1b1b1b;
+  text-decoration:none;
 }
 
 .usa-nav__submenu a:hover {
@@ -617,6 +616,12 @@ ul.usa-nav__submenu {
   display: block;
   padding: 1.25rem 1rem 1.25rem 2rem;
   font-size: 1.25rem;
+}
+
+.usa-nav__submenu a:hover {
+  background-color:#dcdee0;
+  color:#1b1b1b;
+  text-decoration:none;
 }
 
 /***** Search *****/
@@ -774,6 +779,13 @@ ul.add-list-reset {
     width: 23rem;
     margin-left: 0;
     margin-right: 0;
+    padding: 1rem 0rem;
+  }
+
+  .usa-nav__inner {
+    border-top: 1px solid #dcdee0;
+    border-bottom: 1px solid #dcdee0;
+    text-align: left;
   }
 
   .usa-nav__primary.usa-accordion {
@@ -814,6 +826,10 @@ ul.add-list-reset {
     display: none;
   }
 
+  .usa-nav__primary button:hover, .usa-nav__link:hover {
+    background-color:transparent;
+  }
+
   .usa-nav__primary.usa-accordion {
     display: flex;
     -webkit-box-orient: horizontal;
@@ -832,6 +848,12 @@ ul.add-list-reset {
     padding: 1rem;
     position: absolute;
     z-index: 400;
+  }
+
+  .usa-nav__submenu a:hover {
+    background-color: #162e51;
+    color: white;
+    text-decoration: underline;
   }
 
   .usa-nav__link:hover{
@@ -925,7 +947,7 @@ ul.add-list-reset {
   .cio-menu-search {
     width: 100%;
     background: #fff;
-    margin-top: 75px;
+    margin-top: 60px;
     padding-top: 0;
     position: unset;
     overflow-x: unset;
@@ -975,7 +997,7 @@ ul.add-list-reset {
     flex-direction: column;
     justify-content: right;
     text-align: right;
-    margin-top: -135px;
+    margin-top: -150px;
   }
 
   label[for="extended-search-field-small"] {
