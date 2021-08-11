@@ -80,14 +80,50 @@ h2, .h2 {
   margin-top: 32px !important;
 }
 
+ul.list-inline > li {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
 .sv_main.sv_main.sv_bootstrapmaterial_css input[type="button"].btn-primary, .sv_main.sv_bootstrapmaterial_css button.btn-primary, .btn-success {
   color: rgb(255, 255, 255);
   background-color: rgb(33, 102, 79) !important;
   font-size: 18px !important;
 }
 
+ul.list-inline > li > button.btn-cio-blue {
+  color: #1b1b1b !important;
+  font-weight: bold !important;
+  background-color: #00bde3 !important;
+}
+
+ul.list-inline > li > button.btn-cio-blue:hover {
+  color: #fff !important;
+  background-color: #00bde3 !important;
+  border-color: #00bde3 !important;
+}
+
+ul.list-inline > li > label.btn-cio-grey, ul.list-inline > li > button.btn-cio-grey {
+  color: #fff !important;
+  background-color: #777777 !important;
+  font-weight: bold !important;
+}
+
+ul.list-inline > li > label.btn-cio-grey:hover, ul.list-inline > li > button.btn-cio-grey:hover {
+  background-color: #999999 !important;
+}
+
 p {
   margin: 0 0 11.5px;
+}
+
+p.results-text {
+  font-size: 16px;
+  margin-bottom: 0;
+}
+
+.valueResultPDF {
+  margin-bottom: 20px;
 }
 
 .col-md-2 {
@@ -192,7 +228,7 @@ a:focus, a:hover {
   cursor: pointer !important;
   background-image: none !important;
   border: 1px solid transparent !important;
-  padding: 10px 14px !important;
+  padding: 0.75rem 1.25rem !important;
   font-size: 16px !important;
   line-height: 1.4375 !important;
   border-radius: 4px !important;
@@ -763,15 +799,10 @@ label[for="extended-search-field-small"] {
   margin: 0;
 }
 
-button.usa-button {
-  border: 0;
-  background: #333;
-  color: #dfdfdf;
-}
-
 .usa-search [type=submit]{
   background-image:url("img/search.svg"), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
   background-image:url("img/search.svg"), linear-gradient(transparent, transparent);
+  background-color: #333;
   background-repeat:no-repeat;
   background-position:center center;
   background-size: 1.75rem;
@@ -783,6 +814,12 @@ button.usa-button {
   margin: 0;
   padding: 0;
   width: 4rem;
+  color: #dfdfdf;
+}
+
+.usa-search [type=submit]:hover {
+  background-color: #162e51;
+  color: #dfdfdf;
 }
 
 button.usa-button > span {
@@ -1060,7 +1097,8 @@ ul.add-list-reset {
   }
 
   .cio-search-links {
-    justify-content: right;
+    align-items: flex-end;
+    justify-content: flex-end;
     text-align: right;
     flex-direction: row;
     width: 100%;
