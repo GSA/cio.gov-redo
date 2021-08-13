@@ -24,7 +24,7 @@ Other government-only pages for key Council information include:
 ## Meeting Schedule
 Below is the current schedule for both Full Council and Executive Committee meetings. CIOs can also review [previous meeting agendas and materials](https://community.max.gov/display/Egov/CIO+Council+Previous+Meeting+Documents) **(OMB MAX Login Required)**.
 
-*Note: Committees are scheduled to meet from 2:30-3:20 before each Full Council meeting. All Council meetings are held at GSA Headquarters at 1800 F St NW, Washington, DC.*<br>
+*Note: Note: Committees are scheduled to meet from 2:30-3:20 before each Full Council meeting. All Council meetings are currently held virtually.*<br>
 <br>
 {% for events in site.events %}
 {% if events.title contains 'CIO Council Meeting' %}
