@@ -917,6 +917,11 @@ ul.add-list-reset {
     padding: 1rem 0rem;
   }
 
+  .cio-header-search {
+    padding-left: 400px;
+    padding-right: 20px;
+  }
+
   .usa-nav__inner {
     border-top: 1px solid #dcdee0;
     border-bottom: 1px solid #dcdee0;
