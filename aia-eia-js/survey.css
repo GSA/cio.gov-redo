@@ -164,12 +164,6 @@ body {
   margin-bottom: 50px;
 }
 
-.btn-default:visited {
-  color: #335075 !important;
-}
-a:visited {
-  color: #7834bc;
-}
 .nav a, a.btn {
   text-decoration: none !important;
 }
@@ -200,10 +194,6 @@ a:focus, a:hover {
   color: #335075 !important;
   background-color: #eaebed !important;
   border-color: #dcdee1 !important;
-}
-
-.btn-default:visited {
-  color: #335075 !important;
 }
 
 .btn-default:hover {
@@ -547,7 +537,7 @@ input:not([disabled]):focus, select:not([disabled]):focus, textarea:not([disable
 }
 
 .usa-nav__close:visited {
-  color:#562b97;
+  color: #565c65;
 }
 
 .usa-nav__close:hover, .usa-nav__close:active{
@@ -641,6 +631,10 @@ ul.usa-nav__primary {
   line-height:1.12707;
 }
 
+a:visited {
+  color:#565c65 !important;
+}
+
 .usa-nav__primary button, .usa-nav__link {
   display: block;
   width: 200px;
@@ -706,8 +700,8 @@ ul.usa-nav__primary {
   background-size: 1.25rem;
 }
 
-.usa-nav__primary button:hover {
-  color: #005ea2;
+.usa-nav__primary button:hover, a:hover {
+  color: #005ea2 !important;
 }
 
 ul.usa-nav__submenu {
@@ -799,13 +793,13 @@ label[for="extended-search-field-small"] {
   margin: 0;
 }
 
-.usa-search [type=submit]{
+.usa-search [type=submit] {
   background-image:url("img/search.svg"), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
   background-image:url("img/search.svg"), linear-gradient(transparent, transparent);
   background-color: #333;
   background-repeat:no-repeat;
   background-position:center center;
-  background-size: 1.75rem;
+  background-size: 2rem;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 5px;
   border-top-left-radius: 0;
@@ -818,7 +812,7 @@ label[for="extended-search-field-small"] {
 }
 
 .usa-search [type=submit]:hover {
-  background-color: #162e51;
+  background-color: #1a4480;
   color: #dfdfdf;
 }
 
@@ -1160,7 +1154,7 @@ ul.add-list-reset {
     border-top: 1px solid #333;
     border-left: 1px solid #333;
     border-bottom: 1px solid #333;
-    height: 3.25rem;
+    height: 3.20rem;
     width: 250px;
     margin: 0;
   }
@@ -1176,7 +1170,7 @@ ul.add-list-reset {
     background-image:url("img/search.svg"), linear-gradient(transparent, transparent);
     background-repeat:no-repeat;
     background-position:center center;
-    background-size: 1.75rem;
+    background-size: 2.25rem;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 5px;
     border-top-left-radius: 0;
@@ -1184,7 +1178,7 @@ ul.add-list-reset {
     height: 3.25rem;
     margin: 0;
     padding: 0;
-    width: 4rem;
+    width: 4.5rem;
   }
 
   button.usa-button > span {
