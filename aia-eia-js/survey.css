@@ -264,9 +264,9 @@ a:focus, a:hover {
   cursor: pointer;
 }
 
-.banner__header-border {
+/* .banner__header-border {
   border-bottom: 4px solid #2491ff;
-}
+} */
 
 .banner__header-border--expanded {
   border-bottom: 0;
@@ -845,7 +845,7 @@ ul.add-list-reset {
 
 .footer-links-buttons {
   display: flex;
-  justify-content: right;
+  justify-content: flex-end;
 }
 
 .footer-links {
