@@ -621,6 +621,10 @@ ul.usa-nav__primary {
   color:#005ea2;
 }
 
+.usa-banner__header > a.usa-accordion__button.usa-banner__button {
+  margin-right: 200px;
+}
+
 .usa-nav__primary .usa-nav__primary-item a {
   text-decoration:none;
   list-style: none;
@@ -877,6 +881,10 @@ ul.add-list-reset {
 @media screen and (min-width: 760px) {
   .usa-banner__row {
     flex-wrap: nowrap;
+  }
+
+  .usa-banner__header > a.usa-accordion__button.usa-banner__button {
+    margin-right: 5px;
   }
   
   .usa-banner__button[aria-expanded="true"]::after {
