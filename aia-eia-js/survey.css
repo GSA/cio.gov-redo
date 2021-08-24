@@ -839,7 +839,7 @@ ul.add-list-reset {
 
 .add-list-reset > li > a {
   font-size: 1.35rem;
-  color: white;
+  color: white !important;
   text-decoration: underline;
 }
 
@@ -1070,7 +1070,7 @@ ul.add-list-reset {
   }
   
   .usa-nav__submenu a {
-    color: #ffffff;
+    color: #ffffff !important;
     display: block;
     padding: 1.25rem 1rem 1.25rem 2rem;
     font-size: 1.5rem;
