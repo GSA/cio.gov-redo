@@ -85,10 +85,15 @@ ul.list-inline > li {
   margin-bottom: 0;
 }
 
-.sv_main.sv_main.sv_bootstrapmaterial_css input[type="button"].btn-primary, .sv_main.sv_bootstrapmaterial_css button.btn-primary, .btn-success {
-  color: rgb(255, 255, 255);
+.sv_main.sv_main.sv_bootstrapmaterial_css input[type="button"].btn-primary, .sv_main.sv_bootstrapmaterial_css button.btn-primary, .btn-success, .mrgn-bttm-sm.btn.btn-success {
+  color: rgb(255, 255, 255) !important;
   background-color: rgb(33, 102, 79) !important;
-  font-size: 18px !important;
+  font-size: 16px !important;
+}
+
+.sv_main.sv_main.sv_bootstrapmaterial_css input[type="button"].btn-primary:hover, .sv_main.sv_bootstrapmaterial_css button.btn-primary:hover, .btn-success:hover, .mrgn-bttm-sm.btn.btn-success:hover {
+  color: rgb(255, 255, 255) !important;
+  background-color: rgb(50, 120, 90) !important;
 }
 
 ul.list-inline > li > button.btn-cio-blue {
@@ -315,10 +320,6 @@ button.usa-banner__button-arrow {
   padding-right: 0px !important;
 }
 
-button.usa-banner__button-arrow {
-
-}
-
 .usa-banner__button-arrow[aria-expanded="false"] {
   background-image: url("img/angle-arrow-down-primary.svg"), linear-gradient(transparent, transparent);
   background-repeat: no-repeat;
@@ -352,10 +353,21 @@ button.usa-banner__button-arrow {
 }
 
 .display-none {
+  outline: 0 !important;
+  border-width: 0px !important;
+  border-style: none !important;
+  border-color: transparent !important;
   display: none !important;
 }
 
-.usa-banner__button, button.usa-banner__button-arrow, button.usa-banner__button-arrow:active, button.usa-banner__button-arrow:focus {
+.usa-banner__button {
+  border-width: 0px !important;
+  border-style: none !important;
+  border-color: transparent !important;
+}
+
+.usa-banner__button[aria-expanded="true"]:active, .usa-banner__button[aria-expanded="true"]:focus {
+  outline: 0 !important;
   border-width: 0px !important;
   border-style: none !important;
   border-color: transparent !important;
