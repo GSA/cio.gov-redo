@@ -262,6 +262,16 @@ a:focus, a:hover {
 .usa-accordion__button {
   color: #005ea2;
   cursor: pointer;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+button.usa-banner__button-arrow {
+  border: 0;
+  padding: 0;
+  margin: 0 !important;
+  margin-left: 5px !important;
+  align-items: center !important;
 }
 
 /* .banner__header-border {
@@ -305,16 +315,20 @@ a:focus, a:hover {
   padding-right: 0px !important;
 }
 
+button.usa-banner__button-arrow {
+
+}
+
 .usa-banner__button-arrow[aria-expanded="false"] {
   background-image: url("img/angle-arrow-down-primary.svg"), linear-gradient(transparent, transparent);
   background-repeat: no-repeat;
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: 0.5rem;
+  background-size: 0.75rem;
   content: '';
   display: inline-block;
-  height: 0.5rem;
-  width: 0.5rem;
+  height: 0.75rem;
+  width: 0.75rem;
   margin-left: 2px;
   margin-right: 15px;
 }
@@ -324,11 +338,11 @@ a:focus, a:hover {
   background-repeat: no-repeat;
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: 0.5rem;
+  background-size: 0.75rem;
   content: '';
   display: inline-block;
-  height: 0.5rem;
-  width: 0.5rem;
+  height: 0.75rem;
+  width: 0.75rem;
   margin-left: 2px;
   margin-right: 15px;
 }
@@ -339,6 +353,12 @@ a:focus, a:hover {
 
 .display-none {
   display: none !important;
+}
+
+.usa-banner__button, button.usa-banner__button-arrow, button.usa-banner__button-arrow:active, button.usa-banner__button-arrow:focus {
+  border-width: 0px !important;
+  border-style: none !important;
+  border-color: transparent !important;
 }
 
 .usa-banner__button[aria-expanded="true"]::after {
@@ -395,7 +415,7 @@ a:focus, a:hover {
   margin-top: 10px;
 }
 
-html{
+html {
   -webkit-font-feature-settings:'kern' 1;
           font-feature-settings:'kern' 1;
   -webkit-font-kerning:normal;
@@ -404,12 +424,12 @@ html{
   font-size:100%;
 }
 
-a{
+a {
   color:#005ea2;
   text-decoration:underline;
 }
 
-a:hover{
+a:hover {
   color:#1a4480;
   outline: 0;
 }
@@ -617,11 +637,11 @@ ul.usa-nav__primary {
   list-style: none;
 }
 
-.usa-banner__header > a.usa-accordion__button.usa-banner__button > span {
+.usa-banner__header > button.usa-accordion__button.usa-banner__button > button {
   color:#005ea2;
 }
 
-.usa-banner__header > a.usa-accordion__button.usa-banner__button {
+.usa-banner__header > button.usa-accordion__button.usa-banner__button {
   margin-right: 200px;
 }
 
@@ -682,6 +702,11 @@ a:visited {
 
 .usa-nav__primary button:visited {
   color:#ffffff;
+}
+
+.button.usa-accordion__button.usa-banner__button[aria-expanded=true] {
+  outline: 0;
+  border: 0;
 }
 
 .usa-nav__primary button[aria-expanded=false] {
@@ -888,6 +913,7 @@ ul.add-list-reset {
   }
   
   .usa-banner__button[aria-expanded="true"]::after {
+    border: 0;
     background-image: url("img/close-blue-60v-alt.svg"), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
     background-image: url("img/close-blue-60v-alt.svg"), linear-gradient(transparent, transparent);
     background-repeat: no-repeat;
