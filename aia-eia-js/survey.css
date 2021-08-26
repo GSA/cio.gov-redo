@@ -213,7 +213,7 @@ a:focus, a:hover {
 }
 
 .btn {
-  display: inline-block !important;
+  display: inline-block;
   margin-bottom: 0 !important;
   font-weight: 400 !important;
   text-align: center !important;
@@ -231,6 +231,10 @@ a:focus, a:hover {
   -moz-user-select: none !important;
   -ms-user-select: none !important;
   user-select: none !important;
+}
+
+.btn.sv_complete_btn {
+  display: inline-block !important;
 }
 
 .usa-banner > .container {
@@ -818,6 +822,10 @@ label[for="extended-search-field-small"] {
   display: none;
 }
 
+.usa-banner__button-text {
+  text-decoration: underline;
+}
+
 #extended-search-field-small {
   padding-bottom: 0;
   padding-top: 0;
@@ -837,7 +845,6 @@ label[for="extended-search-field-small"] {
 .usa-search [type=submit] {
   background-image:url("img/search.svg"), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
   background-image:url("img/search.svg"), linear-gradient(transparent, transparent);
-  background-color: #333;
   background-repeat:no-repeat;
   background-position:center center;
   background-size: 2rem;
@@ -1207,7 +1214,6 @@ ul.add-list-reset {
 
   button.usa-button {
     border: 0;
-    background: #333;
     color: #dfdfdf;
   }
 
