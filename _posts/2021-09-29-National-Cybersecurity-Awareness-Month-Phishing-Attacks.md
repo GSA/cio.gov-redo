@@ -2,11 +2,11 @@
 layout: post 
 title: National Cybersecurity Awareness Month &#58; Phishing Attacks 
 excerpt: October 1<sup>st</sup> marks the beginning of the 18<sup>th</sup> annual Cybersecurity Awareness Month where, once again, the Federal Cybersecurity Information Security Officer (CISO) Council is proud to reinforce its commitment to safe and secure online behavior. While remote work continues to be the ‘new normal’, cyber criminals are ramping up their focus on this expanded attack surface and seeking to take advantage of weary workers. Phishing attacks have been on the rise for decades, and this method of attack continues to be one of the most dangerous threats to an organization and the easiest way for an attacker to deliver malicious or weaponized payloads. 
-date: 28 Sept 2021
-display-date: 28 Sept 2021
+date: 29 Sept 2021
+display-date: 29 Sept 2021
 author: Greg Sisson, Chief Information Security Officer, Department of Energy
 tags: 2021 cybersecurity phishing &#35;Becybersmart 
-permalink: /2021-09-28-National-Cybersecurity-Awareness-Month-Phishing-Attacks/
+permalink: /2021-09-29-National-Cybersecurity-Awareness-Month-Phishing-Attacks/
 
 ---
 
