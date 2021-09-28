@@ -5,7 +5,7 @@ excerpt: As we welcome the Fall season, we also welcome National Cybersecurity A
 date: 28 Sept 2021
 display-date: 28 Sept 2021
 author: Steven Hernandez, Co-Chair Federal Chief Information Security Officer Council, Chief Information Security Officer, U.S. Department of Education
-tags: 2021 cybersecurity Becybersmart
+tags: 2021 cybersecurity &#35;Becybersmart
 permalink: /2021-09-28-National-Cybersecurity-Awareness-Month-Kick-Off/
 
 ---
