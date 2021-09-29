@@ -1,12 +1,12 @@
 ---
 title: Our Team and Leadership
-subtitle: CIO Council - Services, Strategy, and Infrastructure (SSI) Committee
+subtitle: CIO Council- Enterprise Operations Committee (E-Ops); formerly SSI
 layout: page
-permalink: /about/members-and-leadership/ssi-committee/
+permalink: /about/members-and-leadership/e-ops/
 
 ---
-# About the Services, Strategy, and Infrastructure (SSI) Committee
-The SSI Committee operates under the authority of the CIO Council. In furthering the Council’s goals, the Committee addresses topics with the area defined by the Committee’s Purpose through:
+# About the Enterprise Operations Committee (E-Ops); formerly SSI
+The E-Ops Committee operates under the authority of the CIO Council. In furthering the Council’s goals, the Committee addresses topics with the area defined by the Committee’s Purpose through:
 * the application of Council resources to develop strategies and policy advice and to sponsor or host events; '
 * the participation of Committee members;
 * coordination with the Office of Federal CIO; and
@@ -23,14 +23,22 @@ The committee focuses on acquisition reform and Federal IT infrastructure throug
 * Shared Services
 
 # Leadership
-**Sylvia Burns, Co-Chair**<br/>
+**Sylvia Burns, Tri-Chair**<br/>
 Chief Information Officer and Chief Privacy Officer<br/>
 Federal Deposit Insurance Corporation <br/>
 
+**Vaughn Noga, Tri-Chair**  
+Chief Information Officer  
+Environmental Protection Agency
+
+**Jeff Seaton, Tri-Chair**  
+Chief Information Officer
+National Aeronautics and Space Administration
 
 
 
-The [SSI Committee Max Page](https://community.max.gov/x/URp5K) **(login required)** provides tools and resources to encourage information sharing and collaboration.
+
+The [E-Ops Max Page](https://community.max.gov/x/URp5K) **(login required)** provides tools and resources to encourage information sharing and collaboration.
 
 &nbsp;
 
