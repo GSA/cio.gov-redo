@@ -5,7 +5,7 @@ excerpt: October 1<sup>st</sup> marks the beginning of the 18<sup>th</sup> annua
 date: 29 Sept 2021
 display-date: 29 Sept 2021
 author: Greg Sisson, Chief Information Security Officer, Department of Energy
-tags: 2021 cybersecurity phishing &#35;Becybersmart 
+tags: 2021 cybersecurity &#35;Becybersmart phishing
 permalink: /2021-09-29-National-Cybersecurity-Awareness-Month-Phishing-Attacks/
 
 ---
