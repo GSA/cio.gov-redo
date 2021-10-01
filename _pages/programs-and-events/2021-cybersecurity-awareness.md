@@ -46,5 +46,9 @@ We will feature blog posts from CISO Council leadership, short video blogs, and 
 - [Cyber Career Opportunities](https://www.cisa.gov/sites/default/files/publications/Cybersecurity%20Awareness%20Month%202021%20-%20Cyber%20Career%20Profiles.pdf) (PDF)
 
 ### Week of October 26th: Cybersecurity First
+<div class="iframe_container">
+    <img src="{{ site.baseurl }}/assets/images/events/cyber-smart.png" style="width: 100%">
+</div>
+
 - Read the blog by Paul Cunningham, CISO, Department of Veteran Affairs
 - [Cybersecurity Starts with You](https://www.cisa.gov/sites/default/files/publications/Cybersecurity%20Awareness%20Month%202021%20-%20Cybersecurity%20Starts%20With%20You%20Tip%20Sheet.pdf) (PDF)
