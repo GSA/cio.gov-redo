@@ -47,7 +47,7 @@ We will feature blog posts from CISO Council leadership, short video blogs, and 
 
 ### Week of October 26th: Cybersecurity First
 <div class="iframe_container">
-    <img src="{{ site.baseurl }}/assets/images/events/cyber-smart.png" style="width: 100%">
+    <img src="{{ site.baseurl }}/assets/images/events/cyber-smart.PNG" style="width: 100%">
 </div>
 
 - Read the blog by Paul Cunningham, CISO, Department of Veteran Affairs
