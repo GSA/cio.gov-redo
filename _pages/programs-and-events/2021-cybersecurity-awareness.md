@@ -38,7 +38,7 @@ We will feature blog posts from CISO Council leadership, short video blogs, and 
 
 ### Week of October 18th: Career Awareness Week
 <div class="iframe_container">
-    <img src="{{ site.baseurl }}/assets/images/events/CCAW_BannerWithDate_2021.png">
+    <img src="{{ site.baseurl }}/assets/images/events/CCAW_BannerWithDate_2021.png" alt="Cyber Security Career Awareness Week October 18-23, 2021. Images of people in cyber careers. Operate and Maintain, Analyze, Collect and Operate, Securely PRovision, Protect and Defend, Investigate, Oversee and Govern. ">
 </div>
 
 - [Cybersecurity Career Awareness Week](https://www.nist.gov/itl/applied-cybersecurity/nice/events/cybersecurity-career-awareness-week)
@@ -47,7 +47,7 @@ We will feature blog posts from CISO Council leadership, short video blogs, and 
 
 ### Week of October 26th: Cybersecurity First
 <div class="iframe_container">
-    <img src="{{ site.baseurl }}/assets/images/events/cyber-smart.PNG" style="width: 100%">
+    <img src="{{ site.baseurl }}/assets/images/events/cyber-smart.PNG" style="width: 100%" alt="Be Cyber Smart #CyberMonth. Image of people on their phones. CISA Logo.">
 </div>
 
 - Read the blog by Paul Cunningham, CISO, Department of Veteran Affairs
