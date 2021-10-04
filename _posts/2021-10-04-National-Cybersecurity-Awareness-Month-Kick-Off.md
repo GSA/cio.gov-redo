@@ -2,11 +2,11 @@
 layout: post
 title: National Cybersecurity Awareness Month Kick-Off
 excerpt: As we welcome the Fall season, we also welcome National Cybersecurity Awareness Month (NCSAM.)  As the Co-Chair of the Federal CISO council I find NCSAM to be a time of reflection over the past year and what we have accomplished and how we have grown as a Council and a federal Cybersecurity workforce. By any measure this was a year for the books.
-date: 28 Sept 2021
-display-date: 28 Sept 2021
+date: 4 Oct 2021
+display-date: 4 Oct 2021
 author: Steven Hernandez, Co-Chair Federal Chief Information Security Officer Council, Chief Information Security Officer, U.S. Department of Education
 tags: 2021 cybersecurity &#35;Becybersmart
-permalink: /2021-09-28-National-Cybersecurity-Awareness-Month-Kick-Off/
+permalink: /2021-10-04-National-Cybersecurity-Awareness-Month-Kick-Off/
 
 ---
 
@@ -18,4 +18,4 @@ We continued strengthening our partnerships with the Cybersecurity and Infrastru
 
 As we engage in this month’s NCSAM, I encourage everyone in the federal workforce to take a moment to participate in hundreds of events throughout our organizations and our partners.  The CISO Council and CISA have aligned our themes with the National Cybersecurity Alliance this year.  The first theme is “Be Cyber Smart.”  A call to action for everyday hygiene, sharp thinking about cyber in our routine actions and ways to raise the cost of an attack through smart, preventative, action.  Next is “Fight the Phish!”  Phishing continues to be a top vector of attack and shows no sign of slowing down.  When combined with ransomware and fraud, phishing continues to be a powerful attack, that fortunately, can be put down with training, tools, and diligence.  The third theme this month is “Explore. Experience. Share.” Led by the National Initiative for Cybersecurity Education (NICE), this theme coincides with the Cybersecurity Career Awareness Week and celebrates cybersecurity professionals and encourages everyone with an interest to explore the cybersecurity career field.  Finally, we’ll wrap up the month with “Cybersecurity First.” This theme is a call to action in ensuring cybersecurity is among the “firsts” when we think about building new systems, designing new software, installing a new app or even deploying a new wifi router in our home.  We hope you can experience events from every week and participate throughout the Month.
 
-In closing, Chris DeRusha, the Federal CISO and my cochair for the council, and the CISO council would like to welcome National Cybersecurity Director Chris Ingles to say a few words about NSCAM and the importance of cybersecurity and the vital role we all play.  On behalf of the CIO, CISO, Privacy and CDO councils we thank our federal workforce for embodying this year’s theme “Do your Part. #BeCyberSmart.”  I hope you’ll enjoy this year’s videos, twitter take-overs, blog postings and events!
+On behalf of the CIO, CISO, Privacy and CDO councils we thank our federal workforce for embodying this year’s theme “Do your Part. #BeCyberSmart.”  I hope you’ll enjoy this year’s videos, twitter take-overs, blog postings and events!
