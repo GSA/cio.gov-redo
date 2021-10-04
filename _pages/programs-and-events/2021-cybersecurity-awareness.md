@@ -24,7 +24,7 @@ We will feature blog posts from CISO Council leadership, short video blogs, and 
     </div>
 </div>
 
-- Read the Kick Off Blog by Steven Hernandez, CISO, Department of Ed.
+- Read the [Kick Off Blog by Steven Hernandez,]({{site.baseurl}}/2021-10-04-National-Cybersecurity-Awareness-Month-Kick-Off/) CISO, Department of Ed.
 - CISA - [Why is Cybersecurity Important?](https://www.cisa.gov/sites/default/files/publications/Cybersecurity%20Awareness%20Month%202021%20-%20Why%20is%20Cybersecurity%20Important.pdf)
 - CISA - [Creating Passwords](https://www.cisa.gov/sites/default/files/publications/Cybersecurity%20Awareness%20Month%202021%20-%20Creating%20Passwords%20Tip%20Sheet.pdf)
 - USDA - [Privacy, Access & Authentication Tip Sheet](https://www.cio.gov/assets/files/USDA_Privacy-Infographic-Accessible-20200924.pdf)
