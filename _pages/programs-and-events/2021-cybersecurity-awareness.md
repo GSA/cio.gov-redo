@@ -38,7 +38,7 @@ We will feature blog posts from CISO Council leadership, short video blogs, and 
     </div>
 </div>
 
-- Read the blog about Fight the Phish by Greg Sisson, CISO, Department of Energy
+- Read the [blog about Fight the Phish]({{site.baseurl}}/2021-10-12-National-Cybersecurity-Awareness-Month-Phishing-Attacks/) by Greg Sisson, CISO, Department of Energy
 - CISA - [Cyber Secure at Work Tip Sheet](https://www.cisa.gov/sites/default/files/publications/Cybersecurity%20Awareness%20Month%202021%20-%20Cyber%20Secure%20at%20Work%20Tip%20Sheet.pdf) (PDF)
 - CISA - [Protecting Your Digital Home Tip Sheet](https://www.cisa.gov/sites/default/files/publications/Cybersecurity%20Awareness%20Month%202021%20-%20Protecting%20Your%20Digital%20Home%20Tip%20Sheet_1.pdf) (PDF)
 - CISA - [Social Media Tip Sheet](https://www.cisa.gov/sites/default/files/publications/Cybersecurity%20Awareness%20Month%202021%20-%20Social%20Media%20Tip%20Sheet.pdf) (PDF)
