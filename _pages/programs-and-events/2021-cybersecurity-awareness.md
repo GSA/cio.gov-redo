@@ -45,14 +45,17 @@ We will feature blog posts from CISO Council leadership, short video blogs, and 
 - CISA - [Phishing Tip Sheet](https://www.cisa.gov/sites/default/files/publications/Cybersecurity%20Awareness%20Month%202021%20-%20Phishing%20Tip%20Sheet.pdf)
 
 ### Week of October 18th: Career Awareness Week
-<div class="iframe_container">
-    <img src="{{ site.baseurl }}/assets/images/events/CCAW_BannerWithDate_2021.png" alt="Cyber Security Career Awareness Week October 18-23, 2021. Images of people in cyber careers. Operate and Maintain, Analyze, Collect and Operate, Securely PRovision, Protect and Defend, Investigate, Oversee and Govern. ">
-</div>
-
 - [Cybersecurity Career Awareness Week](https://www.nist.gov/itl/applied-cybersecurity/nice/events/cybersecurity-career-awareness-week)
 - Read the [blog about Career Awareness Week]({{site.baseurl}}/2021-10-18-We-Need-You-For-Cybersecurity/) by Paul Blahusch, CISO, Department of Labor
 - [Cyber Career Opportunities](https://www.cisa.gov/sites/default/files/publications/Cybersecurity%20Awareness%20Month%202021%20-%20Cyber%20Career%20Profiles.pdf) (PDF)
-
+- [Watch cybersecurity professionals from across the government discuss Cybersecurity Careers in the Federal Workforce.   Moderated by Paul Cunningham, Chief Information Security Officer, U.S. Department of Veterans.](https://www.youtube.com/watch?v=R-zAB3wB6pc)
+<div class="iframe_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R-zAB3wB6pc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+- [Watch cybersecurity professionals from across the government discuss Federal Cybersecurity Career Opportunities. Moderated by Paul Cunningham, Chief Information Security Officer, U.S. Department of Veterans Affairs.](https://youtu.be/HV-M5nrluSA)
+<div class="iframe_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HV-M5nrluSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ### Week of October 26th: Cybersecurity First
 <div class="iframe_container">
     <img src="{{ site.baseurl }}/assets/images/events/cyber-smart.PNG" style="width: 100%" alt="Be Cyber Smart #CyberMonth. Image of people on their phones. CISA Logo.">
