@@ -50,7 +50,7 @@ We will feature blog posts from CISO Council leadership, short video blogs, and 
 </div>
 
 - [Cybersecurity Career Awareness Week](https://www.nist.gov/itl/applied-cybersecurity/nice/events/cybersecurity-career-awareness-week)
-- Read the blog about Career Awareness Week by Paul Blahusch, CISO, Department of Labor
+- Read the [blog about Career Awareness Week]({{site.baseurl}}/2021-10-18-We-Need-You-For-Cybersecurity/) by Paul Blahusch, CISO, Department of Labor
 - [Cyber Career Opportunities](https://www.cisa.gov/sites/default/files/publications/Cybersecurity%20Awareness%20Month%202021%20-%20Cyber%20Career%20Profiles.pdf) (PDF)
 
 ### Week of October 26th: Cybersecurity First
