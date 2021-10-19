@@ -14,7 +14,7 @@ img-alt: nice framework
 
 The National Initiative for Cybersecurity Education (NICE) framework is a cybersecurity workforce framework that categorizes and describes the cybersecurity workforce. The <a href="https://www.chcoc.gov/content/guidance-assigning-new-cybersecurity-codes-positions-information-technology-cybersecurity">2017 OPM memo</a> directing agencies to assign cybersecurity codes to IT, Cybersecurity, and Cyber-Related functions led to the development of the NICE framework.
 
-<img src="{{site.baseurl}}/assets/images/blog/nice-framework.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src="{{site.baseurl}}/assets/images/blog/nice-framework.png" alt="nice framework" display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 The Framework is comprised of the following areas:
 - **Categories** – High-level grouping of   standard cybersecurity functions.
