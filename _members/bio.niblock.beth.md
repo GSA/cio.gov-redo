@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Chief Information Officer
 agency: Department of Housing and Urban Development
-bio-image: /bio_niblock.jpeg
+bio-image: /bio_niblock.jpg
 bio-image-alt-text: Beth Niblock
 bio-phone:
 bio-email:
