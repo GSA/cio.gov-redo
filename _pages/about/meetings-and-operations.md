@@ -24,7 +24,17 @@ Other government-only pages for key Council information include:
 ## Meeting Schedule
 Below is the current schedule for both Full Council and Executive Committee meetings. CIOs can also review [previous meeting agendas and materials](https://community.max.gov/display/Egov/CIO+Council+Previous+Meeting+Documents) **(OMB MAX Login Required)**.
 
-*Note: Note: Committees are scheduled to meet from 2:30-3:20 before each Full Council meeting. All Council meetings are currently held virtually.*<br>
+*Note: Committees are scheduled to meet from 2:30-3:20 before each Full Council meeting. All Council meetings are currently held virtually.*<br>
+
+*Holiday Schedule update*
+
+**Full Council:**
+* **November -** Wednesday, November 17, 2021
+* **December -**  Wednesday, December 15, 2021
+
+**CISO Council:**
+* **November -** Tuesday, November 16, 2021
+* **December -**  Tuesday, December 14, 2021
 <br>
 {% for events in site.events %}
 {% if events.title contains 'CIO Council Meeting' %}
