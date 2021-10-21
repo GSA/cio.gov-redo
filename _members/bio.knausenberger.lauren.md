@@ -7,7 +7,7 @@ title: About Our Council
 
 position: Air Force Deputy Chief Information Officer
 agency: Officer at United States
-bio-image: /bio_knausenberger.PNG
+bio-image: /bio_knausenberger_new.png
 bio-image-alt-text: Lauren Knausenberger
 bio-phone:
 bio-email:
