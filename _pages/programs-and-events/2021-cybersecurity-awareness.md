@@ -61,5 +61,5 @@ We will feature blog posts from CISO Council leadership, short video blogs, and 
     <img src="{{ site.baseurl }}/assets/images/events/cyber-smart.PNG" style="width: 100%" alt="Be Cyber Smart #CyberMonth. Image of people on their phones. CISA Logo.">
 </div>
 
-- Read the blog by Paul Cunningham, CISO, Department of Veteran Affairs
+- Read the [blog]({{site.baseurl}}/2021-10-25-Is-Your-TV-Listening-to-You/) by Paul Cunningham, CISO, Department of Veteran Affairs
 - [Cybersecurity Starts with You](https://www.cisa.gov/sites/default/files/publications/Cybersecurity%20Awareness%20Month%202021%20-%20Cybersecurity%20Starts%20With%20You%20Tip%20Sheet.pdf) (PDF)
