@@ -2,8 +2,8 @@
 layout: post
 title: Is Your TV Listening to You? Cyber Tips from a Chief Information Security Officer
 excerpt: The Nation’s response to the pandemic has highlighted that our society not only uses technology but is also profoundly reliant on technology in our daily lives.When new technology becomes available, we are often amazed and excited to incorporate it into our lives. However, that amazement quickly becomes an expectation for reliability, and the excitement turns to a yearning for more innovation. Yet, in our efforts to satisfy this drive for greater innovation, we often overlook the risks that come with deploying cutting-edge technology while sustaining what we already have.
-date: 24 Oct 2021
-display-date: 24 Oct 2021
+date: 25 Oct 2021
+display-date: 25 Oct 2021
 author: Paul Cunningham, Chief Information Security Officer, Department of Veterans Affairs
 tags: 2021 cybersecurity &#35;Becybersmart ncsam
 permalink: /2021-10-25-Is-Your-TV-Listening-to-You/
