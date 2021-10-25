@@ -63,7 +63,7 @@ We will feature blog posts from CISO Council leadership, short video blogs, and 
 
 - Read the [blog]({{site.baseurl}}/2021-10-25-Is-Your-TV-Listening-to-You/) by Paul Cunningham, CISO, Department of Veteran Affairs
 - [Cybersecurity Starts with You](https://www.cisa.gov/sites/default/files/publications/Cybersecurity%20Awareness%20Month%202021%20-%20Cybersecurity%20Starts%20With%20You%20Tip%20Sheet.pdf) (PDF)
-- [Watch Chris Inglis, National Cyber Director, Dis about Cyber Security First.](https://youtu.be/SJMVf78QtYs)
+- [Watch Chris Inglis, National Cyber Director, PSA on Cyber Security First.](https://youtu.be/SJMVf78QtYs)
 <div class="iframe_container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SJMVf78QtYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
