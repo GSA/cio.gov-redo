@@ -1,0 +1,19 @@
+---
+layout: defaultwithbanner
+---
+
+{% comment %}
+This template is for a single page that does not have a date associated with it. For example, an about page.
+{% endcomment %}
+
+<div id="main-content" tabindex="-1" style="outline: 0px;">
+<div class="grid-row grid-gap">
+  {% if page.sidenav == true %}
+  {% include sidenav.html %}
+  {% endif %}
+
+  <div class="usa-layout-docs__main desktop:grid-col-8">
+    {{ content }}
+  </div>
+</div>
+</div>

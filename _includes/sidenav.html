@@ -3,17 +3,91 @@ The sidenav is not loaded by default on the main pages. To include this navigati
 _layouts/page.html layout template, or you can add "sidenav: true" in the front-matter of your pages
 {% endcomment %}
 
-<aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-top-34r">
-  <nav>
-    <ul class="usa-sidenav">
 
-      <li class="usa-sidenav__item">
-        <a class="usa-current" href="{{site.baseurl}}/{{ page.permalink }}">{{ page.sidenav-title }}</a>
-      </li>
+ <!--Creating a counter for identifying unique classes - using only i counter for parent-->
+{% assign i = 0 %}
+<aside class="usa-layout-docs-sidenav desktop:grid-col-4 padding-top-3">
+  <nav aria-label="Secondary navigation">
+    <ul class="usa-sidenav">
+      {% assign items = site.data.sidenavbar %}  <!--yaml data file-->
+      {% for item in items %}       <!--Iterating over an array- parent -->
+      {% assign i = i | plus:1 %}   <!--incrementing the counter-->
+       {% if item.parent contains "|||" %}
+       {% assign ahref = item.parent | split: '|||' %}
+       {% endif %}
+      {% if page.url contains "executive-summary"  and  i == 1   %}
+         <li><a id="parent-href-list-{{i}}" href="{{ site.baseurl }}{{ ahref[1] }}" class="usa-current">{{ ahref[0] }}</a>
+      {% elsif page.url contains "cio-role-at-glance"  and i == 2   %}
+          <li><a id="parent-href-list-{{i}}" href="" class="usa-current">{{ ahref[0] }}</a>
+      {% elsif page.url contains "cio-responsibilities"  and i == 3   %}
+         <li><a id="parent-href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
+      {% elsif page.url contains "it-laws"  and i == 4 %}
+         <li><a id="parent-href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
+      {% elsif page.url contains "other-it-authorities"  and i == 5 %}
+         <li><a id="parent-href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
+      {% elsif page.url contains "key-stakeholders"  and i == 6 %}
+          <li><a id="parent-href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
+      {% elsif page.url contains "key-organizations"  and i == 7 %}
+          <li><a id="parent-href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
+      {% elsif page.url contains "policies-initiatives"  and i == 8 %}
+          <li><a id="parent-href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
+      {% elsif page.url contains "reporting"  and i == 9 %}
+          <li><a id="parent-href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>
+      {% elsif page.url contains "rep-calendar"  and i == 10   %}
+      <li><a id="parent-href-list-{{i}}" href="" class="usa-current">{{ ahref[0] }}</a>
+      {% elsif page.url contains "additional-resources"  and i == 11 %}
+            <li><a id="parent-href-list-{{i}}" href="" class="usa-current">{{  item.parent }}</a>                           
+      {% else %} 
+        {% if item.parent contains "|||" %}
+        <li><a id="parent-href-list-{{i}}" href="{{ site.baseurl }}{{ ahref[1] }}" class="usa-sidenav__item">{{ ahref[0] }} </a>
+        {% else %} 
+        <li><a id="parent-href-list-{{i}}" href="" class="usa-sidenav__item">{{  item.parent }} </a>
+        {% endif %}
+      {% endif %}
+      
+      <ul id="sub-nav-list-{{i}}" class="usa-sidenav__sublist">
+        {% assign j = 0 %}
+        {% for subnav_item in item.children %}
+             
+            {% assign j = j | plus:1 %}   <!--incrementing the counter for child-->
+          <!--check if child is current--and added an indicator for clickevent-->
+
+            {% if page.url ==   subnav_item.link  %}
+            <li class="usa-sidenav__item"><a class="usa-current" id="child-href-list-{{i}}-{{j}}" href="{{ site.baseurl }}{{  subnav_item.link }}?clickEvt">{{  subnav_item.text }}</a>
+            {% else %}
+            <li class="usa-sidenav__item"><a id="child-href-list-{{i}}-{{j}}" href="{{ site.baseurl }}{{  subnav_item.link }}?clickEvt">{{  subnav_item.text }}</a>
+            {% endif %}
+             
+            
+             {% for grandchild_item in subnav_item.grandchildren %}
+                
+                {% if forloop.first %}
+               
+                <ul id="grandchild-sub-nav-list-{{j}}" class="usa-sidenav__sublist">
+                {% endif %}  
+                     <!--check if grandchild is current-- and added an indicator for clickevent-->
+
+                    {% if page.url ==   grandchild_item.link  %}
+                    <li class="usa-sidenav__item"><a  class="usa-current" href="{{ site.baseurl }}{{  grandchild_item.link }}?clickEvt">{{  grandchild_item.text }}</a></li>
+                    {% else %}
+                    <li class="usa-sidenav__item"><a  href="{{ site.baseurl }}{{  grandchild_item.link }}?clickEvt">{{  grandchild_item.text }}</a></li>
+                    {% endif %}
+                   
+                {% if forloop.last %}
+                </ul>
+                {% endif %}  
+             {% endfor %}
+            </li>
+        {% endfor %}
+          </ul>
+        </li>
+      {% endfor %}
+      <!--
+      <a class="usa-current" href="{{site.baseurl}}/{{ page.permalink }}">{{ page.sidenav-title }}</a> 
       <li class="usa-sidenav__item">
         <a href="{{site.baseurl}}/{{ page.permalink }}">{{ page.sidenav-title }}</a>
-      </li>
-
+      </li>-->
     </ul>
+  
   </nav>
 </aside>
