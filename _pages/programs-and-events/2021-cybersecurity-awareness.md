@@ -67,3 +67,6 @@ We will feature blog posts from CISO Council leadership, short video blogs, and 
 <div class="iframe_container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SJMVf78QtYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+### Week of November 10th: Cybersecurity Awareness Month Round Up
+- [CIOs, CISOs, and their staff pulled together for another successful Cybersecurity Awareness Month.]({{site.baseurl}}/2021-11-10-Cybersecurity-Awareness/) 
