@@ -1,0 +1,716 @@
+{
+  "updated": "2021-09-03T13:36:46",
+  "cioInfo": [
+    {
+      "title": "Department of Labor CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Department of Labor",
+          "agencyCode": "012",
+          "cio": {
+            "firstName": "Gundeep",
+            "lastName": "Ahluwalia",
+            "email": "ahluwalia.gundeep@dol.gov",
+            "phone": "202-693-4446",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_ahluwalia.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/mr-gundeep-ahluwalia/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "Department of Labor 200 Constitution Avenue, NW Washington, DC 20210",
+              "address2": "",
+              "city": "Washington",
+              "state": "DC",
+              "zip": "20210"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Department of Agriculture Acting CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Department of Agriculture",
+          "agencyCode": "005",
+          "cio": {
+            "firstName": "Gary",
+            "lastName": "Washington",
+            "email": "Gary.S.Washington@ocio.usda.gov",
+            "phone": "202-720-8833",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_washington.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/washington-gary/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "United States Department of Agriculture 1400 Independence Avenue SW Whitten Building,\n                            Room Washington, D.C. 20250",
+              "address2": "",
+              "city": "Washington",
+              "state": "DC",
+              "zip": "20416"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Department of Transportation CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Department of Transportation",
+          "agencyCode": "021",
+          "cio": {
+            "firstName": "Jack",
+            "lastName": "Albright",
+            "email": "",
+            "phone": "",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/dt.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/albright-jack/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "",
+              "address2": "",
+              "city": "",
+              "state": "",
+              "zip": ""
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Department of the Treasury Acting CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Department of the Treasury",
+          "agencyCode": "015",
+          "cio": {
+            "firstName": "Tony",
+            "lastName": "Arcadi",
+            "email": "",
+            "phone": "",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_arcadi.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/arcadi-tony/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "Department of the Treasury 1750 Pennsylvania Avenue, NW 12103 Washington, DC 20006",
+              "address2": "",
+              "city": "Washington",
+              "state": "DC",
+              "zip": "20016"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Department of the Interior CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Department of the Interior",
+          "agencyCode": "010",
+          "cio": {
+            "firstName": "Bill",
+            "lastName": "Vajda",
+            "email": "",
+            "phone": "",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_vajda.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/bill-vajda/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "",
+              "address2": "",
+              "city": "Washington",
+              "state": "DC",
+              "zip": "20240"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Department of Housing and Urban Development CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Department of Housing and Urban Development",
+          "agencyCode": "025",
+          "cio": {
+            "firstName": "Vacant"
+          }
+        }
+      }
+    },
+    {
+      "title": "Office of Personnel Management Acting CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Office of Personnel Management",
+          "agencyCode": "027",
+          "cio": {
+            "firstName": "Guy",
+            "lastName": "Cavallo",
+            "email": "",
+            "phone": "",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_Cavallo.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/guy-cavallo/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "Office of Personnel Management 1900 E Street, NW Room 5415 Washington, DC 20415",
+              "address2": "",
+              "city": "Washington",
+              "state": "DC",
+              "zip": "20415"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Department of Homeland Security CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Department of Homeland Security",
+          "agencyCode": "024",
+          "cio": {
+            "firstName": "Eric",
+            "lastName": "Hysen",
+            "email": "",
+            "phone": "",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/hhs.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/hysen-eric/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "",
+              "address2": "",
+              "city": "",
+              "state": "",
+              "zip": ""
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Department of the Army CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "U.S. Department of the Army",
+          "agencyCode": "",
+          "cio": {
+            "firstName": "Bruce",
+            "lastName": "Crawford",
+            "email": "",
+            "phone": "",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_crawford.png",
+            "linkToBio": "https://www.cio.gov/lieutenant-general-bruce-t-crawford/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "Department of the Army 107 Army Pentagon Room 3E608 Washington, DC 20310 Office Phone:\n                            703-695-4366 Office Fax: 703-695-3091",
+              "address2": "",
+              "city": "Washington",
+              "state": "DC",
+              "zip": "20310"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Environmental Protection Agency Acting CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Environmental Protection Agency",
+          "agencyCode": "020",
+          "cio": {
+            "firstName": "Vaughn",
+            "lastName": "Noga",
+            "email": "noga.vaughn@epa.gov",
+            "phone": "202-564-6665",
+            "dateAppointed": "August 6, 2018",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_noga.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/vaughn-noga/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "1200 Pennsylvania Ave NW",
+              "address2": "",
+              "city": "Washington",
+              "state": "DC",
+              "zip": "20004"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "US Army Corps of Engineers CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "U.S. Army Corps of Engineers",
+          "agencyCode": "202",
+          "cio": {
+            "firstName": "Dovarius L.",
+            "lastName": "Peoples",
+            "email": "dovarius.l.peoples@usace.army.mil",
+            "phone": "202-761-0273",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_peoples.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/peoples-dovarius/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "HQ USACE/CECI-ZA 441 G St. NW Washington DC, 20314-1000",
+              "address2": "",
+              "city": "Washington",
+              "state": "DC",
+              "zip": "20134"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Department of Education CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Department of Education",
+          "agencyCode": "018",
+          "cio": {
+            "firstName": "Jason",
+            "lastName": "Gray",
+            "email": "jason.gray@ed.gov",
+            "phone": "202-245-6252",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_gray.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/gray-jason/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "Department of Education 550 12th Street, SW Washington, DC 20202",
+              "address2": "",
+              "city": "Washington",
+              "state": "DC",
+              "zip": "20202"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Department of Energy Acting CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Department of Energy",
+          "agencyCode": "019",
+          "cio": {
+            "firstName": "Ann",
+            "lastName": "Dunkin",
+            "email": "",
+            "phone": "",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio-ann-dunkin.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/ann-dunkin/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "",
+              "address2": "",
+              "city": "",
+              "state": "",
+              "zip": ""
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "National Archives and Records Administration CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "National Archives and Records Administration",
+          "agencyCode": "393",
+          "cio": {
+            "firstName": "Swarnali",
+            "lastName": "Haldar",
+            "email": "swarnali.haldar@nara.gov",
+            "phone": "301-837-2027",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_haldar.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/haldar-swarnali/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "National Archives and Records Administration 8601 Adelphi Road College Park, MD\n                            20740",
+              "address2": "",
+              "city": "College Park",
+              "state": "MD",
+              "zip": "20740"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Department of Health & Human Services CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Department of Health & Human Services",
+          "agencyCode": "009",
+          "cio": {
+            "firstName": "Perryn",
+            "lastName": "Ashmore",
+            "email": "",
+            "phone": "",
+            "dateAppointed": "August 21, 2018",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_ashmore.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/ashmore-perryn/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "200 Independence Avenue, SW Washington, DC 20201",
+              "address2": "",
+              "city": "Washington",
+              "state": "DC",
+              "zip": "20201"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Department of Justice CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Department of Justice",
+          "agencyCode": "011",
+          "cio": {
+            "firstName": "Melinda",
+            "lastName": "Rogers",
+            "email": "Melinda.Rogers@usdoj.gov",
+            "phone": "(202)-514-0507",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_rogers.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/rogers-melinda/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "Department of Justice 950 Pennsylvania Avenue, NW Washington, DC 20530-3101",
+              "address2": "",
+              "city": "Washington",
+              "state": "DC",
+              "zip": "20530"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Social Security Administration CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Social Security Administration",
+          "agencyCode": "016",
+          "cio": {
+            "firstName": "Sean",
+            "lastName": "Brune",
+            "email": "Sean.Brune@ssa.gov",
+            "phone": "303-844-2388",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_brune.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/brun-sean/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "Social Security Administration 6401 Security Boulevard 400 Altmeyer Building",
+              "address2": "",
+              "city": "Baltimore",
+              "state": "MD",
+              "zip": "21235"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Agency for International Development CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Agency for International Development",
+          "agencyCode": "184",
+          "cio": {
+            "firstName": "Jay",
+            "lastName": "Mahanand",
+            "email": "DCIO-USAID@usaid.gov",
+            "phone": "",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_mahanand.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/mahanand-jay/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "Agency for International Development 1300 Pennsylvania Avenue, NW Ronald Reagan\n                            Building, Attn: 2PY Washington, DC 20523 Office Phone:",
+              "address2": "",
+              "city": "Washington",
+              "state": "DC",
+              "zip": "20523"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Nuclear Regulatory Commission CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Nuclear Regulatory Commission",
+          "agencyCode": "429",
+          "cio": {
+            "firstName": "David",
+            "lastName": "Nelson",
+            "email": "David.Nelson2@nrc.gov",
+            "phone": "301-415-7443",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_nelson.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/nelson-david/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "Nuclear Regulatory Commission 11555 Rockville Pike Rockville OWFN- 06E02 Rockville, MD\n                            20852",
+              "address2": "",
+              "city": "Rockville",
+              "state": "MD",
+              "zip": "20852"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "National Science Foundation CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "National Science Foundation",
+          "agencyCode": "422",
+          "cio": {
+            "firstName": "Dorothy",
+            "lastName": "Aronson",
+            "email": "daronson@nsf.gov",
+            "phone": "703-292-4299",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_aronson.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/aronson-dorothy/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "National Science Foundation 4201 Wilson Boulevard Room 305 Arlington, VA 22230 Office\n                            Phone: 703-292-8100 Office Fax: 703-292-9084",
+              "address2": "",
+              "city": "Arlington",
+              "state": "VA",
+              "zip": "22230"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Small Business Administration CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Small Business Administration",
+          "agencyCode": "028",
+          "cio": {
+            "firstName": "Keith A.",
+            "lastName": "Bluestein",
+            "email": "Keith.Bluestein@sba.gov",
+            "phone": "202-205-6708",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_bluestein.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/bluestein-keith/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "409 Third Street, SW Suite 4000 Washington, DC 20416",
+              "address2": "",
+              "city": "Washington",
+              "state": "DC",
+              "zip": "20416"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "General Services Administration CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "General Services Administration",
+          "agencyCode": "023",
+          "cio": {
+            "firstName": "David",
+            "lastName": "Shive",
+            "email": "David.Shive@gsa.gov",
+            "phone": "",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_shive.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/shive-david/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "General Services Administration 1275 First St, NE Washington, DC 20417",
+              "address2": "",
+              "city": "Washington",
+              "state": "DC",
+              "zip": "20417"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Veterans Affairs CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Department of Veterans Affairs",
+          "agencyCode": "029",
+          "cio": {
+            "firstName": "Dominic",
+            "lastName": "Cussatt",
+            "email": "",
+            "phone": "",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/va.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/cussatt-dominic/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "",
+              "address2": "",
+              "city": "",
+              "state": "",
+              "zip": ""
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Department of Commerce Acting CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Department of Commerce",
+          "agencyCode": "006",
+          "cio": {
+            "firstName": "Andre",
+            "lastName": "Mendes",
+            "email": "AMendes@doc.gov",
+            "phone": "202-482-4797",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_mendes.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/mendes-andre/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "",
+              "address2": "",
+              "city": "",
+              "state": "",
+              "zip": ""
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Department of State CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Department of State",
+          "agencyCode": "014",
+          "cio": {
+            "firstName": "Keith",
+            "lastName": "Jones",
+            "email": "CIO@state.gov",
+            "phone": "",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/keith-jones.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/keith-jones/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "U.S. Department of State 2201 C Street NW Washington, DC 20522-0906",
+              "address2": "",
+              "city": "Washington",
+              "state": "DC",
+              "zip": "20522"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "National Aeronautics & Space Administration CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "National Aeronautics & Space Administration",
+          "agencyCode": "026",
+          "cio": {
+            "firstName": "Jeff",
+            "lastName": "Seaton",
+            "email": "",
+            "phone": "",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_seaton.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/jeff-seaton/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "National Aeronautics & Space Administration NASA Headquarters 300 E Street, SW,\n                            Mail Suite: 2N18 Washington, DC 20546-0001 Office Phone: 202-358-1824 Office Fax:\n                            202-358-3017",
+              "address2": "",
+              "city": "Washington",
+              "state": "DC",
+              "zip": "20546"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Acting Chief Information Officer, Department of Defense CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Department of Defense",
+          "agencyCode": "007",
+          "cio": {
+            "firstName": "John",
+            "lastName": "Sherman",
+            "email": "osd.pentagon.dod-cio.mbx.front-office@mail.mil",
+            "phone": "703-614-7323",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_sherman.jpeg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/sherman-john/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "Office of the Department of Defense, Chief Information Officer 6000 Defense Pentagon\n                            Washington, D.C. 20301-6000",
+              "address2": "",
+              "city": "Washington",
+              "state": "DC",
+              "zip": "20350"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Federal Chief Information Officer, Office of Management and Budget",
+      "content": {
+        "agency": {
+          "agencyName": "Office of Management and Budget",
+          "cio": {
+            "firstName": "Clare",
+            "lastName": "Martorana",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/martorana-clare.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/clare-martorana/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "",
+              "address2": "",
+              "city": "",
+              "state": "",
+              "zip": ""
+            }
+          }
+        }
+      }
+    }
+  ]
+}

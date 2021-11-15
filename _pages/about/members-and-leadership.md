@@ -12,14 +12,14 @@ The Office of Management and Budget’s Deputy Director for Management is the Ch
 {% include leadership.html %}
 
 ## Members
-Our members represent CIOs from across the U.S. Federal Government. You can also browse our [committee pages and membership](#council-committees).
+Our members represent CIOs from across the U.S. Federal Government Executive Branch. You can also browse our [Committees and Communities of Practice](#council-committees).
 {% include members.html %}
 
 ## Council Committees
 We also have committees that focus on certain Council priorities. These include:
 * [Chief Information Security Officer Council]({{ site.baseurl }}/about/members-and-leadership/ciso-council/)
 * [Innovation Committee]({{ site.baseurl }}/about/members-and-leadership/innovation-committee/)
-* [Services, Strategies, and Infrastructure Committee]({{ site.baseurl }}/about/members-and-leadership/ssi-committee/)
+* [Enterprise Operations Committee (formerly SSI)]({{ site.baseurl }}/about/members-and-leadership/e-ops/)
 * [Workforce Committee]({{ site.baseurl }}/about/members-and-leadership/workforce-committee/)
 
 ## Communities of Practice (CoP)

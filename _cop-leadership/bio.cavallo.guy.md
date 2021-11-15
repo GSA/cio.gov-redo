@@ -1,10 +1,18 @@
----
-role: Federal Cloud Representative
-name: Guy Cavallo
-comm-title: Co-Chair
-position: Deputy Chief Information Officer
-agency: Office of Personnel Management
-bio-image: /bio_Cavallo.png
-alt-text: Guy Cavallo
----
+[comment]: <> (---)
+
+[comment]: <> (role: Federal Cloud Representative)
+
+[comment]: <> (name: Guy Cavallo)
+
+[comment]: <> (comm-title: Co-Chair)
+
+[comment]: <> (position: Deputy Chief Information Officer)
+
+[comment]: <> (agency: Office of Personnel Management)
+
+[comment]: <> (bio-image: /bio_Cavallo.png)
+
+[comment]: <> (alt-text: Guy Cavallo)
+
+[comment]: <> (---)
 

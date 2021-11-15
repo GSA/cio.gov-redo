@@ -1,0 +1,188 @@
+---
+title: Council Programs and Events
+subtitle: 2021 Women in Federal IT & Cybersecurity Campaign
+layout: wide
+permalink: /2021-women-in-IT/
+
+---
+<section class="usa-graphic-list usa-section bg-primary-darker sml-margin margin-bottom-05">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+
+      <div class="tablet:grid-col-9">
+        <span class="text-accent-cool font-sans-lg margin-bottom-0 text-bold"> {{ page.title }} </span>
+        <h1 class="text-white font-serif-xl margin-top-0 margin-bottom-0 text-bold"> {{ page.subtitle}} </h1>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="usa-hero" style="background-image: url('../assets/images/events/2021-wiit-banner.png')" >
+   <div class="grid-container">
+    <div class="grid-row grid-gap">
+      
+      <div class="tablet:grid-col-6">
+        <h2 class="font-sans-lg text-ink">We’re bringing together the nation’s top Federal IT executives to celebrate the successes of women thriving in today’s federal technology industry. Interested in working with us? Explore the open positions below!</h2>
+        <a class="usa-button margin-bottom-205 " href="https://www.usajobs.gov/Search/ExploreOpportunities?Series=2210&utm_source=cio-website&utm_medium=button&utm_campaign=WiIT" target="_blank">Experienced Hires</a>
+        <a class="usa-button margin-bottom-205" target="_blank" href="https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/?utm_source=cio-website&utm_medium=button-grads&utm_campaign=WiIT">Recent Grads & Interns</a>
+      </div>
+            <div class="tablet:grid-col-6">
+         <div style="padding:56.25% 0 0 0;position:relative;"><iframe aria-label="Closing Remarks - Maria Roat, Deputy Federal CIO" src="https://player.vimeo.com/video/553453756?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Closing Remarks - 2021 WiIT"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+          </div>
+      </div>
+    </div>
+</section>
+
+<section class="usa-section tagline">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+
+      <div class="tablet:grid-col-4">
+        <h2 class="tablet:margin-bottom-0 font-serif-xl margin-top-2 text-primary">About</h2>
+      </div>
+      <div class="tablet:grid-col-8">
+        <p class="font-sans-md margin-top-2">
+          Now in its 4th year, our Annual Women in Federal IT and Cybersecutiy Campaign brings together the nation’s top Federal IT executives to celebrate the success of women thriving in today’s federal technology industry through videos, social media, agency-specific events, and more. The campaign will also promote federal IT job openings to help attract new IT talent.
+        </p>
+      </div>
+
+    </div>
+
+    <div class="grid-row grid-gap margin-top-5">
+
+      <div class="tablet:grid-col-4">
+        <h2 class="tablet:margin-bottom-0 font-serif-xl margin-top-2 text-primary">Our Goals</h2>
+      </div>
+      <div class="tablet:grid-col-8">
+        <p class="font-sans-md margin-top-2">Our goals are to:</p>
+        <ul class="usa-list">
+          <li><span class="text-bold">Celebrate</span> women working in federal information technology by highlighting their stories and their accomplishments.</li>
+          <li><span class="text-bold">Coach</span> women just starting out in Federal IT by sharing career advice on STEM pathways in federal service.</li>
+          <li><span class="text-bold">Collaborate</span> and connect by hosting events to celebrate women in their IT workforce.</li>
+        </ul>
+        <div>
+          <a class="usa-button margin-bottom-205" target="_blank" href="https://www.usajobs.gov/Search/ExploreOpportunities?Series=2210&utm_source=cio-website&utm_medium=button&utm_campaign=WiIT">Apply for a Federal Position</a>
+          <a class="usa-button" target="_blank" href="https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/?utm_source=cio-website&utm_medium=button-grads&utm_campaign=WiIT">Recent Grads & Interns</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="grid-row grid-gap margin-top-5 border-top-2px border-accent-cool-light padding-top-2">
+
+      <div class="tablet:grid-col-4">
+        <h2 class="tablet:margin-bottom-0 font-serif-xl margin-top-2 text-primary">Videos</h2>
+      </div>
+      <div class="tablet:grid-col-8">
+        <p class="font-sans-md margin-top-2">
+          We’re releasing videos to highlight the work of women in our Federal tech force all month long. Check back here for more updates, or <a href="https://twitter.com/ciodotgov">follow us on Twitter to view videos as they’re posted</a>!
+        </p>
+      </div>
+
+      {% assign sorted = site.women-in-it-videos %}
+      {% for women-in-it-videos in sorted %}
+
+      <div class="tablet:grid-col-6">
+        <div class="ty-compact" tabindex="0">
+        <p><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="{{ women-in-it-videos.src }}" title="{{ women-in-it-videos.title }}" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></p>
+        </div>
+
+      </div>
+
+      {% endfor %}
+
+    </div>
+    <div class="grid-row">
+      <div class="tablet:grid-col-9"></div>
+      <div class="tablet:grid-col-3"><a class="show-more card-tag2" tabindex="0" role="button" aria-pressed="false" href="#pos" style="color: white; display: inline;">Show all</a></div>
+    </div>
+
+    <div class="grid-row grid-gap border-top-2px border-accent-cool-light padding-top-2">
+
+      <div class="tablet:grid-col-4">
+        <h2 class="tablet:margin-bottom-0 font-serif-xl margin-top-2 text-primary">Work With Us</h2>
+      </div>
+      <div class="tablet:grid-col-8">
+        <p class="font-sans-md margin-top-2">Join the federal government to modernize federal IT systems and deliver the most secure and effective services to the American people. We are always looking for great candidates for:</p>
+        <ul class="usa-list">
+          <li><a target="_blank" href="https://www.usajobs.gov/Search/?k=computer%20scientist&p=1">Computer Scientists</a></li>
+          <li><a target="_blank" href="https://www.usajobs.gov/Search/?k=IT%20project%20managers&p=1">IT Project Managers</a></li>
+          <li><a target="_blank" href="https://www.usajobs.gov/Search/?k=IT%20specialist&p=1">IT Specialists</a></li>
+          <li><a target="_blank" href="https://www.usajobs.gov/Search/?hp=ses&k=chief%20information%20officer&p=1">Chief Information Officers</a></li>
+          <!-- <li><a target="_blank" href="https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/">Recent Graduates & Interns</a></li> -->
+          <li><a target="_blank" href="https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/">Pathways for Students & Recent Grads to Federal Careers</a></li>
+          <li><a target="_blank" href="https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/federal-occupations-by-college-major/">Federal Occupations by College Major</a></li>
+        </ul>
+        <br />
+       </div>
+
+    </div>
+
+    <div class="grid-row grid-gap border-top-2px border-accent-cool-light padding-top-2">
+
+      <div class="tablet:grid-col-4">
+        <h2 class="tablet:margin-bottom-0 font-serif-xl margin-top-2 text-primary">Stay In Touch</h2>
+      </div>
+      <div class="tablet:grid-col-8">
+        <p class="font-sans-md margin-top-2">
+          We’d love to stay in touch! Sign up for our mailing list to stay on top of openings and events.
+        </p>
+        <form id="GD-snippet-form" action="https://public.govdelivery.com/accounts/USGSA/subscribers/qualify" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+          <input type="hidden" name="topic_id" id="topic_id" value="USGSA_935" />
+          <fieldset>
+          <legend>
+          Email Updates
+          </legend>
+          <div>
+          To sign up for updates or to access your subscriber preferences, please enter your contact information below.
+          </div>
+          <ol class='form'>
+          <li class='email_fields' style='display: block'>
+          <label for="email"><img class="required" alt="" aria-hidden="true" src="https://content.govdelivery.com/images/required.gif" />Email Address</label>
+          <input type="email" name="email" id="email" value="" class="long email_text_field" required="required" />
+          
+          </li>
+          </ol>
+          <div class='button_panel'>
+          <input type="submit" name="commit" value="Submit" class="sr-button reverse" data-disable-with="Submit" />
+          </div>
+          </fieldset>
+        </form>
+        <p class="font-sans-md margin-top-2">
+          Interested in working in Federal IT? <a href="https://www.linkedin.com/company/federal-cio-council">Connect with us on LinkedIn</a>!<br></br>
+          <a href="https://twitter.com/ciodotgov">Follow us on Twitter</a> to stay up-to-date on all our initiatives!
+        </p>
+
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<style>
+  .card-tag2 {
+    font-size: .9rem;
+    margin-top: .2em;
+    margin-bottom: .15em;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: #323a45;
+}
+
+.show-more {
+    display: none;
+    cursor: pointer;
+    float: right;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: .7em;
+    text-decoration: none;
+    background-color: #e31c3d;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 25px;
+    }
+}
+</style>
+
