@@ -12,7 +12,7 @@ $( document ).ready(function() {
      
      if(link.indexOf("cio-responsibilities") != -1 && link.indexOf("?clickEvt") != -1){
          $('#sub-nav-list-3').show();
-        // $('#href-list-3').removeClass('usa-sidenav__item').addClass('usa-current');
+        $('#href-list-3').removeClass('usa-sidenav__item').addClass('usa-current');
      }
      if(link.indexOf("it-laws") != -1 && link.indexOf("?clickEvt") != -1){
          $('#sub-nav-list-4').show();
@@ -71,11 +71,11 @@ $( document ).ready(function() {
  
      $('.usa-sidenav > li > a').click(function(){
        
-     //  if ($(this).attr('class') != 'usa-current'){
-        // $('.usa-sidenav li ul').slideUp();
+      if ($(this).attr('class') != 'usa-current'){
+        $('.usa-sidenav li ul').slideUp();
 
          $(this).next().slideToggle();
-       // $('.usa-sidenav li ul').show();
+       $('.usa-sidenav li ul').show();
          $('.usa-sidenav li a').removeClass('usa-current');
          
          $(this).addClass('usa-current');
