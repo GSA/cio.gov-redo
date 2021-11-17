@@ -73,19 +73,12 @@ $( document ).ready(function() {
        
       if ($(this).attr('class') != 'usa-current'){
         $('.usa-sidenav li ul').slideUp();
-
-         $(this).next().slideToggle();
-       $('.usa-sidenav li ul').show();
-         $('.usa-sidenav li a').removeClass('usa-current');
-         
+        $(this).next().slideToggle();
+        $('.usa-sidenav li ul').show();
+        $('.usa-sidenav li a').removeClass('usa-current');
+      }
          $(this).addClass('usa-current');
-        if ($( this ).attr('id') == 'parent-href-list-1' || $( this ).attr('id') == 'parent-href-list-2' || $( this ).attr('id') == 'parent-href-list-10' ){
-           
-        }else {
-            return false;
-        }
      });
- 
    });
  
    $(document).ready(function (e) {
