@@ -29,8 +29,6 @@
     color: #FFFFFF;
   }
 
-.tagline {
-}
 
 .top-tasks {
   text-align: center;
@@ -298,4 +296,18 @@ margin-top: 5px;
 .no-formatting {
   text-decoration: none;
   color: #1b1b1b
+}
+
+.logo-cio {
+  display: flex;
+  align-items: center;
+}
+.logo-seal {
+  width: 30%;
+}
+
+.logo-seal {
+  @media (max-width: 40em) {
+    width: 20%;
+  }
 }
