@@ -13,7 +13,7 @@ The CIO Council hosts monthly meetings with CIOs, Chief Information Security Off
 There are four committees under the CIO Council that inform the council on various issues. Each committee has its own government-only website for sharing updates, materials, and announcements. These include:
 * [Chief Information Security Officer (CISO) Council](https://community.max.gov/display/Egov/Federal+CISO+Council) **(OMB MAX Login Required)**
 * [Innovation Committee](https://community.max.gov/display/Egov/CIO+Council+Innovation+Committee) **(OMB MAX Login Required)**
-* [Services, Strategy, & Infrastructure (SSI) Committee](https://community.max.gov/x/URp5K) **(OMB MAX Login Required)**
+* [Enterprise Operations Committee (formerly SSI)](https://www.cio.gov/about/members-and-leadership/e-ops/) **(OMB MAX Login Required)**
 * [Workforce Committee](https://community.max.gov/display/Egov/CIO+Council+Workforce+Committee) **(OMB MAX Login Required)**
 
 ### Additional Resources

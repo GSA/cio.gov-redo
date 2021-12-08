@@ -8,9 +8,10 @@ where we provide an easy way to manage your navigation system
     <div class="usa-logo" id="logo">
       <em class="usa-logo-text">
 
-        <a href="{{ site.baseurl }}/" accesskey="1" title="Home" aria-label="Home">
+        <a href="{{ site.baseurl }}/" accesskey="1" title="Home" aria-label="Home" class="logo-cio">
         {% if site.logo %}
-          <img src="{{ site.logo | prepend: site.baseurl }}" alt=" logo" >
+        <img class="logo-seal" src="{{ site.baseurl }}/assets/images/logos/CIOC-logo.png" alt=" logo" >  
+        <img class="logo-text" src="{{ site.baseurl }}/assets/images/logos/logo-main.png" alt=" logo" >
         {% else %}
           <h1 class="usa-header-title">{{ site.title }}</h1>
         {% endif %}

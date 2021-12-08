@@ -12,7 +12,7 @@ $( document ).ready(function() {
      
      if(link.indexOf("cio-responsibilities") != -1 && link.indexOf("?clickEvt") != -1){
          $('#sub-nav-list-3').show();
-        // $('#href-list-3').removeClass('usa-sidenav__item').addClass('usa-current');
+        $('#href-list-3').removeClass('usa-sidenav__item').addClass('usa-current');
      }
      if(link.indexOf("it-laws") != -1 && link.indexOf("?clickEvt") != -1){
          $('#sub-nav-list-4').show();
@@ -65,29 +65,38 @@ $( document ).ready(function() {
  });
  
  
- 
- //This  code makes the parent selected link usa-current
-  $(document).ready(function (e) {
- 
-     $('.usa-sidenav > li > a').click(function(){
-       
-     //  if ($(this).attr('class') != 'usa-current'){
-        // $('.usa-sidenav li ul').slideUp();
+    //This  code makes the parent selected link usa-current on Cloud Infrastructure
+    $(document).ready(function (e) {
+        
+        $('.infrastructure-nav > li > a').click(function(){
+        
+        if ($(this).attr('class') != 'usa-current'){
+            $('.infrastructure-nav li ul').slideUp();
+            $(this).next().slideToggle();
+            $('.infrastructure-nav li ul').show();
+            $('.infrastructure-nav li a').removeClass('usa-current');
+        }
+        $(this).addClass('usa-current');
+        });
+    });
 
-         $(this).next().slideToggle();
-       // $('.usa-sidenav li ul').show();
-         $('.usa-sidenav li a').removeClass('usa-current');
-         
-         $(this).addClass('usa-current');
-        if ($( this ).attr('id') == 'parent-href-list-1' || $( this ).attr('id') == 'parent-href-list-2' || $( this ).attr('id') == 'parent-href-list-10' ){
-           
-        }else {
-            return false;
+ //This  code makes the parent selected link usa-current on handbook subnav
+    $(document).ready(function (e) {
+     $('.usa-sidenav > li > a').click(function(){
+
+        if(!$(this).closest('.infrastructure-nav').length) {
+            $(this).next().slideToggle();
+            $('.usa-sidenav li a').removeClass('usa-current');
+
+            $(this).addClass('usa-current');
+            if ($( this ).attr('id') == 'parent-href-list-1' || $( this ).attr('id') == 'parent-href-list-2' || $( this ).attr('id') == 'parent-href-list-10' ){
+
+            }else {
+                return false;
+            }
         }
      });
- 
    });
- 
    $(document).ready(function (e) {
   
      $('.usa-sidenav > li > ul > li > a').click(function(){
