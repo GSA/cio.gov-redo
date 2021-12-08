@@ -65,21 +65,39 @@ $( document ).ready(function() {
  });
  
  
- 
- //This  code makes the parent selected link usa-current
-  $(document).ready(function (e) {
- 
+ //This  code makes the parent selected link usa-current on Cloud Infrastructure
+    $(document).ready(function (e) {
+        
+        $('.infrastructure-nav > li > a').click(function(){
+        
+        if ($(this).attr('class') != 'usa-current'){
+            $('.infrastructure-nav li ul').slideUp();
+            $(this).next().slideToggle();
+            $('.infrastructure-nav li ul').show();
+            $('.infrastructure-nav li a').removeClass('usa-current');
+        }
+        $(this).addClass('usa-current');
+        });
+    });
+
+ //This  code makes the parent selected link usa-current on handbook subnav
+    $(document).ready(function (e) {
      $('.usa-sidenav > li > a').click(function(){
-       
-      if ($(this).attr('class') != 'usa-current'){
-        $('.usa-sidenav li ul').slideUp();
-        $(this).next().slideToggle();
-        $('.usa-sidenav li ul').show();
-        $('.usa-sidenav li a').removeClass('usa-current');
-      }
-         $(this).addClass('usa-current');
+
+        if(!$(this).closest('.infrastructure-nav').length) {
+            $(this).next().slideToggle();
+            $('.usa-sidenav li a').removeClass('usa-current');
+
+            $(this).addClass('usa-current');
+            if ($( this ).attr('id') == 'parent-href-list-1' || $( this ).attr('id') == 'parent-href-list-2' || $( this ).attr('id') == 'parent-href-list-10' ){
+
+            }else {
+                return false;
+            }
+        }
      });
    });
+
  
    $(document).ready(function (e) {
   
