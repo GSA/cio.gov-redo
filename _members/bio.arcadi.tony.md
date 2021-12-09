@@ -5,7 +5,7 @@ permalink: /about/members-and-leadership/arcadi-tony/
 subtitle: Team and Leadership
 title: About Our Council
 
-position: Acting Chief Information Officer
+position: Chief Information Officer
 agency: Department of Treasury
 bio-image: /bio_arcadi.jpg
 bio-image-alt-text: Tony Arcadi
