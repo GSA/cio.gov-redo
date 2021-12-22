@@ -5,7 +5,7 @@ subtitle: Team and Leadership
 title: About Our Council
 
 name: Hon. John Sherman 
-position: Performing the duties Chief Information Officer
+position: Chief Information Officer
 agency: Department of Defense
 bio-image: /John-Sherman.jpeg
 bio-image-alt-text: Hon. John Sherman 
