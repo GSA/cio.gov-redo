@@ -23,7 +23,7 @@ capgoal-4-link: https://www.performance.gov/CAP/tbm/
 ---
 
 # What is the PMA? #
-The [President’s Management Agenda](https://www.performance.gov/PMA/PMA.html) lays out a long-term vision for modernizing the Federal Government in key areas. This will improve the ability of agencies to deliver mission outcomes, provide excellent service, and effectively steward taxpayer dollars.
+The [President’s Management Agenda](https://www.performance.gov/pma/) lays out a long-term vision for modernizing the Federal Government in key areas. This will improve the ability of agencies to deliver mission outcomes, provide excellent service, and effectively steward taxpayer dollars.
 
 To drive these priorities, the Administration leverages [Cross-Agency Priority (CAP) Goals](https://www.performance.gov/CAP/overview/) to coordinate and publicly track implementation across Federal agencies. CAP Goals are updated or revised every four years with each Presidential Administration’s term.
 
