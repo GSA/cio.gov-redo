@@ -17,9 +17,9 @@ Innovation can bring about both incremental growth and radical change in how we 
 
 # Leadership
 
-**Ron Bewtra, Co-Chair**<br/>
-Chief Technology Officer<br/>
-Department of Justice
+**Ann Dunkin, Chair**<br/>
+Chief Information Officer<br/>
+Department of Energy
 
 The [Innovation Committee Max Page](https://community.max.gov/display/Egov/CIO+Council+Innovation+Committee) **(login required)** provides tools and resources to encourage information sharing and collaboration.
 

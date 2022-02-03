@@ -1,24 +1,29 @@
 ---
 layout: bio
-name:  Dr. Neil C. Evans
-permalink: /about/members-and-leadership/evans-neil/
+name:  Kurt DelBene
+permalink: /about/members-and-leadership/kurt-delbene/
 subtitle: Team and Leadership
 title: About Our Council
 
-position: Acting Chief Information Officer
-agency: Department of Veteran Affairs
-bio-image: /evans_neil.jpg
-bio-image-alt-text: Dr. Neil C. Evans
-bio-phone: 202-461-6910
-bio-email: vacocioexe@va.gov
+position: Chief Information Officer
+agency: Department of Veterans Affairs
+bio-image: /kurt_delbene.png
+bio-image-alt-text: Kurt DelBene image
+
 ---
 
-Neil C. Evans, MD performs the delegable duties of the Assistant Secretary for Information and Technology and Chief Information Officer for the Department of Veterans Affairs. In this role, he is VA’s senior information and technology executive, overseeing the day-to-day activities of VA’s IT operations and digital transformation, managing a budget of more than $4 billion and a workforce of approximately 16,000 government and contract staff.
+President Joseph R. Biden, Jr. nominated Kurt DelBene to serve as the Department of Veterans Affairs (VA) Assistant Secretary for Information and Technology and Chief Information Officer (CIO), and the United States Senate confirmed his nomination by voice vote on December 16, 2021. 
 
-Dr. Evans also continues to formally serve as the Chief Officer for the Office of Connected Care in the Veterans Health Administration, overseeing VA’s expansive telehealth program and VA’s Veteran-facing digital health capabilities to include VA’s patient portal, mobile program, and other initiatives to deliver digital technologies to Veterans and their medical providers. In addition, he served from 2019-2020 as Interim Director, and then more recently as Senior Advisor, at the Federal Electronic Health Record Modernization Program Office, leading efforts to implement a single, common federal electronic health record with the Department of Defense, Department of Veterans Affairs, and Department of Homeland Security’s U.S. Coast Guard.
+As VA’s senior information and technology executive, Mr. DelBene oversees the day-to-day activities of VA’s Digital Transformation, managing a budget of more than $4 billion. He leads a workforce of approximately 16,000 government and contract staff who enable health care and benefits delivery to more than nine million enrolled Veterans. 
 
-Dr. Evans has over 20 years of experience in VA and remains an active primary care physician, managing a panel of patients in the Primary Care clinic at the Washington, D.C. Veterans Affairs Medical Center. He has served in both clinical and IT-related leadership roles at the Medical Center level and at VA Central Office.
+Before joining VA, Mr. DelBene was a longtime executive for Microsoft and served in numerous leadership roles with increasing responsibilities over more than 25 years. Most recently, he was Executive Vice President of Corporate Strategy and Core Services Engineering and Operations and led the company’s cross-engineering and cross-business strategy, execution, and planning initiatives. 
 
-Dr. Evans began his VA career after completing medical school at Johns Hopkins University and his subsequent training in Internal Medicine through the Osler Medical Residency, also at Johns Hopkins. He is board-certified in both Internal Medicine and Clinical Informatics and holds a faculty appointment as a Clinical Associate Professor of Medicine at the Uniformed Services University of the Health Sciences. Prior to his medical training, he received a B.S. in chemical engineering from the University of Delaware.
+Mr. DelBene rejoined Microsoft in April 2015 after assisting former President Barack Obama with Healthcare.gov, the enrollment website for the Affordable Care Act. From December 2013 to July 2014, he served as senior advisor to the Secretary of Health and Human Services, helping assess and implement the first Open Enrollment period, including troubleshooting problems and setting the project up for long-term success. During this time, he was also the liaison to White House and Health and Human Services senior leadership. 
 
-In October 2020, Dr. Evans was selected as a winner of the Samuel J. Heyman Service to America Medal for Management Excellence.
+As president of the Microsoft Office Division from 2010 to 2013, Mr. DelBene was responsible for Microsoft’s global productivity strategy for information workers. He oversaw the engineering and marketing functions for a wide range of productivity products and services, including Office, Office 365, Exchange, SharePoint, Lync, Project, and Visio. 
+
+Mr. DelBene also served as the senior vice president for the Microsoft Business Division, where he was responsible for the development of client and server software that delivers a holistic productivity experience to organizations and individuals, including authoring, collaboration, communications, information sharing, and project management. 
+
+Prior to joining Microsoft in 1992, Mr. DelBene was a management consultant with McKinsey and Company, focusing on business strategy for technology companies. He also worked as a software developer and systems engineer for AT&T Bell Laboratories, working in graphics and imaging software and network switching systems. 
+
+Mr. DelBene holds a Master of Business Administration degree from the University of Chicago, a Master of Science degree from Stanford University, and a Bachelor of Industrial Engineering from the University of Arizona. Mr. DelBene is married to U.S. Congresswoman Suzan DelBene who represents Washington’s 1st Congressional district. They have two children.
