@@ -52,6 +52,8 @@ primary_navigation:
         url: /policies-and-priorities/
       - name: CIO Handbook
         url: /cio-handbook/
+      - name: AIA tool
+        url: /aia-eia-js/
   - name: Programs & Events
     children:
       - name: Women in IT & Cyber
