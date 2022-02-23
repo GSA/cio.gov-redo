@@ -2,13 +2,11 @@
 layout: post
 title: International Travel Guidance for Government Mobile Devices
 excerpt: The Federal Mobility Group (FMG) just released their International Travel Guidance for Government Mobile Devices report. The document details a series of best practices agencies can adopt to safeguard Government Furnished Equipment (GFE)-mobile devices against attacks while in use during travel to foreign countries. 
-date: 18 Feb 2022
+date: 23 Feb 2022
 display-date: 18 Feb 2022
 author: The Federal Mobility Group
 tags: 2022 cybersecurity mobility international-travel
 permalink: /2022-02-18-final-international-travel-guidance/
-image: best-practices-travel.png
-img-alt: 'image of best practices for travel'
 
 ---
 
