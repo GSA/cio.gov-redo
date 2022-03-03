@@ -48,7 +48,7 @@ primary_navigation:
         url: /about/members-and-leadership/#council-committees
   - name: Policies, Priorities & Resources
     children:
-      - name: BETA Policy and Priority Catalog
+      - name: Policy and Priority Catalog
         url: /policies-and-priorities/
       - name: CIO Handbook
         url: /cio-handbook/
