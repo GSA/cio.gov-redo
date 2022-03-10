@@ -22,7 +22,7 @@ title: CIO.GOV
 email:  feedback@cio.gov
 description: The CIO Council is a forum of Federal Chief Information Officers (CIOs). Our goal is to improve IT practices across U.S. Government agencies.
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://example.gov" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://example.gov" # the base hostname & protocol for your site, e.g. https://example.com
 logo: /assets/images/logos/logo-main.jpg
 
 # Twitter handle. Only the handle, not the URL.
