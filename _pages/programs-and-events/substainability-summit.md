@@ -1,6 +1,6 @@
 ---
 title: Council Programs and Events
-subtitle: Data Center and Cloud Sustainability and Resiliency Summit
+subtitle: Data Center Sustainability Summit
 layout: page
 permalink: /programs-and-events/sustainability-summit/
 ---
@@ -21,7 +21,6 @@ A tentative summary of events is below and is subject to change:
     <li><strong>IT Infrastructure and America's Path to Net-Zero Emissions Buildings by 2050:</strong> This panel will discuss the Administration’s climate and sustainability priorities in the context of the Federal Government’s ever-increasing demand for data centers and computing power.<br/><br/></li>
     <li><strong>Revitalizing Underserved Communities with Disruptive Data Center Technologies:</strong> Experts from industry and academia will share a novel concept for revitalizing economically-depressed communities by building micro-grid and off-grid data centers around the country.<br/><br/></li>
     <li><strong>Mission and Environmental Benefits of Cloud Service Providers and Software as a Service:</strong> Federal agencies will share the mission and environmental benefits they’ve obtained from moving to cloud services. Additionally, cloud service providers will discuss their corporate sustainability initiatives and how the use of scalable, on-demand cloud solutions can enable federal agencies to reduce their carbon footprints.<br/><br/></li>
-    <li><strong>Data Center Sustainability Strategies and Initiatives:</strong> Federal and industry data center practitioners will explore the various renewable energy technologies and efficiency measurement tools already well-adopted by the private sector that can help the US government achieve some of its ambitious sustainability goals related to buildings.<br/><br/></li>
     <li><strong>Data Center Sustainability Strategies and Initiatives:</strong> Federal and industry data center practitioners will explore the various renewable energy technologies and efficiency measurement tools already well-adopted by the private sector that can help the US government achieve some of its ambitious sustainability goals related to buildings.<br/><br/></li>
     <li><strong>“Greening” Federal IT Infrastructure Contracts and Purchasing:</strong> This panel will discuss emerging guidance and best practices for weaving sustainability language into government procurements.<br/><br/></li>
     <li><strong>What's Powering the State-of-the-Art Data Center of Today?:</strong> This panel will explore the high-processing technology that is enabling data centers to use AI and data analytics to optimize their facilities’ performance.<br/><br/></li>
