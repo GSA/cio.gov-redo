@@ -92,7 +92,7 @@ Run the site locally.
 
     $ npm start
 
-Open your web browser to [localhost:4000](http://localhost:4000/) to view your
+Open your web browser to [localhost:4000](https://localhost:4000/) to view your
 site.
 
 After you make changes, be sure to run the tests.

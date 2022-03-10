@@ -5,20 +5,20 @@
  * classList.js: Cross-browser full element.classList implementation.
  * 1.1.20170427
  *
- * By Eli Grey, http://eligrey.com
+ * By Eli Grey, https://eligrey.com
  * License: Dedicated to the public domain.
  *   See https://github.com/eligrey/classList.js/blob/master/LICENSE.md
  */
 
 /*global self, document, DOMException */
 
-/*! @source http://purl.eligrey.com/github/classList.js/blob/master/classList.js */
+/*! @source https://purl.eligrey.com/github/classList.js/blob/master/classList.js */
 
 if ("document" in window.self) {
 
 	// Full polyfill for browsers with no classList support
 	// Including IE < Edge missing SVGElement.classList
-	if (!("classList" in document.createElement("_")) || document.createElementNS && !("classList" in document.createElementNS("http://www.w3.org/2000/svg", "g"))) {
+	if (!("classList" in document.createElement("_")) || document.createElementNS && !("classList" in document.createElementNS("https://www.w3.org/2000/svg", "g"))) {
 
 		(function (view) {
 
@@ -479,7 +479,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
  * Build: `lodash modularize exports="npm" -o ./`
  * Copyright jQuery Foundation and other contributors <https://jquery.org/>
  * Released under MIT license <https://lodash.com/license>
- * Based on Underscore.js 1.8.3 <http://underscorejs.org/LICENSE>
+ * Based on Underscore.js 1.8.3 <https://underscorejs.org/LICENSE>
  * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
  */
 
@@ -521,7 +521,7 @@ var objectProto = Object.prototype;
 
 /**
  * Used to resolve the
- * [`toStringTag`](http://ecma-international.org/ecma-262/7.0/#sec-object.prototype.tostring)
+ * [`toStringTag`](https://ecma-international.org/ecma-262/7.0/#sec-object.prototype.tostring)
  * of values.
  */
 var objectToString = objectProto.toString;
@@ -727,7 +727,7 @@ function debounce(func, wait, options) {
 
 /**
  * Checks if `value` is the
- * [language type](http://www.ecma-international.org/ecma-262/7.0/#sec-ecmascript-language-types)
+ * [language type](https://www.ecma-international.org/ecma-262/7.0/#sec-ecmascript-language-types)
  * of `Object`. (e.g. arrays, functions, objects, regexes, `new Number(0)`, and `new String('')`)
  *
  * @static
