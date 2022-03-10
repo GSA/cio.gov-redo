@@ -5,7 +5,7 @@ layout: page
 permalink: /programs-and-events/sustainability-summit/
 ---
 
-The General Services Administration’s Data Center and Cloud Optimization Initiative PMO is collaborating with government and industry partners to host a virtual ***Data Center and Cloud Sustainability and Resiliency Summit*** on April 6-7, 2022.
+The General Services Administration’s Data Center and Cloud Optimization Initiative PMO is collaborating with government and industry partners to host a virtual ***Data Center Sustainability Summit*** on April 6-7, 2022.
 
 The Biden Administration established government-wide sustainability goals in the 2021 Executive Order on Catalyzing Clean Energy Industries and Jobs Through Federal Sustainability [(EO 14057)](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/08/executive-order-on-catalyzing-clean-energy-industries-and-jobs-through-federal-sustainability/) and its accompanying Federal Sustainability Plan. These goals include achieving a carbon pollution-free electricity sector by 2035 and net-zero emissions economy-wide by no later than 2050. 
 This summit will highlight and celebrate the energy, environment, and infrastructure benefits that result from a transition from government-owned data centers to commercially-owned facilities, cloud computing, or software-as-a-service. Panels and keynote speakers will illustrate how the adoption of such modern IT infrastructure solutions is critical to the country’s transition to clean, zero-emissions technologies, as well as explore these solutions’ additional economic and national security benefits.
