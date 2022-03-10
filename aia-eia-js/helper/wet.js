@@ -51,7 +51,7 @@ function reloadTemplate(){
       "href": (switchLanguage === 'en' ? "https://www.canada.ca/fr/gouvernement/fonctionpublique.html" : "https://www.canada.ca/en/government/publicservice.html"),
       "text": (switchLanguage === 'en' ? "Fonction publique et force militaire" : "Public service and military")
     },{
-      "href": (switchLanguage === 'en' ? "http://nouvelles.gc.ca/" : "http://news.gc.ca/"),
+      "href": (switchLanguage === 'en' ? "https://nouvelles.gc.ca/" : "https://news.gc.ca/"),
       "text": (switchLanguage === 'en' ? "Nouvelles" : "News")
     },{
       "href": (switchLanguage === 'en' ? "https://www.canada.ca/fr/gouvernement/systeme/lois.html" : "https://www.canada.ca/en/government/system/laws.html"),

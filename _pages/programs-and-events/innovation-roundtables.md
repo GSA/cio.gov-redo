@@ -48,7 +48,7 @@ The Innovation Roundtable is a series of 2-hour forums. Attendance is limited to
         {% endif %}
       </p>
       {% if events.external_url %}
-        <a class="usa-button usa-button--accent-cool margin-top-1" href="http://{{events.external_url}}">Register to Attend</a>
+        <a class="usa-button usa-button--accent-cool margin-top-1" href="https://{{events.external_url}}">Register to Attend</a>
       {% endif %}
 
 
