@@ -17,9 +17,17 @@ Innovation can bring about both incremental growth and radical change in how we 
 
 # Leadership
 
-**Ann Dunkin, Chair**<br/>
+**Ann Dunkin, Tri-Chair**<br/>
 Chief Information Officer<br/>
 Department of Energy
+
+**Chezian Sivagnanam, Tri-Chair**<br/>
+Chief Architect<br/>
+National Science Foundation
+
+**Laila Alequresh, Tri-Chair**<br/>
+Chief Innovation Officer<br/>
+Department of Transportation
 
 The [Innovation Committee Max Page](https://community.max.gov/display/Egov/CIO+Council+Innovation+Committee) **(login required)** provides tools and resources to encourage information sharing and collaboration.
 
