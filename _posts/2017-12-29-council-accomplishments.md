@@ -39,7 +39,7 @@ permalink:
 
 7. 8(A) Matchmaking Event  
 * Brought 4 innovative digital serives companies to pitch agile coaching services to a major federal Agency
-* Used authorities from 8(a) Program Digital service Initiative: [techfarhub.cio.gov](mailto:techfarhub.cio.gov)
+* Used authorities from 8(a) Program Digital service Initiative: [techfarhub.cio.gov](https://techfarhub.cio.gov/)
 * Contract impending
 
 8. Contract awarded for gap analysis to enable agencies to implement TBM
