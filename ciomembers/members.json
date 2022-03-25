@@ -138,7 +138,11 @@
           "agencyName": "Department of Housing and Urban Development",
           "agencyCode": "025",
           "cio": {
-            "firstName": "Vacant"
+            "firstName": "Beth",
+            "lastName": "Niblock",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_niblock.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/beth-niblock/",
+            "deptCIO": "1"
           }
         }
       }
@@ -566,13 +570,13 @@
           "agencyName": "Department of Veterans Affairs",
           "agencyCode": "029",
           "cio": {
-            "firstName": "Dominic",
-            "lastName": "Cussatt",
+            "firstName": "Kurt",
+            "lastName": "DelBene",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/va.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/cussatt-dominic/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/kurt_delbene.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/kurt-delbene/",
             "deptCIO": "1",
             "address": {
               "address1": "",
