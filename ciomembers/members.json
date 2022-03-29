@@ -1,3 +1,4 @@
+[
 {
   "updated": "2021-09-03T13:36:46",
   "cioInfo": [
@@ -43,7 +44,7 @@
             "linkToBio": "https://www.cio.gov/about/members-and-leadership/washington-gary/",
             "deptCIO": "1",
             "address": {
-              "address1": "United States Department of Agriculture 1400 Independence Avenue SW Whitten Building,\n                            Room Washington, D.C. 20250",
+              "address1": "United States Department of Agriculture 1400 Independence Avenue SW Whitten Building,\n Room Washington, D.C. 20250",
               "address2": "",
               "city": "Washington",
               "state": "DC",
@@ -215,7 +216,7 @@
             "linkToBio": "https://www.cio.gov/lieutenant-general-bruce-t-crawford/",
             "deptCIO": "1",
             "address": {
-              "address1": "Department of the Army 107 Army Pentagon Room 3E608 Washington, DC 20310 Office Phone:\n                            703-695-4366 Office Fax: 703-695-3091",
+              "address1": "Department of the Army 107 Army Pentagon Room 3E608 Washington, DC 20310 Office Phone:\n 703-695-4366 Office Fax: 703-695-3091",
               "address2": "",
               "city": "Washington",
               "state": "DC",
@@ -345,7 +346,7 @@
             "linkToBio": "https://www.cio.gov/about/members-and-leadership/haldar-swarnali/",
             "deptCIO": "1",
             "address": {
-              "address1": "National Archives and Records Administration 8601 Adelphi Road College Park, MD\n                            20740",
+              "address1": "National Archives and Records Administration 8601 Adelphi Road College Park, MD\n 20740",
               "address2": "",
               "city": "College Park",
               "state": "MD",
@@ -449,7 +450,7 @@
             "linkToBio": "https://www.cio.gov/about/members-and-leadership/mahanand-jay/",
             "deptCIO": "1",
             "address": {
-              "address1": "Agency for International Development 1300 Pennsylvania Avenue, NW Ronald Reagan\n                            Building, Attn: 2PY Washington, DC 20523 Office Phone:",
+              "address1": "Agency for International Development 1300 Pennsylvania Avenue, NW Ronald Reagan\n Building, Attn: 2PY Washington, DC 20523 Office Phone:",
               "address2": "",
               "city": "Washington",
               "state": "DC",
@@ -475,7 +476,7 @@
             "linkToBio": "https://www.cio.gov/about/members-and-leadership/nelson-david/",
             "deptCIO": "1",
             "address": {
-              "address1": "Nuclear Regulatory Commission 11555 Rockville Pike Rockville OWFN- 06E02 Rockville, MD\n                            20852",
+              "address1": "Nuclear Regulatory Commission 11555 Rockville Pike Rockville OWFN- 06E02 Rockville, MD\n 20852",
               "address2": "",
               "city": "Rockville",
               "state": "MD",
@@ -501,7 +502,7 @@
             "linkToBio": "https://www.cio.gov/about/members-and-leadership/aronson-dorothy/",
             "deptCIO": "1",
             "address": {
-              "address1": "National Science Foundation 4201 Wilson Boulevard Room 305 Arlington, VA 22230 Office\n                            Phone: 703-292-8100 Office Fax: 703-292-9084",
+              "address1": "National Science Foundation 4201 Wilson Boulevard Room 305 Arlington, VA 22230 Office\n Phone: 703-292-8100 Office Fax: 703-292-9084",
               "address2": "",
               "city": "Arlington",
               "state": "VA",
@@ -683,7 +684,7 @@
             "linkToBio": "https://www.cio.gov/about/members-and-leadership/sherman-john/",
             "deptCIO": "1",
             "address": {
-              "address1": "Office of the Department of Defense, Chief Information Officer 6000 Defense Pentagon\n                            Washington, D.C. 20301-6000",
+              "address1": "Office of the Department of Defense, Chief Information Officer 6000 Defense Pentagon\n Washington, D.C. 20301-6000",
               "address2": "",
               "city": "Washington",
               "state": "DC",
@@ -718,3 +719,4 @@
     }
   ]
 }
+]
