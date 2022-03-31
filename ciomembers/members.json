@@ -1,3 +1,4 @@
+[
 {
   "updated": "2021-09-03T13:36:46",
   "cioInfo": [
@@ -43,7 +44,7 @@
             "linkToBio": "https://www.cio.gov/about/members-and-leadership/washington-gary/",
             "deptCIO": "1",
             "address": {
-              "address1": "United States Department of Agriculture 1400 Independence Avenue SW Whitten Building,\n                            Room Washington, D.C. 20250",
+              "address1": "United States Department of Agriculture 1400 Independence Avenue SW Whitten Building,\n Room Washington, D.C. 20250",
               "address2": "",
               "city": "Washington",
               "state": "DC",
@@ -60,13 +61,13 @@
           "agencyName": "Department of Transportation",
           "agencyCode": "021",
           "cio": {
-            "firstName": "Jack",
-            "lastName": "Albright",
+            "firstName": "Cordell",
+            "lastName": "Schachter",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/dt.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/albright-jack/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio-cordell-schachter.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/cordell-schachter/",
             "deptCIO": "1",
             "address": {
               "address1": "",
@@ -112,13 +113,13 @@
           "agencyName": "Department of the Interior",
           "agencyCode": "010",
           "cio": {
-            "firstName": "Bill",
-            "lastName": "Vajda",
+            "firstName": "Deborah",
+            "lastName": "Hartley",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_vajda.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/bill-vajda/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_hartley.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/deborah-june-hartley/",
             "deptCIO": "1",
             "address": {
               "address1": "",
@@ -138,7 +139,11 @@
           "agencyName": "Department of Housing and Urban Development",
           "agencyCode": "025",
           "cio": {
-            "firstName": "Vacant"
+            "firstName": "Beth",
+            "lastName": "Niblock",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_niblock.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/beth-niblock/",
+            "deptCIO": "1"
           }
         }
       }
@@ -202,16 +207,16 @@
           "agencyName": "U.S. Department of the Army",
           "agencyCode": "",
           "cio": {
-            "firstName": "Bruce",
-            "lastName": "Crawford",
+            "firstName": "Raj",
+            "lastName": "Iyer",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_crawford.png",
-            "linkToBio": "https://www.cio.gov/lieutenant-general-bruce-t-crawford/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/Raj-Iyer.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/iyer-raj/",
             "deptCIO": "1",
             "address": {
-              "address1": "Department of the Army 107 Army Pentagon Room 3E608 Washington, DC 20310 Office Phone:\n                            703-695-4366 Office Fax: 703-695-3091",
+              "address1": "Department of the Army 107 Army Pentagon Room 3E608 Washington, DC 20310 Office Phone:\n 703-695-4366 Office Fax: 703-695-3091",
               "address2": "",
               "city": "Washington",
               "state": "DC",
@@ -341,7 +346,7 @@
             "linkToBio": "https://www.cio.gov/about/members-and-leadership/haldar-swarnali/",
             "deptCIO": "1",
             "address": {
-              "address1": "National Archives and Records Administration 8601 Adelphi Road College Park, MD\n                            20740",
+              "address1": "National Archives and Records Administration 8601 Adelphi Road College Park, MD\n 20740",
               "address2": "",
               "city": "College Park",
               "state": "MD",
@@ -358,13 +363,13 @@
           "agencyName": "Department of Health & Human Services",
           "agencyCode": "009",
           "cio": {
-            "firstName": "Perryn",
-            "lastName": "Ashmore",
+            "firstName": "Karl",
+            "lastName": "Mathias",
             "email": "",
             "phone": "",
-            "dateAppointed": "August 21, 2018",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_ashmore.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/ashmore-perryn/",
+            "dateAppointed": "March 13, 2022",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_mathias.jpeg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/karl-mathias/",
             "deptCIO": "1",
             "address": {
               "address1": "200 Independence Avenue, SW Washington, DC 20201",
@@ -445,7 +450,7 @@
             "linkToBio": "https://www.cio.gov/about/members-and-leadership/mahanand-jay/",
             "deptCIO": "1",
             "address": {
-              "address1": "Agency for International Development 1300 Pennsylvania Avenue, NW Ronald Reagan\n                            Building, Attn: 2PY Washington, DC 20523 Office Phone:",
+              "address1": "Agency for International Development 1300 Pennsylvania Avenue, NW Ronald Reagan\n Building, Attn: 2PY Washington, DC 20523 Office Phone:",
               "address2": "",
               "city": "Washington",
               "state": "DC",
@@ -471,7 +476,7 @@
             "linkToBio": "https://www.cio.gov/about/members-and-leadership/nelson-david/",
             "deptCIO": "1",
             "address": {
-              "address1": "Nuclear Regulatory Commission 11555 Rockville Pike Rockville OWFN- 06E02 Rockville, MD\n                            20852",
+              "address1": "Nuclear Regulatory Commission 11555 Rockville Pike Rockville OWFN- 06E02 Rockville, MD\n 20852",
               "address2": "",
               "city": "Rockville",
               "state": "MD",
@@ -497,7 +502,7 @@
             "linkToBio": "https://www.cio.gov/about/members-and-leadership/aronson-dorothy/",
             "deptCIO": "1",
             "address": {
-              "address1": "National Science Foundation 4201 Wilson Boulevard Room 305 Arlington, VA 22230 Office\n                            Phone: 703-292-8100 Office Fax: 703-292-9084",
+              "address1": "National Science Foundation 4201 Wilson Boulevard Room 305 Arlington, VA 22230 Office\n Phone: 703-292-8100 Office Fax: 703-292-9084",
               "address2": "",
               "city": "Arlington",
               "state": "VA",
@@ -566,13 +571,13 @@
           "agencyName": "Department of Veterans Affairs",
           "agencyCode": "029",
           "cio": {
-            "firstName": "Dominic",
-            "lastName": "Cussatt",
+            "firstName": "Kurt",
+            "lastName": "DelBene",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/va.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/cussatt-dominic/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/kurt_delbene.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/kurt-delbene/",
             "deptCIO": "1",
             "address": {
               "address1": "",
@@ -653,7 +658,7 @@
             "linkToBio": "https://www.cio.gov/about/members-and-leadership/jeff-seaton/",
             "deptCIO": "1",
             "address": {
-              "address1": "National Aeronautics & Space Administration NASA Headquarters 300 E Street, SW,\n                            Mail Suite: 2N18 Washington, DC 20546-0001 Office Phone: 202-358-1824 Office Fax:\n                            202-358-3017",
+              "address1": "National Aeronautics & Space Administration NASA Headquarters 300 E Street, SW,\n Mail Suite: 2N18 Washington, DC 20546-0001 Office Phone: 202-358-1824 Office Fax:\n 202-358-3017",
               "address2": "",
               "city": "Washington",
               "state": "DC",
@@ -679,7 +684,7 @@
             "linkToBio": "https://www.cio.gov/about/members-and-leadership/sherman-john/",
             "deptCIO": "1",
             "address": {
-              "address1": "Office of the Department of Defense, Chief Information Officer 6000 Defense Pentagon\n                            Washington, D.C. 20301-6000",
+              "address1": "Office of the Department of Defense, Chief Information Officer 6000 Defense Pentagon\n Washington, D.C. 20301-6000",
               "address2": "",
               "city": "Washington",
               "state": "DC",
@@ -711,6 +716,53 @@
           }
         }
       }
+    },
+    {
+      "title": "U.S. Department of the Navy CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "U.S. Department of the Navy",
+          "cio": {
+            "firstName": "Aaron",
+            "lastName": "Weis",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/AaronWeis.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/weis-aaron/",
+            "deptCIO": "",
+            "address": {
+              "address1": "",
+              "address2": "",
+              "city": "",
+              "state": "",
+              "zip": ""
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Department of the Air Force CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Department of the Air Force",
+          "cio": {
+            "firstName": "Lauren",
+            "lastName": "Knausenberger",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_knausenberger_new.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/knausenberger-lauren/",
+            "deptCIO": "",
+            "address": {
+              "address1": "",
+              "address2": "",
+              "city": "",
+              "state": "",
+              "zip": ""
+            }
+          }
+        }
+      }
     }
   ]
 }
+]
