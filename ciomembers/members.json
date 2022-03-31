@@ -60,13 +60,13 @@
           "agencyName": "Department of Transportation",
           "agencyCode": "021",
           "cio": {
-            "firstName": "Jack",
-            "lastName": "Albright",
+            "firstName": "Cordell",
+            "lastName": "Schachter",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/dt.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/albright-jack/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio-cordell-schachter.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/cordell-schachter/",
             "deptCIO": "1",
             "address": {
               "address1": "",
@@ -112,13 +112,13 @@
           "agencyName": "Department of the Interior",
           "agencyCode": "010",
           "cio": {
-            "firstName": "Bill",
-            "lastName": "Vajda",
+            "firstName": "Deborah",
+            "lastName": "Hartley",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_vajda.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/bill-vajda/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_hartley.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/deborah-june-hartley/",
             "deptCIO": "1",
             "address": {
               "address1": "",
@@ -138,7 +138,21 @@
           "agencyName": "Department of Housing and Urban Development",
           "agencyCode": "025",
           "cio": {
-            "firstName": "Vacant"
+            "firstName": "Beth",
+            "lastName": "Niblock",
+            "email": "",
+            "phone": "",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_niblock.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/beth-niblock/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "",
+              "address2": "",
+              "city": "",
+              "state": "",
+              "zip": ""
+            }
           }
         }
       }
@@ -202,13 +216,13 @@
           "agencyName": "U.S. Department of the Army",
           "agencyCode": "",
           "cio": {
-            "firstName": "Bruce",
-            "lastName": "Crawford",
+            "firstName": "Raj",
+            "lastName": "Iyer",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_crawford.png",
-            "linkToBio": "https://www.cio.gov/lieutenant-general-bruce-t-crawford/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/Raj-Iyer.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/iyer-raj/",
             "deptCIO": "1",
             "address": {
               "address1": "Department of the Army 107 Army Pentagon Room 3E608 Washington, DC 20310 Office Phone:\n                            703-695-4366 Office Fax: 703-695-3091",
@@ -358,13 +372,13 @@
           "agencyName": "Department of Health & Human Services",
           "agencyCode": "009",
           "cio": {
-            "firstName": "Perryn",
-            "lastName": "Ashmore",
+            "firstName": "Karl",
+            "lastName": "Mathias",
             "email": "",
             "phone": "",
-            "dateAppointed": "August 21, 2018",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_ashmore.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/ashmore-perryn/",
+            "dateAppointed": "March 13, 2022",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_mathias.jpeg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/karl-mathias/",
             "deptCIO": "1",
             "address": {
               "address1": "200 Independence Avenue, SW Washington, DC 20201",
@@ -566,13 +580,13 @@
           "agencyName": "Department of Veterans Affairs",
           "agencyCode": "029",
           "cio": {
-            "firstName": "Dominic",
-            "lastName": "Cussatt",
+            "firstName": "Kurt",
+            "lastName": "DelBene",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/va.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/cussatt-dominic/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/kurt_delbene.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/kurt-delbene/",
             "deptCIO": "1",
             "address": {
               "address1": "",
@@ -701,6 +715,52 @@
             "linkToPhoto": "https://www.cio.gov/assets/images/members/martorana-clare.jpg",
             "linkToBio": "https://www.cio.gov/about/members-and-leadership/clare-martorana/",
             "deptCIO": "1",
+            "address": {
+              "address1": "",
+              "address2": "",
+              "city": "",
+              "state": "",
+              "zip": ""
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "U.S. Department of the Navy CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "U.S. Department of the Navy",
+          "cio": {
+            "firstName": "Aaron",
+            "lastName": "Weis",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/AaronWeis.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/weis-aaron/",
+            "deptCIO": "",
+            "address": {
+              "address1": "",
+              "address2": "",
+              "city": "",
+              "state": "",
+              "zip": ""
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Department of the Air Force CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Department of the Air Force",
+          "cio": {
+            "firstName": "Lauren",
+            "lastName": "Knausenberger",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_knausenberger_new.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/knausenberger-lauren/",
+            "deptCIO": "",
             "address": {
               "address1": "",
               "address2": "",
