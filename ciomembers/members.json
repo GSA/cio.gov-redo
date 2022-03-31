@@ -514,20 +514,20 @@
           "agencyName": "Small Business Administration",
           "agencyCode": "028",
           "cio": {
-            "firstName": "Keith A.",
-            "lastName": "Bluestein",
-            "email": "Keith.Bluestein@sba.gov",
-            "phone": "202-205-6708",
+            "firstName": "Luis A.",
+            "lastName": "Campudoni",
+            "email": "",
+            "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_bluestein.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/bluestein-keith/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_campudoni.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/luis-campudoni/",
             "deptCIO": "1",
             "address": {
-              "address1": "409 Third Street, SW Suite 4000 Washington, DC 20416",
+              "address1": "",
               "address2": "",
-              "city": "Washington",
-              "state": "DC",
-              "zip": "20416"
+              "city": "",
+              "state": "",
+              "zip": ""
             }
           }
         }
