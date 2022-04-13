@@ -695,16 +695,16 @@
       }
     },
     {
-      "title": "Federal Chief Information Officer, Office of Management and Budget",
+      "title": "Acting Chief Information Officer, Office of Management and Budget",
       "content": {
         "agency": {
           "agencyName": "Office of Management and Budget",
           "cio": {
-            "firstName": "Clare",
-            "lastName": "Martorana",
+            "firstName": "David",
+            "lastName": "Myklegard",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/martorana-clare.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/clare-martorana/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_myklegard.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/myklegard-david/",
             "deptCIO": "1",
             "address": {
               "address1": "",
