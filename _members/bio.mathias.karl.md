@@ -6,7 +6,7 @@ subtitle: Team and Leadership
 title: About Our Council
 position: Chief Information Officer
 agency: Department of Health and Human Services
-bio-image: /bio_mathias.jpeg
+bio-image: /bio_mathias.jpg
 bio-image-alt-text: Karl S. Mathias
 bio-phone:
 bio-email:
