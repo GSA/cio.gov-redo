@@ -2,7 +2,7 @@
 layout: post
 title: 'Announcing the Federal IT Operating Plan: Strategically Aligning Investments to Deliver a Modern Government'
 excerpt: Every day, the public experiences well-designed interactions when using consumer products and services. They’re easy and intuitive. The public rightfully wants, expects, and deserves the same experience when interacting with the Government – and it’s possible. 
-date: 9 Jun 2022
+date: 10 Jun 2022
 # display-date: 18 Feb 2022
 author: Clare Martorana
 permalink: /2022-06-10-it-ops-plan/
