@@ -54,6 +54,8 @@ primary_navigation:
         url: /cio-handbook/
       - name: AIA tool
         url: /aia-eia-js/
+      - name: Federal IT Ops Plan
+        url: /assets/files/Federal-IT-Operating-Plan-June-2022.pdf/
   - name: Programs & Events
     children:
       - name: Women in IT & Cyber
