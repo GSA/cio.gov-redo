@@ -25,10 +25,6 @@ Department of Energy
 Chief Architect<br/>
 National Science Foundation
 
-**Laila Alequresh, Tri-Chair**<br/>
-Chief Innovation Officer<br/>
-Department of Transportation
-
 The [Innovation Committee Max Page](https://community.max.gov/display/Egov/CIO+Council+Innovation+Committee) **(login required)** provides tools and resources to encourage information sharing and collaboration.
 
 &nbsp;
