@@ -26,6 +26,10 @@ site, this is the place to do it.
     ================================================== -->
   <title>{{ page.title }} | {{site.title}}</title>
   <meta property="og:title" content="{{page.title}}">
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@{{site.twitter}}" />
+  <meta name="twitter:title" content="{{page.title}}" />
+  <meta property="twitter:domain" content="{{site.baseurl}}">
   {% if page.layout == "post" %}
     <meta name="description" content="{{page.excerpt}}">
     <meta property="og:description" content="{{page.excerpt}}">
@@ -42,9 +46,7 @@ site, this is the place to do it.
     <meta property='og:image' content='https://www.cio.gov/assets/images/logos/CIO-logo-preview.png' />
     <meta name="twitter:image" content="https://www.cio.gov/assets/images/logos/CIO-logo-preview.png">
   {% endif %}
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@{{site.twitter}}" />
-  <meta name="twitter:title" content="{{page.title}}" />
+
 
 
   <meta property="og:type" content="article">
