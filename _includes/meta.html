@@ -40,8 +40,8 @@ site, this is the place to do it.
     <meta name="twitter:description" content="{{page.description}}" />
   {% endif %}
   {% if page.image %}
-    <meta property='og:image' content='https://www.cio.gov/assets/images/blog/tmf-logo.png' />
-    <meta name="twitter:image" content="https://www.cio.gov/assets/images/blog/tmf-logo.png">
+    <meta property='og:image' content='{{site.baseurl}}/{{page.image}}' />
+    <meta name="twitter:image" content="{{site.baseurl}}/{{page.image}}">
   {% else %}
     <meta property='og:image' content='https://www.cio.gov/assets/images/logos/CIO-logo-preview.png' />
     <meta name="twitter:image" content="https://www.cio.gov/assets/images/logos/CIO-logo-preview.png">
