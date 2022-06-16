@@ -6,7 +6,7 @@ date: 16 Jun 2022
 author: Clare Martorana
 permalink: /2022-06-10-tmf-cx-allocation/
 tags: it-spending it-modernization
-image: 'assets/images/blog/tmf-logo-preview-small.png'
+Mimage: 'assets/images/blog/tmf-logo-preview-small.png'
 ---
 <p>Earlier today, we announced that $100 million of the Technology Modernization Fund (TMF) will be designated to help streamline and improve public-facing digital services and technology systems to deliver a better customer experience to the American people. All Federal agencies and High-Impact Service Providers (HISPs), which serve the largest percentage of people, conduct the greatest volume of transactions annually, and have an outsized impact on the lives of the individuals they serve, are eligible to apply for this funding. The effort will help to deliver on the commitments outlined in both the President&rsquo;s&nbsp;<a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/">Executive Order</a>&nbsp;on Improving Customer Experience and the&nbsp;<a href="https://www.performance.gov/pma/cx/" >second priority</a>&nbsp;of the President&rsquo;s Management Agenda, focused on delivering an excellent, equitable, and secure Federal services and customer experience.&nbsp;</p>
 <p><strong>We are looking for projects that:</strong></p>
