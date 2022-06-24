@@ -7,6 +7,7 @@ date: 10 Jun 2022
 author: Clare Martorana
 permalink: /2022-06-10-it-ops-plan/
 tags: it-spending cybersecurity it-modernization data
+Mimage: 'assets/images/blog/it-operating-plan-cover-preview.png'
 ---
 
 Every day, the public experiences well-designed interactions when using consumer products and services. They're easy and intuitive. The public rightfully wants, expects, and deserves the same experience when interacting with the Government -- and it's possible.
