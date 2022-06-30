@@ -762,6 +762,29 @@
           }
         }
       }
+    },
+    {
+      "title": "Intelligence Community CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Intelligence Community",
+          "cio": {
+            "firstName": "Adele",
+            "lastName": "Merritt",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_merritt.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/merritt-adele/",
+            "deptCIO": "",
+            "address": {
+              "address1": "",
+              "address2": "",
+              "city": "",
+              "state": "",
+              "zip": ""
+            }
+          }
+        }
+      }
     }
   ]
 }
