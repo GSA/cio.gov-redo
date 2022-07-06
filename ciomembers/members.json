@@ -623,13 +623,13 @@
           "agencyName": "Department of State",
           "agencyCode": "014",
           "cio": {
-            "firstName": "Keith",
-            "lastName": "Jones",
+            "firstName": "Glenn",
+            "lastName": "Miller",
             "email": "CIO@state.gov",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/keith-jones.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/keith-jones/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/glenn-miller.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/glenn-miller/",
             "deptCIO": "1",
             "address": {
               "address1": "U.S. Department of State 2201 C Street NW Washington, DC 20522-0906",
