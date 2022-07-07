@@ -19,10 +19,10 @@ Agencies are expected, as directed by the EO, to make their AI use case inventor
 
 ## Related Policies, Priorities and Resources ##
 
-<div class="usa-media-block tablet:grid-col-9">
+<div class="usa-media-block tablet:grid-col-12">
     <div class="policies" style="position: relative; height: 736px;">
         <div class="tablet:grid-col-3 grid-spacing policy guidance data-center-consolidation archive" style="position: absolute; left: 0px; top: 0px;">
-            <div class="shadow-1 guidance-border">
+            <div class="shadow-1 guidance-border"  >
                 <div class="text-container">
                     <span class="card-tag">Policy</span>
                     <p class="title-resources">
@@ -37,7 +37,7 @@ Agencies are expected, as directed by the EO, to make their AI use case inventor
             </div>
         </div>
         <div class="tablet:grid-col-3 grid-spacing policy guidance data-center-consolidation archive" style="position: absolute; left: 0px; top: 0px;">
-            <div class="shadow-1 guidance-border">
+            <div class="shadow-1 guidance-border" >
                 <div class="text-container">
                     <span class="card-tag">Guidance</span>
                     <p class="title-resources">
@@ -52,7 +52,7 @@ Agencies are expected, as directed by the EO, to make their AI use case inventor
             </div>
         </div>
         <div class="tablet:grid-col-3 grid-spacing policy guidance data-center-consolidation archive" style="position: absolute; left: 0px; top: 0px;">
-            <div class="shadow-1 guidance-border">
+            <div class="shadow-1 guidance-border" >
                 <div class="text-container">
                     <span class="card-tag">Resource</span>
                     <p class="title-resources">
@@ -60,14 +60,14 @@ Agencies are expected, as directed by the EO, to make their AI use case inventor
                             href="{{ site.baseurl }}/assets/resources/FAQ -  2021 Guidance for Creating Agency Inventories of AI Use Cases 10.6.2021 Version.docx"
                             target="_blank"
                             style="text-decoration: none; color: black"
-                    >FAQ doc title</a
+                    >Frequently Asked Questions (FAQs):2021 Guidance for Creating Agency Inventories of Artificial Intelligence Use Cases</a
                     >
                     </p>
                 </div>
             </div>
         </div>
         <div class="tablet:grid-col-3 grid-spacing policy guidance data-center-consolidation archive" style="position: absolute; left: 0px; top: 0px;">
-            <div class="shadow-1 guidance-border">
+            <div class="shadow-1 guidance-border" >
                 <div class="text-container">
                     <span class="card-tag">Resource</span>
                     <p class="title-resources">
@@ -75,14 +75,14 @@ Agencies are expected, as directed by the EO, to make their AI use case inventor
                             href="{{ site.baseurl }}/assets/resources/Example AI Use Case Inventory Scenarios 10.6.2021 Version.docx"
                             target="_blank"
                             style="text-decoration: none; color: black"
-                    >Example doc title</a
+                    >Example AI Use Case Inventory Scenarios</a
                     >
                     </p>
                 </div>
             </div>
         </div>
         <div class="tablet:grid-col-3 grid-spacing policy guidance data-center-consolidation archive" style="position: absolute; left: 0px; top: 0px;">
-            <div class="shadow-1 guidance-border">
+            <div class="shadow-1 guidance-border" >
                 <div class="text-container">
                     <span class="card-tag">Resource</span>
                     <p class="title-resources">
@@ -90,7 +90,7 @@ Agencies are expected, as directed by the EO, to make their AI use case inventor
                             href="{{ site.baseurl }}/assets/resources/2021 Agency Inventory of AI Use Cases, 10.6.2021 Version.xlsx"
                             target="_blank"
                             style="text-decoration: none; color: black"
-                    >Excel doc title</a
+                    >2021 Agency Inventory of AI Use Cases, 10.6.2021 Version.xlsx</a
                     >
                     </p>
                 </div>
