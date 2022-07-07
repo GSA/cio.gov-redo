@@ -56,8 +56,6 @@ primary_navigation:
         url: /aia-eia-js/
       - name: Federal IT Ops Plan
         url: /assets/files/Federal-IT-Operating-Plan-June-2022.pdf
-      - name: Executive Order (EO) 13960
-        url: /policies-and-priorities/Executive-Order-13960-AI-Use-Case-Inventories-Reference/
   - name: Programs & Events
     children:
       - name: Women in IT & Cyber
