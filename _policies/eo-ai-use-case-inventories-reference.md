@@ -13,7 +13,7 @@ Pursuant to Section 5 of  Executive Order (EO) 13960, “Promoting the Use of Tr
 
 2. Share the consolidated inventories with other agencies. 
 
-The CIO Council Innovation Committee has collaborated with GSA, OSTP, and OMB to consolidate the requested AI Use Case inventory.
+The CIO Council Innovation Committee has collaborated with GSA, OSTP, and OMB to <a href="https://community.max.gov/display/Egov/Promoting+the+Use+of+Artificial+Intelligence+in+the+Federal+Government" target="_blank">consolidate the requested AI Use Case inventory</a>.
 
 Agencies are expected, as directed by the EO, to make their AI use case inventories public. Agencies are encouraged to publish/post their AI use case inventories on their agency data webpage at https://[agency].gov/data/AI_Inventory.
 
@@ -87,10 +87,10 @@ Agencies are expected, as directed by the EO, to make their AI use case inventor
                     <span class="card-tag">Resource</span>
                     <p class="title-resources">
                     <a
-                            href="{{ site.baseurl }}/assets/resources/2021 Agency Inventory of AI Use Cases, 10.6.2021 Version.xlsx"
+                            href="{{ site.baseurl }}/assets/resources/Template-2021 Agency Inventory of AI Use Cases, 10.6.2021 Version.xlsx"
                             target="_blank"
                             style="text-decoration: none; color: black"
-                    >2021 Agency Inventory of AI Use Cases, 10.6.2021 Version.xlsx</a
+                    >Template-2021 Agency Inventory of AI Use Cases, 10.6.2021 Version.xlsx</a
                     >
                     </p>
                 </div>
