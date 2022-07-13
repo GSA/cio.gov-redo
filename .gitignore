@@ -15,3 +15,4 @@ node_modules
 /.idea/workspace.xml
 /aia-2/.idea/workspace.xml
 .idea
+.DS_Store
