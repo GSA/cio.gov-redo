@@ -133,7 +133,7 @@ page_gen:
     dir: "/about/members-and-leadership/"
     name_expr: "record['content']['agency']['cio']['bio_link']"
     title: "title"
-    index_files: false # true
+    index_files: true
 
 
 ############################################################
