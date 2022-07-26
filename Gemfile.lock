@@ -37,6 +37,7 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
+    jekyll-datapage-generator (1.4.0)
     jekyll-feed (0.13.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-paginate-v2 (2.0.0)
@@ -87,6 +88,7 @@ PLATFORMS
 DEPENDENCIES
   html-proofer (~> 3.10)
   jekyll (~> 3.8.4)
+  jekyll-datapage-generator
   jekyll-feed (~> 0.6)
   jekyll-paginate-v2 (= 2.0)
   jekyll-redirect-from
@@ -95,4 +97,4 @@ DEPENDENCIES
   tzinfo-data
 
 BUNDLED WITH
-   1.17.3
+   2.1.4

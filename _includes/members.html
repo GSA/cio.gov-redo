@@ -3,22 +3,26 @@
 <section class="usa-graphic-list padding-top-0" >
   <div class="grid-container">
     <div class="usa-graphic-list__row grid-row grid-gap padding-top-0">
+      {% assign members = site.data.members.cioInfo | where: 'content.agency.cio.leadership', false | sort: "content.agency.cio.lastName" %}
+      {% if members and members.size > 0 %}
+        {% for bio in members %}
+          {% assign first_name = bio.content.agency.cio.firstName %}
+          {% assign last_name =  bio.content.agency.cio.lastName %}
+          {% assign link =  bio.content.agency.cio.bio_link %}
 
-      {% for bio in site.members %}
-        <div class="tablet:grid-col-4 container" style="padding:10px;">
-          <a style="color:black" href="{{ site.baseurl }}{{ bio.permalink }}">
-          <div class="left">
-            <img src="{{ site.baseurl }}/assets/images/members{{ bio.bio-image }}" alt="{{bio.name}}">
+          <div class="tablet:grid-col-4 container" style="padding:10px;">
+            <a style="color:black" href="{{ site.baseurl }}{{ bio.url }}{{link}}">
+            <div class="left">
+              <img src="{{ site.baseurl }}/assets/images/members{{ bio.content.agency.cio.bio-image }}" alt="{{ first_name }} {{ last_name }}">
+            </div>
+            <div class="right">
+              <p><span class="name">{{ first_name }} {{ last_name }}<br></span>
+              <span class="title">{{ bio.content.agency.cio.position }}, {{ bio.content.agency.agencyName }}</span></p>
+            </div>
+            </a>
           </div>
-          <div class="right">
-            <p><span class="name">{{ bio.name }}<br></span>
-            <span class="title">{{ bio.position }}, {{ bio.agency }}</span></p>
-          </div>
-          </a>
-        </div>
-      {% endfor %}
-
-
+        {% endfor %}
+      {% endif %}
     </div>
   </div>
 </section>
