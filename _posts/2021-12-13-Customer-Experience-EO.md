@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Customer Experience EO- A more simple, seamless, and secure customer experience for the American public
-excerpt: The Customer Experience <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/">Executive Order</a> calls the Federal IT Community into action since <a href="https://www.whitehouse.gov/omb/briefing-room/2021/12/13/using-technology-to-improve-customer-experience-and-service-delivery-for-the-american-people/">it is technology that underpins the Government’s ability to deliver</a> a more simple, seamless, and secure customer experience for the American public. 
+excerpt: The Customer Experience Executive Order calls the Federal IT Community into action since it is technology that underpins the Government’s ability to deliver a more simple, seamless, and secure customer experience for the American public. 
 display-date: 13 Dec 2021
 author: Clare Martorana
 tags: 2021 customer-experience customer-service executive-order it-modernization 
