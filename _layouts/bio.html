@@ -1,8 +1,8 @@
 ---
 layout: defaultwithbanner
 ---
+{% assign bio = site.data.members.cioInfo | where_exp: 'item', "page.url contains item.content.agency.cio.bio_link " | first %}
 
-{% assign bio = site.data.members.cioInfo | where: 'title', page.title | first %}
 {% if bio %}
   {% assign first_name = bio.content.agency.cio.firstName %}
   {% assign last_name =  bio.content.agency.cio.lastName %}

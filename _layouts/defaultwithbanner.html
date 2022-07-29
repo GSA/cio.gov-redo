@@ -7,7 +7,7 @@ The home page uses wide.html layout, since it extends full width of page
 {% include header.html %}
 {% include menu.html primary_navigation=site.primary_navigation  secondary_navigation=site.secondary_navigation %}
 
-{% assign bio = site.data.members.cioInfo | where: 'title', page.title | first %}
+{% assign bio = site.data.members.cioInfo | where_exp: 'item', "page.url contains item.content.agency.cio.bio_link " | first %}
 
 {% if bio and bio.content.agency.cio.banner_title %}
   <section class="usa-graphic-list usa-section bg-primary-darker sml-margin">
