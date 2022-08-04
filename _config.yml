@@ -122,6 +122,19 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-datapage-generator
+
+############################################################
+# Configuration for the Jekyll 3 jekyll-datapage-generator
+# The values here represent the defaults if nothing is set
+page_gen:
+  - data: "members.cioInfo"
+    template: "bio"
+    dir: "/about/members-and-leadership/"
+    name_expr: "record['content']['agency']['cio']['bio_link']"
+    title: "title"
+    index_files: true
+
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem

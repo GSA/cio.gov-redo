@@ -1,41 +1,48 @@
 ---
 layout: defaultwithbanner
 ---
-<section class="usa-graphic-list margin-top-6">
-  <div class="padding-left-0">
-    <div class="grid-row">
-      <div class="desktop:grid-col-3">
-          <img class="bio-photo" src="{{ site.baseurl }}/assets/images/members{{ page.bio-image }}" alt="{{ page.bio-image-alt-text }}">
-      </div>
-      <div class="desktop:grid-col-9">
-        {% if page.name %}
-          <h2 class="font-alt-xl">{{ page.name }}</h2>
-         {% endif %}
-         {% if page.position %}
-           <h3 class="font-sans-lg margin-top-0 margin-bottom-105">{{ page.position }},
-         {% endif %}
-         {% if page.agency %}
-          {{ page.agency }}</h3>
-        {% endif %}
-<!--  Removing contact info for now since only one CIO member has it (Joe K)
-        {% if page.bio-email  %}
-         <b>Email:  </b><a href="mailto:{{ page.bio-email }}">{{ page.bio-email }}</a><br>
-        {% endif %}
-        {% if page.bio-phone %}
-         <b>Phone:</b> {{ page.bio-phone }}<BR>
-        {% endif %}-->
+{% assign bio = site.data.members.cioInfo | where_exp: 'item', "page.url contains item.content.agency.cio.bio_link " | first %}
+
+{% if bio %}
+  {% assign first_name = bio.content.agency.cio.firstName %}
+  {% assign last_name =  bio.content.agency.cio.lastName %}
+  <section class="usa-graphic-list margin-top-6">
+    <div class="padding-left-0">
+      <div class="grid-row">
+        <div class="desktop:grid-col-3">
+            <img class="bio-photo" src="{{ site.baseurl }}/assets/images/members{{ bio.content.agency.cio.bio-image }}" alt="{{ first_name }} {{ last_name }}">
+        </div>
+        <div class="desktop:grid-col-9">
+          {% if page.name %}
+            <h2 class="font-alt-xl">{{ first_name }} {{ last_name }}</h2>
+          {% endif %}
+          {% if bio.content.agency.cio.position %}
+            <h3 class="font-sans-lg margin-top-0 margin-bottom-105">{{ bio.content.agency.cio.position }},
+          {% endif %}
+          {% if bio.content.agency.agencyName %}
+            {{ bio.content.agency.agencyName }}</h3>
+          {% endif %}
+  <!--  Removing contact info for now since only one CIO member has it (Joe K)
+          {% if page.bio-email  %}
+          <b>Email:  </b><a href="mailto:{{ page.bio-email }}">{{ page.bio-email }}</a><br>
+          {% endif %}
+          {% if page.bio-phone %}
+          <b>Phone:</b> {{ page.bio-phone }}<BR>
+          {% endif %}-->
+        </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
 
-<div class="fade_line"></div>
+  <div class="fade_line"></div>
 
-<section class="usa-graphic-list usa-section" style="padding-top:0">
-  <div class="desktop:grid-col-12">
-    {{ content }}
-  </div>
-
-  <br>
-  <p class="card-tag"><a href="{{site.baseurl}}/about/members-and-leadership/">&#10094; &nbsp; Back to Members</a> </p>
-</section>
+  <section class="usa-graphic-list usa-section" style="padding-top:0">
+    {% if  bio.content.agency.cio.description %}
+      <div class="desktop:grid-col-12">
+      {{ bio.content.agency.cio.description }}
+      </div>
+    {% endif %}
+    <br>
+    <p class="card-tag"><a href="{{site.baseurl}}/about/members-and-leadership/">&#10094; &nbsp; Back to Members</a> </p>
+  </section>
+{% endif %}
