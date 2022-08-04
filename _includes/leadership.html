@@ -1,21 +1,25 @@
 <section class="usa-graphic-list padding-top-0">
   <div class="grid-container">
     <div class="usa-graphic-list__row grid-row grid-gap" style="padding:0;">
-
-      {% for bio in site.leadership %}
+      {% assign leaderships = site.data.members.cioInfo | where: 'content.agency.cio.leadership', true %}
+      {% if leaderships and leaderships.size > 0 %}
+        {% for bio in leaderships %}
+          {% assign first_name = bio.content.agency.cio.firstName %}
+          {% assign last_name =  bio.content.agency.cio.lastName %}
+          {% assign link =  bio.content.agency.cio.bio_link %}
           <div class="container tablet:grid-col-6" style="padding:10px;">
-            <a style="color:black" href="{{ site.baseurl }}{{ bio.permalink }}">
+            <a style="color:black" href="{{ site.baseurl }}/about/members-and-leadership/{{ link }}">
             <div class="left">
-              <img src="{{ site.baseurl }}/assets/images/members{{ bio.bio-image }}" alt="{{bio.name}}">
+              <img src="{{ site.baseurl }}/assets/images/members{{ bio.content.agency.cio.bio-image }}" alt="{{ first_name }} {{ last_name }}">
             </div>
             <div class="right">
-            <p><span class="name-leader">{{ bio.name }}</span><br>
-            <span class="text- margin-top-2">{{ bio.position }}, {{ bio.agency }}</span></p>
+            <p><span class="name-leader">{{ first_name }} {{ last_name }}</span><br>
+            <span class="text- margin-top-2">{{ bio.content.agency.cio.position }}, {{ bio.content.agency.agencyName }}</span></p>
             </div>
             </a>
           </div>
-      {% endfor %}
-
+        {% endfor %}
+      {% endif %}
     </div>
   </div>
 </section>
