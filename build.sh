@@ -1,3 +1,4 @@
+cp _data/members.json ciomembers/
 mkdir -p assets/uswds
 cp -R node_modules/uswds/dist/css node_modules/uswds/dist/img node_modules/uswds/dist/fonts node_modules/uswds/dist/js assets/uswds/
 mkdir -p _sass/uswds
