@@ -4,10 +4,9 @@
   "description": "Federalist using USWDS+Jekyll",
   "main": "src/js/app.js",
   "scripts": {
-    "build": "npm run build:json; npm run build:uswds; npm run build:js; npm run build:jekyll",
+    "build": "npm run build:uswds; npm run build:js; npm run build:jekyll",
     "build:jekyll": "bundle exec jekyll build",
-    "build:js": "mkdir -p assets/js; cp -R src/js/* assets/js/",
-    "build:json": "cp _data/members.json ciomembers/",
+    "build:js": "mkdir -p assets/js; cp -R src/js/* assets/js/; mkdir -p ciomembers; cp _data/members.json ciomembers/",
     "build:uswds": "npm run build:uswds:assets; npm run build:uswds:sass",
     "build:uswds:assets": "mkdir -p assets/uswds; cp -R node_modules/uswds/dist/css node_modules/uswds/dist/img node_modules/uswds/dist/fonts node_modules/uswds/dist/js assets/uswds/",
     "build:uswds:sass": "mkdir -p _sass/uswds; cp -R node_modules/uswds/dist/scss/* _sass/uswds/",
