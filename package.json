@@ -6,7 +6,7 @@
   "scripts": {
     "build": "npm run build:json; npm run build:uswds; npm run build:js; npm run build:jekyll",
     "build:jekyll": "bundle exec jekyll build",
-    "build:js": "mkdir -p assets/js; cp -R src/js/* assets/js/",
+    "build:js": "mkdir -p assets/js; cp -R src/js/* assets/js/; cp _data/members.json ciomembers/",
     "build:json": "cp _data/members.json ciomembers/",
     "build:uswds": "npm run build:uswds:assets; npm run build:uswds:sass",
     "build:uswds:assets": "mkdir -p assets/uswds; cp -R node_modules/uswds/dist/css node_modules/uswds/dist/img node_modules/uswds/dist/fonts node_modules/uswds/dist/js assets/uswds/",
