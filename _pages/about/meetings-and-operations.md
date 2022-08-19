@@ -29,12 +29,16 @@ Below is the current schedule for both Full Council and Executive Committee meet
 *Holiday Schedule update*
 
 **Full Council:**
-* **November -** Wednesday, November 17, 2021
-* **December -**  Wednesday, December 15, 2021
+* **September -** Wednesday, September 28, 2022
+* **October -** Wednesday, October 26, 2022
+* **November -** Wednesday, November 16, 2022
+* **December -** Wednesday, December 7, 2022
 
 **CISO Council:**
-* **November -** Tuesday, November 16, 2021
-* **December -**  Tuesday, December 14, 2021
+* **September -** Wednesday, September 21, 2022
+* **October -** Wednesday, October 19, 2022
+* **November -** Wednesday, November 9, 2022
+* **December -** Wednesday, December 6, 2022* 10AM-2PM (Strategy Session)
 <br>
 {% for events in site.events %}
 {% if events.title contains 'CIO Council Meeting' %}
