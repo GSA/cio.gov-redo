@@ -922,6 +922,17 @@ ul.add-list-reset {
   margin-top: 5px;
 }
 
+@media screen and (max-width: 760px) {
+  .cio-header-logo-img {
+    margin: 3rem;
+    max-width: 25rem;
+  }
+
+  .header-container {
+    margin-bottom: 10rem;
+  }
+}
+
 @media screen and (min-width: 760px) {
   .usa-banner__row {
     flex-wrap: nowrap;
@@ -952,6 +963,15 @@ ul.add-list-reset {
 
   .banner__header-border {
     border-bottom: 0;
+  }
+
+  .cio-header-logo-img {
+    margin: 3rem;
+    max-width: 19rem;
+  }
+
+  .header-container {
+    margin-bottom: 6rem;
   }
 }
 
@@ -1011,6 +1031,11 @@ ul.add-list-reset {
 
   .cio-header-logo-img {
     margin: 3rem;
+    max-width: 28rem;
+  }
+
+  .header-container {
+    margin-bottom: 10rem;
   }
 
   .usa-menu-btn, .usa-nav__close {
