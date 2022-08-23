@@ -305,10 +305,22 @@ margin-top: 5px;
 .logo-seal {
   width: 30%;
   margin: -20px 0;
+
+  @media screen and (max-width: 640px) {
+    width: 9%;
+  }
+
+  @media screen and (min-width: 641px) and (max-width: 1023px) {
+    width: 6%;
+  }
 }
 
-.logo-seal {
-  @media (max-width: 40em) {
+.logo-text {
+  @media screen and (max-width: 640px) {
     width: 20%;
+  }
+
+  @media screen and (min-width: 641px) and (max-width: 1023px) {
+    width: 15%;
   }
 }
