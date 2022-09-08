@@ -361,13 +361,13 @@
           "agencyName": "Department of Education",
           "agencyCode": "018",
           "cio": {
-            "firstName": "Jason",
-            "lastName": "Gray",
-            "email": "jason.gray@ed.gov",
-            "phone": "202-245-6252",
+            "firstName": "Gary",
+            "lastName": "Stevens",
+            "email": "",
+            "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_gray.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/gray-jason/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_stevens.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/stevens-gary/",
             "deptCIO": "1",
             "address": {
               "address1": "Department of Education 550 12th Street, SW Washington, DC 20202",
@@ -376,13 +376,13 @@
               "state": "DC",
               "zip": "20202"
             },
-            "bio_link":"gray-jason",
+            "bio_link":"stevens-gary",
             "banner_subtitle": "Team and Leadership",
             "banner_title":"About Our Council",
             "leadership": false,
-            "position": "Chief Information Officer",
-            "bio-image": "/bio_gray.png",
-            "description": "Jason Gray was selected in May 2016 to serve as the U. S. Department of Education’s chief information officer (CIO). In this position he oversees an information technology (IT) portfolio of $689 million in programs. As the CIO, Gray serves as a principal advisor to the under secretary, deputy secretary, and secretary with respect to the astute use of IT to exceed the expectations of the Department's customers. He serves as the day-to-day lead for coordinating and managing the various functions within Office of the Chief Information Officer, coordinates with and provides advice to the Department's senior leadership regarding IT, information management, information assurance, and website activities management and operations.<br><br>Prior to his selection as CIO, Gray served as the associate chief information officer for the Department of Transportation (DOT), where he provided executive leadership on IT policy and oversight for information governance, compliance, and departmental policy, as well as managed DOT’s $3.5 billion IT portfolio.<br><br>Gray has held several leadership roles in the information technology and healthcare administration fields. He has nearly 20 years of experience in the planning, development, delivery, and monitoring of technical solutions that address the needs of his customers in support of their missions.<br><br>Gray received his M.B.A. from Colorado Technical University, completed the Key Executive Leadership Certificate at American University, and holds a variety of technical and professional certifications, including the Project Management Professional (PMP) and Certified Information Systems Security Professional (CISSP) certifications."
+            "position": "Acting Chief Information Officer",
+            "bio-image": "/bio_stevens.png",
+            "description": "Serve as the (Acting) Chief Information Officer (CIO) to manage a team of over 100 government and contract personnel and the execution of multi-million-dollar budget. Develop strategic plans for the use of IT within the Department and initiate and advocate for department-wide system enhancements and changes to support the Secretary's initiative. Develop and implement policies and safeguards to protect the Department's IT, while managing the organizational framework to improve the planning and controls of IT investments. Execute holistic information technology missions and functions, ensuring they are integrated, prioritized, and executed within the framework of the strategic plans, priorities, and allocated resources. Direct the study of new and changing concepts and emerging technology of IT systems. Integrate policies, procedures, and guidelines to improve the management and utilization of information and IT resources throughout the Department. Advise other Department officials on new and emerging technologies in the areas of IT infrastructure, communication, IT security, and IT system development that may benefit the Department."
           }
         }
       }
@@ -559,13 +559,13 @@
           "agencyName": "Agency for International Development",
           "agencyCode": "184",
           "cio": {
-            "firstName": "Jay",
-            "lastName": "Mahanand",
-            "email": "DCIO-USAID@usaid.gov",
+            "firstName": "Jason",
+            "lastName": "Gray",
+            "email": "jason.gray@ed.gov",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_mahanand.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/mahanand-jay/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_gray.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/gray-jason/",
             "deptCIO": "1",
             "address": {
               "address1": "Agency for International Development 1300 Pennsylvania Avenue, NW Ronald Reagan\n Building, Attn: 2PY Washington, DC 20523 Office Phone:",
@@ -574,13 +574,13 @@
               "state": "DC",
               "zip": "20523"
             },
-            "bio_link":"mahanand-jay",
+            "bio_link":"gray-jason",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
             "position": "Chief Information Officer",
-            "bio-image": "/bio_mahanand.jpg",
-            "description": "Jay Mahanand is the Chief Information Officer for the U.S. Agency for International Development. He has worked in the Information Technology arena for over 22 years and has successfully championed numerous multi-million dollar enterprise-level initiatives across entities within the federal and private sectors With a well-rounded technical background in telecommunications, systems development, information security, and IT project management; Mr. Mahanand has driven innovation while maintaining an emphasis on simplicity to commitments at USAID.<br><br>Prior to joining USAID, he spent 15 years supporting the US Treasury and the former Immigration and Naturalization Service in various managerial positions including Chief Information Officer, Deputy Chief Information Officer, Chief Technical Officer, Deployment Manager, Network Manager and Senior Telecommunications Engineer. He holds a B.S. degree in Engineering from the University of Maryland and possesses technical certifications in enterprise architecture, telecommunications, project management, and information security."
+            "bio-image": "/bio_gray.png",
+            "description": "USAID's Chief Information Officer Jason Gray has over two decades of leadership in management, operations, and handling of large information technology (IT) portfolios for both civil service and private sector organizations. Jason’s career began at Lockheed Martin, where he worked as a Systems Engineer and Analyst, and later in a management role for over a decade. He has also spent time in the healthcare field, as CIO of the Miami VA Healthcare System and as Chief Technology Officer of the National Naval Medical Center. Here, he became familiar with providing IT solutions that better serve those in public service and in the federal government. These were skills which he later applied in his role as the Associate CIO at the Department of Transportation (DOT) where he managed DOT’s $3.5 billion IT portfolio, in addition to providing executive leadership on IT policy and oversight for information governance, compliance, and departmental policy.<br><br>Most recently, he has served as the CIO for the Department of Education (ED), where he provided strategic, tactical and operational technology leadership in overseeing the coordination, management and delivery of mission-critical core Information Technology (IT) services to 24K+ employees across the U.S. Department of Education (ED). Jason was responsible for providing a secure, protected, and safeguarded environment for ED’s loan portfolio worth over $1 Trillion. Under Jason’s steadfast leadership, the DOE reshaped its approach to cybersecurity and moved from on-premise data centers to the cloud. Most notably, Jason’s management of the DOE’s extensive IT portfolios aided in a collaboration with the Technology Modernization Fund Board which resulted in an additional $20 million to assist with the adoption of zero trust architecture. This venture aided over 100 million students and borrowers, protecting and supporting their data.<br><br>Jason received his M.B.A. from Colorado Technical University, completed the Key Executive Leadership Certificate at American University, and holds a variety of technical and professional certifications, including the Project Management Professional (PMP) and Certified Information Systems Security Professional (CISSP) certifications."
           }
         }
       }
