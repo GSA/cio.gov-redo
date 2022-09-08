@@ -17,7 +17,7 @@ The Workforce Committee’s agenda encompasses the full employment life cycle: w
 # Leadership
 **Jason Gray, Co-Chair**<br/>
 Chief Information Officer<br/>
-Department of Education<br/>
+Agency for International Development<br/>
 [View Jason Gray's profile]({{ site.baseurl }}/about/members-and-leadership/gray-jason/)
 
 **Dorothy Aronson, Co-Chair**<br/>
