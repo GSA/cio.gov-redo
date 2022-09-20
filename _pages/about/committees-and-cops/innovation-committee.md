@@ -17,13 +17,17 @@ Innovation can bring about both incremental growth and radical change in how we 
 
 # Leadership
 
+**Chris Brazier, Tri-Chair**<br/>
+Chief Technology Officer & Mission IT Infrastructure & Services Department Chief<br/>
+Defense Threat Reduction Agency
+
 **Ann Dunkin, Tri-Chair**<br/>
 Chief Information Officer<br/>
 Department of Energy
 
 **Chezian Sivagnanam, Tri-Chair**<br/>
 Chief Architect<br/>
-National Science Foundation
+Federal Deposit Insurance Corporation
 
 The [Innovation Committee Max Page](https://community.max.gov/display/Egov/CIO+Council+Innovation+Committee) **(login required)** provides tools and resources to encourage information sharing and collaboration.
 
