@@ -15,7 +15,7 @@ This one-day event featured panel sessions and open discussions “By leveraging
 
 The existing reporting structure of Federal IT spend lacks the granularity required to create a holistic understanding of investments. The IT Dashboard*, identifies over 80% of IT spending captured through a single, non-descript categorization of funding. Similar views into commercial sector spending offer considerably more fidelity into the components that build up technology related expenses.
 
-![Distribution of IT Spending, Government-wide]({{site.baseurl}}/assets/img/blog/2017.08.08.png)
+![Distribution of IT Spending, Government-wide]
 
 By adopting Technology Business Management best practices, the federal government has an opportunity to increase transparency, improve service delivery and arm decision makers with the data necessary to make informed choices regarding their technology investments.
 

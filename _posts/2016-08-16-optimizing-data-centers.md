@@ -33,5 +33,3 @@ To date, OGP has made great progress in this new role to empower agencies in cre
 * Building a Data Center Community of Practice: Putting plans in place to establish a forum for policy managers, data center program managers, facilities managers, and sustainability officers at executive agencies to collaborate on optimization strategies and discuss topics such as DCOI annual strategic plans.
 
 We encourage your participation in this important initiative. Please join our listserv to keep abreast of Data Center CoP opportunities. To join, email “[listserv@listserv.gsa.gov](mailto:listserv@listserv.gsa.gov)”; your message should have no subject, and should include the text “subscribe datacenters” in the body of the message.
-
-If you have any questions in the meantime, contact us at [dcoi@gsa.gov](dcoi@gsa.gov). Bookmark [gsa.gov/dcoi](https://gsa.gov/dcoi) to keep informed about the DCOI and check out our upcoming posts on this blog.

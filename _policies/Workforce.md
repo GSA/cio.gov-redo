@@ -10,7 +10,7 @@ related-filters: 'workforce modernization'
 ---
 
 ## Policy Overview ##
-The Federal Government needs an IT workforce that can effectively carry out its mission. "Workforce" is a push toward identifying, hiring, and empowering the best possible people in federal IT. The Administration's broader focus on [Developing the Workforce of the 21st Century](https://www.performance.gov/CAP/workforce/) aims to "achieve a state where Federal agencies and managers can hire the best employees, remove the worst employees, and engage employees at all levels of the organization. The Government must put a framework in place that drives and encourages strategic human capital management."
+The Federal Government needs an IT workforce that can effectively carry out its mission. "Workforce" is a push toward identifying, hiring, and empowering the best possible people in federal IT. The Administration's broader focus on [Developing the Workforce of the 21st Century](https://trumpadministration.archives.performance.gov/CAP/workforce/) aims to "achieve a state where Federal agencies and managers can hire the best employees, remove the worst employees, and engage employees at all levels of the organization. The Government must put a framework in place that drives and encourages strategic human capital management."
 
 ## Why This Matters to the CIO Council ##
 The Council is committed to its strategic goal of providing the Federal Government with a workforce of highly capable IT professionals with mission critical competencies to meet agency goals.

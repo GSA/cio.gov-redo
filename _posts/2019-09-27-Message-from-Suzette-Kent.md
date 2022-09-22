@@ -11,7 +11,7 @@ img-alt: Headshot of Suzette Kent
 permalink: /highlights-of-the-updated-cio/
 ---
 
-On September 19th, the Administration published updates to the Cross-Agency Priority (CAP) Goals and Agency Priority Goals (APGs) on [Performance.gov](https://www.performance.gov). These updates reflect the progress made between May and June 2019. As one of the IT Modernization Goal Leaders, I’m excited to announce that in alignment with the [IT Modernization Goal](https://www.performance.gov/CAP/it-mod/) and the [21st Century Integrated Digital Experience Act (IDEA)]({{ site.baseurl }}/policies-and-priorities/21st-century-IDEA-act/) we’ve re-launched CIO.gov leveraging common solutions and innovative practices to improve efficiency, increase security, and ultimately meet citizens’ needs.
+On September 19th, the Administration published updates to the Cross-Agency Priority (CAP) Goals and Agency Priority Goals (APGs) on [Performance.gov](https://www.performance.gov). These updates reflect the progress made between May and June 2019. As one of the IT Modernization Goal Leaders, I’m excited to announce that in alignment with the [IT Modernization Goal](https://trumpadministration.archives.performance.gov/CAP/it-mod/) and the [21st Century Integrated Digital Experience Act (IDEA)]({{ site.baseurl }}/policies-and-priorities/21st-century-IDEA-act/) we’ve re-launched CIO.gov leveraging common solutions and innovative practices to improve efficiency, increase security, and ultimately meet citizens’ needs.
 
 **Data-Driven, Customer-Focused**
 

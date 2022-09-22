@@ -23,7 +23,7 @@ The four areas of Federal Data Strategy are:
 - Commercialization, Innovation, and Public Use.
 
 ## Why This Matters to the CIO Council ##
-The Administration is focused on [Leveraging Data as a Strategic Asset](https://www.performance.gov/CAP/leveragingdata/). The Council is a key strategic partner in leveraging the value of federal data for mission, service, and the public good by guiding the Federal Government in practicing ethical governance, conscious design, and a learning culture. We support the effort to build a "long-term, enterprise-wide Federal Data Strategy to:
+The Administration is focused on [Leveraging Data as a Strategic Asset](https://trumpadministration.archives.performance.gov/CAP/leveragingdata/). The Council is a key strategic partner in leveraging the value of federal data for mission, service, and the public good by guiding the Federal Government in practicing ethical governance, conscious design, and a learning culture. We support the effort to build a "long-term, enterprise-wide Federal Data Strategy to:
 
 - Better govern and leverage the Federal Government’s data;
 - Enable government data to be accessible and useful for the American public, businesses, and researchers; and

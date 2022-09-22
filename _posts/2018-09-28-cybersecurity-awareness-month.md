@@ -13,7 +13,7 @@ img-alt: White House .gov logo
 permalink:
 ---
 
-_This proclamation was first posted on [White House.gov](https://www.whitehouse.gov/presidential-actions/presidential-proclamation-national-cybersecurity-awareness-month-2018/) on September 28th, 2018._
+_This proclamation was first posted on [White House.gov](https://trumpwhitehouse.archives.gov/presidential-actions/presidential-proclamation-national-cybersecurity-awareness-month-2018/) on September 28th, 2018._
 
 During National Cybersecurity Awareness Month, we acknowledge the danger that cyber threats pose to our economy and public infrastructure, and raise awareness about steps we can take to mitigate and prevent future attacks. As these threats have continued to increase year after year, my Administration remains committed to bolstering our Nation’s cyber defenses and strengthening our national security.
 

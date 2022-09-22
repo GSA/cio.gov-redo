@@ -8,7 +8,7 @@ filters: report council-operations current
 
 ---
 # Introduction
-Since the issuance one year ago of [EO 13800](https://www.whitehouse.gov/presidential-actions/presidential-executive-order-strengthening-cybersecurity-federal-networks-critical-infrastructure/) commissioning the Federal IT Modernization Report, this Administration has continued to place a significant emphasis on improving the way that the Federal Government serves American Citizens. The analysis commissioned through the EO have resulted in insights that are now informing our forward strategies. In response to areas identified by the IT Modernization report and the Federal Cybersecurity Risk Determination Report and Action Plan to the President of the United States, including:
+Since the issuance one year ago of [EO 13800](https://www.federalregister.gov/documents/2017/05/16/2017-10004/strengthening-the-cybersecurity-of-federal-networks-and-critical-infrastructure) commissioning the Federal IT Modernization Report, this Administration has continued to place a significant emphasis on improving the way that the Federal Government serves American Citizens. The analysis commissioned through the EO have resulted in insights that are now informing our forward strategies. In response to areas identified by the IT Modernization report and the Federal Cybersecurity Risk Determination Report and Action Plan to the President of the United States, including:
 
 - Office of Management and Budget (OMB) has codified IT Modernization as a key objective in the President’s Management Agenda (PMA)
 - Federal Agencies have begun to make real progress on the actions outlined in the Federal IT Modernization Report
