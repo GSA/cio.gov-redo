@@ -12,7 +12,7 @@ img-alt:
 
 permalink:
 ---
-This blog entry was previously published in [Performance.gov](https://performance.gov/news/).
+This blog entry was previously published in [Performance.gov](https://www.performance.gov/blog/).
 
 The Federal government spends at least $90 billion annually on IT. The announcement of the President’s Management Agenda included a cross-agency priority goal specifically focused on increasing transparency in spend and performance metrics associated with IT across the enterprise. The adoption of the Technology Business Management (TBM) Framework will provide more granularity in IT investments based upon an open-source taxonomy broadly accepted across both private and public sector organizations. The effort will help Federal executives to make data-driven decisions and analyze trade-offs between cost, quality and value when allocating valuable tax payer dollars to support IT initiatives.
 

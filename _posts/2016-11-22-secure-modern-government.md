@@ -29,4 +29,4 @@ Today’s proposed guidance starts down this path by asking agencies to develop 
 
 Moving the Federal Government to modern infrastructure, such as cloud-based solutions, is a fundamental necessity to building a digital government that is responsive to citizen needs and secure by design. Doing so will enhance agencies’ ability to protect sensitive data, reduce costs, and deliver world-class services to the public. No one change is the silver bullet, however. Rather, this is a sustained effort that will ensure the Federal government can best serve the American people in the 21st century.
 
-The public will have 30-days to submit input and help us create the foundation for a more modern government. So join us and provide your thoughts on the proposed guidance HERE.
+The public will have 30-days to submit input and help us create the foundation for a more modern government. So join us and provide your thoughts on the proposed guidance [here](https://www.cio.com/article/247005/what-are-containers-and-why-do-you-need-them.html).

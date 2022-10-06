@@ -11,7 +11,7 @@ permalink:
 ---
 _This blog entry was originally published on December 9th, 2016 on LinkedIn._
 
-Earlier this week, I [testified before the House Committee on Oversight and Government Reform Subcommittee on Information Technology](https://oversight.house.gov/hearing/federal-information-technology-acquisition-reform-act-fitara-scorecard-3-0-measuring-agencies-implementation/) about the Department of State’s progress in implementing the [Federal Information Technology Acquisition Reform Act (FITARA)](https://www.congress.gov/bill/113th-congress/house-bill/1232?q=%7B%22search%22%3A%5B%22Federal+Information+Technology%22%5D%7D&r=19). Instead of saying, “Thanks! Now we’re done,” I’ve decided on an alternative approach: to be transparent. So, let’s talk FITARA.
+Earlier this week, I [testified before the House Committee on Oversight and Government Reform Subcommittee on Information Technology](https://republicans-oversight.house.gov/hearing/federal-information-technology-acquisition-reform-act-fitara-scorecard-3-0-measuring-agencies-implementation/) about the Department of State’s progress in implementing the [Federal Information Technology Acquisition Reform Act (FITARA)](https://www.congress.gov/bill/113th-congress/house-bill/1232?q=%7B%22search%22%3A%5B%22Federal+Information+Technology%22%5D%7D&r=19). Instead of saying, “Thanks! Now we’re done,” I’ve decided on an alternative approach: to be transparent. So, let’s talk FITARA.
 
 It isn’t a coincidence that our ITSP has three focus areas inherently related to the goals behind the FITARA legislation.
 

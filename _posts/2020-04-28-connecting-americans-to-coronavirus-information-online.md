@@ -13,11 +13,11 @@ img-alt: White House .gov logo
 permalink: /connecting-americans-to-coronavirus-information-online/
 ---
 
-_This proclamation was first posted on [White House.gov](https://www.whitehouse.gov/articles/connecting-americans-coronavirus-information-online/) on April 15th, 2020._
+_This proclamation was first posted on [White House.gov](https://trumpwhitehouse.archives.gov/articles/connecting-americans-coronavirus-information-online/) on April 15th, 2020._
 
 While there is no shortage of coronavirus content on the internet, the American people need access to the most up-to-date public health guidance and most relevant information on Coronavirus Disease 2019 (COVID-19) testing facilities in their communities. The White House and key Federal agencies are working alongside Schema.org to help ensure these critical resources surface across online search engine results.
 
-Schema.org is a collaborative community activity founded by tech companies such as Google, Microsoft, and Yahoo to create standard tags that can be added to any website’s code, making webpages containing particular information easier to find in search results. In response to the coronavirus pandemic, [Schema.org](https://schema.org/) released [new standard tags](https://blog.schema.org/2020/03/schema-for-coronavirus-special.html) for webpages containing information about COVID-19 prevention measures, disease spread statistics, quarantine rules and travel guidance, as well as information about getting tested.
+Schema.org is a collaborative community activity founded by tech companies such as Google, Microsoft, and Yahoo to create standard tags that can be added to any website’s code, making webpages containing particular information easier to find in search results. In response to the coronavirus pandemic, [Schema.org](https://schema.org/) released [new standard tags](http://blog.schema.org/2020/03/schema-for-coronavirus-special.html) for webpages containing information about COVID-19 prevention measures, disease spread statistics, quarantine rules and travel guidance, as well as information about getting tested.
 
 In an effort to enhance the visibility of coronavirus information online for the American public, The White House Office of Science and Technology Policy (OSTP) and Office of Management and Budget (OMB) have directed Federal Chief Information Officers to incorporate these new Schema.org standard tags into all federally maintained webpages related to COVID-19. In addition, OSTP and OMB are encouraging the private sector, State and local governments, and the academic community to do the same.
 

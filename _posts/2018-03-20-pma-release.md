@@ -17,4 +17,4 @@ The agenda outlines three key drivers of modernizing government for the 21st cen
 2. **Data, accountability, and transparency initiatives** that deliver visibly better results to the public, while improving accountability to taxpayers.
 3. **A Workforce for the 21st century** that enables senior leaders and front-line managers to nimbly align staff skills with evolving mission needs.  
 
-The CIO Council, in collaboration with the other CXO communities, will play a leading role in a number of CAP goals. Read the [full PMA here](https://www.performance.gov/PMA/PMA.html).
+The CIO Council, in collaboration with the other CXO communities, will play a leading role in a number of CAP goals. Read the [full PMA here](https://trumpadministration.archives.performance.gov/PMA/PMA.html).

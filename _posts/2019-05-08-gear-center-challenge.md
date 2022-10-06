@@ -27,4 +27,4 @@ The challenge asks solvers to propose how they would implement a project that de
 
  Proposals will be evaluated on their innovation, relevance, use of the partnership model, impact, and feasibility. Grand prize winners will receive $300,000 to carry out their projects and further explore the potential of the GEAR Center model.  
 
-Phase I, the initial proposal phase, runs from May 2 through May 24. More information about the GEAR Center Challenge’s phases, guidelines, and more can be found at [here](https://challenge.gov/a/buzz/challenge/1023/ideas/top).
+Phase I, the initial proposal phase, runs from May 2 through May 24. More information about the GEAR Center Challenge’s phases, guidelines, and more can be found at [here](https://www.challenge.gov/toolkit/case-studies/gear-center-challenge/).
