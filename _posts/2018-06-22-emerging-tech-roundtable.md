@@ -29,5 +29,5 @@ When considering how Federal Government agencies can proactively prepare public 
 
 Providing services to the American people might even be something that private tech companies consider including as desired experience on candidate resumes. Similarly, the CIO Council is supporting the 21st Century Workforce Cross-Agency Priority Goal, which focuses on the need to recruit, retain, and develop a modern, digital workforce who can maximize the benefits of these technological advancements.
 
-1. [Bureau of Labor](https://www.bls.gov/emp/tables/employment-by-major-industry-sector.html)
+1. [Bureau of Labor](https://www.bls.gov/emp/tables/employment-by-major-industry-sector.htm)
 2. [Census](https://www.census.gov/content/dam/Census/library/publications/2017/acs/acs-37.pdf)

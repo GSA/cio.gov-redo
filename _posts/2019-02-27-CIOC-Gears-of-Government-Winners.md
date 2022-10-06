@@ -11,9 +11,9 @@ img-alt: Gears of Government Awards around eagle with gears
 
 permalink: /2019/02/27/CIOC-Gears-of-Government-Winners/
 ---
-We’re excited to share that several teams and individuals from across the government have been named Gears of Government Award winners on behalf of the CIO Council! Their stories can be found on the [Hall of Winners page](https://www.performance.gov/gearawards/winners/) on Performance.gov. The awards include many examples of how IT modernization is allowing agencies to better meet customer expectations, keep data and systems secure, build a modern workforce and ensure access to services.
+We’re excited to share that several teams and individuals from across the government have been named Gears of Government Award winners on behalf of the CIO Council! Their stories can be found on the [Hall of Winners page](https://trumpadministration.archives.performance.gov/gearawards/) on Performance.gov. The awards include many examples of how IT modernization is allowing agencies to better meet customer expectations, keep data and systems secure, build a modern workforce and ensure access to services.
 
-Throughout the year, Federal employees nominated teams and individuals across the Federal workforce for a Gears of Government Award whose performance and dedication deliver key outcomes for the American people, including mission results, customer service, and accountable stewardship. Congratulations to the following recipients, who exemplify the hard work and innovation essential to achieving the [President’s vision for a modern, effective government](https://www.performance.gov/PMA/PMA.html).
+Throughout the year, Federal employees nominated teams and individuals across the Federal workforce for a Gears of Government Award whose performance and dedication deliver key outcomes for the American people, including mission results, customer service, and accountable stewardship. Congratulations to the following recipients, who exemplify the hard work and innovation essential to achieving the [President’s vision for a modern, effective government](https://trumpadministration.archives.performance.gov/PMA/PMA.html).
 
 **Help us recognize your colleagues - use #GearsofGovAwards when sharing their stories!**
 
@@ -31,4 +31,4 @@ Throughout the year, Federal employees nominated teams and individuals across th
 
 **Thomas Santucci (DOJ)** *- Led the Department of Justice’s Data Center Transformation Initiative, which optimized the data center infrastructure and improved cloud adoption resulting in $130 million  in cost savings and a projected annual cost avoidance of $30 million.*
 
-*To learn more about these outstanding public servants and their fellow recipients, visit the [Hall of Winners page](https://www.performance.gov/gearawards/winners/) and stay tuned as their stories are highlighted on the Performance.gov [blog](https://www.performance.gov/news/), [Twitter](https://twitter.com/performancegov?lang=en), and [LinkedIn](https://www.linkedin.com/company/performance-gov/) pages.*
+*To learn more about these outstanding public servants and their fellow recipients, visit the [Hall of Winners page](https://trumpadministration.archives.performance.gov/gearawards/) and stay tuned as their stories are highlighted on the Performance.gov [blog](https://www.performance.gov/blog/), [Twitter](https://twitter.com/performancegov?lang=en), and [LinkedIn](https://www.linkedin.com/company/performance-gov/) pages.*

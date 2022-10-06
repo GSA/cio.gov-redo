@@ -11,9 +11,9 @@ image: cio-council-logo.jpg
 permalink: /PMA-Tech-Initiatives-Support-Rapid-Response-to-COVID-19/
 ---
 
-_This blog was first posted on [Performance.gov](https://www.Performance.gov/PMA-tech-initiatives-support-rapid-response-to-COVID19/) on May 7th, 2020._
+_This blog was first posted on [Performance.gov](https://trumpadministration.archives.performance.gov/PMA-tech-initiatives-support-rapid-response-to-COVID19/) on May 7th, 2020._
 
-Successfully transitioning a workforce as large as the Federal Government’s to telework while maintaining a high level of service continuity is no easy task. In response to the Coronavirus global pandemic, many Federal Government services have utilized capabilities included in the [President’s Management Agenda (PMA)](https://www.performance.gov/PMA/PMA.html) to quickly embrace an environment of maximum digital engagement to continue meeting the mission and service expectations for their agency. The CIO Community has provided guidance to federal agencies on how to leverage digital tools that support their workforce, deploy resources, and expand critical services to help meet the needs of citizens and businesses.  
+Successfully transitioning a workforce as large as the Federal Government’s to telework while maintaining a high level of service continuity is no easy task. In response to the Coronavirus global pandemic, many Federal Government services have utilized capabilities included in the [President’s Management Agenda (PMA)](https://trumpadministration.archives.performance.gov/PMA/PMA.html) to quickly embrace an environment of maximum digital engagement to continue meeting the mission and service expectations for their agency. The CIO Community has provided guidance to federal agencies on how to leverage digital tools that support their workforce, deploy resources, and expand critical services to help meet the needs of citizens and businesses.  
 
 In response to the mandate to minimize person-to-person contact, agencies were challenged to implement agile methods in real-time and rethink the delivery of public-facing services. As of today, the Federal Government is open and operating at the highest sustained level of telework in history. Virtual platforms and digital signatures are being used to process transactions and facilitate virtual onboarding and offboarding. People who began 2020 with no knowledge of “collaboration tools” are now adept at video conferencing and screen sharing with team members.
 
@@ -38,7 +38,7 @@ While many agencies had urgent demands for response actions, maintaining mission
 
 **Response Efforts to Leverage Data**
 
-The [Federal Data Strategy](https://www.performance.gov/CAP/leveragingdata/) has enabled the government to better curate, use, and share operational data as agencies were asked to disperse funds for the economy, collaborate with industry to understand and fight an invisible enemy, gain visibility to a complex supply chain, and protect those who are most vulnerable in our populations.
+The [Federal Data Strategy](https://trumpadministration.archives.performance.gov/CAP/leveragingdata/) has enabled the government to better curate, use, and share operational data as agencies were asked to disperse funds for the economy, collaborate with industry to understand and fight an invisible enemy, gain visibility to a complex supply chain, and protect those who are most vulnerable in our populations.
 
 - The **Department of Health and Human Services (HHS)** created a system called **HHS PROTECT** that pulls together an ecosystem of over 200 datasets. PROTECT provides a common operating picture of the spread, impact, and behavior of the virus so members of the White House Coronavirus Task Force can analyze policy options with data insights. The system was established in nine days to support White House Coronavirus Task Force efforts to manage the response to COVID-19.
 

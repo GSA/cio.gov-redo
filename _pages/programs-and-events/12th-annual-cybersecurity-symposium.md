@@ -12,4 +12,4 @@ DOJ is proud to present the Capture the Flag Cybersecurity Challenge in conjunct
 
 **Where**: Hosted virtually via WebEx
 
-**Who**: The symposium is open to all federal employees and contractors.  Space is limited to the first 1,000 registrants. Sign up to secure your spot at [https://www.justice.gov/jmd/webform/doj-cybersecurity-symposium-registration](https://www.justice.gov/jmd/webform/doj-cybersecurity-symposium-registration).
+**Who**: The symposium is open to all federal employees and contractors.  Space is limited to the first 1,000 registrants. Sign up to secure your spot at [https://www.justice.gov/jmd/office-chief-information-officer/cybersecurity-symposium-welcome](https://www.justice.gov/jmd/office-chief-information-officer/cybersecurity-symposium-welcome).

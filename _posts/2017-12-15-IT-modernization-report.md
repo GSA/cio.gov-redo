@@ -9,7 +9,7 @@ tags: it-modernization 2017
 
 permalink:
 ---
-_This [blog post](https://www.whitehouse.gov/articles/final-modernization-report/) was originally posted on the White House blog on December 13, 2017._
+_This [blog post](https://trumpwhitehouse.archives.gov/articles/final-modernization-report/) was originally posted on the White House blog on December 13, 2017._
 
 [Read the Full Report Here]({{ site.baseurl }}/assets/resources/Report-to-the-President-on-IT-Modernization-Final.pdf)
 

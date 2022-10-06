@@ -27,5 +27,5 @@ image: EOP.png
 <li><strong>Procurement &amp; Delivery: </strong>procuring and deploying standards-based products and services</li>
 <li><strong>Policy &amp; Regulation: </strong>developing and implementing supportive policies, including regulatory policies where needed</li>
 </ul>
-<p>Want to get more involved and learn more about what we&rsquo;re doing with AI? Visit the <a href="https://www.whitehouse.gov/ai/">https://www.whitehouse.gov/ai/</a> for more information.</p>
+<p>Want to get more involved and learn more about what we&rsquo;re doing with AI? Visit the <a href="https://trumpwhitehouse.archives.gov/ai/">https://trumpwhitehouse.archives.gov/ai/</a> for more information.</p>
 <p>As the Federal CISO Council actively looks towards the future, I encourage you to take a moment and celebrate the achievements of this year. Please remain cyber-smart when working at home, on travel, or in the office. For more information on Cybersecurity Awareness Month and what&rsquo;s next, please visit <a href="https://www.cisa.gov/national-cyber-security-awareness-month">https://www.cisa.gov/national-cyber-security-awareness-month</a>.</p>

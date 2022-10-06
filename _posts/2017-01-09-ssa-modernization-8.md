@@ -13,7 +13,7 @@ _This is the eighth in a series describing how the Social Security Administratio
 
 Over the last two years the Social Security Administration (SSA) has worked toward a point where the ideas presented in this series could be implemented. On December 16, we deployed our first newly modernized application, DCPS2.
 
-You may recognize DCPS2 from the earlier blog [here]({{site.baseurl}}/2016/11/07/ssa-modernization-6). This is a restart of a failed attempt to outsource the development of a new disability case processing system to contractors. In 14 months we built a new application from the ground using agile methods. We developed it on a modern programming stack based on node.js using open source components and deployed in the cloud. In 14 months we accomplished, for a fraction of the cost, success that could not be found over the four-plus years with Lockheed Martin and MicroPact in the lead.
+You may recognize DCPS2 from the earlier blog [here](https://www.cio.gov/2016/11/07/ssa-modernization-6.html). This is a restart of a failed attempt to outsource the development of a new disability case processing system to contractors. In 14 months we built a new application from the ground using agile methods. We developed it on a modern programming stack based on node.js using open source components and deployed in the cloud. In 14 months we accomplished, for a fraction of the cost, success that could not be found over the four-plus years with Lockheed Martin and MicroPact in the lead.
 
 This is a huge success. Over the duration, our staff learned a new programming language, learned a new development toolset based on GIT and Jenkins, learned a new database management system, Postgres, and deployed a product. The code rolled out with no– zero — reported bugs.
 
