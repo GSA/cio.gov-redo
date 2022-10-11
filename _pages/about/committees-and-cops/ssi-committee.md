@@ -1,16 +1,16 @@
 ---
 title: Our Team and Leadership
-subtitle: CIO Council- Enterprise Operations Committee (E-Ops); formerly SSI
+subtitle: CIO Council- Enterprise Operations Committee (E-Ops)
 layout: page
 permalink: /about/members-and-leadership/e-ops/
 
 ---
-# About the Enterprise Operations Committee (E-Ops); formerly SSI
+# About the Enterprise Operations Committee (E-Ops)
 The E-Ops Committee operates under the authority of the CIO Council. In furthering the Council’s goals, the Committee addresses topics with the area defined by the Committee’s Purpose through:
-* the application of Council resources to develop strategies and policy advice and to sponsor or host events; '
-* the participation of Committee members;
-* coordination with the Office of Federal CIO; and
-* communication to the Federal IT community.
+* The application of Council resources to develop strategies and policy advice and to sponsor or host events
+* The participation of Committee members
+* Coordination with the Office of Federal CIO
+* Communication to the Federal IT community
 
 # Strategic Focus Areas
 The committee focuses on acquisition reform and Federal IT infrastructure through execution of the following policies and initiatives:

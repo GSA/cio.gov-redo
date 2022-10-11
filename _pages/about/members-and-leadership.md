@@ -19,7 +19,7 @@ Our members represent CIOs from across the U.S. Federal Government Executive Bra
 We also have committees that focus on certain Council priorities. These include:
 * [Chief Information Security Officer Council]({{ site.baseurl }}/about/members-and-leadership/ciso-council/)
 * [Innovation Committee]({{ site.baseurl }}/about/members-and-leadership/innovation-committee/)
-* [Enterprise Operations Committee (formerly SSI)]({{ site.baseurl }}/about/members-and-leadership/e-ops/)
+* [Enterprise Operations Committee]({{ site.baseurl }}/about/members-and-leadership/e-ops/)
 * [Workforce Committee]({{ site.baseurl }}/about/members-and-leadership/workforce-committee/)
 
 ## Communities of Practice (CoP)
