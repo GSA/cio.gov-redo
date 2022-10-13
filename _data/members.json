@@ -134,10 +134,10 @@
       }
     },
     {
-      "title": "Department of State CIO Information",
+      "title": "Department of the Interior CIO Information",
       "content": {
         "agency": {
-          "agencyName": "Department of State",
+          "agencyName": "Department of the Interior",
           "agencyCode": "014",
           "cio": {
             "firstName": "Darren",
