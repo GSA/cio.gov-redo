@@ -5,7 +5,7 @@ excerpt: The Nation’s response to the pandemic has highlighted that our societ
 date: 25 Oct 2021
 display-date: 25 Oct 2021
 author: Paul Cunningham, Chief Information Security Officer, Department of Veterans Affairs
-tags: 2021 cybersecurity &#35;Becybersmart ncsam
+tags: 2021 cybersecurity &#35;Becybersmart cam
 permalink: /2021-10-25-Is-Your-TV-Listening-to-You/
 
 ---
