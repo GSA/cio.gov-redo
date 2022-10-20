@@ -5,7 +5,7 @@ excerpt: This proclamation was first posted on White House.gov on September 28th
 date: September 28, 2018
 display-date: 28 September 2018
 author: CIO Council Operations
-tags: cybersecurity 2018 ncsam
+tags: cybersecurity 2018 cam
 
 image-thumbnail: /assets/img/blog/2018.09.28.cybersecurity.png
 img-alt: White House .gov logo
