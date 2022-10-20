@@ -5,7 +5,7 @@ excerpt: If you’re looking for meaningful IT work, cybersecurity is the place 
 date: 18 Oct 2021
 display-date: 18 Oct 2021
 author: Paul E. Blahusch, Chief Information Security Officer, U.S. Department of Labor
-tags: 2021 cybersecurity &#35;Becybersmart &#35;cybercareerweek ncsam
+tags: 2021 cybersecurity &#35;Becybersmart &#35;cybercareerweek cam
 permalink: /2021-10-18-We-Need-You-For-Cybersecurity/
 image: CCAW_2021Graphic.png
 img-alt: Image of fingerprint on motherboard. Third week in October Cybersecurity Career Awareness Week. Did you know this week is devoted to cybersecurity careers? share your story! #cybercareerweek #mycyberjob

@@ -1,7 +1,7 @@
 ---
 layout: tag_index
 title: National Cybersecurity Awareness Month (NCSAM)
-tag: ncsam
+tag: cam
 subtitle: News articles related to NCSAM
-permalink: /tags/ncsam/
+permalink: /tags/cam/
 ---
