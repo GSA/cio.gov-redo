@@ -2,7 +2,7 @@
 layout: post
 title: 'Transitioning from law enforcement to cybersecurity: A U.S. Digital Corps Fellow’s journey'
 excerpt: 'October is National Cybersecurity Awareness Month. In May 2021, President Biden signed Executive Order 14028, “Improving the Nation’s Cybersecurity,” making cybersecurity a government-wide priority.' 
-date: 20 Oct 2022
+date: 24 Oct 2022
 author: Jamila Crawford, a U.S. Digital Corps Fellow at the Cybersecurity and Infrastructure Security Agency (CISA)
 permalink: /cybersecurity-transition/
 tags: 2022 cybersecurity cam
