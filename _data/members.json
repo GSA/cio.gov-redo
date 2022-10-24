@@ -841,13 +841,13 @@
           "agencyName": "Department of State",
           "agencyCode": "014",
           "cio": {
-            "firstName": "Glenn",
-            "lastName": "Miller",
+            "firstName": "Dr. Kelly",
+            "lastName": "Fletcher",
             "email": "CIO@state.gov",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/glenn-miller.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/glenn-miller/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/kelly-fletcher.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/kelly-fletcher/",
             "deptCIO": "1",
             "address": {
               "address1": "U.S. Department of State 2201 C Street NW Washington, DC 20522-0906",
@@ -856,13 +856,13 @@
               "state": "DC",
               "zip": "20522"
             },
-            "bio_link":"glenn-miller",
+            "bio_link":"/kelly-fletcher",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
-            "position": "Acting Chief Information Officer",
-            "bio-image": "/glenn-miller.png",
-            "description": "Glenn W. Miller is a career member of the Senior Foreign Service, class of Minister-Counselor. He joined the Foreign Service in 1991 and was made Principal Deputy Chief Information Officer in August 2021. In this capacity, he is responsible for managing all IT operations under the purview of the Bureau of Information Resource Management. These responsibilities include Cyber Operations, Business Management and Planning, Operations, and Foreign Operations. Mr. Miller directly supervises the Office of External Affairs (EA), the Office of the Chief Architect (OCA), and the IRM Strategic Communications Management (SCM) unit.<br><br>Previously Mr. Miller has served as Deputy Chief Information Officer for both Operations and Foreign Operations. During his years of service, he has been posted in Kabul as Deputy Management Counselor and in information management positions in Belize City, Frankfurt, Moscow, Seoul, and Warsaw. Additionally, he was Consular Fraud Prevention Manager in Dhaka. Domestically he has served as office director and division chief in multiple IRM offices.<br><br>Prior to joining the Foreign Service, Mr. Miller was an emergency dispatcher in California and is a U.S. Army Signal Corps veteran."
+            "position": "Chief Information Officer",
+            "bio-image": "/kelly-fletcher.jpg",
+            "description": "Dr. Kelly Fletcher, a member of the Senior Executive Service, was named Chief Information Officer (CIO) and the Assistant Secretary-level head of the Bureau of Information Resource Management on October 3, 2022.  As CIO, she establishes the strategic direction of the Department’s information technology and cybersecurity efforts, ensures reliable provisioning of enterprise services, and oversees over $2.5B.<br><br>Dr. Fletcher joined the Department from the U.S. Department of Defense (DoD), where she was the Principal Deputy Chief Information Officer.  Dr. Fletcher’s federal government career has included leadership roles in both the technology and strategic resourcing domains.  Prior to joining DoD CIO, Dr. Fletcher served as the Deputy Director for Program Analysis & Evaluation at the Department of Homeland Security (DHS) where she supervised and coordinated the development of the DHS-wide budget (~$50B appropriated).  She also led the realignment of the Federal Protective Services (more than 10,000 employees, ~$1B annual spend) from the Cybersecurity & Infrastructure Security Agency (CISA) to the Management directorate.<br><br>Dr. Fletcher earned her Ph.D. in engineering from Georgia Institute of Technology and her B.S. from Washington University in St. Louis."
           }
         }
       }
