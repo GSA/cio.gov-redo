@@ -2,9 +2,9 @@
 layout: post
 title: The Importance of Multifactor Authentication
 excerpt: 'Cybersecurity Awareness Month is a great opportunity for all of us to think through how we approach cybersecurity in both our work and personal lives.' 
-date: 20 Oct 2022
+date: 26 Oct 2022
 author: Ryan A. Higgins, Chief Information Security Officer, U.S. Department of Commerce
-permalink: /2022-10-20-importance-multifactor-authentication/
+permalink: /2022-10-26-importance-multifactor-authentication/
 tags: 2022 cybersecurity cam
 ---
 
