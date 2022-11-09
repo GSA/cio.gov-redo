@@ -29,7 +29,7 @@ Federal Chief Information Security Officer<br/>
 Office of Management and Budget<br/>
 
 
-**Steven Hernandez, Vice-Chair**<br/>
+**Steven Hernandez, Co-Chair**<br/>
 Chief Information Security Officer<br/>
 Department  of Education
 
