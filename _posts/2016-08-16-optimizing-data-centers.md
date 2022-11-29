@@ -11,7 +11,7 @@ permalink:
 ---
 This [blog](https://gsablogs.gsa.gov/gsablog/2016/08/10/a-fresh-approach-to-optimizing-federal-data-centers/) entry was originally published on August 10, 2016 on the GSA blog.
 
-Last week, we [announced](https://www.gsa.gov/portal/content/141466) that GSA’s Office of Government-wide Policy (OGP) will serve as the [Managing Partner for OMB’s Data Center Optimization Initiative (DCOI)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2015/m-15-14.pdf) to help federal agencies implement the data center provisions of the [Federal Information Technology Acquisition Reform Act (FITARA)](https://management.cio.gov/#omb-memorandum-m-15-14-management-and-oversight-of-federal-information-technology).
+Last week, we [announced](https://www.gsa.gov/portal/content/141466) that GSA’s Office of Government-wide Policy (OGP) will serve as the [Managing Partner for OMB’s Data Center Optimization Initiative (DCOI)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2015/m-15-14.pdf) to help federal agencies implement the data center provisions of the [Federal Information Technology Acquisition Reform Act (FITARA)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2015/m-15-14.pdf).
 
 The DCOI requires federal agencies to develop and report on data center strategies to consolidate and optimize existing facilities, achieve cost savings, and transition to more efficient infrastructure, such as cloud services and inter-agency shared services.
 
