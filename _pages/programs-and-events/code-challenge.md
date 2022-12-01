@@ -29,6 +29,6 @@ The #CIOCode Challenge pilot program began May 6, 2019 and ended August 7, 2019.
 The results of the challenge may be shared to refer coding challenge participants, including current and former Federal employees, to Federal agencies as applicants. Participants are then considered for employment, transfer, reassignment, reinstatement, or promotion.
 
 ## Event Dates ##
-This program has ended. Thank you for your interest! Please contact us at [feedback@cio.gov](mailto:feedback@cio.gov) with questions.
+This program has ended. Thank you for your interest! Please contact us at [ciocouncil.support@gsa.gov](mailto:ciocouncil.support@gsa.gov) with questions.
 
 &nbsp;
