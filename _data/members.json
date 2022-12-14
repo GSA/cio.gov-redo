@@ -934,21 +934,23 @@
       }
     },
     {
-      "title": "Acting Chief Information Officer, Office of Management and Budget",
+      "title": "Chief Information Officer, Office of Management and Budget",
       "content": {
         "agency": {
           "agencyName": "Office of Management and Budget",
           "cio": {
-            "firstName": "David",
+            "firstName": "Drew",
             "lastName": "Myklegard",
-            "position": "Acting Deputy Federal Chief Information Officer",
+            "position": "Deputy Federal Chief Information Officer",
             "leadership": true,
             "dateAppointed": "",
             "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_myklegard.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/myklegard-david/",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/myklegard-drew/",
             "deptCIO": "1",
-            "bio_link":"myklegard-david",
+            "bio_link":"myklegard-drew",
             "bio-image": "/bio_myklegard.jpg",
+            "banner_subtitle": "Team and Leadership",
+            "banner_title":"About Our Council",
             "address": {
               "address1": "",
               "address2": "",
