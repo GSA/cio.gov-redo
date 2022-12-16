@@ -19,7 +19,7 @@
 ##########################################################################################
 
 title: CIO.GOV
-email:  feedback@cio.gov
+email:  ciocouncil.support@gsa.gov
 description: The CIO Council is a forum of Federal Chief Information Officers (CIOs). Our goal is to improve IT practices across U.S. Government agencies.
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. https://example.com
@@ -73,7 +73,7 @@ primary_navigation:
 
 secondary_navigation:
   - name: Contact Us
-    url: mailto:feedback@cio.gov
+    url: mailto:ciocouncil.support@gsa.gov
   - name: Government Tech Jobs
     url: /government-technology-jobs
 

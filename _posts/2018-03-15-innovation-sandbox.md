@@ -20,4 +20,4 @@ Taking advantage of available government data, new collaborative work efforts wi
 ## Next Steps
 At the conclusion of the pilot, the CIO Council will develop a report based on agencies’ experience using the Innovation Sandbox to determine the need and feasibility for a sustained, federal-wide sandbox. It will also identify best practices for agencies to create their own sandbox.
 
-Employees and contractors interested in using the Innovation Sandbox should contact CIO Council Support [feedback@cio.gov](mailto:feedback@cio.gov). Interested parties are strongly encouraged to contact the CIO Council as soon as possible for planning purposes.
+Employees and contractors interested in using the Innovation Sandbox should contact CIO Council Support [ciocouncil.support@gsa.gov](mailto:ciocouncil.support@gsa.gov). Interested parties are strongly encouraged to contact the CIO Council as soon as possible for planning purposes.

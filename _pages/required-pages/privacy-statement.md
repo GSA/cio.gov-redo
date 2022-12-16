@@ -23,7 +23,7 @@ Whenever you visit a website the website sends a small piece of information call
 There are two kinds of cookies. A session cookie is a line of text that is stored temporarily in your computer’s random access memory (RAM). A session cookie is never written to a drive, and it is destroyed as soon as you close your browser. A persistent cookie from a website is saved to a file on your hard drive and is called up the next time you visit that website. This lets the website remember what you were interested in the last time you visited.
 
 ## Use of Cookies on CIO.gov<br/>
-The CIO.gov site creates only a session cookie when you visit and destroys it as soon as you close your browser. There are no persistent cookies created on cio.gov. For more information on privacy and security, see [GSA’s Privacy and Security Notice](https://www.gsa.gov/website-information/privacy-and-security-notice). If you have any questions about these policies, please contact us at [feedback@cio.gov](mailto:feedback@cio.gov).
+The CIO.gov site creates only a session cookie when you visit and destroys it as soon as you close your browser. There are no persistent cookies created on cio.gov. For more information on privacy and security, see [GSA’s Privacy and Security Notice](https://www.gsa.gov/website-information/privacy-and-security-notice). If you have any questions about these policies, please contact us at [ciocouncil.support@gsa.gov](mailto:ciocouncil.support@gsa.gov).
 
 # Information You Send Us
 When you send us personal information (e.g., in an electronic mail message containing a question or comment) or by filling out a form that e-mails us this information, we only use this information to respond to your request. We may forward your e-mail to the government employee who can best answer your questions. We do not disclose, give, sell, or transfer any personal information about our visitors, unless required for law enforcement or statute.
@@ -31,7 +31,7 @@ When you send us personal information (e.g., in an electronic mail message conta
 We want to make it clear that we will not obtain personally identifying information about you when you visit our site, unless you choose to provide that information to us. Except for authorized law enforcement investigations, or as otherwise required by law, we do not share any information we receive with anyone else.
 
 # Links to Other Sites
-The pages on CIO.gov may include hypertext links or pointers to information created and maintained by other public and private organizations. If you have any questions about these policies, please contact us at [feedback@cio.gov](mailto:feedback@cio.gov).
+The pages on CIO.gov may include hypertext links or pointers to information created and maintained by other public and private organizations. If you have any questions about these policies, please contact us at [ciocouncil.support@gsa.gov](mailto:ciocouncil.support@gsa.gov).
 
 &nbsp;
 

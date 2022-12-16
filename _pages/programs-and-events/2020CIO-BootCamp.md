@@ -23,4 +23,4 @@ description: The CIO Council is hosting the 2020 CIO BootCamp in a series of vir
  </ul>
  <p ><strong>Where:</strong> Zoom for Government&nbsp;</p>
  <p ><strong>Who:</strong> New CIOs, deputy CIOs and senior staff tasked with CIO Council engagements.&nbsp;</p>
- <p >For additional information contact the support team at <a href="mailto:feedback@cio.gov" target="_blank">feedback@cio.gov</a>.&nbsp;</p>
+ <p >For additional information contact the support team at <a href="mailto:ciocouncil.support@gsa.gov" target="_blank">ciocouncil.support@gsa.gov</a>.&nbsp;</p>
