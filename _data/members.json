@@ -361,13 +361,13 @@
           "agencyName": "Department of Education",
           "agencyCode": "018",
           "cio": {
-            "firstName": "Gary",
-            "lastName": "Stevens",
+            "firstName": "Luis",
+            "lastName": "Lopez",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_stevens.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/stevens-gary/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_lopez.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/lopez-luis/",
             "deptCIO": "1",
             "address": {
               "address1": "Department of Education 550 12th Street, SW Washington, DC 20202",
@@ -376,13 +376,13 @@
               "state": "DC",
               "zip": "20202"
             },
-            "bio_link":"stevens-gary",
+            "bio_link":"lopez-luis",
             "banner_subtitle": "Team and Leadership",
             "banner_title":"About Our Council",
             "leadership": false,
-            "position": "Acting Chief Information Officer",
-            "bio-image": "/bio_stevens.png",
-            "description": "Serve as the (Acting) Chief Information Officer (CIO) to manage a team of over 100 government and contract personnel and the execution of multi-million-dollar budget. Develop strategic plans for the use of IT within the Department and initiate and advocate for department-wide system enhancements and changes to support the Secretary's initiative. Develop and implement policies and safeguards to protect the Department's IT, while managing the organizational framework to improve the planning and controls of IT investments. Execute holistic information technology missions and functions, ensuring they are integrated, prioritized, and executed within the framework of the strategic plans, priorities, and allocated resources. Direct the study of new and changing concepts and emerging technology of IT systems. Integrate policies, procedures, and guidelines to improve the management and utilization of information and IT resources throughout the Department. Advise other Department officials on new and emerging technologies in the areas of IT infrastructure, communication, IT security, and IT system development that may benefit the Department."
+            "position": "Chief Information Officer",
+            "bio-image": "/bio_lopez.jpg",
+            "description": "Luis R. Lopez joined the U.S. Department of Education (ED) in 2017 where he served as the Chief of Operational Services in the Enterprise Technology Services (ETS) Division within the Office of the Chief Information Officer (OCIO) where he led all information technology (IT) service delivery and customer service for the Department. In September 2019, he was selected to serve as an Service Executive Service (SES) member as the Director of ETS. In this position, he was responsible for managing and providing strategic, tactical, and operational direction to all Department stakeholders including senior leadership on the effective engineering, integration, deployment, operations and infrastructure services supporting the geographically dispersed enterprise. Throughout his tenure at ED, he led the major transformation from a 12 year legacy IT service delivery contract to a new service model that modernized the infrastructure, end user computing and software upgrades that positioned the Department to seamlessly transition to a successful remote and hybrid workforce and continue to modernize. As Director of ETS, Luis served as a principal advisor to the CIO with respect to IT engineering and operational functions supporting the CIO’s efforts in overseeing the Department’s $1B portfolio.<br><br>Prior to ED, Luis has served in various leadership roles including Chief Engineer at the Defense Health Agency (DHA) and Chief of Operations at the Walter Reed National Military Medical Center (WRNMMC). In these roles and with over 17 years of experience in IT, Luis has demonstrated his ability to lead and deliver IT services to large and complex organizations, provide high quality customer service and execute organizational improvements at a senior level. Throughout this experience and major initiatives, Luis was also charged with leading massive IT transitions and consolidation efforts within military medicine which involved unprecedented change in the successful stand up of a new hospital at WRNMMC and the formation of a new unified organization at DHA where he had the responsibility for the technical and organizational integration of Army, Navy, Air Force and Tricare Management Activity into a single common enterprise for the 220,000 personnel of the Military Health System."
           }
         }
       }
