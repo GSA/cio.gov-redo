@@ -22,6 +22,21 @@ Agencies are expected, as directed by the EO, to make their AI use case inventor
         <div class="tablet:grid-col-3 grid-spacing policy guidance data-center-consolidation archive" style="position: absolute; left: 0px; top: 0px;">
             <div class="shadow-1 guidance-border"  >
                 <div class="text-container">
+                    <span class="card-tag">Guidance</span>
+                    <p class="title-resources">
+                    <a
+                            href="{{ site.baseurl }}/assets/resources/2023 Guidance for AI Use Case Inventories.pdf"
+                            target="_blank"
+                            style="text-decoration: none; color: black"
+                    >2023 Guidance for AI Use Case Inventories</a
+                    >
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="tablet:grid-col-3 grid-spacing policy guidance data-center-consolidation archive" style="position: absolute; left: 0px; top: 0px;">
+            <div class="shadow-1 guidance-border"  >
+                <div class="text-container">
                     <span class="card-tag">Policy</span>
                     <p class="title-resources">
                     <a
@@ -43,7 +58,7 @@ Agencies are expected, as directed by the EO, to make their AI use case inventor
                             href="{{ site.baseurl }}/assets/resources/2021 Guidance for Creating Agency Inventories of AI Use Cases 10.06.2021.docx"
                             target="_blank"
                             style="text-decoration: none; color: black"
-                    >2021 Guidance for creating agency Inventores of  AI Use Case</a
+                    >2021 Guidance for AI Use Case Inventories</a
                     >
                     </p>
                 </div>
