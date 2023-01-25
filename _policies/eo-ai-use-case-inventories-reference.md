@@ -25,7 +25,7 @@ Agencies are expected, as directed by the EO, to make their AI use case inventor
                     <span class="card-tag">Guidance</span>
                     <p class="title-resources">
                     <a
-                            href="{{ site.baseurl }}/assets/resources/2023 Guidance for AI Use Case Inventories.pdf"
+                            href="{{ site.baseurl }}/assets/resources/2023-Guidance-for-AI-Use-Case-Inventories.pdf"
                             target="_blank"
                             style="text-decoration: none; color: black"
                     >2023 Guidance for AI Use Case Inventories</a
