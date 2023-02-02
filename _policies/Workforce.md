@@ -18,6 +18,9 @@ The Council is committed to its strategic goal of providing the Federal Governme
 Our [Workforce Committee]({{ site.baseurl }}/about/members-and-leadership/workforce-committee/) focuses on the full employment life cycle: workforce planning, recruitment, retention, and career development. We work with the [Federal Chief Human Capital Officers](https://chcoc.gov/) and broader HR community to develop, implement, and communicate strategies to recruit, retain, and manage a fully trained and qualified tech and cybersecurity workforce, to better meet current and future mission requirements.
 
 Learn more about how to become a part of the Federal Technology and Cybersecurity Workforce on our [Jobs page]({{ site.baseurl }}/government-technology-jobs/).
+
+## Position Descriptions ##
+An important role of Federal CIOs and their staff is writing strong position descriptions for their employees that include modern best-practices. CIO.gov offers a position description repository of PDs that are meant to provide inspiration and serve as a template or samples for drafting PDs in partner agencies. Please find more information and guidance at the [CIO Council Position Description Repository](https://community.max.gov/pages/viewpage.action?pageId=2337596774).
 &nbsp;
 
 {% assign related-tiles = page.related-filters %}
