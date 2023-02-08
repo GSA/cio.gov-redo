@@ -1,5 +1,5 @@
 ---
-title: Fraud Detection & Prevention Symposium
+title: Council Programs and Events
 subtitle: Fraud Detection & Prevention Symposium
 layout: page
 permalink: /programs-and-events/hybrid-fraud-detection-prevention-symposium/
