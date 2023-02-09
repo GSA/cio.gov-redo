@@ -28,7 +28,7 @@
 
     <p class="">{{ events.overview | truncate: 700 }}
       {% if events.external != 1 %}
-        <a href="{{ site.baseurl }}{{ events.link }}">Read more here.</a>
+        <a href="{{ site.baseurl }}{{ events.link }}" aria-label="Read more about {{ events.title }}">Read more here.</a>
       {% endif %}
     </p>
     {% if events.external_url %}
