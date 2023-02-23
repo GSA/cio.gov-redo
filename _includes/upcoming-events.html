@@ -3,8 +3,6 @@
 {% for events in site.events %}
 {% unless events.title contains 'CIO Council Meeting' %}
 {% assign event_date = events.end-date | date: '%s' %}
-<!-- Add the 23h 59m 59s to count the whole day -->
-{% assign event_date = event_date + (23*3600+59*60+59) %}
 {% if event_date >= today_date %}
 
 
