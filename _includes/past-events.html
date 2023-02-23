@@ -1,4 +1,5 @@
-{% for events in site.events %}
+{% assign sorted_events = site.events | sort | reverse %}
+{% for events in sorted_events %}
 {% unless events.title contains 'CIO Council Meeting' %}
 {% assign event_date = events.end-date | date: '%s' %}
 {% if event_date < today_date %}
