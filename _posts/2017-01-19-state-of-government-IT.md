@@ -21,7 +21,7 @@ State of Federal IT Report with background image of a desk with a computer scree
 
 **How we can get there.** The path to a successful transformation is possible through better internal collaboration, improvements to human resources and procurement operations, a shift away from legacy systems, and a continued push towards transparency and open data. CIOs must think beyond their traditional roles and responsibilities, about their place in the broader Federal IT ecosystem. This report provides a comprehensive review of key IT initiatives and challenges, along with actionable recommendations that Federal IT leaders may want to undertake to improve and transform the state of Federal IT.
 
-You can read the SOFIT report [here](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/05/CIO-Council-State-of-Federal-IT-Report-January-2017-1.pdf).
+You can read the SOFIT report [here](https://assets.cio.gov/assets/files/resources/CIO-Council-State-of-Federal-IT-Report-January-2017-1.pdf).
 
 Links to specific portions of the report are below.
 

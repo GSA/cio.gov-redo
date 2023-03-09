@@ -9,7 +9,7 @@ tags: it-infrastructure 2017
 
 permalink:
 ---
-The CIO Council has released a report, [Developer Platforms: Shared Services for Common Developer-Focused APIs and Services](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/06/Developer-Platforms.pdf), developed by an interagency collaboration that seeks to identify and share best practices for Federal departments and agencies on how to internally leverage a new generation of common platform capabilities powered by cloud and hosted application programming interfaces (APIs).  The report was developed to support interagency coordination and provide technical and policy innovations to accelerate the Federal Government’s transition from legacy processes and infrastructure to modern approaches.
+The CIO Council has released a report, [Developer Platforms: Shared Services for Common Developer-Focused APIs and Services](https://assets.cio.gov/assets/files/resources/Developer-Platforms.pdf), developed by an interagency collaboration that seeks to identify and share best practices for Federal departments and agencies on how to internally leverage a new generation of common platform capabilities powered by cloud and hosted application programming interfaces (APIs).  The report was developed to support interagency coordination and provide technical and policy innovations to accelerate the Federal Government’s transition from legacy processes and infrastructure to modern approaches.
 
 The ability to share resources and functions within and across Federal departments and agencies using developer APIs and services offers new ways to improve efficiency and effectiveness. Rather than writing functionality from scratch, a team can compose platform APIs and services together to build and deliver much of an application’s functionality.  This includes developer platforms and services that directly impact mission delivery including citizen-facing applications or optimization of internal operations through consolidation or de-duplication of IT functions.
 
@@ -17,4 +17,4 @@ The report explores examples and lessons from other governments and from the pri
 
 We are encouraged by the opportunities highlighted in this report and hope that industry and government will continue working together to build an ecosystem of developer platforms and services to improve the Federal Government and to better serve the American people.
 
-You can download a copy of the report [here](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1151/2017/06/Developer-Platforms.pdf).
+You can download a copy of the report [here](https://assets.cio.gov/assets/files/resources/Developer-Platforms.pdf).
