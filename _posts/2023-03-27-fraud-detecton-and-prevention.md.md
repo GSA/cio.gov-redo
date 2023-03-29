@@ -2,11 +2,11 @@
 layout: post
 title: 'Fraud Detection & Prevention Symposium: Increasing Collaboration and Driving Action'
 excerpt: In February 2023, the Federal Chief Information Officers (CIO) Council hosted a “Fraud Detection & Prevention Symposium.” The day-long event featured over 20 executives, technologists, and changemakers from 10+ agencies, academia, and the private sector participating in the one-day event to discuss fraud issues as mentioned below that are impacting agencies. The event was well attended with nearly 300 participants.
-date: 27 Mar 2023
-display-date: 27 Mar 2023
+date: 29 Mar 2023
+display-date: 29 Mar 2023
 author: CIO Council
 tags: it-modernization fraud-detection collaboration
-permalink: /2023-03-07-fraud-dection-prevention-symposium/
+permalink: /2023-03-29-fraud-dection-prevention-symposium/
 image: fraud-dection-prevention-symposium-thumnail.png
 img-alt: Fraud Detection and Prevention Symposium Graphic Recording
 ---
