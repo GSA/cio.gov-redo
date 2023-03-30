@@ -16,6 +16,7 @@ permalink: /about/members-and-leadership/SMACC/
 <li>Assist the CIOC and CISOC in the identification, development, and coordination of multi-agency IT related projects and other innovative initiatives to improve federal IT performance; and</li>
 <li>Collaborate with the Chief Human Capital Officers Council through the CIOC to address the hiring, training, classification, and professional development needs of federal employees in small / micro-agencies.</li>
 </ul>
+<h1><strong><a href="{{site.baseurl}}/assets/files/Small Agency CIO and IT Executive Handbook_FINAL 508.pdf">Small Agency CIO Handbook</a></strong></h1>
 <h1><strong>Leadership</strong></h1>
 <p><strong>SAAC Leadership&nbsp;</strong><br>
 <strong>Anthony W. McDonald</strong><br>
