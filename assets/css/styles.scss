@@ -290,7 +290,7 @@ ol.alpha {
 
 //White external link mark
 .usa-link--external-white::after {
-  background-image: url("/assets/images/launch--white.png");
+  background-image: url("../images/launch--white.png");
   background-position: 50% 60%;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -301,7 +301,7 @@ ol.alpha {
 }
 
 .usa-link--external-white:hover::after {
-  background-image: url("/assets/images/launch--white.png"), linear-gradient(transparent, transparent);
+  background-image: url("../images/launch--white.png"), linear-gradient(transparent, transparent);
   background-repeat: no-repeat;
 }
 
