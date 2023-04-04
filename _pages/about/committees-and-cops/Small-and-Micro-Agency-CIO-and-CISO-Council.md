@@ -6,6 +6,7 @@ layout: page
 permalink: /about/members-and-leadership/SMACC/
 
 ---
+<div id="main-content">
 <p>The Small Agency Chief Information Officer COuncil (SACC) and Small / Micro-Agency Chief Information Security Officers Council (SMAC) are interagency forums that focus on the needs and unique issues facing small agency Chief Information Officers (CIOs) and Chief Information Security Officers (CISOs). The groups focus on the objectives and priorities set forth by the CIO and CISO Councils as well as outlined in the President&rsquo;s Management Agenda, the E-Government Act of 2002, Government Paperwork Elimination Act (GPRA), the Federal Information Security Management Act of 2014 (FISMA), Federal Information Technology Acquisition Reform Act of 2015 (FITARA) and others.&nbsp;</p>
 <h1><strong>SACC and SMACC Objectives&nbsp;</strong></h1>
 <ul>
@@ -16,7 +17,7 @@ permalink: /about/members-and-leadership/SMACC/
 <li>Assist the CIOC and CISOC in the identification, development, and coordination of multi-agency IT related projects and other innovative initiatives to improve federal IT performance; and</li>
 <li>Collaborate with the Chief Human Capital Officers Council through the CIOC to address the hiring, training, classification, and professional development needs of federal employees in small / micro-agencies.</li>
 </ul>
-<h1><strong><a href="{{site.baseurl}}/assets/files/Small Agency CIO and IT Executive Handbook_FINAL 508.pdf">Small Agency CIO Handbook</a></strong></h1>
+<h2><strong><a href="{{site.baseurl}}/assets/files/Small Agency CIO and IT Executive Handbook_FINAL 508.pdf">Small Agency CIO Handbook</a></strong></h2>
 <h1><strong>Leadership</strong></h1>
 <p><strong>SAAC Leadership&nbsp;</strong><br>
 <strong>Anthony W. McDonald</strong><br>
@@ -37,3 +38,4 @@ Department of State&nbsp;</p>
 <p><strong>Patrick Bevill - CISO Council Liaison&nbsp;</strong><br>
 Chief Information Security Officer<br>
 Federal Retirement Thrift Investment Board</p>
+</div>
