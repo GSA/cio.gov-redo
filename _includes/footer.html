@@ -1,7 +1,7 @@
 <footer class="usa-footer site-footer" role="contentinfo">
   <div class="footer-section-bottom bg-primary-darker">
     <div class="grid-container">
-    <div class="usa-graphic-list__row grid-row grid-gap padding-3">
+    <div class="usa-graphic-list__row grid-row grid-gap padding-y-3">
 
         <div class="tablet:grid-col">
           <div class="logo-links">
@@ -33,7 +33,6 @@
             <li><a class="usa-link-rss" href="{{ site.baseurl }}/feed.xml">RSS feed</a></li>
             <li><a href="{{ site.baseurl}}/privacy-statement/">Privacy Statement </a></li>
             <li><a href="{{site.baseurl}}/accessibility-policy/">Accessibility Policy</a></li>
-            <li><a href="https://www.gsa.gov/reference/freedom-of-information-act-foia">FOIA</a></li>
             <li><a href="mailto:ciocouncil.support@gsa.gov" title="Contact CIO support">Contact Us</a></li>
 
           </ul>
@@ -50,6 +49,69 @@
     </div>
   </div>
 </footer>
+
+<div id="ogp-identifier" class="usa-identifier">
+  <section
+    class="usa-identifier__section usa-identifier__section--masthead"
+    aria-label="Agency identifier,"
+  >
+    <div class="usa-identifier__container">
+      <div class="usa-identifier__logos">
+        <a href="https://www.whitehouse.gov/omb/" class="usa-identifier__logo">
+          <img class="usa-identifier__logo-img" src="{{site.baseurl}}/assets/images/logos/logo-omb.png" alt="Office of Management and Budget Logo">
+        </a>
+      </div>
+      <div class="usa-identifier__identity" aria-label="Agency description">
+        <p class="usa-identifier__identity-domain">CIO.gov</p>
+        <p class="usa-identifier__identity-disclaimer">
+          An Official website of the Federal Government
+        </p>
+      </div>
+    </div>
+  </section>
+  <nav
+    class="usa-identifier__section usa-identifier__section--required-links"
+    aria-label="Important links,,"
+  >
+    <div class="usa-identifier__container">
+      <ul class="usa-identifier__required-links-list">
+        <li class="usa-identifier__required-links-item usa-link--external-white">
+          <a href="https://www.whitehouse.gov/omb/" class="usa-identifier__required-link usa-link">About OMB</a>
+        </li>
+        <li class="usa-identifier__required-links-item usa-link--external-white">
+          <a href="https://www.gsa.gov/website-information/accessibility-aids" class="usa-identifier__required-link usa-link">Accessibility Support</a>
+        </li>
+        <li class="usa-identifier__required-links-item usa-link--external-white">
+          <a href="https://www.gsa.gov/reference/freedom-of-information-act-foia" class="usa-identifier__required-link usa-link">FOIA Requests</a>
+        </li>
+        <li class="usa-identifier__required-links-item usa-link--external-white">
+          <a href="https://www.gsa.gov/reference/civil-rights-programs/notification-and-federal-employee-antidiscrimination-and-retaliation-act-of-2002" class="usa-identifier__required-link usa-link">No FEAR Act Data</a>
+        </li>
+        <li class="usa-identifier__required-links-item usa-link--external-white">
+          <a href="https://www.gsaig.gov/" class="usa-identifier__required-link usa-link">Office of the Inspector General</a>
+        </li>
+        <li class="usa-identifier__required-links-item usa-link--external-white">
+          <a href="https://www.gsa.gov/reference/reports/budget-performance" class="usa-identifier__required-link usa-link">Performance Reports</a>
+        </li>
+        <li class="usa-identifier__required-links-item usa-link--external-white">
+          <a href="https://www.gsa.gov/website-information/website-policies" class="usa-identifier__required-link usa-link">Privacy Policy</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <section
+    class="usa-identifier__section usa-identifier__section--usagov"
+    aria-label="U.S. government information and services,,"
+  >
+    <div class="usa-identifier__container">
+      <div class="usa-identifier__usagov-description">
+        Looking for U.S. government information and services?
+      </div>
+      <a class="usa-link--external-white" href="https://www.usa.gov/" class="usa-link">Visit USA.gov</a>
+    </div>
+  </section>
+</div> 
+
 
 <!-- Digital Analytics Program roll-up, see https://analytics.usa.gov for data -->
 <script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{site.dap_agency}}"></script>
