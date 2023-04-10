@@ -8,12 +8,15 @@ permalink: /policies-and-priorities/Executive-Order-13960-AI-Use-Case-Inventorie
 ---
 ## Policy Overview ##
 
-Pursuant to Section 5 of  Executive Order (EO) 13960, “Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government”, federal agencies are required to inventory their Artificial Intelligence (AI) use cases and share their inventories with other government agencies and the public. The Executive Order calls for the CIO Council to:
+Pursuant to Section 5 of  Executive Order (EO) 13960, “Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government”, and codified by the Advancing American AI Act, federal agencies are required to inventory their Artificial Intelligence (AI) use cases and share their inventories with other government agencies and the public.
+
+EO 13960 and the Advancing American AI Act calls on the CIO Council to:
+
 1. Identify, provide guidance on, and make publicly available the criteria, format, and mechanisms for agency inventories of non-classified and non-sensitive use case of AI by agencies, and
 
 2. Share the consolidated inventories with other agencies. 
 
-Agencies are expected, as directed by the EO, to make their AI use case inventories [public](https://www.ai.gov/ai-use-case-inventories/). Agencies are encouraged to publish/post their AI use case inventories on their agency data webpage at https://[agency].gov/data/AI_Inventory.
+Agencies are required, as directed by the EO and Advancing American AI Act, to make their AI use case inventories [public](https://www.ai.gov/ai-use-case-inventories/). Agencies are to publish/post their AI use case inventories on their agency data webpage at https://[agency].gov/data/AI_Inventory.
 
 ## Related Policies, Priorities and Resources ##
 
