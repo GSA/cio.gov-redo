@@ -8,7 +8,7 @@ permalink: /about/members-and-leadership/SMACC/
 ---
 <div id="main-content">
 <p>The Small Agency Chief Information Officer COuncil (SACC) and Small / Micro-Agency Chief Information Security Officers Council (SMAC) are interagency forums that focus on the needs and unique issues facing small agency Chief Information Officers (CIOs) and Chief Information Security Officers (CISOs). The groups focus on the objectives and priorities set forth by the CIO and CISO Councils as well as outlined in the President&rsquo;s Management Agenda, the E-Government Act of 2002, Government Paperwork Elimination Act (GPRA), the Federal Information Security Management Act of 2014 (FISMA), Federal Information Technology Acquisition Reform Act of 2015 (FITARA) and others.&nbsp;</p>
-<h2 style="font-size: 34px;"><strong>SACC and SMACC Objectives&nbsp;</strong></h2>
+<h2 class="font-size-34"><strong>SACC and SMACC Objectives&nbsp;</strong></h2>
 <ul>
 <li>Develop a two-way communication between the broader CIOC, CISOC and these communities to ensure small agencies insight and input is considered by OMB when developing policy and guidance:</li>
 <li>Develop actionable feedback around federal IT reporting initiatives for OMB consideration in policy development;</li>
