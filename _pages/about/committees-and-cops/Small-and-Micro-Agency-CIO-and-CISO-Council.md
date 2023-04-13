@@ -8,7 +8,7 @@ permalink: /about/members-and-leadership/SMACC/
 ---
 <div id="main-content">
 <p>The Small Agency Chief Information Officer COuncil (SACC) and Small / Micro-Agency Chief Information Security Officers Council (SMAC) are interagency forums that focus on the needs and unique issues facing small agency Chief Information Officers (CIOs) and Chief Information Security Officers (CISOs). The groups focus on the objectives and priorities set forth by the CIO and CISO Councils as well as outlined in the President&rsquo;s Management Agenda, the E-Government Act of 2002, Government Paperwork Elimination Act (GPRA), the Federal Information Security Management Act of 2014 (FISMA), Federal Information Technology Acquisition Reform Act of 2015 (FITARA) and others.&nbsp;</p>
-<h2 class="font-size-34"><strong>SACC and SMACC Objectives&nbsp;</strong></h2>
+<h2 style="font-size:34px"><strong>SACC and SMACC Objectives&nbsp;</strong></h2>
 <ul>
 <li>Develop a two-way communication between the broader CIOC, CISOC and these communities to ensure small agencies insight and input is considered by OMB when developing policy and guidance:</li>
 <li>Develop actionable feedback around federal IT reporting initiatives for OMB consideration in policy development;</li>
@@ -19,7 +19,7 @@ permalink: /about/members-and-leadership/SMACC/
 </ul>
 <h2><strong><a href="{{site.baseurl}}/assets/files/Small Agency CIO and IT Executive Handbook_FINAL 508.pdf">Small Agency CIO and IT Executive Handbook</a></strong></h2>
 <p>The SMAC CIO and IT Executive Handbook provides foundational information for all new Small Agency CIOs and IT Executives but is also very useful for existing CIOs and IT Executives. The document was created through numerous interviews and discussions with existing Small Agency CIOs and subject matter experts throughout the Federal arena.  It provides decision-making guidance and recommendations for challenges specific to small agencies and contains actionable recommendations and planning tools for IT Executives within a Small Agency.  Additionally, it serves as a quick reference to access information and resources from GSA and other organizations.  Finally, it supplements existing guidance documents and references such as the large agency CIO, CDO and CISO handbooks.</p>
-<h2 class="font-size-34"><strong>Leadership</strong></h2>
+<h2 style="font-size:34px"><strong>Leadership</strong></h2>
 <p><strong>SAAC Leadership&nbsp;</strong><br>
 <strong>Anthony W. McDonald</strong><br>
 Chief Information Officer<br>
