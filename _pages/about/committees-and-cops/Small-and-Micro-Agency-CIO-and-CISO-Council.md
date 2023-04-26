@@ -20,7 +20,7 @@ permalink: /about/members-and-leadership/SMACC/
 <h2><strong><a href="{{site.baseurl}}/assets/files/Small Agency CIO and IT Executive Handbook_FINAL 508.pdf">Small Agency CIO and IT Executive Handbook</a></strong></h2>
 <p>The Small Agency CIO and IT Executive Handbook provides foundational information for all new Small Agency CIOs and IT Executives but is also very useful for existing CIOs and IT Executives. The document was created through numerous interviews and discussions with existing Small Agency CIOs and subject matter experts throughout the Federal arena.  It provides decision-making guidance and recommendations for challenges specific to small agencies and contains actionable recommendations and planning tools for IT Executives within a Small Agency.  Additionally, it serves as a quick reference to access information and resources from GSA and other organizations.  Finally, it supplements existing guidance documents and references such as the large agency CIO, CDO and CISO handbooks.</p>
 <h2 class="font-sans-xl"><strong>Leadership</strong></h2>
-<p><strong>SAAC Leadership&nbsp;</strong><br>
+<p><strong>SACC Leadership&nbsp;</strong><br>
 <strong>Anthony W. McDonald</strong><br>
 Chief Information Officer<br>
 Office of Management and Budget (OMB)<br>
