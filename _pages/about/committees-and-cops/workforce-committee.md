@@ -15,15 +15,20 @@ The Workforce Committee’s agenda encompasses the full employment life cycle: w
 * Strategic Career Roadmaps
 
 # Leadership
-**Jason Gray, Co-Chair**<br/>
+**Jason Gray, Tri-Chair**<br/>
 Chief Information Officer<br/>
 Agency for International Development<br/>
 [View Jason Gray's profile]({{ site.baseurl }}/about/members-and-leadership/gray-jason/)
 
-**Dorothy Aronson, Co-Chair**<br/>
+**Gary Washington, Tri-Chair**<br/>
 Chief Information Officer<br/>
-U.S. National Science Foundation<br/>
-[View Dorothy Aronson's profile]({{ site.baseurl }}/about/members-and-leadership/aronson-dorothy/)
+US Department of Agriculture<br/>
+[View Gary Washington's profile]({{ site.baseurl }}/about/members-and-leadership/washington-gary/)
+
+**Darren Ash, Tri-Chair**<br/>
+Chief Information Officer<br/>
+Department of Interior<br/>
+[View Darren Ash's profile]({{ site.baseurl }}/about/members-and-leadership/darren-ash/)
 
 The [Workforce Committee Max Page](https://community.max.gov/display/Egov/CIO+Council+Workforce+Committee) **(login required)** provides tools and resources to encourage information sharing and collaboration.
 
