@@ -22,23 +22,28 @@ Other government-only pages for key Council information include:
 * [CIO Council Executive Committee Repository](https://community.max.gov/display/Egov/CIO+Council+Executive+Committee) **(OMB MAX Login Required)**
 
 ## Meeting Schedule
-Below is the current schedule for both Full Council and Executive Committee meetings. CIOs can also review [previous meeting agendas and materials](https://community.max.gov/display/Egov/CIO+Council+Previous+Meeting+Documents) **(OMB MAX Login Required)**.
+Below is the current schedule for both Full Council and Executive Committee meetings. CIOs can also review [previous meeting agendas and materials](https://community.max.gov/display/Egov/CIO+Council+Full+Council+Meetings) **(OMB MAX Login Required)**.
 
 *Note: Committees are scheduled to meet from 2:30-3:20 before each Full Council meeting. All Council meetings are currently held virtually.*<br>
 
-*Holiday Schedule update*
-
 **Full Council:**
-* **September -** Wednesday, September 28, 2022
-* **October -** Wednesday, October 26, 2022
-* **November -** Wednesday, November 16, 2022
-* **December -** Wednesday, December 7, 2022
+* **June -** Wednesday, June 28, 2023
+* **July -** Wednesday, July 26, 2023
+* **August -** Wednesday, August 23, 2023
+* **September -** Wednesday, September 27, 2023
+* **October -** Wednesday, October 25, 2023
+* **November -** Wednesday, November 15, 2023 
+* **December -** Wednesday, December 6, 2023 
 
 **CISO Council:**
-* **September -** Wednesday, September 21, 2022
-* **October -** Wednesday, October 19, 2022
-* **November -** Wednesday, November 9, 2022
-* **December -** Wednesday, December 6, 2022* 10AM-2PM (Strategy Session)
+* **June -** Wednesday, June 21, 2023
+* **July -** Wednesday, July 19, 2023
+* **August -** Wednesday, August 16, 2023
+* **September -** Wednesday, September 20, 2023
+* **October -** Wednesday, October 18, 2023 
+* **November -** Wednesday, November 8, 2023 
+* **December** (Recessed) 
+
 <br>
 {% for events in site.events %}
 {% if events.title contains 'CIO Council Meeting' %}
