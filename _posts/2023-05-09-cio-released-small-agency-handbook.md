@@ -10,7 +10,7 @@ permalink: /2023-05-09-cio-council-releases-handbook-for-small-agency-cios-and-e
 image: 
 img-alt: 
 ---
-The Small Agency CIO Council published the <a href="{{site.baseurl}}/assets/files/Small Agency CIO and IT Executive Handbook_FINAL 508.pdf"><i>Federal Small Agency CIO and IT Executive Handbook</i></a> in partnership with GSA's IT Modernization division.As co-chairs of the Small Agency CIO Council andhaving managed IT organizations within the context of small agencies, we recognized the importance of creating guidance specifically to meet the unique challenges faced by IT leaders in our small agency community. This handbook serves as a foundational guide to assist small agency IT Executives in carrying out their missions.
+The Small Agency CIO Council published the <a href="{{site.baseurl}}/assets/files/Small Agency CIO and IT Executive Handbook_FINAL 508.pdf"><i>Federal Small Agency CIO and IT Executive Handbook</i></a> in partnership with GSA's IT Modernization division. As co-chairs of the Small Agency CIO Council and having managed IT organizations within the context of small agencies, we recognized the importance of creating guidance specifically to meet the unique challenges faced by IT leaders in our small agency community. This handbook serves as a foundational guide to assist small agency IT Executives in carrying out their missions.
 
 Small agencies often have unique organizational structures that do not follow the traditional staffing model for IT administration. For example, small agencies may not have a full suite of IT leadership roles or even a designated CIO. In some scenarios, executives may fulfill multiple roles in IT management while in others executives may have diverse backgrounds outside of the IT space.  
 
