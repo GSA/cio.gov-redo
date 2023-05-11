@@ -2,11 +2,11 @@
 layout: post
 title: CIO Council Releases Handbook for Small Agency CIOs and Executives
 excerpt: The Small Agency CIO Council published the Federal Small Agency CIO and IT Executive Handbook in partnership with GSA’s IT Modernization division. Small agencies often have unique organizational structures that do not follow the traditional staffing model for IT administration. We recognized the importance of creating guidance specifically to meet the unique challenges faced by IT leaders in our small agency community. This handbook serves as a foundational guide to assist small agency IT Executives in carrying out their missions.
-date: 09 May 2023
-display-date: 09 May 2023
+date: 11 May 2023
+display-date: 11 May 2023
 author: Chris Chilbert, Chief Information Officer, Consumer Financial Protection Bureau, Co-Chair of Small Agency CIO Council and Tony McDonald, CIO, OMB, Chief Information Officer, Office of Management and Budget, Co-Chair of Small Agency CIO Council
 tags: it-modernization SACC SmallAgency guidance
-permalink: /2023-05-09-cio-council-releases-handbook-for-small-agency-cios-and-executives/
+permalink: /2023-05-11-cio-council-releases-handbook-for-small-agency-cios-and-executives/
 image: 
 img-alt: 
 ---
