@@ -2,11 +2,11 @@
 layout: post
 title: Apply to Be a CXO Fellow and Enhance Your Leadership Skills
 excerpt: The CXO Fellowship Application is Live! If you are a GS-09 to GS-13 employee (or equivalent) who is passionate about technology, understands how the Federal Government operates, and drives change within your agency, consider applying to the CXO Fellows Program. The application period for the FY 2024 cohort ends June 9 at 5 p.m. ET.
-date: 31 May 2023
-display-date: 31 May 2023
+date: 2 June 2023
+display-date: 2 June 2023
 author: CIO Council
 tags: CXO leadership workforce development
-permalink: /2023-05-31-apply-to-be-a-cxo-fellow-and-enhance-your-leadership-skills/
+permalink: /2023-06-02-apply-to-be-a-cxo-fellow-and-enhance-your-leadership-skills/
 image: 
 img-alt: 
 ---
