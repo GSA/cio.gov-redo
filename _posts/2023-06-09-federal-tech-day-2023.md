@@ -7,13 +7,15 @@ display-date: 09 June 2023
 author: CIO Council
 tags: Technology fraud-detection cybersecurity Artificial-Intelligence
 permalink: /2023-06-09-federal-tech-day-2023-impact-through-innovation/
-image: blog-thumbnail-billboard.png
-img-alt: a billboard of federal tech day 2023
+image: FED-TECH-DAY-BLOG.jpg
+img-alt: Stats of federal tech day 2023
 ---
 
 The Federal Chief Information Officers (CIO) Council, in partnership with the U.S. Department of Labor and U.S. Department of Energy, hosted Federal Tech Day 2023 to showcase innovative technologies developed by federal agencies to help deliver their programs' missions.
 
 The day-long event held at the Frances Perkins Building in Washington, D.C., brought together executives, technologists, and government leaders from nearly [30 federal agencies](https://www.dol.gov/agencies/oasam/centers-offices/ocio/tech-day#:~:text=Federal%20Tech%20Day%20Is%20Coming%20May%2018%2C%202023&text=Join%20us%20on%20Thursday%2C%20May,help%20deliver%20their%20program%27s%20mission.){:target="_blank"}. More than 1,800 people attended in person and virtually.
+
+<img src="{{site.baseurl}}/assets/images/blog/FED-TECH-DAY-BLOG.jpg" alt="statistical data of federal tech day 2023" style="display: block; margin-left: auto; margin-right: auto;">
 
 **Purpose: Impact Through Innovation**
 
