@@ -7,8 +7,8 @@ display-date: 09 June 2023
 author: CIO Council
 tags: Technology fraud-detection cybersecurity Artificial-Intelligence
 permalink: /2023-06-09-federal-tech-day-2023-impact-through-innovation/
-image: FED-TECH-DAY-BLOG.jpg
-img-alt: Stats of federal tech day 2023
+image: blog-thumbnail-billboard.png
+img-alt: federal tech day 2023 billboard
 ---
 
 The Federal Chief Information Officers (CIO) Council, in partnership with the U.S. Department of Labor and U.S. Department of Energy, hosted Federal Tech Day 2023 to showcase innovative technologies developed by federal agencies to help deliver their programs' missions.
