@@ -66,6 +66,8 @@ primary_navigation:
         url: /programs-and-events/2020-cio-bootcamp/
       - name: Innovation Roundtables
         url: /programs-and-events/innovation-roundtables/
+      - name: Federal Tech Day
+        url: /programs-and-events/federal-tech-day/
       - name: All Events
         url: /programs-and-events/
   - name: News
