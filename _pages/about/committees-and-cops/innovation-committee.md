@@ -17,9 +17,9 @@ Innovation can bring about both incremental growth and radical change in how we 
 
 # Leadership
 
-**Chris Brazier, Tri-Chair**<br/>
-Chief Technology Officer & Mission IT Infrastructure & Services Department Chief<br/>
-Defense Threat Reduction Agency
+**David Larrimore, Tri-Chair**<br/>
+Chief Technology Officer<br/>
+Department of Homeland Security
 
 **Ann Dunkin, Tri-Chair**<br/>
 Chief Information Officer<br/>
