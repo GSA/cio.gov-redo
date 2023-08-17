@@ -17,10 +17,6 @@ Innovation can bring about both incremental growth and radical change in how we 
 
 # Leadership
 
-**David Larrimore, Tri-Chair**<br/>
-Chief Technology Officer<br/>
-Department of Homeland Security
-
 **Ann Dunkin, Tri-Chair**<br/>
 Chief Information Officer<br/>
 Department of Energy
@@ -28,6 +24,10 @@ Department of Energy
 **Chezian Sivagnanam, Tri-Chair**<br/>
 Chief Architect<br/>
 Federal Deposit Insurance Corporation
+
+**David Larrimore, Tri-Chair**<br/>
+Chief Technology Officer<br/>
+Department of Homeland Security
 
 The [Innovation Committee Max Page](https://community.max.gov/display/Egov/CIO+Council+Innovation+Committee) **(login required)** provides tools and resources to encourage information sharing and collaboration.
 
