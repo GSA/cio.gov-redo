@@ -58,6 +58,8 @@ primary_navigation:
         url: /assets/files/Federal-IT-Operating-Plan-June-2022.pdf
   - name: Programs & Events
     children:
+      - name: Innovation Symposium Series
+        url: /programs-and-events/hybrid-fraud-detection-prevention-symposium/
       - name: Women in IT & Cyber
         url: /2021-women-in-IT/
       - name: Data Science Training Program
