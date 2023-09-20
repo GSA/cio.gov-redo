@@ -21,11 +21,12 @@ There's a place for everyone. We look forward to you joining us -- you'll never 
 
 <div class="table-container">
     <table border="1" class="dataframe responsive-table">
+    <caption>Government Career Opportunities</caption>
   <thead>
     <tr style="text-align: right;">
-      <th>Career Level</th>
-      <th>Government Website</th>
-      <th>Description</th>
+      <th scope="col">Career Level</th>
+      <th scope="col">Government Website</th>
+      <th scope="col">Description</th>
     </tr>
   </thead>
   <tbody>
