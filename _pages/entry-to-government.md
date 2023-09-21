@@ -7,7 +7,9 @@ author: Clare Martorana, Federal Chief Information Officer
 permalink: /entry-to-the-government/
 ---
 
-Technology enables the Government to deliver on its mission. We need technologists at the table collaborating with our Nation's leaders and providing expertise on how best to launch products and services that are secure by design, digital by default, and accessible to people of all abilities.<br>Working together, we can deliver better digital experiences to over 400 million people counting on us.
+Technology enables the Government to deliver on its mission. We need technologists at the table collaborating with our Nation's leaders and providing expertise on how best to launch products and services that are secure by design, digital by default, and accessible to people of all abilities.
+
+Working together, we can deliver better digital experiences to over 400 million people counting on us.
 
 We have a mandate. We have bipartisan support. **All we need is you.** 
 
