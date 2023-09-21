@@ -18,7 +18,7 @@ If you're interested in becoming part of the solution -- as an early, mid, or se
 There's a place for everyone. We look forward to you joining us -- you'll never be the same again!
 
 <div class="table-container">
-    <table border="1" class="dataframe responsive-table">
+    <table border="1" class="dataframe responsive-table" aria-label="Career Level & Job Listings">
   <thead>
     <tr style="text-align: right;">
       <th scope="col">Career Level</th>
