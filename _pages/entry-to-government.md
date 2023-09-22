@@ -1,6 +1,6 @@
 ---
 title: Resources
-subtitle: 'The Call to Serve: Help Us Tackle the Nation’s IT Challenges'
+subtitle: 'The Call to Serve: Help Us Tackle the Nation’s Tech Challenges'
 description:
 layout: defaultwithbanner
 author: Clare Martorana, Federal Chief Information Officer
@@ -57,7 +57,7 @@ There's a place for everyone. We look forward to you joining us -- you'll never 
     <tr>
       <td>Senior Level</td>
       <td><a href="https://presidentialinnovationfellows.gov/" aria-label="Presidential Innovation Fellows, opens in a new window" target="_blank">Presidential Innovation Fellows</a></td>
-      <td>12-month program where Fellows will  work on innovation programs across federal agencies.</td>
+      <td>12-month program where Fellows will  work on innovation programs across Federal agencies.</td>
     </tr>
     <tr>
       <td>Senior Level</td>
