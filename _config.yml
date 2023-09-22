@@ -56,7 +56,7 @@ primary_navigation:
         url: /aia-eia-js/
       - name: Federal IT Ops Plan
         url: /assets/files/Federal-IT-Operating-Plan-June-2022.pdf
-      - name: Entry to the Government
+      - name: Join the Government
         url: /entry-to-the-government/
   - name: Programs & Events
     children:
