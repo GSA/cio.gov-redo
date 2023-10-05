@@ -19,7 +19,7 @@ Disruptive Methods to Modernize IT Symposium: Join us on November 7, 2023 from 9
 
 -   The utilization of modern tools to reimagine transform, and accelerate mission impact.
 
-**Fireside Chat #2:** Driving Data Based Decision Making- Modernizing IT Across Government Functions
+**Fireside Chat #2:** Driving Data Based Decision Making - Modernizing IT Across Government Functions
 
 -   How can you work with CIO's to Modernize IT?
 -   Highlight the challenges 
