@@ -34,11 +34,15 @@ Disruptive Methods to Modernize IT Symposium: Join us on November 7, 2023 from 9
 -   Mission use cases
 -   Impact of Modernizing Technology on mission
 
-**Collaboration Quickfire Spotlights X 3:** (Funding, Modernizing in Place, Government as an Enabler)
+**Collaboration Quickfire Spotlights X 2: (Funding, Modernizing in Place/Government as an Enabler)**
 
 -   Challenges agencies face during the modernization process: from funding through project implementation.
--   Build smaller discrete system functions and deploy these new capabilities within existing environments
+-   Build smaller discrete system functions and deploy these new capabilities within existing environments.
 
-Register <a href="">here</a> to join us in person at GSA's Jess Larson Auditorium in Washington, DC. Space is limited so please register early. To join us virtually, register <a href="">here</a>.
+Industry, media, vendors are encouraged to network with the federal workforce so in-person attendance is requested.
 
-Captioning will be available, and if you need accommodation, please contact <ciocouncil.support@gsa.gov>.
+[**Register online**](https://gsa.zoomgov.com/webinar/register/WN_yblq2LQgSsOl9patcCAOTw#/registration)
+
+This meeting will include ASL interpretation as well as captioning services. To request additional accommodations for a disability, please contact <ciocouncil.support@gsa.gov> no later than November 1, 2023, to allow as much time as possible to process your request.
+
+Please note that there is no food or drink allowed in the Jess Mellon Auditorium.
