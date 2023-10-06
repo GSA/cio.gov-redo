@@ -11,7 +11,7 @@ In FY24, the Committee is delivering programming to humanize Federal IT Operatin
 
 **The Program**
 
-The Symposium Series creates a forum for two-way dialogue across federal, state and local governments, academia, and the private sector. The Symposiums are held at General Services Administration (GSA) headquarters at 1800 F Street NW, Washington, DC. 
+The Symposium Series creates a forum for two-way dialogue across federal, state and local governments, academia, and the private sector. The Symposiums are held at General Services Administration (GSA) headquarters at [1800 F Street NW, Washington, DC](https://www.google.com/maps/search/1800+F+Street+NW,+Washington,+DC?entry=gmail&source=g). 
 
 Disruptive Methods to Modernize IT Symposium: Join us on November 7, 2023 from 9am - 4pm ET for a hybrid Disruptive Methods to Modernize IT Symposium sponsored by the Federal CIO Council’s Innovation Committee. The day-long event will feature over 20 executives, technologists and changemakers from 10+ agencies, academia and the private sector:   
 
