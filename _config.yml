@@ -244,3 +244,4 @@ exclude:
   - package-lock.json
   - README.md
   - src
+  - _unpublished
