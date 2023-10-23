@@ -60,8 +60,6 @@ primary_navigation:
         url: /entry-to-the-government/
   - name: Programs & Events
     children:
-      - name: Innovation Symposium Series
-        url: /programs-and-events/hybrid-fraud-detection-prevention-symposium/
       - name: Women in IT & Cyber
         url: /2021-women-in-IT/
       - name: Data Science Training Program
