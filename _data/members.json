@@ -101,7 +101,7 @@
       }
     },
     {
-      "title": "Department of the Treasury Acting CIO Information",
+      "title": "Department of the Treasury CIO Information",
       "content": {
         "agency": {
           "agencyName": "Department of the Treasury",
@@ -614,39 +614,6 @@
             "position": "Chief Information Officer",
             "bio-image": "/bio_nelson.png",
             "description": "Mr. Nelson currently serves as the Chief Information Officer (CIO) of the Nuclear Regulatory Commission. He previously served as the CIO and Director, Office of Enterprise Information for the Centers for Medicare and Medicaid Services (CMS). He was selected for this role to manage the CMS $2.6B information technology (IT) portfolio including complex ecosystem of applications and trusted data exchanges supporting Healthcare.gov, the Medicare Claims Processing, Medicaid Support, and Quality Reporting Systems.<br><br>Mr. Nelson previously held several important roles at CMS including the Director, Office of Information Services; Director, Office of Enterprise Management; and Director, Data Analytics and Control Group for the Center for Program Integrity at CMS. The Data Analytics and Control Group is the CMS primary focal point for analytics related to fraud, waste, and abuse, and provides statistical and data analysis for program integrity issues in the original Medicare, Medicare Advantage, Prescription Drug Plan, and Medicaid programs. He joined CMS in 2004 as the Director, Division of Call Center Systems, Office of External Affairs and Beneficiary Services, and was charged with improving access to information for 40 million Medicare beneficiaries.<br><br>Before joining CMS, Mr. Nelson served in a variety of challenging private sector leadership roles, including co-founder of two broadband development companies providing access to underserved markets in the United States.<br><br>Mr. Nelson also served in executive operations roles both in the United States and abroad for several leading IT development and telecommunications companies, and as Vice President of Operations for a telecommunications firm where he managed commissioning of several hundred satellite earth stations in 50 countries across Europe, Latin America, and the United States.<br><br>Mr. Nelson served in the U.S. Air Force, Yakota AB Japan, and holds a bachelor's degree in business management from the University of Phoenix."
-          }
-        }
-      }
-    },
-    {
-      "title": "National Science Foundation CIO Information",
-      "content": {
-        "agency": {
-          "agencyName": "National Science Foundation",
-          "agencyCode": "422",
-          "cio": {
-            "firstName": "Dorothy",
-            "lastName": "Aronson",
-            "email": "daronson@nsf.gov",
-            "phone": "703-292-4299",
-            "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_aronson.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/aronson-dorothy/",
-            "deptCIO": "1",
-            "address": {
-              "address1": "National Science Foundation 4201 Wilson Boulevard Room 305 Arlington, VA 22230 Office\n Phone: 703-292-8100 Office Fax: 703-292-9084",
-              "address2": "",
-              "city": "Arlington",
-              "state": "VA",
-              "zip": "22230"
-            },
-            "bio_link":"aronson-dorothy",
-            "banner_subtitle": "Team and Leadership",
-            "banner_title":" About Our Council",
-            "leadership": false,
-            "position": "Chief Information Officer",
-            "bio-image": "/bio_aronson.png",
-            "description": "Ms. Aronson was recently named the Chief Information Officer for the National Science Foundation after serving for almost six months as both the Acting CIO and as the Director for the Division of Information Systems within the Office of Information and Resource Management.<br><br>Ms. Aronson is uniquely positioned to effect positive change and build upon years of foundational IT Governance groundwork already in place. In her role as the Director for the Division of Information Systems since 2011, Ms. Aronson also acted as the NSF Deputy CIO, facilitating the linkage of mission and strategy to IT tools which enable the Foundation to manage the full lifecycle of proposals and awards. Ms. Aronson is a highly skilled and gifted creative thinker, strategist, and artist; and, was recognized in 2013 as one of the FCW Fed 100 for her mastery of innovation and for her ability to effectively engage her staff around a common vision for cutting-edge IT in support of NSF-funded cutting-edge research. Ms. Aronson’s deep understanding of IT, coupled with her commitment to the NSF mission, its employees and to the American taxpayer, have been instrumental in her ability to manage an organization of over 300 talented IT innovators who feel equally engaged, connected, and empowered to find creative solutions to IT’s most challenging dilemmas.<br><br>Prior to her time at NSF, Ms. Aronson served as the Director for the Office of Management Operations for the Defense Advanced Research Project Agency. She holds a Business degree from Duke University and is committed to lifelong learning."
           }
         }
       }

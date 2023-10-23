@@ -7,7 +7,7 @@ description: A forum to connect subject matter experts & focus on raising awaren
 overview: A forum to connect subject matter experts & focus on raising awareness, sharing lessons learned, and garner insights with regard to fraud detection and prevention.
 image: CIO_Symposium_Thumbnail.jpg
 image-alt: CIO Symposium image
-link: /programs-and-events/hybrid-fraud-detection-prevention-symposium/
+link: /programs-and-events/disruptive-methods-to-modernize-it-symposium/
 external_url: 
 ---
 
