@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Council Programs and Events
 subtitle: Innovation Symposium Series
 layout: page
@@ -50,4 +50,4 @@ Industry, media, vendors are encouraged to network with the federal workforce so
 
 This meeting will include ASL interpretation as well as captioning services. To request additional accommodations for a disability, please contact <ciocouncil.support@gsa.gov> no later than November 1, 2023, to allow as much time as possible to process your request.
 
-Please note that there is no food or drink allowed in the Jess Mellon Auditorium. -->
+Please note that there is no food or drink allowed in the Jess Mellon Auditorium.

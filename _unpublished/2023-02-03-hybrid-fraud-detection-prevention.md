@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Innovation Symposium Series
 featured:  yes
 start-date: #only fill in start date if the events spans multiple days
@@ -10,4 +10,4 @@ image-alt: CIO Symposium image
 link: /programs-and-events/disruptive-methods-to-modernize-it-symposium/
 external_url: 
 ---
- -->
+
