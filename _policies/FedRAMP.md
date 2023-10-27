@@ -25,7 +25,7 @@ The draft guidance defines the scope of cloud products subject to FedRAMP, sets 
 3. Streamline manual authorization processes through increased automation.
 4. Leverage shared infrastructure between the Federal Government and private sector.
 
-[Read the Draft Guidance]({{site.baseurl}}/assets/resources/FedRAMP Draft Memo - Prepared For Public Comment - 2023-10-24.pdf)
+[Read the Draft Guidance]({{site.baseurl}}/assets/files/resources/FedRAMP-updated-draft-guidance-2023.pdf)
 
 ## Why This Matters to the CIO Council ##
 By adopting innovative cloud services to meet their critical mission needs, agencies have the opportunity to save both time and money. FedRAMP enables agencies to rapidly adapt from old, insecure legacy IT to mission-enabling, secure, and cost effective cloud-based IT.
