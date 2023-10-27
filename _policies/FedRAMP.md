@@ -16,7 +16,7 @@ date: April 26, 2019
 The [Federal Risk and Authorization Management Program (FedRAMP)](https://www.fedramp.gov/) is a government-wide program, as of December 2018, that provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services. FedRAMP created and manages a core set of processes to ensure effective, repeatable cloud security for the government. It also established a mature marketplace to increase utilization and familiarity with cloud services while facilitating collaboration across government through open exchanges of lessons learned, use cases, and tactical solutions.
 
 ## Draft Guidance for Public Comment ##
-On October 27, OMB released draft updated guidance for public comment through November 26th.
+On October 27, OMB released draft updated guidance for public comment through November 27th.
 
 The draft guidance defines the scope of cloud products subject to FedRAMP, sets agency requirements for granting authorization and reuse, and promotes a transparent and consistent process for performing security assessment and authorizations of cloud services by Federal agencies.  Key areas of the draft guidance include how the FedRAMP Program will:  
 
