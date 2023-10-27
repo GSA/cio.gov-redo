@@ -16,7 +16,7 @@ date: April 26, 2019
 The [Federal Risk and Authorization Management Program (FedRAMP)](https://www.fedramp.gov/) is a government-wide program, as of December 2018, that provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services. FedRAMP created and manages a core set of processes to ensure effective, repeatable cloud security for the government. It also established a mature marketplace to increase utilization and familiarity with cloud services while facilitating collaboration across government through open exchanges of lessons learned, use cases, and tactical solutions.
 
 ## Draft Guidance for Public Comment ##
-On October 27, OMB released draft updated guidance for public comment through November 27th.
+On October 27, OMB released draft updated guidance for public comment through November 26th.
 
 The draft guidance defines the scope of cloud products subject to FedRAMP, sets agency requirements for granting authorization and reuse, and promotes a transparent and consistent process for performing security assessment and authorizations of cloud services by Federal agencies.  Key areas of the draft guidance include how the FedRAMP Program will:  
 
@@ -25,7 +25,7 @@ The draft guidance defines the scope of cloud products subject to FedRAMP, sets 
 3. Streamline manual authorization processes through increased automation.
 4. Leverage shared infrastructure between the Federal Government and private sector.
 
-[Read the Draft Guidance](https://assets.cio.gov/assets/files/resources/FedRAMP-updated-draft-guidance-2023.pdf)
+[Read the Draft Guidance]({{site.baseurl}}/assets/resources/FedRAMP Draft Memo - Prepared For Public Comment - 2023-10-24.pdf)
 
 ## Why This Matters to the CIO Council ##
 By adopting innovative cloud services to meet their critical mission needs, agencies have the opportunity to save both time and money. FedRAMP enables agencies to rapidly adapt from old, insecure legacy IT to mission-enabling, secure, and cost effective cloud-based IT.
