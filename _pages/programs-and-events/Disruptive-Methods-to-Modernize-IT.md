@@ -1,6 +1,6 @@
 ---
 title: Council Programs and Events
-subtitle: Disruptive Methods to Modernize IT
+subtitle: Disruptive Methods to Modernize IT Symposium
 layout: page
 permalink: /programs-and-events/disruptive-methods-to-modernize-it-symposium/
 ---
@@ -14,8 +14,6 @@ permalink: /programs-and-events/disruptive-methods-to-modernize-it-symposium/
 **1800 F Street, NW Washington, DC 20405**
 
 [**REGISTER HERE**](https://gsa.zoomgov.com/webinar/register/WN_yblq2LQgSsOl9patcCAOTw#/registration){:target="_blank"}(In person and Zoom)
-
-[**(Full Agenda Here)**]({{site.baseurl}}/assets/files/IT Modernization Symposium Agenda.pdf)
 
 On November 7th, the Federal Government will celebrate the people, processes, and technologies underpinning agency mission. This all-day symposium intends to humanize the Federal IT Operating Plan priorities and illustrate the impact that these priorities have on public facing service, in addition to creating a collaborative forum for two-way dialogue across federal, state and local governments, academia, and the private sector focused on current and futuristic topics impacting agencies today. This event is co-hosted by the General Services Administration and the Department of Energy. Join us virtually or in person at the GSA headquarters. No badge required, escorts available.
 
@@ -54,7 +52,7 @@ On November 7th, the Federal Government will celebrate the people, processes, an
     <tr>
       <td>10:05 AM - 10:45 AM</td>
       <td>FIRESIDE CHAT: <br>Driving Data-Based Decision Making - Modernizing IT Across Government Functions</td>
-      <td><b>Chezian Sivagnanam, FDICM</b><br>
+      <td><b>Chezian Sivagnanam, FDIC</b><br>
           Heidi Norman, City of Pittsburgh<br>
           Brian Conrad, FedRAMP<br>
           Dorothy Aronson, NSF<br>
