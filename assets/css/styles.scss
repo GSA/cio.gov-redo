@@ -308,3 +308,77 @@ ol.alpha {
 .usa-link--external-white {
   color: white !important;
 }
+
+.event-banner-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+//table in modernize IT symposium event 
+.modernize-it-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+.modernize-it-table tbody td {
+  padding: 10px 15px; 
+  border-bottom: 1px solid #4893D0; 
+}
+
+.modernize-it-table th:first-child, 
+.modernize-it-table td:first-child {
+  width: 20%;
+}
+
+.modernize-it-table th:nth-child(2), 
+.modernize-it-table td:nth-child(2) {
+  width: 30%;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  height: 1px; 
+  width: 1px;
+  overflow: hidden;
+}
+
+.modernize-it-table caption {
+  background-color: #4893D0;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 1.2em;
+  padding: 10px;
+  text-align: left;
+  width: 100%;
+}
+
+.it-symposium-subtitle {
+  background-color: #4893D0;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 1.2em;
+  padding: 10px;
+  text-align: left;
+  width: 100%;
+  display: block;
+}
+
+/* Responsive container for the table */
+.table-responsive {
+  overflow-x: auto; 
+}
+
+@media screen and (max-width: 768px) {
+  .modernize-it-table {
+    width: auto; 
+  }
+  
+  /* Adjust the padding and font sizes for smaller screens */
+  .modernize-it-table tbody td,
+  .modernize-it-table caption {
+    padding: 5px; 
+    font-size: 0.9em; 
+  }
+}
