@@ -13,7 +13,7 @@ permalink: /programs-and-events/disruptive-methods-to-modernize-it-symposium/
 **Jess Mellon Auditorium, GSA Headquarters**<br>
 **1800 F Street, NW Washington, DC 20405**
 
-[**REGISTER HERE**](https://gsa.zoomgov.com/webinar/register/WN_yblq2LQgSsOl9patcCAOTw#/registration){:target="_blank"}(In person and Zoom)
+[**REGISTER HERE**](https://gsa.zoomgov.com/webinar/register/WN_yblq2LQgSsOl9patcCAOTw#/registration){:target="_blank"} (In person and Zoom)
 
 On November 7th, the Federal Government will celebrate the people, processes, and technologies underpinning agency mission. This all-day symposium intends to humanize the Federal IT Operating Plan priorities and illustrate the impact that these priorities have on public facing service, in addition to creating a collaborative forum for two-way dialogue across federal, state and local governments, academia, and the private sector focused on current and futuristic topics impacting agencies today. This event is co-hosted by the General Services Administration and the Department of Energy. Join us virtually or in person at the GSA headquarters. No badge required, escorts available.
 
