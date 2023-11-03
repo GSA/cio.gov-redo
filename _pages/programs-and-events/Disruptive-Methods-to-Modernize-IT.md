@@ -47,16 +47,16 @@ On November 7th, the Federal Government will celebrate the people, processes, an
           Jason Gray, USAID<br>
           Christopher Chilbert, CFPB<br>
           Vanetta Pledger, City of Alexandria, VA<br>
-          Erika Barker, PRC</td>
+          Erica Barker, PRC</td>
     </tr>
     <tr>
       <td>10:05 AM - 10:45 AM</td>
       <td>FIRESIDE CHAT: <br>Driving Data-Based Decision Making - Modernizing IT Across Government Functions</td>
       <td><b>Chezian Sivagnanam, FDIC</b><br>
           Heidi Norman, City of Pittsburgh<br>
-          Brian Conrad, FedRAMP<br>
           Dorothy Aronson, NSF<br>
-          Douglas Perry, NOAA</td>
+          Douglas Perry, NOAA<br>
+          Shanna Webbers, FDIC</td>
     </tr>
     <tr>
       <td>10:50 AM - 11:30 AM</td>
@@ -136,9 +136,14 @@ Contact: Meghan Daly, GSA (<meghan.daly@gsa.gov>)
 **Customer Experience CoP**<br>
 The Customer Experience Community of Practice (CX CoP) unites federal employees to improve the experience that the American public has with government services, organizations, and agencies.<br>
 [Join here](https://coe.gsa.gov/communities/cx.html){:target="_blank" aria-label="Join Customer Experience CoP"}<br>
-Contact: Rachel Edelman, GSA (<rachel.edelman@gsa.gov>)
+Contact: Eboni Freeman, GSA (<eboni.freeman@gsa.gov>)
 
 **Cloud and Infrastructure CoP**<br>
 The Cloud & Infrastructure Community of Practice (C&I CoP) is chartered under the Federal CIO Council and supported by GSA. The C&I CoP is designed for IT practitioners who want to learn about application rationalization, data center optimization, and federal cloud computing.<br>
 [Join here]({{site.baseurl}}/about/members-and-leadership/cloud-infrastructure-cop/){:aria-label="Join Cloud and Infrastructure CoP"}<br>
 Contact: Kiran Balsa, GSA (<kiran.balsa@gsa.gov>)
+
+**Artificial Intelligence CoP**<br>
+The Artificial Intelligence Community of Practice (AI CoP) unites federal employees who are active or interested in AI policy, technology, standards, and programs to accelerate the thoughtful adoption of AI across the federal government.<br>
+[Join here](https://coe.gsa.gov/communities/ai.html){:target="_blank" aria-label="Join Artificial Intelligence CoP"}<br>
+Contact: Nathan Manzotti, GSA (<nathan.manzotti@gsa.gov>)
