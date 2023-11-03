@@ -21,7 +21,7 @@ On November 7th, the Federal Government will celebrate the people, processes, an
 
 <div class="table-responsive">
 <table class="modernize-it-table">
-  <caption>Agenda</caption>
+  <caption><h2>AGENDA</h2></caption>
   
   <thead class="visually-hidden">
     <tr>
@@ -40,21 +40,30 @@ On November 7th, the Federal Government will celebrate the people, processes, an
     <tr>
       <td>9:00 AM - 9:15 AM</td>
       <td>WELCOME & OPENING REMARKS</td>
-      <td>Ann Dunkin, DoE</td>
+      <td><b>Ann Dunkin, DoE</b></td>
     </tr>
     <tr>
       <td>9:20 AM - 10:00 AM</td>
       <td>FIRESIDE CHAT:<br>Opening Keynote</td>
-      <td>Robin Thottungal, OPM<br>
+      <td><b>Robin Thottungal, OPM</b><br>
           Jason Gray, USAID<br>
           Christopher Chilbert, CFPB<br>
           Vanetta Pledger, City of Alexandria, VA<br>
           Erika Barker, PRC</td>
     </tr>
     <tr>
+      <td>10:05 AM - 10:45 AM</td>
+      <td>FIRESIDE CHAT: <br>Driving Data-Based Decision Making - Modernizing IT Across Government Functions</td>
+      <td><b>Chezian Sivagnanam, FDICM</b><br>
+          Heidi Norman, City of Pittsburgh<br>
+          Brian Conrad, FedRAMP<br>
+          Dorothy Aronson, NSF<br>
+          Douglas Perry, NOAA</td>
+    </tr>
+    <tr>
       <td>10:50 AM - 11:30 AM</td>
       <td>FIRESIDE CHAT:<br>Delivering on Mission: It’s a Journey… And it Takes a Village</td>
-      <td>Pete Tseronis, Dots and Bridges<br>
+      <td><b>Pete Tseronis, Dots and Bridges</b><br>
           Andy Bochman, INL<br>
           Mittal Desai, FERC CIO<br>
           Jamie Wolff, NNSA<br>
@@ -68,7 +77,7 @@ On November 7th, the Federal Government will celebrate the people, processes, an
     <tr>
       <td>12:30 PM - 1:10 PM</td>
       <td>SPOTLIGHT:<br>Using Innovation to Solve Mission Challenges</td>
-      <td>Frank Indiviglio, NOAA<br>
+      <td><b>Frank Indiviglio, NOAA</b><br>
           Zach Goldstein, NOAA<br>
           Sean McIntyre, Treasury<br>
           Mike Karas, TSA</td>
@@ -76,7 +85,7 @@ On November 7th, the Federal Government will celebrate the people, processes, an
     <tr>
       <td>1:15 PM - 1:55 PM</td>
       <td>TMF: Transforming Agency Operations, Enhancing Government Effectiveness - Use Cases from the Front Line</td>
-      <td>Evelyn Prestosh, DoE<br>
+      <td><b>Evelyn Prestosh, DoE</b><br>
           Jessie Posilkin, TMF PMO<br>
           Sylvia Burns, FDIC<br>
           Kristine Mena, DoL</td>
@@ -84,7 +93,7 @@ On November 7th, the Federal Government will celebrate the people, processes, an
     <tr>
       <td>2:00 PM - 2:40 PM</td>
       <td>Securing Tomorrow:<br>Advancements in IT Security</td>
-      <td>Kiran Balsa, GSA<br>
+      <td><b>Kiran Balsa, GSA</b><br>
           Steven Hernandez, DoEd CISO<br>
           Derrick Nelson, State Department<br>
           Sean Connelly, CISA TIC<br>
@@ -93,7 +102,7 @@ On November 7th, the Federal Government will celebrate the people, processes, an
     <tr>
       <td>2:45 PM - 3:30 PM</td>
       <td>Collaboration - <br>Government as an Enabler</td>
-      <td>David Shive, GSA<br>
+      <td><b>David Shive, GSA</b><br>
           Jeffrey Koses, GSA<br>
           Bo Berlas, GSA<br>
           Sagar Samant, GSA</td>
@@ -101,18 +110,18 @@ On November 7th, the Federal Government will celebrate the people, processes, an
     <tr>
       <td>3:30 PM - 3:40 PM</td>
       <td>LIGHTNING TALK:<br>AI Sandboxes</td>
-      <td>Bridget Carper, DoE</td>
+      <td><b>Bridget Carper, DoE</b></td>
     </tr>
     <tr>
       <td>3:45 PM - 3:55 PM</td>
       <td>CLOSING REMARKS</td>
-      <td>Ann Dunkin, DoE<br>
-          David Shive, GSA</td>
+      <td><b>Ann Dunkin, DoE</b><br>
+          <b>David Shive, GSA</b></td>
     </tr>
   </tbody>
 </table>
 </div>
-<span class="it-symposium-subtitle">Communities of Practice</span>
+<h2 class="it-symposium-subtitle">Communities of Practice</h2>
 
 We invite you to join the following Communities of Practice to stay up-to-date on the critical topics discussed during this Symposium, and to be part of the conversation!
 
