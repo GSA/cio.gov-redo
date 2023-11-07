@@ -194,11 +194,11 @@ pagination:
 
   # Optional, the default file extension for generated pages (e.g html, json, xml).
   # Internally this is set to html by default
-  extension: html
+  extension: 'htm'
 
   # Optional, the default name of the index file for generated pages (e.g. 'index.html')
   # Without file extension
-  indexpage: 'index.html'
+  indexpage: 'index'
 
 
 
@@ -239,9 +239,24 @@ exclude:
   - vendor/cache
   - vendor/gems
   - vendor/ruby
-  - node_modules
   - package.json
   - package-lock.json
   - README.md
   - src
   - _unpublished
+
+autoprefixer:
+  browsers:
+    - "> 2%"
+    - "last 2 versions"
+    - "IE 11"
+    - "not dead"
+
+sass:
+  sass_dir: _sass
+  load_paths:
+    - node_modules/uswds/dist/
+  sourcemap: development
+  quiet_deps: true
+  style: compressed
+  verbose: true
