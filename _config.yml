@@ -75,7 +75,7 @@ primary_navigation:
       - name: All Events
         url: /programs-and-events/
   - name: News
-    url: /news/
+    url: /news/index.htm
 
 secondary_navigation:
   - name: Contact Us
