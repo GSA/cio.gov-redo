@@ -2,8 +2,8 @@
 layout: post
 title: Help Us Deliver A Digital-First Government
 excerpt: In September 2023, The Office of Management and Budget published the Delivering a Digital-First Public Experience guidance. The guidance provides agencies with tangible actions and timelines to deliver a digital experience that meets the public’s expectation now and in the future.
-date: 14 November 2023
-display-date: 14 November 2023
+date: 16 November 2023
+display-date: 16 November 2023
 author: Clare Martorana, Federal CIO, co-chair of the CIO Council
 tags: customer-experience guidance digital-experience
 permalink: /help-us-deliver-a-digital-first-government/
@@ -34,4 +34,4 @@ Together, these pillars represent the path towards a truly simple, seamless, and
 
 **Federal Employees:** Read the [guidance](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/) and be empowered to drive change in your agencies to deliver a better digital experience for your friends, neighbors, and communities.  
 
-**Industry Partners:** Read the [guidance](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/) and pitch solutions that will help your agency customers be compliant.  Do not pitch what we don't need.
+**Industry Partners:** Read the [guidance](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/) and pitch solutions that will help your agency customers be compliant. Do not pitch what we don't need.
