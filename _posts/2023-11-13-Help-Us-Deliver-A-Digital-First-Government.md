@@ -30,7 +30,7 @@ Together, these pillars represent the path towards a truly simple, seamless, and
 
 This means not building duplicative, stand-alone websites, micro sites, and digital services that are not integrated into an agency's primary domain, digital product, or customer journey.  Agencies should continue to build custom web applications that are designed with the requirements in the DX memo, like using the [U.S. Web Design System](https://designsystem.digital.gov/){:target="_blank"}.
 
-We need solutions that will meet them and deliver these outcomes. It will take us all working together -- across government and industry -- to deliver the digital experience the American public expect and deserve.   
+We need solutions that will meet agencies where they are and deliver these outcomes. It will take us all working together -- across government and industry -- to deliver the digital experience the American public expect and deserve.
 
 **Calls to Action**
 
