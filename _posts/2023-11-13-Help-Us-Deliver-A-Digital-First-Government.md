@@ -16,7 +16,7 @@ permalink: /help-us-deliver-a-digital-first-government/
 
 **Overview**
 
-The [*Delivering a Digital-First Public Experience*](https://www.whitehouse.gov/omb/briefing-room/2023/09/22/fact-sheet-building-digital-experiences-for-the-american-people/#:~:text=The%20Delivering%20a%20Digital%2DFirst,experiences%20that%20meet%20today%27s%20expectations){:target="_blank"}. guidance establishes the foundation for an improved digital experience when the public interacts with the government's products and services. The guidance identifies seven digital experience pillars and the specific actions and standards that agencies must take to accelerate the design, development and delivery of modern websites and digital services. The key pillars are: 
+The [*Delivering a Digital-First Public Experience*](https://www.whitehouse.gov/omb/briefing-room/2023/09/22/fact-sheet-building-digital-experiences-for-the-american-people/#:~:text=The%20Delivering%20a%20Digital%2DFirst,experiences%20that%20meet%20today%27s%20expectations.){:target="_blank"} guidance establishes the foundation for an improved digital experience when the public interacts with the government's products and services. The guidance identifies seven digital experience pillars and the specific actions and standards that agencies must take to accelerate the design, development and delivery of modern websites and digital services. The key pillars are: 
 
 1. **Analytics:** We need improved analytics to better optimize digital experiences
 2. **Accessibility:** We need to ensure information and services are accessible to all individuals
