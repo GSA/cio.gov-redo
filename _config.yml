@@ -120,7 +120,6 @@ collections:
   women-in-it-videos:
     output: true
 
-
 markdown: kramdown
 plugins:
   - jekyll-feed
