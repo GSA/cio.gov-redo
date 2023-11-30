@@ -120,7 +120,6 @@ collections:
   women-in-it-videos:
     output: true
 
-
 markdown: kramdown
 plugins:
   - jekyll-feed
@@ -141,7 +140,6 @@ page_gen:
     title: "title"
     index_files: true
 
-
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set
@@ -160,7 +158,7 @@ pagination:
   per_page: 4
 
   # The permalink structure for the paginated pages (this can be any level deep)
-  permalink: '/page/:num/' # Pages are index.html inside this folder (default)
+  permalink: '/news/:num/' # Pages are index.html inside this folder (default)
   #permalink: '/page/:num.html' # Pages are simple html files
   #permalink: '/page/:num' # Pages are html files, linked jekyll extensionless permalink style.
 
@@ -194,11 +192,13 @@ pagination:
 
   # Optional, the default file extension for generated pages (e.g html, json, xml).
   # Internally this is set to html by default
-  extension: html
+#  extension: 'html'
 
   # Optional, the default name of the index file for generated pages (e.g. 'index.html')
   # Without file extension
-  indexpage: 'index.html'
+#  indexpage: 'index'
+
+paginate_path: "/news/page:num/"
 
 
 
@@ -239,9 +239,24 @@ exclude:
   - vendor/cache
   - vendor/gems
   - vendor/ruby
-  - node_modules
   - package.json
   - package-lock.json
   - README.md
   - src
   - _unpublished
+
+autoprefixer:
+  browsers:
+    - "> 2%"
+    - "last 2 versions"
+    - "IE 11"
+    - "not dead"
+
+sass:
+  sass_dir: _sass
+  load_paths:
+    - node_modules/uswds/dist/
+  sourcemap: development
+  quiet_deps: true
+  style: compressed
+  verbose: true
