@@ -12,7 +12,7 @@ This is used in blog posts. The index page can be found at blog/index.html
         <span class="text-bold">Tags:</span>
         <ul class="tags">
           {% for tag in tags %}
-          <li class="tag"><a style="color: #333; text-decoration: none;" href="{{ site.baseurl }}/tags/{{ tag | downcase }}">{{ tag }}</a></li>
+          <li class="tag"><a style="color: #333; text-decoration: none;" aria-label="News articles related to {{ tag }}" href="{{ site.baseurl }}/tags/{{ tag | downcase }}">{{ tag }}</a></li>
           {% endfor %}
         </ul>
 

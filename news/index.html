@@ -1,0 +1,121 @@
+---
+layout: wide
+description: Articles from the CIO Council and our partners.
+title: News
+pagination:
+  enabled: true
+
+redirect_from:
+  - /blog/
+
+---
+
+<div id="blog" class="bg-primary-darker usa-content font-serif-lg padding-y-6">
+  <div class="grid-container">
+    <h1 class="text-accent-cool font-sans-lg margin-bottom-0 text-medium"> News </h1>
+    <h2 class="text-white font-serif-xl margin-top-0 margin-bottom-0 text-bold"> Articles from the CIO Council & Our Partners </h2>
+  </div>
+</div>
+
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="desktop:grid-col-8 usa-prose padding-right-4">
+
+      <!-- This loops through the paginated posts -->
+      {% for post in paginator.posts %}
+      <div class="padding-bottom-4 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
+        <h3 class="title"><a class="usa-link text-no-underline" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h3>
+
+        <div class="text-base margin-bottom-2">
+          <div class="margin-top-neg-105"><font color="black">
+            By <span class="text-bold">{{ post.author }}</span> · {{ post.date | date: '%B %d, %Y' }}</font>
+          </div>
+        </div>
+
+        <div>
+          {% if post.image %}
+          <img class="tablet:float-left width-15 padding-right-2 padding-top-1 padding-bottom-2" style="width:120px;height:120px;object-fit:cover;" src="{{ site.baseurl }}/assets/images/blog/{{ post.image }}" alt="{{ post.img-alt }}" />
+          {% endif %}
+          <p class="font-sans-sm text-ink">{{ post.excerpt }}</p>
+          {% comment %}
+            We default to using post.content, but you can also use post.excerpt.
+            If you use excerpt then you have to make sure the content is on each
+            post header
+          {% endcomment %}
+          <div class="tag-spacing">
+         {% if post.tags.size > 0 %}
+           <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
+           {% assign tags = post.tags %}
+           <ul class="tags">
+             {% for tag in tags %}
+             <li class="tag"><a style="color: #333; text-decoration: none;" aria-label="News articles related to {{ tag }}" href="{{ site.baseurl }}/tags/{{ tag | downcase }}">{{ tag }}</a></li>
+           </ul>
+           {% endfor %}
+           {% endif %}
+         </div>
+
+       </div>
+     </div>
+     {% endfor %}
+
+      <!-- Pagination links -->
+      <div class="grid-row padding-top-2">
+        <div class="tablet:grid-col-4 text-center tablet:order-2 font-body-xs text-base">
+          <font color="black">Page {{ paginator.page }} of {{ paginator.total_pages }}</font>
+        </div>
+        <div class="tablet:grid-col-4 text-right tablet:order-3">
+          {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="paginate-link usa-link text-no-underline text-bold tablet:margin-top-0">Next {{ paginator.per_page }} Posts &rsaquo;</a>
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="paginate-button usa-button margin-top-3">Next {{ paginator.per_page }} Posts &rsaquo;</a>
+          {% endif %}
+        </div>
+        <div class="tablet:grid-col-4 text-left tablet:order-1">
+          {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="paginate-link usa-link text-no-underline text-bold tablet:margin-top-0">&lsaquo; Previous {{ paginator.per_page }} Posts</a>
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="paginate-button usa-button margin-top-2">&lsaquo; Previous {{ paginator.per_page }} Posts</a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+
+    <aside class="desktop:grid-col-fill margin-top-4 padding-right-4">
+
+      <div class="border-top-1 border-accent-cool-darker padding-top-2 margin-bottom-4 usa-prose">
+        <h4>Popular Posts</h4>
+        <ul class=" usa-list usa-list--unstyled padding-top-2">
+          <li class="padding-bottom-1"><a class="usa-link" href="{{site.baseurl}}/2019/03/13/How-to-win-with-Technology-Business-Management/">How to Win with TBM</a></li>
+          <li class="padding-bottom-1"><a class="usa-link" href="{{site.baseurl}}/2018/05/30/Risk-Report/">Cybersecurity Risk Report & Action Plan</a></li>
+          <li class="padding-bottom-1"><a class="usa-link" href="{{site.baseurl}}/2018/06/25/ciso-handbook/">Release of CISO Handbook</a></li>
+          <li class="padding-bottom-1"><a class="usa-link" href="{{site.baseurl}}/2018/05/30/it-modernization/">EO 13800 & Updates on Federal IT Modernization</a></li>
+          <li class="padding-bottom-1"><a class="usa-link" href="{{site.baseurl}}/tags/ssa/">SSA Modernizing Federal IT Series</a></li>
+        </ul>
+      </div>
+
+      <div class="border-top-1 border-accent-cool-darker padding-top-2 margin-bottom-4 usa-prose">
+        <h4>Social links</h4>
+          <ul class="usa-list usa-list--unstyled padding-top-2">
+
+          <li class="padding-bottom-1">
+          <img src="{{ site.baseurl }}/assets/images/icons/twitter.jpg" style="width:18px;" alt="twitter icon">
+            <a class="usa-link" href="https://twitter.com/ciodotgov?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">@CIOdotgov on Twitter</a>
+          </li>
+
+          <li class="padding-bottom-1">
+            <img src="{{ site.baseurl }}/assets/images/icons/email.jpg" style="width:18px;" alt="email icon">
+            <a class="usa-link" href="mailto:ciocouncil.support@gsa.gov">Contact Us</a>
+          </li>
+
+          <li class="padding-bottom-1">
+            <img src="{{ site.baseurl }}/assets/images/icons/rss.jpg" style="width:18px;" alt="rss icon">
+            <a class="usa-link" href="{{ site.baseurl }}/feed.xml">RSS Feed</a>
+          </li>
+
+        </ul>
+      </div>
+    </aside>
+
+  </div>
+  <div class="grid-row padding-top-4 tablet:padding-x-4 margin-bottom-4">
+    <a class="usa-link" href="#blog">Return to top</a>
+  </div>
+</div>
