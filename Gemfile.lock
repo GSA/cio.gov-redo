@@ -127,7 +127,7 @@ DEPENDENCIES
   jekyll (~> 4.2.2)
   jekyll-datapage-generator
   jekyll-feed (~> 0.6)
-  jekyll-paginate-v2 (= 3.0.0)
+  jekyll-paginate-v2
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap

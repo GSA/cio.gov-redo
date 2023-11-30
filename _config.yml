@@ -75,7 +75,7 @@ primary_navigation:
       - name: All Events
         url: /programs-and-events/
   - name: News
-    url: /news/index.htm
+    url: /news/
 
 secondary_navigation:
   - name: Contact Us
@@ -158,7 +158,7 @@ pagination:
   per_page: 4
 
   # The permalink structure for the paginated pages (this can be any level deep)
-  permalink: '/page/:num/' # Pages are index.html inside this folder (default)
+  permalink: '/news/:num/' # Pages are index.html inside this folder (default)
   #permalink: '/page/:num.html' # Pages are simple html files
   #permalink: '/page/:num' # Pages are html files, linked jekyll extensionless permalink style.
 
@@ -192,11 +192,13 @@ pagination:
 
   # Optional, the default file extension for generated pages (e.g html, json, xml).
   # Internally this is set to html by default
-  extension: 'htm'
+#  extension: 'html'
 
   # Optional, the default name of the index file for generated pages (e.g. 'index.html')
   # Without file extension
-  indexpage: 'index'
+#  indexpage: 'index'
+
+paginate_path: "/news/page:num/"
 
 
 
