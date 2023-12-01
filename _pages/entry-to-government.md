@@ -24,7 +24,7 @@ There's a place for everyone. We look forward to you joining us -- you'll never 
   <thead>
     <tr style="text-align: right;">
       <th scope="col">Career Level</th>
-      <th scope="col">Government Website</th>
+      <th scope="col">Website</th>
       <th scope="col">Description</th>
     </tr>
   </thead>
@@ -55,6 +55,16 @@ There's a place for everyone. We look forward to you joining us -- you'll never 
       <td>Government “job board” filtered for students and recent graduates.</td>
     </tr>
     <tr>
+      <td>Entry Level</td>
+      <td><a href="https://www.codingitforward.com/fellowship" aria-label="Coding it Forward Fellowship, opens in a new window" target="_blank">Coding it Forward Fellowship</a></td>
+      <td>A 10-week summer opportunity for early-career technologists. Fellows work across cybersecurity, data, design, product, and software to build a more equitable and effective government for all.</td>
+    </tr>
+    <tr>
+      <td>Entry Level</td>
+      <td><a href="https://citp.princeton.edu/programs/public-interest-technology-summer-fellowship/" aria-label="Siegel Public Interest Technology Summer Fellowship, opens in a new window" target="_blank">Siegel Public Interest Technology Summer Fellowship</a></td>
+      <td>Program is aimed at rising juniors and seniors interested in getting first-hand experience working on technology policy at the federal, state, and local level.  Between 16 and 20 students are selected each year to participate in a paid summer fellowship with the opportunity to be placed with a government agency.</td>
+    </tr>
+    <tr>
       <td>Senior Level</td>
       <td><a href="https://presidentialinnovationfellows.gov/" aria-label="Presidential Innovation Fellows, opens in a new window" target="_blank">Presidential Innovation Fellows</a></td>
       <td>12-month program where Fellows will  work on innovation programs across Federal agencies.</td>
@@ -71,6 +81,11 @@ There's a place for everyone. We look forward to you joining us -- you'll never 
     </tr>
     <tr>
       <td>Senior Level</td>
+      <td><a href="https://www.xd.gov/" aria-label="xD| U.S. Census Bureau, opens in a new window" target="_blank">xD| U.S. Census Bureau</a></td>
+      <td>Emerging Technology Fellowship offers senior-level, mission-oriented technical leaders with up to a four-term to advance the delivery of data-driven services through new and transformative technologies.</td>
+    </tr>
+    <tr>
+      <td>Senior Level</td>
       <td><a href="https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/senior-executive-service/" aria-label="USAJOBS Help Center Senior Executive Service, opens in a new window" target="_blank">USAJOBS Help Center | Senior Executive Service</a></td>
       <td>Government “job board” filtered for individuals applying to executive positions.</td>
     </tr>
@@ -78,6 +93,11 @@ There's a place for everyone. We look forward to you joining us -- you'll never 
       <td>All Levels</td>
       <td><a href="https://www.usajobs.gov/" aria-label="USAJOBS - The Federal Government's official employment site, opens in a new window" target="_blank">USAJOBS - The Federal Government's official employment site</a></td>
       <td>Our government “job board” that includes leadership development programs, internships, and more traditional job postings at all levels.</td>
+    </tr>
+    <tr>
+      <td>All Levels</td>
+      <td><a href="https://ai.usajobs.gov/Search/Results?cmco=AI&s=relevance&sd=asc&p=1" aria-label="AI Jobs in the Federal Government, opens in a new window" target="_blank">AI Jobs in the Federal Government</a></td>
+      <td>Government “job board” filtered for Artificial Intelligence opportunities.</td>
     </tr>
     <tr>
       <td>All Levels</td>
@@ -94,8 +114,29 @@ There's a place for everyone. We look forward to you joining us -- you'll never 
       <td><a href="https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/individuals-with-disabilities/" aria-label="USAJOBS Help Center - Individuals with disabilities, opens in a new window" target="_blank">USAJOBS Help Center | Individuals with disabilities</a></td>
       <td>Government “job board” filtered for individuals with disabilities.</td>
     </tr>
+    <tr>
+      <td>All Levels</td>
+      <td><a href="https://fas.org/talent-hub/impact-fellowship/" aria-label="Federation of American Scientists, opens in a new window" target="_blank">Federation of American Scientists</a></td>
+      <td>The Impact Fellowship is a selective fellowship program that supports the development and placement of emerging scientific and technical talent within high-impact roles across the federal government. Impact Fellows are serving across a variety of federal agencies in roles that augment existing government teams as they confront some of the greatest scientific and social challenges of our time.</td>
+    </tr>
+    <tr>
+      <td>All Levels</td>
+      <td><a href="https://www.techcongress.io/senior-congressional-innovation-fellows" aria-label="TechCongress Fellowships, opens in a new window" target="_blank">TechCongress Fellowships</a></td>
+      <td>Multiple fellowship opportunities for technologists to serve in policy advisor roles in the United States Congress.</td>
+    </tr>
   </tbody>
 </table>
+
+<p>Additional resources to support your journey to service:</p>
+<ul>
+  <li>
+    <strong><a href="https://techtalentproject.org/" target="_blank">Tech Talent Project</a>:</strong> Organization helps bridge the gaps between technologists interested in public service and government agencies hoping to hire them.
+  </li>
+  <li>
+    <strong><a href="https://codeforamerica.org/" target="_blank">Code for America</a>:</strong> Organization that uses the principles and practices of the digital age to improve how government serves the public.
+  </li>
+</ul>
+<p>* This list will be updated on an ongoing basis. To have additional resources added, please contact <a href="mailto:ciocouncil.support@gsa.gov">ciocouncil.support@gsa.gov</a>.</p>
 </div>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
