@@ -130,10 +130,10 @@ There's a place for everyone. We look forward to you joining us -- you'll never 
 <p>Additional resources to support your journey to service:</p>
 <ul>
   <li>
-    <strong><a href="https://techtalentproject.org/" target="_blank">Tech Talent Project</a>:</strong> Organization helps bridge the gaps between technologists interested in public service and government agencies hoping to hire them.
+    <a href="https://techtalentproject.org/" target="_blank">Tech Talent Project</a>: Organization helps bridge the gaps between technologists interested in public service and government agencies hoping to hire them.
   </li>
   <li>
-    <strong><a href="https://codeforamerica.org/" target="_blank">Code for America</a>:</strong> Organization that uses the principles and practices of the digital age to improve how government serves the public.
+    <a href="https://codeforamerica.org/" target="_blank">Code for America</a>: Organization that uses the principles and practices of the digital age to improve how government serves the public.
   </li>
 </ul>
 <p>* This list will be updated on an ongoing basis. To have additional resources added, please contact <a href="mailto:ciocouncil.support@gsa.gov">ciocouncil.support@gsa.gov</a>.</p>
