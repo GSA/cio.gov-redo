@@ -18,6 +18,10 @@ In May 2017, the President signed [Executive Order 13800, Strengthening the Cybe
 To address the threats posed on our nation’s cybersecurity defenses, the Federal Government must continue to advance technical and policy protection capabilities for national systems. We must also expand partnerships with the private sector and work with Congress to clarify roles and responsibilities.  
 
 The CIO Council, and the [Chief Information Security Officers Council]({{ site.baseurl }}/about/members-and-leadership/ciso-council/), leverage FISMA quarterly reporting and agency cybersecurity budget enhancements to meet the key Federal cybersecurity priorities across the enterprise. These include: Increasing Cyber Threat Awareness, Standardizing Cyber and IT Capabilities, and Driving Agency Accountability. OMB and the Department of Homeland Security continue to improve FISMA oversight and execution to enable better cybersecurity risk management within individual agencies and across the Federal government
+
+## Incident Response Resources Repository ##
+FISMA requires that the Office of Management and Budget (OMB) oversee Federal agency information security policies and practices, which includes coordinating with Federal agencies on cybersecurity incidents or operational events that might impact our nation's security posture. OMB launched an [Incident Response Resources Repository](https://community.max.gov/pages/viewpage.action?spaceKey=Egov&title=Incident+Response+Resources){:target="_blank"} to support agencies in defining cybersecurity incident classification, outlining reporting guidance and procedures, and providing general resources for cybersecurity incidents.
+
 &nbsp;
 
 {% assign related-tiles = page.related-filters %}
