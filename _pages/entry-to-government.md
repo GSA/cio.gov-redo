@@ -136,7 +136,7 @@ There's a place for everyone. We look forward to you joining us -- you'll never 
     <a href="https://codeforamerica.org/" target="_blank">Code for America</a>: Organization that uses the principles and practices of the digital age to improve how government serves the public.
   </li>
 </ul>
-<p>* This list will be updated on an ongoing basis. To have additional resources added, please contact <a href="mailto:ciocouncil.support@gsa.gov">ciocouncil.support@gsa.gov</a>.</p>
+<p>*** This list will be updated on an ongoing basis. If you have suggestions for additional pathways and/or resources that should be considered for inclusion, please contact <a href="mailto:ciocouncil.support@gsa.gov">ciocouncil.support@gsa.gov</a>.***</p>
 </div>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
