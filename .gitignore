@@ -18,3 +18,4 @@ node_modules
 .DS_Store
 assets/uswds
 !assets/uswds/.gitkeep
+.jekyll-cache
