@@ -10,7 +10,8 @@ permalink: /programs-and-events/low-code-no-code/
 **Wednesday, December 13**<br> 
 **9:00 AM - 12:00 PM ET**
 
-[**REGISTER HERE!**](https://gsa.zoomgov.com/webinar/register/WN__6PXar54TzW0DCWyrJ5wtQ){:target="_blank"}
+[**REGISTER HERE!**](https://gsa.zoomgov.com/webinar/register/WN__6PXar54TzW0DCWyrJ5wtQ){:target="_blank"}<br>
+***(Please note you must register with a government email address.)***
 
 **Yates Auditorium, Department of Interior Headquarters**<br>
 **1849 C St NW, Washington, DC 20240**<br>
