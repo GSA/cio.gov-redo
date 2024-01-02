@@ -526,13 +526,13 @@
           "agencyName": "Social Security Administration",
           "agencyCode": "016",
           "cio": {
-            "firstName": "Sean",
-            "lastName": "Brune",
-            "email": "Sean.Brune@ssa.gov",
-            "phone": "303-844-2388",
+            "firstName": "Patrick",
+            "lastName": "Newbold",
+            "email": "",
+            "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_brune.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/brun-sean/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio-newbold.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/patrick-newbold/",
             "deptCIO": "1",
             "address": {
               "address1": "Social Security Administration 6401 Security Boulevard 400 Altmeyer Building",
@@ -541,13 +541,13 @@
               "state": "MD",
               "zip": "21235"
             },
-            "bio_link":"brune-sean",
+            "bio_link":"patrick-newbold",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
-            "position": "Chief Information Officer",
-            "bio-image": "/bio_brune.jpg",
-            "description": "On October 26, 2020, Sean Brune was appointed Chief Information Officer and Deputy Commissioner for Systems. In this role, he continues his focus on IT Modernization and Digital Transformation.<br><br>In July 2019, Sean shifted his focus as Assistant Deputy Commissioner and Deputy Chief Information Officer for IT Modernization to concentrate exclusively on digital services and IT modernization. He was appointed Deputy Chief Information Officer in August 2018 and has served as the Chief Program Officer for IT Modernization since July 2017.<br><br>Sean began his career with the Social Security Administration in 1999 as a Presidential Management Intern. After advancing through progressively responsible positions At Social Security headquarters in Baltimore, in March, 2011 he was named the Regional Commissioner for the Denver Region of the Social Security Administration, the Senior Agency official responsible for administering the nation’s social insurance programs for the 9.3 million residents of Colorado, Montana, North Dakota, South Dakota, Wyoming and Utah. His career at Social Security has included senior leadership roles in field operations, program policy, and enterprise risk management.<br><br>Prior to federal service, Sean held positions in secondary education and non-profit management. He is an alumnus of Bucknell University (BA), the University of Baltimore (MPA) and the Federal Executive Institute in Charlottesville, VA and has participated in the Executive Education curriculum at Harvard’s Kennedy School of Government and the Brookings Institute.<br><br>Sean and his wife, Karyn, have three children and reside in Towson, MD. Sean and his family enjoy spending time outdoors hiking, biking, and skiing."
+            "position": "Acting Chief Information Officer",
+            "bio-image": "/bio-newbold.jpg",
+            "description": "Patrick Newbold, now Acting Chief Information Officer, previously served as the Assistant Deputy Commissioner and Deputy CIO and leads the Social Security Administration (SSA) IT Modernization program. His key responsibilities include advising the Commissioner and executives on the impact of emerging technology, advancing IT innovation, and implementing SSA’s Digital Modernization Strategy. Prior to joining SSA, he served as the agency’s Deputy Chief Information Officer (DCIO) and Director of Enterprise Information Technology for the U.S. Army Corps of Engineers. In this role, he was the principal advisor to the CIO on information management/technology, policy, and administrative issues for the directorate and responsible for IT service delivery for over 37K users. In 2016, Mr. Newbold was selected to serve as an Army Congressional Fellow to support the Assistant Secretary of the Army for Financial Management and Comptroller as a U.S. Army Congressional Budget Liaison. During this tour, he also served as a senior staffer and policy advisor to a Member of Congress on all national security, military construction, Veterans Affairs, small business, Housing and Urban Development, energy and water, and environmental legislative matters. In 2013, he served as the Chief of Staff, Office of the Chief Information Officer, US Army Corps of Engineers. In 2006, Patrick has served as a supervisory systems analyst where he led the deployment of the Army’s first Enterprise Resource Planning (ERP) System, and from 2009- 2012; he served as the Executive Officer to the Deputy to the Commanding General, U.S. Army Aviation and Missile Command. In this position, he assisted the Deputy to the Commanding General with managing a multifaceted and diverse organization with an annual budget of over $4 billion and a global workforce of over 10,000 military and civilian employees. Patrick lives in the D.C. suburbs with his wife, Kate, and enjoys travel, exercise, and movies."
           }
         }
       }
