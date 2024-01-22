@@ -625,13 +625,13 @@
           "agencyName": "National Science Foundation",
           "agencyCode": "422",
           "cio": {
-            "firstName": "Dorothy",
-            "lastName": "Aronson",
-            "email": "daronson@nsf.gov",
-            "phone": "703-292-4299",
+            "firstName": "Terry",
+            "lastName": "Carpenter",
+            "email": "",
+            "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_aronson.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/aronson-dorothy/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_carpenter.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/terry-carpenter/",
             "deptCIO": "1",
             "address": {
               "address1": "National Science Foundation 4201 Wilson Boulevard Room 305 Arlington, VA 22230 Office\n Phone: 703-292-8100 Office Fax: 703-292-9084",
@@ -640,13 +640,13 @@
               "state": "VA",
               "zip": "22230"
             },
-            "bio_link":"aronson-dorothy",
+            "bio_link":"terry-carpenter",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
             "position": "Chief Information Officer",
-            "bio-image": "/bio_aronson.png",
-            "description": "Ms. Aronson was recently named the Chief Information Officer for the National Science Foundation after serving for almost six months as both the Acting CIO and as the Director for the Division of Information Systems within the Office of Information and Resource Management.<br><br>Ms. Aronson is uniquely positioned to effect positive change and build upon years of foundational IT Governance groundwork already in place. In her role as the Director for the Division of Information Systems since 2011, Ms. Aronson also acted as the NSF Deputy CIO, facilitating the linkage of mission and strategy to IT tools which enable the Foundation to manage the full lifecycle of proposals and awards. Ms. Aronson is a highly skilled and gifted creative thinker, strategist, and artist; and, was recognized in 2013 as one of the FCW Fed 100 for her mastery of innovation and for her ability to effectively engage her staff around a common vision for cutting-edge IT in support of NSF-funded cutting-edge research. Ms. Aronson’s deep understanding of IT, coupled with her commitment to the NSF mission, its employees and to the American taxpayer, have been instrumental in her ability to manage an organization of over 300 talented IT innovators who feel equally engaged, connected, and empowered to find creative solutions to IT’s most challenging dilemmas.<br><br>Prior to her time at NSF, Ms. Aronson served as the Director for the Office of Management Operations for the Defense Advanced Research Project Agency. She holds a Business degree from Duke University and is committed to lifelong learning."
+            "bio-image": "/bio_carpenter.jpg",
+            "description": "Mr. Carpenter was recently named the Chief Information Officer for the National Science Foundation. He is responsible leading the merger of centralized IT functions into a new consolidated Office of the Chief Information Officer (CIO) at NSF. Previously he was responsible for large IT portfolios of services and systems in several agencies and components of the Department of Defense. He has over 32 years of experience leading IT systems development and large-scale operations for the in the federal government and commercial industry. He conducted academic researched on artificial intelligence for natural language interfaces at the A.I. duPont Institute Applied Science and Engineering Lab (ASEL) and taught college courses as an Adjunct Instructor in computer science for Albright College.  He has a Master and Bachelor of Science in Computer Science from the University of Delaware and U.S. Coast Guard Academy."
           }
         }
       }
@@ -808,13 +808,13 @@
           "agencyName": "Department of Commerce",
           "agencyCode": "006",
           "cio": {
-            "firstName": "Andre",
-            "lastName": "Mendes",
-            "email": "AMendes@doc.gov",
+            "firstName": "Ryan",
+            "lastName": "Higgins",
+            "email": "",
             "phone": "202-482-4797",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_mendes.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/mendes-andre/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_higgins.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/ryan-higgins/",
             "deptCIO": "1",
             "address": {
               "address1": "",
@@ -823,13 +823,13 @@
               "state": "",
               "zip": ""
             },
-            "bio_link":"mendes-andre",
+            "bio_link":"ryan-higgins",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
-            "position": "Chief Information Officer",
-            "bio-image": "/bio_mendes.jpg",
-            "description": "André Mendes was appointed Chief Information Officer for the Department of Commerce in August of 2019. There, he has overall responsibility and oversight of all technology systems at the United States Department of Commerce (DOC) and its associated Bureaus (FY2020 Budget $3.8B). <br><br>Before, Mr. Mendes was responsible for all global technology platforms and systems for the International Trade Administration (ITA), the DOC bureau that manages global trade issues for the United States of America. There Mr. Mendes oversaw a rapid bureau-wide transformation effort making ITA the first Federal Agency/Bureau to be 100% cloud based, radically changing several workflows, enabling a massive scale-up of service provisioning quality, an unprecedented rise in employee morale and job satisfaction while also lowering overall operating costs to less than 11% of ITA’s appropriation.<br><br>Prior to ITA, Mr. Mendes spent eight years at the U.S. Agency for Global Media (USAGM) in various executive roles; including CEO, COO, CIO, CTO and CFO. During his time at USAGM, Mr. Mendes managed overall Agency transformation generating over $360 million in savings from 2010 through 2018 through aggressive global technology and facilities optimization with projected 10-year savings in excess of half a billion dollars ($503M). In that timeframe, global weekly audiences grew 78% (165-278M), all while reducing technology and front office staff by over 22%.<br><br>Mr. Mendes has also held CXO positions at Special Olympics International, PBS, Pluvita, MRL Pharmaceuticals, USAssist and General Health Inc.<br><br>Mr. Mendes received his MBA and BS in Management of Information Systems from University of Maryland Global Campus and an Associate Degree in Biology from Montgomery College. Mr. Mendes also holds certificates in finance and international management from MIT and Antwerpen University.<br><br>Mr. Mendes is a recipient of the 2011 Milton F. Clogg Outstanding Alumni Achievement Award from Montgomery College, a Trustee with Capitol Technology University and has receive multiple industry awards including an MIT award for IT Innovation and a nomination to the CIO Hall of Fame."
+            "position": "Acting Chief Information Officer",
+            "bio-image": "/bio_higgins.jpg",
+            "description": "Mr. Higgins serves as the Department of Commerce (DOC) Acting Chief Information Officer (CIO) and Chief AI Officer (CAIO) as of January 1, 2024.  Previously, Mr. Higgins served as the DOC Chief Information Security Officer (CISO) and Deputy Chief Information Officer (DCIO), where he provided leadership for the DOC cybersecurity program to establish policies and procedures for the Department and its Bureaus in accordance with the Federal Information Security Modernization Act (FISMA) of 2014, implement enterprise cybersecurity functions, and coordinate incident response activities on behalf of the Department.<br><br>Prior to his position at the DOC, Mr. Higgins held a variety of leadership roles within the Department of Justice (DOJ) including Assistant Director for Administration at the United States Trustee Program (USTP), as well as several roles within the Justice Management Division (JMD) Office of the Chief Information Officer (OCIO), including Acting Director for Policy and Planning, Acting Director for Service Engineering, and Assistant Director for Cybersecurity Services.<br><br>Mr. Higgins is a graduate of the University of Maryland University College, the University of the District of Columbia, the Federal Executive Institute (FEI) Leadership for a Democratic Society Program, and the Harvard Kennedy School (HKS) Executive Education Program.  Mr. Higgins is also a Certified Information Systems Security Professional (CISSP)."
           }
         }
       }
