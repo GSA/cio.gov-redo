@@ -10,39 +10,68 @@ The CIO Council hosts monthly meetings with CIOs, Chief Information Security Off
 
 ## CIO Resources
 ### Committee Pages
-There are four committees under the CIO Council that inform the council on various issues. Each committee has its own government-only website for sharing updates, materials, and announcements. These include:
-* [Chief Information Security Officer (CISO) Council](https://community.max.gov/display/Egov/Federal+CISO+Council) **(OMB MAX Login Required)**
-* [Innovation Committee](https://community.max.gov/display/Egov/CIO+Council+Innovation+Committee) **(OMB MAX Login Required)**
-* [Enterprise Operations Committee](https://www.cio.gov/about/members-and-leadership/e-ops/) **(OMB MAX Login Required)**
-* [Workforce Committee](https://community.max.gov/display/Egov/CIO+Council+Workforce+Committee) **(OMB MAX Login Required)**
+-   [Chief Information Security Officer (CISO) Council](https://community.connect.gov/display/Egov/Federal+CISO+Council) **(Connect.gov Login Required)**
+
+> The Federal CISO Council is the principal interagency forum for identifying and recommending strategic high priority IT security initiatives to advise the CIO Council and OMB. The Federal Chief Information Security Officer (CISO) Council was established as primary body for inter-agency CISO collaboration and communication. The Council is led by the Federal CISO (OMB) and the co-chair, an elected member from the Council. The Council's current strategic focuses include:
+
+> -   Identity Management
+> -   Comprehensive Risk Assessment & Framework
+> -   Vulnerability Response
+> -   Shared Services
+> -   Performance Metrics
+
+-   [Innovation Committee](https://community.connect.gov/display/Egov/CIO+Council+Innovation+Committee) **(Connect.gov Login Required)**
+
+> The Innovation Committee is committed to providing an open forum for CIO's and improving their knowledge of the language, leading practices, and emerging technologies surrounding innovation. By championing the CIO in the area of innovation CIO's can foster cultural change and growth within their agencies. The Innovation committee strives to educate CIO's on the topic of innovation through:
+
+> -   Roundtables
+> -   Labs
+> -   Field Trips
+> -   Open Forums
+> -   Workshops
+> -   Academic Lectures
+
+-   [Enterprise Operations Committee ](https://community.connect.gov/display/Egov/CIO+Council+Enterprise+Operations+%28E-Ops%29+Committee)(**Connect.gov Login Required)**
+
+> The Enterprise Operations (E-Ops), Committee focuses on acquisition reform and Federal IT infrastructure through execution of the following policies and initiatives:
+
+> -   Enterprise Architecture (EA) with a focus on Oracle
+> -   Secure Mobility Best Practices
+> -   Shared Services
+> -   Technology Business Management (TBM)
+> -   Zero Trust Architecture Initiative
+
+-   [Workforce Committee](https://community.connect.gov/display/Egov/CIO+Council+Workforce+Committee) **(Connect.gov Login Required)**
+
+> The Workforce Committee's agenda encompasses the full employment life cycle: workforce planning, recruitment, and retention and career development. The committee works in partnership with the HR community to develop, implement and communicate strategies to recruit, retain and manage a fully trained and qualified IT workforce, to meet current and future mission requirements. The Workforce Committee is committed to its strategic goal of providing the Federal Government with a cadre of highly capable IT professionals with mission critical competencies to meet agency goals.
 
 ### Additional Resources
-Other government-only pages for key Council information include:
-* [CIO Council Repository](https://community.max.gov/display/Egov/CIO+Council+Home+Page) **(OMB MAX Login Required)**
-* [CIO Council Executive Committee Repository](https://community.max.gov/display/Egov/CIO+Council+Executive+Committee) **(OMB MAX Login Required)**
+Other government-only pages for key Council information include:
+
+CIO Council Repository **(Connect.gov Login Required)**\
+CIO Council Executive Committee Repository **(Connect.gov Login Required)**
 
 ## Meeting Schedule
-Below is the current schedule for both Full Council and Executive Committee meetings. CIOs can also review [previous meeting agendas and materials](https://community.max.gov/display/Egov/CIO+Council+Full+Council+Meetings) **(OMB MAX Login Required)**.
+Below is the current schedule for both Full Council and Executive Committee meetings. CIOs can also review previous meeting agendas and materials **(Connect.gov Login Required)**
 
 *Note: Committees are scheduled to meet from 2:30-3:20 before each Full Council meeting. All Council meetings are currently held virtually.*<br>
 
 **Full Council:**
-* **June -** Wednesday, June 28, 2023
-* **July -** Wednesday, July 26, 2023
-* **August -** Wednesday, August 23, 2023
-* **September -** Wednesday, September 27, 2023
-* **October -** Wednesday, October 25, 2023
-* **November -** Wednesday, November 15, 2023 
-* **December -** Wednesday, December 6, 2023 
+* **January -** Wednesday, January 24, 2024
+* **February -** Wednesday, February 28, 2024
+* **March -** Wednesday, March 27, 2024
+* **April -** Wednesday, April 24, 2024
+* **May -** Wednesday, May 22, 2024
+* **June -** Wednesday, June 26, 2024
 
 **CISO Council:**
-* **June -** Wednesday, June 21, 2023
-* **July -** Wednesday, July 19, 2023
-* **August -** Wednesday, August 16, 2023
-* **September -** Wednesday, September 20, 2023
-* **October -** Wednesday, October 18, 2023 
-* **November -** Wednesday, November 8, 2023 
-* **December** (Recessed) 
+* **January -** Friday, January 26, 2024
+* **February -** Wednesday, February 21, 2024
+* **March -** Wednesday, March 20, 2024
+* **April -** Wednesday, April 17, 2024
+* **May -** Wednesday, May 15, 2024
+* **June -** Wednesday, June 19, 2024
+
 
 <br>
 {% for events in site.events %}
