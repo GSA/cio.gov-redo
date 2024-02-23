@@ -31,7 +31,7 @@ The CIO Council hosts monthly meetings with CIOs, Chief Information Security Off
 > -   Workshops
 > -   Academic Lectures
 
--   [Enterprise Operations Committee ](https://community.connect.gov/display/Egov/CIO+Council+Enterprise+Operations+%28E-Ops%29+Committee)(**Connect.gov Login Required)**
+-   [Enterprise Operations Committee ](https://community.connect.gov/x/URp5K)(**Connect.gov Login Required)**
 
 > The Enterprise Operations (E-Ops), Committee focuses on acquisition reform and Federal IT infrastructure through execution of the following policies and initiatives:
 
