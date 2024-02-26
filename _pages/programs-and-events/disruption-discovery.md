@@ -106,7 +106,7 @@ Join leaders across the federal government for an immersive one-day symposium ex
       </td>
     </tr>
     <tr>
-      <td>2:45 PM - 2:55 PM</td>
+      <td>2:45 PM - 3:30 PM</td>
       <td>CLOSING REMARKS</td>
       <td>
           <b>Chezian Sivagnanam, Federal Deposit Insurance Corporation</b>
