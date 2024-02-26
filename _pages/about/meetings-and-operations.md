@@ -52,7 +52,7 @@ CIO Council Repository **(Connect.gov Login Required)**\
 CIO Council Executive Committee Repository **(Connect.gov Login Required)**
 
 ## Meeting Schedule
-Below is the current schedule for both Full Council and Executive Committee meetings. CIOs can also review previous meeting agendas and materials **(Connect.gov Login Required)**
+Below is the current schedule for both Full Council and Executive Committee meetings. CIOs can also review previous meeting agendas and materials on the <a href="https://community.connect.gov/x/KYfzIQ">CIO Council Home Page</a> **(Connect.gov Login Required)**.
 
 *Note: Committees are scheduled to meet from 2:30-3:20 before each Full Council meeting. All Council meetings are currently held virtually.*<br>
 

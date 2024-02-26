@@ -13,7 +13,9 @@ permalink: /programs-and-events/disruption-and-discovery/
 **Jess Mellon Auditorium, GSA Headquarters**<br>
 **1800 F Street, NW Washington, DC 20405**<br>
 
-[**REGISTER HERE**](https://gsa.zoomgov.com/webinar/register/WN_yblq2LQgSsOl9patcCAOTw#/registration){:target="_blank"} (In-person only)
+[**REGISTER HERE**](https://gsa.zoomgov.com/meeting/register/vJItduGsrjMjH5WV7BYKLsSQqKxMPZqEU5w#/registration){:target="_blank"} (In-person only)
+
+Questions? Contact <a href="mailto:ciocouncil.support@gsa.gov">ciocouncil.support@gsa.gov</a>
 
 Join leaders across the federal government for an immersive one-day symposium exploring the technologies transforming our future. Through keynote addresses and fireside chats, gain insider perspectives from those using AI to combat and reduce fraud to those safeguarding our digital lives in the emerging quantum era and designing the future of data security across government. Learn about the technical breakthroughs employees at the National Labs are making to improve the lives of the American public. This symposium will spotlight the intersections of technology, innovation and open government -- shaping the digital tomorrow and harnessing the power of technology to drive mission impact. Join us at the frontier of what’s next.
 
@@ -68,7 +70,8 @@ Join leaders across the federal government for an immersive one-day symposium ex
           <b>Nick Polk, Office of Management & Budget</b><br> 
           Wes Yin, The White House<br>
           Matthew Scholl, National Institute of Standards and Technology<br>
-          John Burke, U.S. Department of Defense
+          John Burke, U.S. Department of Defense<br>
+          Gretchen Campbell, Office of Science and Technology Policy
       </td>
     </tr>
     <tr>
