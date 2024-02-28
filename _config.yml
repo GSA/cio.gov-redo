@@ -60,20 +60,12 @@ primary_navigation:
         url: /entry-to-the-government/
   - name: Programs & Events
     children:
+      - name: 'Disruption and Discovery: AI, Data, and Quantum Symposium'
+        url: /programs-and-events/disruption-and-discovery/
       - name: Women in IT & Cyber
         url: /2021-women-in-IT/
-      - name: Data Science Training Program
-        url: /programs-and-events/data-science-training-program/
       - name: CIO Bootcamp
         url: /programs-and-events/2020-cio-bootcamp/
-      - name: Innovation Roundtables
-        url: /programs-and-events/innovation-roundtables/
-      - name: Federal Tech Day
-        url: /2023-06-12-federal-tech-day-2023-impact-through-innovation/
-      - name: AI Training
-        url: /programs-and-events/ai-training/
-      - name: Low Code No Code Sub-Community of Practice Kickoff
-        url: /programs-and-events/low-code-no-code/
       - name: All Events
         url: /programs-and-events/
   - name: News
