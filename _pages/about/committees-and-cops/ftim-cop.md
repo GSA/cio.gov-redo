@@ -11,7 +11,7 @@ The Federal Technology Investment Management (FTIM) Community of Practice (CoP) 
 - Mature the integration of Technology Business Management (TBM),  IT Capital Planning, and IT Investment Control (CPIC) and portfolio management practices in the federal government through the sharing of best practices and lessons learned.
 
 # How to Participate
-The FTIM CoP meets on the third Wednesday of every month and is open to anyone with a valid .gov or .mil email address. To learn more, please visit the CIO Council [FTIM CoP MAX page](https://community.max.gov/x/YAWIRg) **(OMB MAX Login Required)**.
+The FTIM CoP meets on the third Wednesday of every month and is open to anyone with a valid .gov or .mil email address. To learn more, please visit the CIO Council [FTIM CoP Connect.gov page](https://community.connect.gov/x/YAWIRg) **(Connect.gov Login Required)**.
 
 # Related Resources
 * [TBM Overview]({{ site.baseurl }}/policies-and-priorities/tbm/)

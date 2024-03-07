@@ -38,7 +38,7 @@ National Aeronautics and Space Administration
 
 
 
-The [E-Ops Max Page](https://community.max.gov/x/URp5K) **(login required)** provides tools and resources to encourage information sharing and collaboration.
+The [E-Ops Connect.gov page](https://community.connect.gov/x/URp5K) **(login required)** provides tools and resources to encourage information sharing and collaboration.
 
 &nbsp;
 

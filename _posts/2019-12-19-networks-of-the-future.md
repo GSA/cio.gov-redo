@@ -22,6 +22,6 @@ SD-WAN allows networks to route traffic based on centrally-managed software defi
 
 The white paper also provides background on the numerous policies and programs that affect network modernization and security and lists several suggested action items agencies can deploy to get ahead. Ultimately, network modernization is critical to all government IT and emerging technologies will fundamentally change how Federal agencies will manage and secure their networks. Keeping the network secure from vulnerabilities while enabling the next generation of technologies and services will require close collaboration between and within agencies.
 
-To learn more about ongoing CIO Council Innovation Committee activities and initiatives, please visit the Innovation Committee’s [OMB MAX page](https://community.max.gov/display/Egov/CIO+Council+Innovation+Committee).
+To learn more about ongoing CIO Council Innovation Committee activities and initiatives, please visit the Innovation Committee’s [Connect.gov page](https://community.connect.gov/x/SRp5K).
 
 <a title="Learn More" class="usa-button usa-button-big usa-button--accent-cool margin-bottom-2" href="{{ site.baseurl }}/assets/resources/Networks-of-the-Future-FINAL.pdf">Read the Networks of the Future white paper</a>

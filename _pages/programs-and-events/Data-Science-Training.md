@@ -15,4 +15,4 @@ The 24 CFO Act Agency CIO offices will coordinate with OMB’s Office of the Fed
 
 **Who**: This training program targets existing Federal employees that may benefit from data science skills to gain efficiencies in their respective duties. 
 
-For additional information and agency materials, visit [MAX.gov](https://community.max.gov/x/HWySg) (OMB Max login required)
+For additional information and agency materials, visit [Connect.gov](https://community.connect.gov/x/HWySg) (Connect.gov login required)

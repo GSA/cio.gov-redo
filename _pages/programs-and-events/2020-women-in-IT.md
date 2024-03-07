@@ -11,7 +11,7 @@ As demonstrated by the President’s Management Agenda, building and maintaining
 
 **When**: Throughout the Summer 2020
 
-**Where**: Online - More information can be found on <a href="https://community.max.gov/x/RU6Qfw">MAX.gov</a>  (OMB Max login required)   
+**Where**: Online - More information can be found on <a href="https://community.connect.gov/x/RU6Qfw">Connect.gov</a>  (Connect.gov login required)   
 
 **Who**: This event is for federal employees and those with a .gov or .mil email address. 
 
