@@ -23,6 +23,6 @@ The FMG will be tackling several initiatives including:
 * Accelerating the inclusion of mobile into the Continuous Diagnostics and Mitigation program
 * Providing an implementer’s perspective for development and updating of NIST standards and guidance for secure mobility
 
-Visit the Federal Mobility Group page on [OMB MAX](https://community.max.gov/pages/viewpage.action?pageId=1630801264), to learn more about the FMG and how to become involved in its initiatives.
+Visit the Federal Mobility Group page on [Connect.gov](https://community.connect.gov/x/cA00YQ), to learn more about the FMG and how to become involved in its initiatives.
 
 *The leadership of the FMG extends its sincere appreciation to Renee Wynn, NASA CIO, for her executive sponsorship and guidance through the creation of the FMG. We look forward to continuing our work with our federal partners to address mobility challenges and issues and to celebrate our successes together.*

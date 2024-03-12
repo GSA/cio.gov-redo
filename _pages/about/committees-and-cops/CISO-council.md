@@ -33,7 +33,7 @@ Office of Management and Budget<br/>
 Chief Information Security Officer<br/>
 Department  of Education
 
-The [MAX Federal CISO Council Page](https://community.max.gov/display/Egov/Federal+CISO+Council) **(OMB Max login required)** provides tools and resources to encourage information sharing and collaboration.
+The [Connect.gov Federal CISO Council Page](https://community.connect.gov/x/JgLbRw) **(Connect.gov login required)** provides tools and resources to encourage information sharing and collaboration.
 
 &nbsp;
 
