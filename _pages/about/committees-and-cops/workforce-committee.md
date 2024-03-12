@@ -30,7 +30,7 @@ Chief Information Officer<br/>
 Department of Interior<br/>
 [View Darren Ash's profile]({{ site.baseurl }}/about/members-and-leadership/darren-ash/)
 
-The [Workforce Committee Max Page](https://community.max.gov/display/Egov/CIO+Council+Workforce+Committee) **(login required)** provides tools and resources to encourage information sharing and collaboration.
+The [Workforce Committee Connect.gov page](https://community.connect.gov/x/bQlPS) **(login required)** provides tools and resources to encourage information sharing and collaboration.
 
 &nbsp;
 

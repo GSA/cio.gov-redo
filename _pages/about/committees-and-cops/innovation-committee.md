@@ -29,7 +29,7 @@ Federal Deposit Insurance Corporation
 Chief Technology Officer<br/>
 Department of Homeland Security
 
-The [Innovation Committee Max Page](https://community.max.gov/display/Egov/CIO+Council+Innovation+Committee) **(login required)** provides tools and resources to encourage information sharing and collaboration.
+The [Innovation Committee Connect.gov page](https://community.connect.gov/x/SRp5K) **(login required)** provides tools and resources to encourage information sharing and collaboration.
 
 &nbsp;
 

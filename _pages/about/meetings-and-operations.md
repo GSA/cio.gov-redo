@@ -10,7 +10,7 @@ The CIO Council hosts monthly meetings with CIOs, Chief Information Security Off
 
 ## CIO Resources
 ### Committee Pages
--   [Chief Information Security Officer (CISO) Council](https://community.connect.gov/display/Egov/Federal+CISO+Council) **(Connect.gov Login Required)**
+-   [Chief Information Security Officer (CISO) Council](https://community.connect.gov/x/JgLbRw) **(Connect.gov Login Required)**
 
 > The Federal CISO Council is the principal interagency forum for identifying and recommending strategic high priority IT security initiatives to advise the CIO Council and OMB. The Federal Chief Information Security Officer (CISO) Council was established as primary body for inter-agency CISO collaboration and communication. The Council is led by the Federal CISO (OMB) and the co-chair, an elected member from the Council. The Council's current strategic focuses include:
 
@@ -20,7 +20,7 @@ The CIO Council hosts monthly meetings with CIOs, Chief Information Security Off
 > -   Shared Services
 > -   Performance Metrics
 
--   [Innovation Committee](https://community.connect.gov/display/Egov/CIO+Council+Innovation+Committee) **(Connect.gov Login Required)**
+-   [Innovation Committee](https://community.connect.gov/x/SRp5K) **(Connect.gov Login Required)**
 
 > The Innovation Committee is committed to providing an open forum for CIO's and improving their knowledge of the language, leading practices, and emerging technologies surrounding innovation. By championing the CIO in the area of innovation CIO's can foster cultural change and growth within their agencies. The Innovation committee strives to educate CIO's on the topic of innovation through:
 
@@ -41,18 +41,18 @@ The CIO Council hosts monthly meetings with CIOs, Chief Information Security Off
 > -   Technology Business Management (TBM)
 > -   Zero Trust Architecture Initiative
 
--   [Workforce Committee](https://community.connect.gov/display/Egov/CIO+Council+Workforce+Committee) **(Connect.gov Login Required)**
+-   [Workforce Committee](https://community.connect.gov/x/bQlPS) **(Connect.gov Login Required)**
 
 > The Workforce Committee's agenda encompasses the full employment life cycle: workforce planning, recruitment, and retention and career development. The committee works in partnership with the HR community to develop, implement and communicate strategies to recruit, retain and manage a fully trained and qualified IT workforce, to meet current and future mission requirements. The Workforce Committee is committed to its strategic goal of providing the Federal Government with a cadre of highly capable IT professionals with mission critical competencies to meet agency goals.
 
 ### Additional Resources
 Other government-only pages for key Council information include:
 
-CIO Council Repository **(Connect.gov Login Required)**\
-CIO Council Executive Committee Repository **(Connect.gov Login Required)**
+[CIO Council Repository](https://community.connect.gov/x/KYfzIQ) **(Connect.gov Login Required)**\
+[CIO Council Executive Committee Repository](https://community.connect.gov/x/8wkGJg) **(Connect.gov Login Required)**
 
 ## Meeting Schedule
-Below is the current schedule for both Full Council and Executive Committee meetings. CIOs can also review previous meeting agendas and materials on the <a href="https://community.connect.gov/x/KYfzIQ">CIO Council Home Page</a> **(Connect.gov Login Required)**.
+Below is the current schedule for both Full Council and Executive Committee meetings. CIOs can also review [previous meeting agendas and materials](https://community.connect.gov/x/tRKDJg) **(Connect.gov Login Required)** on the CIO Council Home Page.
 
 *Note: Committees are scheduled to meet from 2:30-3:20 before each Full Council meeting. All Council meetings are currently held virtually.*<br>
 
