@@ -22,6 +22,6 @@
     "a11y": "^0.5.1",
     "isotope-cells-by-row": "^1.1.4",
     "isotope-layout": "^3.0.6",
-    "uswds": "^2.0.2"
+    "uswds": "^2.14.0"
   }
 }
