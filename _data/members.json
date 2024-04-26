@@ -361,13 +361,13 @@
           "agencyName": "Department of Education",
           "agencyCode": "018",
           "cio": {
-            "firstName": "Luis",
-            "lastName": "Lopez",
+            "firstName": "Dennis",
+            "lastName": "Johnson",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_lopez.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/lopez-luis/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_johnson.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/johnson-dennis/",
             "deptCIO": "1",
             "address": {
               "address1": "Department of Education 550 12th Street, SW Washington, DC 20202",
@@ -376,13 +376,13 @@
               "state": "DC",
               "zip": "20202"
             },
-            "bio_link":"lopez-luis",
+            "bio_link":"johnson-dennis",
             "banner_subtitle": "Team and Leadership",
             "banner_title":"About Our Council",
             "leadership": false,
-            "position": "Chief Information Officer",
-            "bio-image": "/bio_lopez.jpg",
-            "description": "Luis R. Lopez joined the U.S. Department of Education (ED) in 2017 where he served as the Chief of Operational Services in the Enterprise Technology Services (ETS) Division within the Office of the Chief Information Officer (OCIO) where he led all information technology (IT) service delivery and customer service for the Department. In September 2019, he was selected to serve as an Service Executive Service (SES) member as the Director of ETS. In this position, he was responsible for managing and providing strategic, tactical, and operational direction to all Department stakeholders including senior leadership on the effective engineering, integration, deployment, operations and infrastructure services supporting the geographically dispersed enterprise. Throughout his tenure at ED, he led the major transformation from a 12 year legacy IT service delivery contract to a new service model that modernized the infrastructure, end user computing and software upgrades that positioned the Department to seamlessly transition to a successful remote and hybrid workforce and continue to modernize. As Director of ETS, Luis served as a principal advisor to the CIO with respect to IT engineering and operational functions supporting the CIO’s efforts in overseeing the Department’s $1B portfolio.<br><br>Prior to ED, Luis has served in various leadership roles including Chief Engineer at the Defense Health Agency (DHA) and Chief of Operations at the Walter Reed National Military Medical Center (WRNMMC). In these roles and with over 17 years of experience in IT, Luis has demonstrated his ability to lead and deliver IT services to large and complex organizations, provide high quality customer service and execute organizational improvements at a senior level. Throughout this experience and major initiatives, Luis was also charged with leading massive IT transitions and consolidation efforts within military medicine which involved unprecedented change in the successful stand up of a new hospital at WRNMMC and the formation of a new unified organization at DHA where he had the responsibility for the technical and organizational integration of Army, Navy, Air Force and Tricare Management Activity into a single common enterprise for the 220,000 personnel of the Military Health System."
+            "position": "Acting Chief Information Officer",
+            "bio-image": "/bio_johnson.jpg",
+            "description": "<p>Dennis (Denny) Johnson is serving as the Acting Chief Information Officer at the U.S. Department of Education while the job is being formally filled. He joined Education in 2023 as Federal Student Aid’s Directory of Strategy and Performance.</p><p>Prior to Education, Denny spent 18 years at the U.S. Department of Labor, holding a variety of positions, including the Acting Deputy Assistant Secretary for Administration and Management, Director of the Performance Management Center, and analyst positions in the Veterans’ Employment and Training Service and the Employment and Training Administration.</p>"
           }
         }
       }
@@ -526,13 +526,13 @@
           "agencyName": "Social Security Administration",
           "agencyCode": "016",
           "cio": {
-            "firstName": "Patrick",
-            "lastName": "Newbold",
+            "firstName": "Marcela",
+            "lastName": "Escobar-Alava",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio-newbold.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/patrick-newbold/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_alava.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/marcela-escobar-alava/",
             "deptCIO": "1",
             "address": {
               "address1": "Social Security Administration 6401 Security Boulevard 400 Altmeyer Building",
@@ -541,13 +541,13 @@
               "state": "MD",
               "zip": "21235"
             },
-            "bio_link":"patrick-newbold",
+            "bio_link":"marcela-escobar-alava",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
-            "position": "Acting Chief Information Officer",
-            "bio-image": "/bio-newbold.jpg",
-            "description": "Patrick Newbold, now Acting Chief Information Officer, previously served as the Assistant Deputy Commissioner and Deputy CIO and leads the Social Security Administration (SSA) IT Modernization program. His key responsibilities include advising the Commissioner and executives on the impact of emerging technology, advancing IT innovation, and implementing SSA’s Digital Modernization Strategy.<br><br>Prior to joining SSA, he served as the agency’s Deputy Chief Information Officer (DCIO) and Director of Enterprise Information Technology for the U.S. Army Corps of Engineers. In this role, he was the principal advisor to the CIO on information management/technology, policy, and administrative issues for the directorate and responsible for IT service delivery for over 37K users. In 2016, Mr. Newbold was selected to serve as an Army Congressional Fellow to support the Assistant Secretary of the Army for Financial Management and Comptroller as a U.S. Army Congressional Budget Liaison. During this tour, he also served as a senior staffer and policy advisor to a Member of Congress on all national security, military construction, Veterans Affairs, small business, Housing and Urban Development, energy and water, and environmental legislative matters. In 2013, he served as the Chief of Staff, Office of the Chief Information Officer, US Army Corps of Engineers.<br><br>In 2006, Patrick has served as a supervisory systems analyst where he led the deployment of the Army’s first Enterprise Resource Planning (ERP) System, and from 2009- 2012; he served as the Executive Officer to the Deputy to the Commanding General, U.S. Army Aviation and Missile Command. In this position, he assisted the Deputy to the Commanding General with managing a multifaceted and diverse organization with an annual budget of over $4 billion and a global workforce of over 10,000 military and civilian employees.<br><br>Patrick lives in the D.C. suburbs with his wife, Kate, and enjoys travel, exercise, and movies."
+            "position": "Chief Information Officer",
+            "bio-image": "/bio_alava.jpg",
+            "description": "<p>Marcela Escobar-Alava serves as the Deputy Commissioner and Chief Information Officer (CIO) for the Social Security Administration (SSA). As SSA’s senior information and technology executive, Escobar-Alava oversees the day-to-day activities of SSA’s Digital Modernization Strategy and Transformation, managing a $2B budget and a team of approximately 6,000 government and contract team members.</p><p>Prior to her role with the SSA, she served as Special Assistant to the President and Chief of Enterprise Applications for the Office of Administration where she delivered technology strategy and enterprise solutions across the Executive Office of the President. Within the Biden-Harris Administration, she also served as the Deputy Director of White House Information Technology.</p><p>Prior to her federal service, she was the transformational CIO for Monarch Companies where she led the integration of acquisitions towards a unified culture and single operating model. Prior to Monarch, she was the Chief Digital Officer for the Hispanic Scholarship Fund where she developed the digital products, technology and marketing strategies to enable the broadest reach, largest grants, donations and generational impact the organization has ever attained. Prior to HSF, she was the Divisional CIO for Sony Pictures Home Entertainment, a multi-billion-dollar division of Sony Pictures Entertainment. In that role, she oversaw the Global Information Technology strategy and direction to support and enable Home Entertainment’s business operations, including sales, marketing, manufacturing, distribution, business intelligence, finance, and digital functions.</p><p>Originally from Los Angeles, Escobar-Alava holds a Bachelor’s degree in Business Administration with an emphasis in International Business from Loyola Marymount University, and a Master’s of Business Administration in Information Systems and Operations Management from the University of Southern California. Her proudest accomplishment has been to have a progressive career while raising 3 beautiful and generous human beings, Alex, Nikki & Robert. She continues to give back as a mentor, inspirational speaker and has served and led a variety of non-profit boards and Advisory Committees at the local and national level within the STEM, Early childhood education, Higher Ed and DE&I spaces.</p>"
           }
         }
       }
@@ -592,13 +592,13 @@
           "agencyName": "Nuclear Regulatory Commission",
           "agencyCode": "429",
           "cio": {
-            "firstName": "David",
-            "lastName": "Nelson",
-            "email": "David.Nelson2@nrc.gov",
+            "firstName": "Scott",
+            "lastName": "Flanders",
+            "email": "",
             "phone": "301-415-7443",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_nelson.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/nelson-david/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_flanders.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/flanders-scott/",
             "deptCIO": "1",
             "address": {
               "address1": "Nuclear Regulatory Commission 11555 Rockville Pike Rockville OWFN- 06E02 Rockville, MD\n 20852",
@@ -607,13 +607,13 @@
               "state": "MD",
               "zip": "20852"
             },
-            "bio_link":"nelson-david",
+            "bio_link":"flanders-scott",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
-            "position": "Chief Information Officer",
-            "bio-image": "/bio_nelson.png",
-            "description": "Mr. Nelson currently serves as the Chief Information Officer (CIO) of the Nuclear Regulatory Commission. He previously served as the CIO and Director, Office of Enterprise Information for the Centers for Medicare and Medicaid Services (CMS). He was selected for this role to manage the CMS $2.6B information technology (IT) portfolio including complex ecosystem of applications and trusted data exchanges supporting Healthcare.gov, the Medicare Claims Processing, Medicaid Support, and Quality Reporting Systems.<br><br>Mr. Nelson previously held several important roles at CMS including the Director, Office of Information Services; Director, Office of Enterprise Management; and Director, Data Analytics and Control Group for the Center for Program Integrity at CMS. The Data Analytics and Control Group is the CMS primary focal point for analytics related to fraud, waste, and abuse, and provides statistical and data analysis for program integrity issues in the original Medicare, Medicare Advantage, Prescription Drug Plan, and Medicaid programs. He joined CMS in 2004 as the Director, Division of Call Center Systems, Office of External Affairs and Beneficiary Services, and was charged with improving access to information for 40 million Medicare beneficiaries.<br><br>Before joining CMS, Mr. Nelson served in a variety of challenging private sector leadership roles, including co-founder of two broadband development companies providing access to underserved markets in the United States.<br><br>Mr. Nelson also served in executive operations roles both in the United States and abroad for several leading IT development and telecommunications companies, and as Vice President of Operations for a telecommunications firm where he managed commissioning of several hundred satellite earth stations in 50 countries across Europe, Latin America, and the United States.<br><br>Mr. Nelson served in the U.S. Air Force, Yakota AB Japan, and holds a bachelor's degree in business management from the University of Phoenix."
+            "position": "Acting Chief Information Officer",
+            "bio-image": "/bio_flanders.jpg",
+            "description": "<p>Scott Flanders is the Acting CIO at the US Nuclear Regulatory Commission (NRC). As the Acting CIO, he plans, directs, and oversees resources to ensure the delivery of information technology and information management services that are critical to support the mission, goals, and priorities of the agency. Mr. Flanders joined the NRC in 1991 as a reactor engineer intern and has been a member of the Senior Executive Service since 2004. Throughout his career he has led a diverse portfolio of technical organizations supporting the NRC’s Nuclear Reactor and Nuclear Materials regulatory programs. Prior to joining the Office of the Chief Information Officer, he served as the Director of the Division of Site Safety and Environmental Analysis in the Office of New Reactors, and the Deputy Director of the Division of Waste Management and Environmental Review in the Office of Nuclear Material Safety and Safeguards.</p>"
           }
         }
       }
@@ -969,11 +969,11 @@
         "agency": {
           "agencyName": "U.S. Department of the Navy",
           "cio": {
-            "firstName": "Aaron",
-            "lastName": "Weis",
+            "firstName": "Jane Overslaugh",
+            "lastName": "Rathbun",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/AaronWeis.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/weis-aaron/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_rathbun.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/rathbun-jane/",
             "deptCIO": "",
             "address": {
               "address1": "",
@@ -982,13 +982,13 @@
               "state": "",
               "zip": ""
             },
-            "bio_link":"weis-aaron",
+            "bio_link":"rathbun-jane",
             "banner_subtitle": "Team and Leadership",
             "banner_title":"About Our Council",
             "leadership": false,
             "position": "Chief Information Officer",
-            "bio-image": "/AaronWeis.png",
-            "description": "<p>Aaron Weis was named Department of the Navy Chief Information Officer effective September 29, 2019. As DON CIO, he is the Principal Staff Assistant to the Secretary of the Navy for information management, digital, data and cyber strategy. In this role, he is also responsible for reviewing the DON budget proposal for Information Technology (IT) and National Security System (NSS) expenditures and investments, and certifying whether it adequately addresses concerns from enterprise efficiency and cybersecurity perspectives.</p><p>Previously, he served as Senior Advisor to the Department of Defense CIO. In this role he focused on driving strategy and support for the critical CIO programs, including Joint Artificial Intelligence Center (JAIC), Enterprise Cloud, Cyber, and Command, Control and Communications (C3). He led the effort to develop the DoD Enterprise Cloud Strategy as well as the DoD IT Modernization strategy. Aaron led the first ever CIO accreditation of the $46 billion IT budget across the Department.</p><p>Prior to his role at DoD CIO, Aaron was Senior Vice President and CIO at Axalta Coating Systems, the former DuPont Performance Coatings business, created in 2013. Aaron arrived at Axalta in 2015 with the mission to transform the legacy IT organization and infrastructure into a platform ready for Axalta&rsquo;s business to grow on. At Axalta, he transformed the IT systems by fully moving the company to a cloud delivered infrastructure, consolidated ERP systems and created a captive off-shore IT center in India. With the infrastructure and organization transformation complete, the IT strategy shifted to providing innovative business capability based on SAP S/4 and supporting growth by driving strong IT integrations of acquired companies.</p><p>Before moving to Axalta, Aaron was the Vice President and General Manager for Boston-based Sensata Technologies&rsquo; Magnetic Speed &amp; Position business, which was acquired from Honeywell in 2010. As business manager and integration leader, Aaron successfully integrated the former Honeywell business into Sensata&rsquo;s global automotive business and moved three acquired automotive production plants in Asia and Europe to Sensata&rsquo;s centralized facilities in China, as well as creating a 10 year strategic plan for the business that more than doubled revenue.</p><p>Aaron was Sensata&rsquo;s first CIO as a newly independent company. He started at Sensata in October 2006 when it was a division of Texas Instruments, subsequently becoming Sensata Technologies, a $3.0 billion leader in the world of Sensors, Electrical Protection and Controls. Aaron built a global IT team with the charter to develop and deploy a technology infrastructure and vision for the newly independent company.</p><p>Previously, Aaron was Vice President of Business Applications and Enabling Technology for Tyco International. At Tyco, he was responsible for the coordination, direction and strategy of the business application landscape for both corporate and cross-business unit applications. He also was the leader for IT Vendor Management across the $40 billion enterprise.</p><p>Before joining Tyco, he was the Director of Operations and Enabling Services for Siemens Corporation where he was responsible for building and operating corporate services for use among 15 U.S. companies and several regions in North and South America. While at Siemens, he held several roles both in the US and in Germany.</p><p>Aaron holds an MBA from Villanova University and a BA from University of Illinois.</p>"
+            "bio-image": "/bio_rathbun.jpg",
+            "description": "<p>Ms. Rathbun currently serves as the DON CIO driving continuous improvement and innovation of the DON’s Information Technology portfolio valued at 12+B. In her role, she ensures alignment of IT investment priorities to SECNAV priorities, guides the execution of the DON’s Information Superiority Vision focused on modernizing, innovating, and defending Enterprise and Business IT. Ms. Rathbun plays a key advocacy role for DON data and cyber/IT workforce initiatives, and overseas DON CIO internal operations. Key focus areas include Cyber Readiness, zero-trust architecture, optimizing transport diversity through commercial tech, SIPR 2.O; and movement to cloud and enterprise services delivery.</p><p>Prior to her role as DON CIO, Ms. Rathbun served in a dual-hatted capacity as Deputy Assistant Secretary of the Navy for Information Warfare and Enterprise Services (DASN IWAR) under the ASN, RDA, and as Chief Technology Officer (CTO), DONCIO. As DASN IWAR, she supported an $9+B portfolio of programs that modernize and deliver information-centric capabilities spanning enterprise, operational and tactical missions to include Command, Control, Communications, Cyber, Battlespace Awareness, Space, Business and IT Services. Ms. Rathbun led key software and cyber acquisition reforms and served as the Navy’s IT Acquisition Workforce champion. As CTO she drove the modernization of key elements of the DON’s IT Infrastructure to include a unified network architecture Capstone Design, movement to enterprise cloud and identity services and execution of zero trust principles all enabling mobile, agile, secure and interoperable force in meeting their mission. She was instrumental in resourcing and driving the rapid adoption of MS Office 365 to meet the demands that the COVID pandemic placed on remote access to productivity services; and consolidating Logistic IT efforts across the Navy.</p><p>Before joining the Department of Navy, Ms. Rathbun served as the Deputy Director for Defense Business Systems in the Office of the Deputy Assistant Secretary of Defense for C3, Cyber, and Business Systems (DASD C3CB) within the Office of the Under Secretary of Defense for Acquisition and Sustainment. She was responsible for shaping the acquisitions of the Department’s major Defense Business Systems and Enterprise IT Infrastructure Services investments, a portfolio valued at over $15B.</p><p>Ms. Rathbun has had a diverse civilian career in the government driving change initiatives focused on improving decision advantage across key government and defense processes. Her assignments included: the Commission on Roles and Missions of the Armed Forces; Ops Research Analyst at the Office of the Secretary of Defense Program Analysis and Evaluation; ERP Change Lead and Acting Director of Resources, Headquarters NASA; Chief of Staff for Deputy Secretary of Defense initiative: Institutional Reform & Governance Roadmap where she implemented a Capability Portfolio Management process; Special Assistant to the Director of Portfolio Systems Acquisition for Program Management; Division Chief for the Strategic Capabilities Office in the J1/8 Resources Directorate, USAFRICOM Stuttgart, Germany; and Chief of Staff to the DASD C3CB.</p><p>Ms. Rathbun holds a BA in Political Science from John Carroll University and an MPA from the Maxwell School of Citizenship and Public Affairs at Syracuse University. She has earned top civilian service awards for her various efforts and contributions. Ms. Rathbun is Defense Acquisition Workforce Improvement Act (DAWIA) certified – Program Management, Level III.</p>"
           }
         }
       }
@@ -1049,6 +1049,36 @@
             "position": "Chief Information Officer",
             "bio-image": "/bio_merritt.png",
             "description": "Dr. Adele Merritt assumed her duties as the Intelligence Community Chief Information Officer (IC CIO) on 24 January 2022. In this capacity, she is responsible for leading the IC’s ongoing modernization efforts to transform the IC Information Technology Enterprise (IC ITE) and other areas of the IC Information Environment, working to ensure the security of the IC’s information technology (IT) systems, and enhancing IT cooperation within the IC.<br><br>Dr. Merritt has over 20 years of demonstrated technical, analytic, and policy expertise in support of cyber and national security operations. Dr. Merritt began her career at the National Security Agency as an applied research mathematician. In addition to holding various positions within the Intelligence Community, she completed a joint duty assignment at the Federal Bureau of Investigation, was the Principal Deputy Chief Information Officer for Cyber at the Department of Energy, and served as a Director and Acting Senior Director for Intelligence Programs on the National Security Council Staff at the White House during the Obama Administration.<br><br>Dr. Merritt led a public-private partnership focused on addressing cyber threats to U.S. national security systems and critical infrastructure. Most recently, she was the Program Director at MISI, a non-profit focused on advancing cybersecurity innovation and collaboration through partnerships with industry, academia, and government<br><br>Dr. Merritt was a National Security Fellow at Harvard’s Kennedy School. She earned a Bachelor of Science and a Bachelor of Business Administration in Finance from Pace University in New York, and a Master of Science and Ph.D. in Mathematics from the University of Rhode Island. Dr. Merritt and her husband are proud parents of grown twins."
+          }
+        }
+      }
+    },
+    {
+      "title": "Federal Deposit Insurance Corporation CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Federal Deposit Insurance Corporation",
+          "cio": {
+            "firstName": "Sylvia",
+            "lastName": "Burns",
+            "dateAppointed": "",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_burns.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/burns-sylvia/",
+            "deptCIO": "",
+            "address": {
+              "address1": "",
+              "address2": "",
+              "city": "",
+              "state": "",
+              "zip": ""
+            },
+            "bio_link":"burns-sylvia",
+            "banner_subtitle": "Team and Leadership",
+            "banner_title":" About Our Council",
+            "leadership": false,
+            "position": "Chief Information Officer",
+            "bio-image": "/bio_burns.jpg",
+            "description": "<p>Sylvia Burns was appointed Chief Information Officer (CIO) and Chief Privacy Officer (CPO) of the Federal Deposit Insurance Corporation (FDIC) on January 16, 2020.</p><p>Ms. Burns joined the FDIC in September 2018 and led the development of the agency's multi-year IT Modernization Plan and Roadmap.  As the FDIC CIO, she is leading the implementation of the FDIC’s IT modernization and driving transformational cultural and technology changes to all aspects of the agency’s IT environment.  This includes the adoption of cloud technologies, Agile development methodologies, DevSecOps, and Product Management.  As an active member of the Federal CIO Council, she serves as one of the tri-chairs of the Enterprise Operations (E-Ops) Committee.  She’s worked extensively with OMB, NIST, DHS/CISA to promote Zero Trust Architectures and coordinated interagency participation in the development of Zero Trust Architecture standards and guidance including NIST SP-800-207.  Prior to joining the FDIC, Ms. Burns served as CIO at the U.S. Department of the Interior.  She currently serves on the board of the government-wide Technology Modernization Fund.</p><p>Ms. Burns has been previously recognized as one of the top CIO’s in the Federal Government, and women in technology in the metropolitan Washington, D.C. area.  Ms. Burns holds a Bachelor’s degree in Geology from the City University of New York at Hunter College and a Master’s degree in Business Management and Policy from the State University of New York at Stony Brook.  She is a member of the Senior Executive Service and started her government career in 1994 as a Presidential Management Intern.</p>"
           }
         }
       }

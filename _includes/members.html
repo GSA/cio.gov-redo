@@ -3,7 +3,7 @@
 <section class="usa-graphic-list padding-top-0" >
   <div class="grid-container">
     <div class="usa-graphic-list__row grid-row grid-gap padding-top-0">
-      {% assign members = site.data.members.cioInfo | where: 'content.agency.cio.leadership', false | sort: "content.agency.cio.lastName" %}
+      {% assign members = site.data.members.cioInfo | where: 'content.agency.cio.leadership', false | sort: "content.agency.agencyName" %}
       {% if members and members.size > 0 %}
         {% for bio in members %}
           {% assign first_name = bio.content.agency.cio.firstName %}
