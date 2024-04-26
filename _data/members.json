@@ -145,7 +145,7 @@
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_ash.jpg",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_ash.jpeg",
             "linkToBio": "https://www.cio.gov/about/members-and-leadership/darren-ash/",
             "deptCIO": "1",
             "address": {
@@ -160,7 +160,7 @@
             "banner_title": "About Our Council",
             "leadership": false,
             "position": "Chief Information Officer",
-            "bio-image": "/bio_ash.jpg",
+            "bio-image": "/bio_ash.jpeg",
             "description": "Darren Ash is the CIO at the U.S. Department of the Interior where he leads transformative change in securing and managing critical mission systems and data. In his role, he is responsible for an IT portfolio of over $1.6B, supporting 60,000 employees, and 2,400 operational locations.<br><br>Darren has served as the Assistant Chief Information Officer for the Farm Production and Conservation Mission Area, within the U.S. Department of Agriculture (USDA), since 2018. In this role, he was responsible for all information systems and applications of the mission area’s four agencies, including conducting comprehensive, actionable information technology strategic planning, managing shared services, leading governance, leading acquisition management, performing project and program management, budgeting, managing cost allocations and spend on cross-agency/shared projects. Darren Ash’s former positions include serving as the CIO for USDA’s Farm Service Agency, CIO of the U.S. Nuclear Regulatory Commission, and Associate CIO at the U.S. Department of Transportation. Darren started his Federal career with the Internal Revenue Service and then moved to the Department of Treasury, prior to serving at the Department of Transportation.<br><br>A native of California, he received a Bachelor of Arts in International Studies from The American University, a Master of Public Administration from Syracuse University and a Master of Science in Information Systems Technology. He and his family reside in Potomac, Maryland."
           }
         }
@@ -259,7 +259,7 @@
       "title": "Department of the Army CIO Information",
       "content": {
         "agency": {
-          "agencyName": "U.S. Department of the Army",
+          "agencyName": "Department of the Army",
           "agencyCode": "",
           "cio": {
             "firstName": "Leonel",
@@ -366,7 +366,7 @@
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_johnson.jpg",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_johnson.jpeg",
             "linkToBio": "https://www.cio.gov/about/members-and-leadership/johnson-dennis/",
             "deptCIO": "1",
             "address": {
@@ -381,7 +381,7 @@
             "banner_title":"About Our Council",
             "leadership": false,
             "position": "Acting Chief Information Officer",
-            "bio-image": "/bio_johnson.jpg",
+            "bio-image": "/bio_johnson.jpeg",
             "description": "<p>Dennis (Denny) Johnson is serving as the Acting Chief Information Officer at the U.S. Department of Education while the job is being formally filled. He joined Education in 2023 as Federal Student Aid’s Directory of Strategy and Performance.</p><p>Prior to Education, Denny spent 18 years at the U.S. Department of Labor, holding a variety of positions, including the Acting Deputy Assistant Secretary for Administration and Management, Director of the Performance Management Center, and analyst positions in the Veterans’ Employment and Training Service and the Employment and Training Administration.</p>"
           }
         }
@@ -964,10 +964,10 @@
       }
     },
     {
-      "title": "U.S. Department of the Navy CIO Information",
+      "title": "Department of the Navy CIO Information",
       "content": {
         "agency": {
-          "agencyName": "U.S. Department of the Navy",
+          "agencyName": "Department of the Navy",
           "cio": {
             "firstName": "Jane Overslaugh",
             "lastName": "Rathbun",
@@ -1062,7 +1062,7 @@
             "firstName": "Sylvia",
             "lastName": "Burns",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_burns.jpg",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_burns.jpeg",
             "linkToBio": "https://www.cio.gov/about/members-and-leadership/burns-sylvia/",
             "deptCIO": "",
             "address": {
@@ -1077,7 +1077,7 @@
             "banner_title":" About Our Council",
             "leadership": false,
             "position": "Chief Information Officer",
-            "bio-image": "/bio_burns.jpg",
+            "bio-image": "/bio_burns.jpeg",
             "description": "<p>Sylvia Burns was appointed Chief Information Officer (CIO) and Chief Privacy Officer (CPO) of the Federal Deposit Insurance Corporation (FDIC) on January 16, 2020.</p><p>Ms. Burns joined the FDIC in September 2018 and led the development of the agency's multi-year IT Modernization Plan and Roadmap.  As the FDIC CIO, she is leading the implementation of the FDIC’s IT modernization and driving transformational cultural and technology changes to all aspects of the agency’s IT environment.  This includes the adoption of cloud technologies, Agile development methodologies, DevSecOps, and Product Management.  As an active member of the Federal CIO Council, she serves as one of the tri-chairs of the Enterprise Operations (E-Ops) Committee.  She’s worked extensively with OMB, NIST, DHS/CISA to promote Zero Trust Architectures and coordinated interagency participation in the development of Zero Trust Architecture standards and guidance including NIST SP-800-207.  Prior to joining the FDIC, Ms. Burns served as CIO at the U.S. Department of the Interior.  She currently serves on the board of the government-wide Technology Modernization Fund.</p><p>Ms. Burns has been previously recognized as one of the top CIO’s in the Federal Government, and women in technology in the metropolitan Washington, D.C. area.  Ms. Burns holds a Bachelor’s degree in Geology from the City University of New York at Hunter College and a Master’s degree in Business Management and Policy from the State University of New York at Stony Brook.  She is a member of the Senior Executive Service and started her government career in 1994 as a Presidential Management Intern.</p>"
           }
         }
