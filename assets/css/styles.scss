@@ -4,9 +4,15 @@
 // Import the US Web Design System minified CSS
 //@import "../uswds/css/uswds.css";
 // Alternatively, you could import the SCSS files directly for USWDS mixins and variables.
-$theme-font-path:   '../uswds/fonts';
-$theme-image-path:  '../uswds/img';
-@import "scss/uswds";
+// $theme-font-path:   '../uswds/fonts';
+// $theme-image-path:  '../uswds/img';
+// @import "scss/uswds";
+
+@use "uswds" with (
+  $theme-font-path: "../uswds/fonts",
+  $theme-image-path: "../uswds/img",
+  $theme-show-notifications: false,
+);
 
 
 // This is the main CSS file. You can write your SCSS/SASS in _sass and import
@@ -14,14 +20,23 @@ $theme-image-path:  '../uswds/img';
 // any uswds styles.
 
 //custom scss files
-@import "footer";
-@import "homepage";
-@import "members";
-@import "policy";
-@import "social";
-@import "resources";
-@import "news";
-@import "pma";
+// @import "footer";
+// @import "homepage";
+// @import "members";
+// @import "policy";
+// @import "social";
+// @import "resources";
+// @import "news";
+// @import "pma";
+
+@forward "footer";
+@forward "homepage";
+@forward "members";
+@forward "policy";
+@forward "social";
+@forward "resources";
+@forward "news";
+@forward "pma";
 
 
 // -------------------------------------
