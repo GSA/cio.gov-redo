@@ -211,13 +211,13 @@ $z-index-overlay: 400;
     }
   }
 
-  .usa-logo {
-    @include at-media($theme-navigation-width) {
-      font-size: font-size($theme-header-font-family, 'xl');
-      margin: units(4) 0 units(3);
-      max-width: 50% !important;
-    }
-  }
+  // .usa-logo {
+  //   @include at-media($theme-navigation-width) {
+  //     font-size: font-size($theme-header-font-family, 'xl');
+  //     margin: units(4) 0 units(3);
+  //     max-width: 50% !important;
+  //   }
+  // }
 
   .usa-navbar {
     @include at-media($theme-navigation-width) {
@@ -269,5 +269,14 @@ $z-index-overlay: 400;
       left: 0;
       padding-left: units($theme-site-margins-width);
     }
+  }
+}
+
+
+@media (min-width: 64em) {
+  .usa-header--extended .usa-logo {
+      font-size: 2.1294117647rem;
+      margin: 2rem 0 1.5rem;
+      max-width: 50% !important;
   }
 }
