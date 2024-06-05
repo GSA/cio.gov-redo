@@ -20,7 +20,7 @@ Agencies are required, as directed by the EO and Advancing American AI Act, to m
 
 ## Related Policies, Priorities and Resources ##
 
-<div class="usa-media-block tablet:grid-col-12">
+<div class="tablet:grid-col-12">
     <div class="policies" style="position: relative; height: 736px;">
         <div class="tablet:grid-col-3 grid-spacing policy guidance data-center-consolidation archive" style="position: absolute; left: 0px; top: 0px;">
             <div class="shadow-1 guidance-border"  >
