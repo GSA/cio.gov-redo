@@ -67,7 +67,7 @@ $button-stroke: inset 0 0 0 units($theme-button-stroke-width);
   &.usa-button--hover {
     @include add-knockout-font-smoothing;
     background-color: color('accent-cool-dark');
-    color: color('white');
+    color: color('white') !important;
   }
 
   &:active,
