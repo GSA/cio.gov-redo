@@ -1270,3 +1270,8 @@ ul.add-list-reset {
     margin-top: 50px;
   }
 }
+
+.usa-banner__lock-image {
+  height: 1.5ex;
+  width: 1.21875ex;
+}
