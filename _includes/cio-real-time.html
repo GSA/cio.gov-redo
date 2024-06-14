@@ -19,7 +19,7 @@ This section highlights the real time events on CIO.gov, including Twitter feed,
     </div>
     {% for project in site.posts limit:1 %}
     <div class="tablet:grid-col" >
-      <div class="card-link" tabIndex="-1" onclick="location.href='{{site.baseurl}}{{ project.permalink}}';">
+      <div class="card-link" tabIndex="0" onclick="location.href='{{site.baseurl}}{{ project.permalink}}';">
       {% include home-news.html
         image_src=project.image
         image_alt=project.img-alt
