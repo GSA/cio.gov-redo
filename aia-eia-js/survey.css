@@ -234,7 +234,7 @@ a:focus, a:hover {
 }
 
 .btn.sv_complete_btn {
-  display: inline-block !important;
+  display: inline-block;
 }
 
 .usa-banner > .container {
