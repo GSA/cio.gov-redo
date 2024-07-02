@@ -10,7 +10,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.2.2"
+gem "jekyll", "~> 4.3.3"
 gem "execjs", "2.7.0" # https://github.com/rails/execjs/issues/99
 gem "mini_racer"
 gem "autoprefixer-rails"
