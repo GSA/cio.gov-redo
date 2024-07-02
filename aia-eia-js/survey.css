@@ -234,7 +234,7 @@ a:focus, a:hover {
 }
 
 .btn.sv_complete_btn {
-  display: inline-block !important;
+  display: inline-block;
 }
 
 .usa-banner > .container {
@@ -1269,4 +1269,9 @@ ul.add-list-reset {
   main#wb-cont {
     margin-top: 50px;
   }
+}
+
+.usa-banner__lock-image {
+  height: 1.5ex;
+  width: 1.21875ex;
 }

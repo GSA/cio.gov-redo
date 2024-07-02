@@ -211,13 +211,13 @@ $z-index-overlay: 400;
     }
   }
 
-  .usa-logo {
-    @include at-media($theme-navigation-width) {
-      font-size: font-size($theme-header-font-family, 'xl');
-      margin: units(4) 0 units(3);
-      max-width: 50%;
-    }
-  }
+  // .usa-logo {
+  //   @include at-media($theme-navigation-width) {
+  //     font-size: font-size($theme-header-font-family, 'xl');
+  //     margin: units(4) 0 units(3);
+  //     max-width: 50% !important;
+  //   }
+  // }
 
   .usa-navbar {
     @include at-media($theme-navigation-width) {
@@ -271,3 +271,4 @@ $z-index-overlay: 400;
     }
   }
 }
+
