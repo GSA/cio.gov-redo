@@ -33,4 +33,4 @@ Our CoP affiliates are also great resources and partners in achieving our priori
 
 &nbsp;
 
-<a href="{{site.baseurl}}">&#10094; &nbsp; Back to Home</a><br>
+<a href="{{site.baseurl}}/">&#10094; &nbsp; Back to Home</a><br>
