@@ -39,4 +39,4 @@ You can review [our statutory requirements](https://www.govinfo.gov/content/pkg/
 
 &nbsp;
 
-<a href="{{site.baseurl}}">&#10094; &nbsp; Back to Home</a><br>
+<a href="{{site.baseurl}}/">&#10094; &nbsp; Back to Home</a><br>
