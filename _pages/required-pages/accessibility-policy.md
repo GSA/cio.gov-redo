@@ -31,4 +31,4 @@ If you have a problem viewing any material on CIO.gov or have questions about ou
 
 &nbsp;
 
-<a href="{{site.baseurl}}">&#10094; &nbsp; Back to Home</a><br>
+<a href="{{site.baseurl}}/">&#10094; &nbsp; Back to Home</a><br>
