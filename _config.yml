@@ -52,8 +52,6 @@ primary_navigation:
         url: /policies-and-priorities/
       - name: CIO Handbook
         url: /cio-handbook/
-      - name: AIA tool
-        url: /aia-eia-js/
       - name: Federal IT Ops Plan
         url: /assets/files/Federal-IT-Operating-Plan-June-2022.pdf
       - name: Join the Government
@@ -238,6 +236,7 @@ exclude:
   - README.md
   - src
   - _unpublished
+  - aia-eia-js
 
 autoprefixer:
   browsers:
