@@ -173,18 +173,18 @@
           "agencyName": "Department of Housing and Urban Development",
           "agencyCode": "025",
           "cio": {
-            "firstName": "Beth",
-            "lastName": "Niblock",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_niblock.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/beth-niblock/",
+            "firstName": "Sairah",
+            "lastName": "Ijaz",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_ijaz.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/sairah-ijaz/",
             "deptCIO": "1",
-            "bio_link":"beth-niblock",
+            "bio_link":"sairah-ijaz",
             "banner_subtitle": "Team and Leadership",
             "banner_title":"About Our Council",
             "leadership": false,
-            "position": "Chief Information Officer",
-            "bio-image": "/bio_niblock.jpg",
-            "description": "Beth Niblock was appointed as the CIO for the Department of Housing and Urban Development in July of 2021.<br><br>Prior to her appointment as CIO of HUD, she was the Chief Information Officer for the City of Detroit, where she was able launch GO DATA, the city’s first effort to make non-personal, public information broadly accessible to the public during her first year as CIO. As the CIO for the City of Detroit, she managed significant upgrades to infrastructure, putting systems in place to make city business transparent, and making Detroit online an easy place to do business with.<br><br>Before coming to Detroit, Niblock was the first CIO appointed to a merged Louisville-Jefferson County Metro Government in 2003. She was challenged with unifying IT systems and infrastructure, while concurrently implementing a new financial system and a unified communications center for the newly merged city-county government.<br><br>Beth holds a BA from Furman University."
+            "position": "Acting Chief Information Officer",
+            "bio-image": "/bio_ijaz.png",
+            "description": "Sairah Ijaz currently serves as the Acting Chief Information Officer at the U.S. Department of Housing and Urban Development (HUD). Her professional interest focus on leveraging data to enhance operations and facilitate more efficient product and service delivery. She believes in the power of data-driven decision-making to transform processes and deliver measurable improvements. With over 20 years of service to the federal government, her commitment to excellence is evident in her methodical approach to problem-solving where she enables strategic and innovative solutions. Her dedication to continuous improvement and her ability to translate complex data into actionable insights have made her a respected leader and a driving force behind many successes throughout her federal tenure.<br><br>In her role as the Deputy CIO, Mrs. Ijaz oversaw HUD’s delivery of information technology solutions and services to enable the Department to meet its mission. As part of her primary responsibilities, she was charged with creating a dynamic and collaborative leadership team, along with establishing governance for IT operations. To support these critical duties, she directed strategic planning for technology implementation, maintained effective data governance, oversaw the IT cost management strategy, and leveraged stakeholder collaboration to drive digital transformation or improved business processes and an enhanced customer experience.<br><br>After earning her degree in Information Systems and Operations & Quality Management from the R.H. Smith School of Business at the University of Maryland, College Park, Mrs. Ijaz went on to earn her certification as a Project Management Professional (PMP) and a Certified Information System Auditor (CISA). She is currently pursuing a Master of Science in Business Analytics at Georgetown University. She previously worked at the Nuclear Regulatory Commission, U.S. Social Security Administration, and U.S. Government Accountability Office. Mrs. Ijaz is also on the Board for a 501c3 charity, Liver Mommas & Families, supporting families of children with life-threatening liver disease and/or liver transplants."
           }
         }
       }
@@ -361,13 +361,13 @@
           "agencyName": "Department of Education",
           "agencyCode": "018",
           "cio": {
-            "firstName": "Dennis",
-            "lastName": "Johnson",
+            "firstName": "Brian",
+            "lastName": "Bordelon",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_johnson.jpeg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/johnson-dennis/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_bordelon.pn",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/brian-bordelon/",
             "deptCIO": "1",
             "address": {
               "address1": "Department of Education 550 12th Street, SW Washington, DC 20202",
@@ -376,13 +376,13 @@
               "state": "DC",
               "zip": "20202"
             },
-            "bio_link":"johnson-dennis",
+            "bio_link":"brian-bordelon",
             "banner_subtitle": "Team and Leadership",
             "banner_title":"About Our Council",
             "leadership": false,
             "position": "Acting Chief Information Officer",
-            "bio-image": "/bio_johnson.jpeg",
-            "description": "<p>Dennis (Denny) Johnson is serving as the Acting Chief Information Officer at the U.S. Department of Education while the job is being formally filled. He joined Education in 2023 as Federal Student Aid’s Directory of Strategy and Performance.</p><p>Prior to Education, Denny spent 18 years at the U.S. Department of Labor, holding a variety of positions, including the Acting Deputy Assistant Secretary for Administration and Management, Director of the Performance Management Center, and analyst positions in the Veterans’ Employment and Training Service and the Employment and Training Administration.</p>"
+            "bio-image": "/bio_bordelon.png",
+            "description": "Brian Bordelon is serving as the Acting Chief Information Officer at the U.S. Department of Education while the job is being formally filled. He joined Education in 2023 as Director of Enterprise Service Technology.<br><br>Prior to Education, Brian spent time at the Environmental Protection Agency, holding a variety of positions, including the Deputy Director for Information Technology and Resource Management, Information Management Officer, and positions for the Defense Logistics Agency and the U.S. Army leading efforts for capability development and multinational interoperability for cyber electromagnetic activities (CEMA).<br><br>Brian holds a Bachelor of Science in Management as well as Master of Science in Administration and IT Resource Management. Brian also has completed the National Defense University Chief Information Officer (CIO) graduate program and the Federal Executive Institute (FEI) Leadership for a Democratic Society programs.<br><br>Brian is a U.S. Marine Corps veteran. He currently resides in northern Virginia with his wife and daughter."
           }
         }
       }
@@ -750,20 +750,20 @@
           "agencyCode": "",
           "cio": {
             "leadership": true,
-            "firstName": "Chris",
-            "lastName": "DeRusha",
+            "firstName": "Michael",
+            "lastName": "Duffy",
             "email": "",
             "phone": "",
-            "position": "Federal Chief Information Security Officer",
+            "position": "Acting Federal Chief Information Security Officer",
             "dateAppointed": "",
             "linkToPhoto": "",
             "linkToBio": "",
             "deptCIO": "",
-            "bio_link":"derusha-chris",
+            "bio_link":"duffy-michael",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
-            "bio-image": "/derusha-chris.jpg",
-            "description":"In January 2021, Chris DeRusha was appointed as the Federal Chief Information Security Officer in the Office of Management and Budget (OMB), Office of the Federal Chief Information Officer (OFCIO). Before coming back to federal government, DeRusha served as the Chief Information Security Officer for the Biden for President campaign. Prior to joining the campaign in June 2020, he served as the Chief Security Officer for the State of Michigan. DeRusha has extensive experience managing cybersecurity and critical infrastructure programs and operations both in the public and private sectors. DeRusha led Ford Motor Company's Enterprise Vulnerability Management program and has over eight years of Federal Government experience working both at the Office of Management and Budget and the U.S. Department of Homeland Security. He holds a Master’s in Security Studies from Columbia University and a Bachelor’s in Business Administration from James Madison University."
+            "bio-image": "/bio_duffy.png",
+            "description":"Michael Duffy serves as the interim Federal Chief Information Security Officer, responsible for driving cybersecurity policy development and adoption, overseeing strategy alignment and implementation efforts, and ensuring cyber program improvement and maturation across the Federal Government.<br><br>Duffy has extensive experience managing high visibility cybersecurity and critical infrastructure programs and operations, most recently at the U.S. Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency (CISA). He was the Associate Director for Capacity Building within CISA’s Cybersecurity Division where he led the management and growth of the federal cybersecurity portfolio including the government’s flagship cyber program, Continuous Diagnostics and Mitigation (CDM), which provides agencies with foundational cyber capabilities and enables interactive, operational cyber defense for the Federal IT Enterprise.<br><br>While at CISA, Duffy led interagency cybersecurity risk management efforts through through the development and execution of key federal cybersecurity policies and initiatives; managed the cyber practitioner training portfolio; and assisted federal and critical infrastructure technology executives and other national stakeholders in meeting security and technology modernization goals. He established the Federal Enterprise Improvement Team to advance and unify collective cyber defense; built CISA’s cybersecurity directives program which established the federal government as an indsutry leader in cybersecurity; and designed and matured the United States’ first government-wide shared cybersecurity services office which provides modern security capabilities to over one hundred agencies and dozens of critical infrastructure entities, and protects over four million assets.<br><br>Duffy chairs the Federal Chief Information Security Officers (CISO) Council, the primary body for interagency CISO collaboration and communication. He also serves as a tri-chair of the Committee for National Security Systems, the deputy chair of the Federal Acquisition Security Council, and as a board member of the Technology Modernization Fund, DHS’s Cyber Safety Review Board and the National Institute for Standards and Technology’s Information Security and Privacy Advisory Board to provide cybersecurity expertise and recommendations to Cabinet Secretaries. <br><br>Duffy holds a Master of Public Administration degree from the George Washington University, is a graduate of the Harvard Kennedy School’s Senior Executive Fellows program, and is a two-time recipient of the Secretary of Homeland Security’s Meritorious Service award for his contributions to national-level cybersecurity."
           }
         }
       }
@@ -808,13 +808,13 @@
           "agencyName": "Department of Commerce",
           "agencyCode": "006",
           "cio": {
-            "firstName": "Ryan",
-            "lastName": "Higgins",
+            "firstName": "Brian",
+            "lastName": "Epley",
             "email": "",
             "phone": "202-482-4797",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_higgins.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/ryan-higgins/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_epley.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/brian-epley/",
             "deptCIO": "1",
             "address": {
               "address1": "",
@@ -823,13 +823,13 @@
               "state": "",
               "zip": ""
             },
-            "bio_link":"ryan-higgins",
+            "bio_link":"brian-epley",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
-            "position": "Acting Chief Information Officer",
-            "bio-image": "/bio_higgins.jpg",
-            "description": "Mr. Higgins serves as the Department of Commerce (DOC) Acting Chief Information Officer (CIO) and Chief AI Officer (CAIO) as of January 1, 2024.  Previously, Mr. Higgins served as the DOC Chief Information Security Officer (CISO) and Deputy Chief Information Officer (DCIO), where he provided leadership for the DOC cybersecurity program to establish policies and procedures for the Department and its Bureaus in accordance with the Federal Information Security Modernization Act (FISMA) of 2014, implement enterprise cybersecurity functions, and coordinate incident response activities on behalf of the Department.<br><br>Prior to his position at the DOC, Mr. Higgins held a variety of leadership roles within the Department of Justice (DOJ) including Assistant Director for Administration at the United States Trustee Program (USTP), as well as several roles within the Justice Management Division (JMD) Office of the Chief Information Officer (OCIO), including Acting Director for Policy and Planning, Acting Director for Service Engineering, and Assistant Director for Cybersecurity Services.<br><br>Mr. Higgins is a graduate of the University of Maryland University College, the University of the District of Columbia, the Federal Executive Institute (FEI) Leadership for a Democratic Society Program, and the Harvard Kennedy School (HKS) Executive Education Program.  Mr. Higgins is also a Certified Information Systems Security Professional (CISSP)."
+            "position": "Chief Information Officer",
+            "bio-image": "/bio_epley.png",
+            "description": "Brian Epley serves as the Chief Information Officer of the U.S. Department of Commerce.<br><br>Brian previously served at the U.S. Department of Energy as the Principal Deputy Chief Information Officer (2022-24). Brian led the Office of the Chief Information Officer (CIO) and assisted the CIO in the formation of the office’s strategic direction for the protection and modernization of IT, cybersecurity, data usage, and digitization to serve the Department’s mission.<br><br>Brian previously served in key executive leadership positions with the Environmental Protection Agency (2016-22) including Principal Deputy Assistant Administrator for Administration and Resources Management, Deputy CIO and Director of the Office of Information Technology Operations, and Chief Technology Officer for the Office of Environmental Information.<br><br>Brian is a seasoned executive with more than 25 years’ experience across public and private sectors. Throughout his career he has distinguished himself as an entrepreneur and innovative change leader with the unique ability to deliver strategically aligned and value-added services. Prior government roles include Homeland Security Presidential Directive-12 Technical Director of the Department of Veterans Affairs Office of Information and Technology and IT Services Director of the Virginia Information Technologies Agency serving the Commonwealth of Virginia Office of the Governor. Brian also held various leadership roles in the private sector at the Computer Science Company, Northrop Grumman, North Highland Worldwide Consulting, and as the founding President of Inter Solve-IT focused on enterprise transformation, research and development, IT, and enterprise operations.<br><br>Brian was recently elected to serve as Vice President at Large on the American Council for Technology Executive Committee. Brian previously served on the Virginia Commonwealth University School of Business Society Board of Directors and Virginia State University IT Advisory Council Board of Directors. Brian received the Department of Veterans Affairs honor award for, “Getting to Green” on the President’s Management Agenda of Human Capital and the “Top 40 Under 40 Award” for service in the Commonwealth of Virginia.<br><br>Brian holds a Master of Business Administration degree, specializing in International Business and a Bachelor of Science degree, Management Information Systems, from the Virginia Commonwealth University. Brian was also selected and worked as a Ph.D. candidate, Information Security Assurance at George Mason University’s Volgenau School of Engineering and Computing."
           }
         }
       }
