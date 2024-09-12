@@ -24,7 +24,7 @@ The Council promotes collaboration and community building among Federal Agency C
 * Performance Metrics
 
 # Leadership
-**Christopher DeRusha, Chair**<br/>
+**Mike Duffy, Chair**<br/>
 Federal Chief Information Security Officer<br/>
 Office of Management and Budget<br/>
 
