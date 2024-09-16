@@ -87,18 +87,24 @@ ol.alpha {
   img {
     max-height: 100%;
     max-width: 100px;
-    height: 120px;
+    height: 130px;
   }
 
   .left {
     width: auto;
-    height: 120px;
+    min-height: 130px;
   }
 
   .right {
     float: none;
     display: inline-block;
-    height: 120px;
+    min-height: 130px;
+  }
+
+  @media screen and (max-width: 700px) {
+    .right {
+      height: auto;
+    }
   }
 
   .role {
