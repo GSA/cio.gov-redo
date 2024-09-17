@@ -20,10 +20,10 @@ Chief Information Officer<br/>
 Agency for International Development<br/>
 [View Jason Gray's profile]({{ site.baseurl }}/about/members-and-leadership/gray-jason/)
 
-**Gary Washington, Tri-Chair**<br/>
+**Adele Merritt, Tri-Chair**<br/>
 Chief Information Officer<br/>
-US Department of Agriculture<br/>
-[View Gary Washington's profile]({{ site.baseurl }}/about/members-and-leadership/washington-gary/)
+Office of the Director of National Intelligence<br/>
+[View Adele Merritt's profile]({{ site.baseurl }}/about/members-and-leadership/merritt-adele/)
 
 **Darren Ash, Tri-Chair**<br/>
 Chief Information Officer<br/>
