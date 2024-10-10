@@ -126,7 +126,7 @@ There's a place for everyone. We look forward to you joining us -- you'll never 
     </tr>
     <tr>
       <td>All Levels</td>
-      <td><a href="https://www.faitfellowship.org/" aria-label="Foreign Affairs Information Technology (FAIT), opens in a new window" target="_blank">Foreign Affairs Information Technology</a></td>
+      <td><a href="https://www.faitfellowship.org/" aria-label="Foreign Affairs Information Technology (FAIT), opens in a new window" target="_blank">Foreign Affairs Information Technology Fellowship</a></td>
       <td>The Foreign Affairs Information Technology (FAIT) Fellowship seeks to attract top technology talent to the Foreign Service that reflects the diversity of the United States. The program is designed for highly talented individuals who want to pursue an IT-related undergraduate or graduate degree (such as computer science, information technology, cybersecurity, computer engineering, IT services administration, and computer systems networking and more), and a career in the Foreign Service.</td>
     </tr>
   </tbody>
