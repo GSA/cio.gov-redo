@@ -50,6 +50,8 @@ primary_navigation:
     children:
       - name: Policy and Priority Catalog
         url: /policies-and-priorities/
+      - name: Zero Trust Data Strategy Guide
+        url: /zero-trust-data-security-guide-oct2024/
       - name: CIO Handbook
         url: /cio-handbook/
       - name: Federal IT Ops Plan
