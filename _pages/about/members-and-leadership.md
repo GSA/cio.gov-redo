@@ -18,6 +18,7 @@ Our members represent CIOs from across the U.S. Federal Government Executive Bra
 ## Council Committees
 We also have committees that focus on certain Council priorities. These include:
 * [Chief Information Security Officer Council]({{ site.baseurl }}/about/members-and-leadership/ciso-council/)
+* [Digital Experience Council]({{ site.baseurl }}/about/members-and-leadership/dx-council/)
 * [Innovation Committee]({{ site.baseurl }}/about/members-and-leadership/innovation-committee/)
 * [Enterprise Operations Committee]({{ site.baseurl }}/about/members-and-leadership/e-ops/)
 * [Workforce Committee]({{ site.baseurl }}/about/members-and-leadership/workforce-committee/)
