@@ -2,8 +2,8 @@
 layout: post
 title: CISO Council and CDO Council Release Joint Guide on Federal Zero Trust Data Security
 excerpt: 'Today, the CISO Council and CDO Council released the Federal Zero Trust (ZT) Data Security Guide, a first-of-its-kind document and key deliverable of OMB M-22-09, Moving the U.S. Government Towards Zero Trust Cybersecurity Principles. M-22-09 charged the Federal CDO Council and Federal CISO Council to convene a cross-agency working group of data and security experts to develop a data security guide for Federal agencies.'
-date: 30 October 2024
-display-date: 30 October 2024
+date: 31 October 2024
+display-date: 31 October 2024
 author: Steven Hernandez, Department of Education CISO, Co-Chair of CISO Council, and Kirsten Dalboe, Federal Energy Regulatory Commission CDO, Chair of CDO Council
 tags: Cybersecurity Data Collaboration Guidance
 permalink: /federal-zero-trust-data-security-guide/
