@@ -361,13 +361,13 @@
           "agencyName": "Department of Education",
           "agencyCode": "018",
           "cio": {
-            "firstName": "Brian",
-            "lastName": "Bordelon",
+            "firstName": "Thomas",
+            "lastName": "Flagg",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_bordelon.pn",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/brian-bordelon/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/flagg-thomas-02.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/thomas-flagg/",
             "deptCIO": "1",
             "address": {
               "address1": "Department of Education 550 12th Street, SW Washington, DC 20202",
@@ -376,12 +376,12 @@
               "state": "DC",
               "zip": "20202"
             },
-            "bio_link":"brian-bordelon",
+            "bio_link":"thomas-flagg",
             "banner_subtitle": "Team and Leadership",
             "banner_title":"About Our Council",
             "leadership": false,
-            "position": "Acting Chief Information Officer",
-            "bio-image": "/bio_bordelon.png",
+            "position": "Chief Information Officer",
+            "bio-image": "/flagg-thomas-02.jpg",
             "description": "Brian Bordelon is serving as the Acting Chief Information Officer at the U.S. Department of Education while the job is being formally filled. He joined Education in 2023 as Director of Enterprise Service Technology.<br><br>Prior to Education, Brian spent time at the Environmental Protection Agency, holding a variety of positions, including the Deputy Director for Information Technology and Resource Management, Information Management Officer, and positions for the Defense Logistics Agency and the U.S. Army leading efforts for capability development and multinational interoperability for cyber electromagnetic activities (CEMA).<br><br>Brian holds a Bachelor of Science in Management as well as Master of Science in Administration and IT Resource Management. Brian also has completed the National Defense University Chief Information Officer (CIO) graduate program and the Federal Executive Institute (FEI) Leadership for a Democratic Society programs.<br><br>Brian is a U.S. Marine Corps veteran. He currently resides in northern Virginia with his wife and daughter."
           }
         }
