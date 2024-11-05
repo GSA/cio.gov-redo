@@ -361,13 +361,13 @@
           "agencyName": "Department of Education",
           "agencyCode": "018",
           "cio": {
-            "firstName": "Brian",
-            "lastName": "Bordelon",
+            "firstName": "Thomas",
+            "lastName": "Flagg",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_bordelon.pn",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/brian-bordelon/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/flagg-thomas-02.jpg",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/thomas-flagg/",
             "deptCIO": "1",
             "address": {
               "address1": "Department of Education 550 12th Street, SW Washington, DC 20202",
@@ -376,13 +376,13 @@
               "state": "DC",
               "zip": "20202"
             },
-            "bio_link":"brian-bordelon",
+            "bio_link":"thomas-flagg",
             "banner_subtitle": "Team and Leadership",
             "banner_title":"About Our Council",
             "leadership": false,
-            "position": "Acting Chief Information Officer",
-            "bio-image": "/bio_bordelon.png",
-            "description": "Brian Bordelon is serving as the Acting Chief Information Officer at the U.S. Department of Education while the job is being formally filled. He joined Education in 2023 as Director of Enterprise Service Technology.<br><br>Prior to Education, Brian spent time at the Environmental Protection Agency, holding a variety of positions, including the Deputy Director for Information Technology and Resource Management, Information Management Officer, and positions for the Defense Logistics Agency and the U.S. Army leading efforts for capability development and multinational interoperability for cyber electromagnetic activities (CEMA).<br><br>Brian holds a Bachelor of Science in Management as well as Master of Science in Administration and IT Resource Management. Brian also has completed the National Defense University Chief Information Officer (CIO) graduate program and the Federal Executive Institute (FEI) Leadership for a Democratic Society programs.<br><br>Brian is a U.S. Marine Corps veteran. He currently resides in northern Virginia with his wife and daughter."
+            "position": "Chief Information Officer",
+            "bio-image": "/flagg-thomas-02.jpg",
+            "description": "We welcome Thomas N. Flagg who’s joining us as our new Chief Information Officer (CIO).<br><br>He brings over two decades of business and information technology knowledge composed of both private sector and government experiences. He currently serves as the Director of Business Application Services (BAS) within the Office of the Chief Information Officer at the United States Department of Labor. In this role, he leads a team of three executives, and approximately 120 federal and 600+ contract staff in building and delivering business applications to the 26 DOL subcomponent mission agencies and the public. Prior to this, he served as the Directorate of Information Technology Operations and Services (ITOS) “the right tools at the right time” inclusive of infrastructure, unified communications, and applications platforms in the cloud and DOL data centers to support the varied and diverse sub-agency missions DOL supports.<br><br>He actively leads his management team in setting strategy, vision and direction to derive DOL’s operational plan and collaborates with the serviced agencies to manage and execute plan implementation using departmental capabilities. Most recently, he was instrumental in the recent Enterprise Shared Service Information Technology consolidation activities within DOL helping to integrate over 22 subcomponent agencies under the authority of the CIO. This has proven to help improve DOL’s Enterprise Architecture, Governance and Procurement Strategies and has saved DOL significant IT expense resulting from more efficient use of IT resources.<br><br>He was also honored to receive the Service to the Citizen Award for his leadership of IT Operations for the Department of labor during the Covid-19 pandemic ensuring minimal downtime of DOL staff to immediately transition to 100% telework.<br><br>Prior to joining the Senior Executive Service, he has served as the Director of IT for the Wage and Hour Division, a Supervisory IT Specialist and a technical and management advisor to the Director of IT within the Office of Workers Compensation Programs (OWCP). Prior to working within OWCP, he was within the Employment Training Administrator (ETA) serving as the branch chief and working to expand the program management office (PMO) for the Agency.<br><br>Prior to converting to federal service in June 2013, Thomas worked as a small business consultant within ETA and has firsthand experience delivering systems as a web application programmer and project manager for the Office of Foreign Labor Certification, National Emergency Grants (now known as National Dislocation Worker Grants) and a multitude of other ETA systems. His additional work experiences in the private sector were as the Internet Services Manager at Recorded Books (the largest manufacturer of recorded audio), Lead Software Developer and Technology Manager of the InTouch patient medical records pharmacy system at Health Objects (a health services IT subsidiary of OmniCare—the largest institutional pharmacy at that time), the Manager and Technical Lead of the Insurance vertical at ZonaFinanciera.com (a Latin American financial services firm based in Fairfax, VA during the dot com era), GTE (prior to and during the Verizon Merger) and Intel Corporation as technical management contributor and trainee.<br><br>In his personal life, he was born and raised in the Washington DC area. He received his Bachelor of Science degree in Mechanical Engineering from Howard University (1998), and later received the Master in Business Administration and the Master in Business Management with a focus on Information Systems Management from the University of Maryland’s Smith School of Business (2009). Thomas also holds numerous technical certifications. Thomas is married to his wife LeShelle, and together they have two children Lena and Saint."
           }
         }
       }
