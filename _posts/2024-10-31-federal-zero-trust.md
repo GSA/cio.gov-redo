@@ -5,7 +5,7 @@ excerpt: 'Today, the CISO Council and CDO Council released the Federal Zero Trus
 date: 31 October 2024
 display-date: 31 October 2024
 author: Steven Hernandez, Department of Education CISO, Co-Chair of CISO Council, and Kirsten Dalboe, Federal Energy Regulatory Commission CDO, Chair of CDO Council
-tags: Cybersecurity Data Collaboration Guidance
+tags: cybersecurity data collaboration guidance
 permalink: /federal-zero-trust-data-security-guide/
 ---
 
