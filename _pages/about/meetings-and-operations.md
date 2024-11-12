@@ -22,8 +22,7 @@ The CIO Council hosts monthly meetings with CIOs, Chief Information Security Off
 
 -   [Digital Experience (DX) Council](https://community.connect.gov/display/Egov/Digital+Experience+Council) **(Connect.gov Login Required)**
 
-> The DX Council was established as a subcommittee of the Federal Chief Information Officer’s
-Council (CIO Council) per the process outlined in the charter of the CIO Council. The creation of the DX Council was required by Office of Management and Budget (OMB) Memorandum M-23-22 – Delivering a Digital-First Public Experience.
+> The creation of the DX Council was required by Office of Management and Budget (OMB) Memorandum M-23-22 – Delivering a Digital-First Public Experience.
 
 > A strong digital experience is crucial for Federal agencies to fulfill their missions and best serve the American public. The public expects and deserves a simple, seamless and secure experience when interacting with government websites and digital services. Improving these interactions is a significant opportunity to make it easier to access the information and services that millions use and count on each and every day. Achieving this requires coordination across Federal agencies, programs, and the various functions involved in delivering digital experiences. The DX Council will play a critical role in coordinating government-wide efforts and assisting agencies in delivering digital experiences that meet the public’s needs and expectations.
 
