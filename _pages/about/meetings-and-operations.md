@@ -79,7 +79,7 @@ Below is the current schedule for both Full Council and Executive Committee meet
 * **May -** Wednesday, May 15, 2024
 * **June -** Wednesday, June 19, 2024
 
-**CISO Council:**
+**DX Council:**
 * **December -** Wednesday, December 4, 2024
 
 <br>
