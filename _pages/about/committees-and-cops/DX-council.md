@@ -13,15 +13,16 @@ delivering digital experiences that meet the public’s needs and expectations.
 
 # Leadership
 **Gary Washington, Co-Chair**<br/>
-Chief Information Officer United States Department of Agriculture
+Chief Information Officer<br/>
+United States Department of Agriculture
 
-**Abby Bowman, Co-chair**<br/>
+**Abby Bowman, Co-Chair**<br/>
 Web Modernization Lead<br/>
 National Aeronautics and Space Administration
 
 **Jonathan Finch**<br/>
 Director, Digital Experience<br/>
-NOffice of Management and Budget (OMB) Office of the Federal CIO (OFCIO)
+Office of Management and Budget (OMB) Office of the Federal CIO (OFCIO)
 
 **Lauren Bracey-Scheidt**<br/>
 Assistant Commissioner, Office of Solutions<br/>
