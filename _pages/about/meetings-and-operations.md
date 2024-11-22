@@ -6,7 +6,8 @@ permalink: /about/operations/
 description: The CIO Council hosts monthly meetings with CIOs, Chief Information Security Officers, or their designated representatives. Key topics of discussion include CIO Council priorities. 
 ---
 ## Operations
-The Council holds monthly meetings with CIOs, Chief Information Security Officers (CISO) and their designated representatives to discuss key priorities. Members also exchange best practices and address challenges related to IT policy and priorities. Members can also review previous meeting agendas and materials (Connect.gov Login Required) on the CIO Council Home Page
+The Council holds monthly meetings with CIOs, Chief Information Security Officers (CISO), and their designated representatives to discuss key priorities. Members also exchange best practices and address challenges related to IT policy and priorities. Members can also review [previous meeting agendas and materials](https://login.max.gov/cas/login?service=https%3A%2F%2Fcommunity.connect.gov%2Fpages%2Fviewpage.action%3FspaceKey%3DEgov%26title%3DCIO%2BCouncil%2BHome%2BPage) (Connect.gov Login Required) on the CIO Council Home Page.
+
 
 ## CIO Resources
 ### Committee Pages
