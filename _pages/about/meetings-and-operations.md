@@ -6,7 +6,7 @@ permalink: /about/operations/
 description: The CIO Council hosts monthly meetings with CIOs, Chief Information Security Officers, or their designated representatives. Key topics of discussion include CIO Council priorities. 
 ---
 ## Operations
-The CIO Council hosts monthly meetings with CIOs, Chief Information Security Officers (CISOs), or their designated representatives. Key topics of discussion include CIO Council priorities. Members also discuss best practices and how to overcome hurdles related to [IT policy and priorities]({{ site.baseurl }}/policies-and-priorities/).
+The Council holds monthly meetings with CIOs, Chief Information Security Officers (CISO) and their designated representatives to discuss key priorities. Members also exchange best practices and address challenges related to IT policy and priorities. Members can also review previous meeting agendas and materials (Connect.gov Login Required) on the CIO Council Home Page
 
 ## CIO Resources
 ### Committee Pages
@@ -56,31 +56,6 @@ Other government-only pages for key Council information include:
 
 [CIO Council Repository](https://community.connect.gov/x/KYfzIQ) **(Connect.gov Login Required)**\
 [CIO Council Executive Committee Repository](https://community.connect.gov/x/8wkGJg) **(Connect.gov Login Required)**
-
-## Meeting Schedule
-Below is the current schedule for both Full Council and Executive Committee meetings. CIOs can also review [previous meeting agendas and materials](https://community.connect.gov/x/tRKDJg) **(Connect.gov Login Required)** on the CIO Council Home Page.
-
-*Note: Committees are scheduled to meet from 2:30-3:20 before each Full Council meeting. All Council meetings are currently held virtually.*<br>
-
-**Full Council:**
-* **January -** Wednesday, January 24, 2024
-* **February -** Wednesday, February 28, 2024
-* **March -** Wednesday, March 27, 2024
-* **April -** Wednesday, April 24, 2024
-* **May -** Wednesday, May 22, 2024
-* **June -** Wednesday, June 26, 2024
-
-**CISO Council:**
-* **January -** Friday, January 26, 2024
-* **February -** Wednesday, February 21, 2024
-* **March -** Wednesday, March 20, 2024
-* **April -** Wednesday, April 17, 2024
-* **May -** Wednesday, May 15, 2024
-* **June -** Wednesday, June 19, 2024
-
-**DX Council:**
-* **December -** Wednesday, December 4, 2024
-
 <br>
 {% for events in site.events %}
 {% if events.title contains 'CIO Council Meeting' %}
