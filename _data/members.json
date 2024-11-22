@@ -2,39 +2,6 @@
   "updated": "2021-09-03T13:36:46",
   "cioInfo": [
     {
-      "title": "Department of Labor CIO Information",
-      "content": {
-        "agency": {
-          "agencyName": "Department of Labor",
-          "agencyCode": "012",
-          "cio": {
-            "firstName": "Gundeep",
-            "lastName": "Ahluwalia",
-            "email": "ahluwalia.gundeep@dol.gov",
-            "phone": "202-693-4446",
-            "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_ahluwalia.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/mr-gundeep-ahluwalia/",
-            "deptCIO": "1",
-            "address": {
-              "address1": "Department of Labor 200 Constitution Avenue, NW Washington, DC 20210",
-              "address2": "",
-              "city": "Washington",
-              "state": "DC",
-              "zip": "20210"
-            },
-            "bio_link": "ahluwalia-gundeep",
-            "banner_subtitle": "Team and Leadership",
-            "banner_title":" About Our Council",
-            "leadership": false,
-            "position": "Chief Information Officer",
-            "bio-image": "/bio_ahluwalia.png",
-            "description": "As a tech leader with a unique view of IT innovation and a deep understanding of technical strategy, Mr. Gundeep Ahluwalia leads the growth and transformation of the Department of Labor’s Information Technology (IT). Since assuming the role of Chief Information Officer (CIO) in October 2016, Mr. Ahluwalia has provided strategic leadership for the Department’s IT planning, initiatives, staffing and services—ultimately advancing the mission critical work that the Department delivers to support American citizens.<br><br>In his role, Mr. Ahluwalia engages and collaborates with senior DOL leadership, DOL agencies leaders, the Office of Management and Budget (OMB), and other key stakeholders to formulate IT strategies, governance policy, budget, and IT investment processes. Under his leadership, he directs IT Modernization projects, ensures information security, and promotes information exchange and accessibility, IT service delivery, and more. Prior to serving as CIO, Mr. Ahluwalia joined the Department as the Deputy CIO in August 2016.<br><br>Mr. Ahluwalia brings more than 20 years of experience in building and implementing enterprise-wide IT capabilities. He has achieved transformational results by building and facilitating global coalitions and customer-focused technical solutions across Europe, Asia, and the United States. While serving as the Deputy Director for the Office of Business Informatics at the Food and Drug Administration (FDA), he facilitated information sharing across diverse, global stakeholders to enhance drug quality and safety.<br><br>He has deep expertise in leading the development of global data exchange standards, with proven success in establishing global informatics standards for complex environments such as drug regulation and global supply chains. While at FDA, he led negotiations with the European Union, Japan, and others to build and adopt the next generation standard for exchange of drug adverse reaction data across the globe—positively impacting pharmacovigilance and early detection of health issues.<br><br>In the private sector, Mr. Ahluwalia implemented a number of global supply chain solutions to a geographically dispersed customer base and ushered innovative solutions enabling standards based item synchronization for global supply chains while serving as Director for IT & Application Support at Agentrics.<br><br>Mr. Ahluwalia holds a Masters of Business Administration from the Amity Business School in India and a Bachelor of Engineering from the Manipal Institute of Technology. He is a recipient of a FDA Honors Award for leading Human Drugs Informatics Platform transformation. He is fluent in English, Hindi, and Punjabi."
-          }
-        }
-      }
-    },
-    {
       "title": "Department of Agriculture Acting CIO Information",
       "content": {
         "agency": {
@@ -317,39 +284,6 @@
             "position": "Chief Information Officer",
             "bio-image": "/bio_noga.png",
             "description": "Vaughn has served in key executive leadership positions with EPA since 2008 and is currently serving as the Principal Deputy Assistant Administrator for Environmental Information and the Deputy Chief Information Officer for EPA. Prior experience includes his role as the Director of the Office of Administration in EPA’s Office of Administration and Resources Management; EPA Chief Technology Officer and Director of the Office of Technology Operations and Planning.<br><br>Before joining EPA, Vaughn spent nearly twelve years as a federal contractor in various information technology and information technology management positions. Vaughn is a seasoned IT professional with more than 20 years’ experience in the field. Throughout his career, he has distinguished himself as an innovative thought leader with the unique ability to deliver strategically aligned, technically sound and cost effective IT solutions."
-          }
-        }
-      }
-    },
-    {
-      "title": "US Army Corps of Engineers CIO Information",
-      "content": {
-        "agency": {
-          "agencyName": "U.S. Army Corps of Engineers",
-          "agencyCode": "202",
-          "cio": {
-            "firstName": "Dovarius L.",
-            "lastName": "Peoples",
-            "email": "dovarius.l.peoples@usace.army.mil",
-            "phone": "202-761-0273",
-            "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_peoples.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/peoples-dovarius/",
-            "deptCIO": "1",
-            "address": {
-              "address1": "HQ USACE/CECI-ZA 441 G St. NW Washington DC, 20314-1000",
-              "address2": "",
-              "city": "Washington",
-              "state": "DC",
-              "zip": "20134"
-            },
-            "bio_link":"peoples-dovarius",
-            "banner_subtitle": "Team and Leadership",
-            "banner_title":"About Our Council",
-            "leadership": false,
-            "position": "Chief Information Officer",
-            "bio-image": "/bio_peoples.png",
-            "description": "Dovarius L. Peoples was selected for the Senior Executive Service July 2018. He assumed the position of the Chief Information Officer/G-6 (CIO/G-6) at the US Army Corps of Engineers on 28 April 2019.  In this role, he serves as the principal advisor to the Corps Commanding General on information technology issues. He is responsible for all aspects of information resource management and information technology for the Corps."
           }
         }
       }
@@ -709,6 +643,39 @@
         }
       }
     }, 
+    {
+      "title": "Department of Labor CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Department of Labor",
+          "agencyCode": "******need info******",
+          "cio": {
+            "firstName": "Louis",
+            "lastName": "Charlier",
+            "email": "******need info******",
+            "phone": "******need info******",
+            "dateAppointed": "******need info******",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/LouisC.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/louis-charlier/",
+            "deptCIO": "1",
+            "address": {
+              "address1": "Department of Labor, 200 Constitution Ave NW, Washington, DC 20210",
+              "address2": "******need info******",
+              "city": "Washington",
+              "state": "DC",
+              "zip": "20210"
+            },
+            "bio_link": "louis-charlier",
+            "banner_subtitle": "Team and Leadership",
+            "banner_title": "About Our Leadership",
+            "leadership": false,
+            "position": "Acting Chief Information Officer",
+            "bio-image": "/LouisC.png",
+            "description": "Louis (Lou) Charlier has more than 30 years of leadership and transformational experience in the military, private, and public sectors initiating and implementing enterprise-wide, IT capabilities and strategies. He currently serves as the acting Chief Information Officer at the U.S. Department of Labor. In this role, he provides strategic leadership for IT capital planning, project initiatives, talent acquisition and enterprise-wide services – ultimately advancing mission-critical work among the department’s 27 agencies, the Office of Management and Budget and other key stakeholders.<br><br>Charlier previously served as the Deputy Chief Information Officer for Administration and Strategy at the Labor Department. Under his guidance and leadership, Charlier has overseen IT program planning and execution and supports the operational infrastructure of more than 250 mission-critical applications for the Enterprise IT environment. He has also provided strategic, tactical, and managerial leadership to federal and technical staff. Most recently, he has been at the forefront of the Biden-Harris administration’s Executive Order calling for the \"Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence.\""
+          }
+        }
+      }
+    },
     {
       "title": "General Services Administration CIO Information",
       "content": {
