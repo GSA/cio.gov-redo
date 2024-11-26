@@ -24,6 +24,9 @@
                                     {% if policies.external-link %}
                                     <p class="title-resources"><a class="text-ink text-no-underline" href="{{ policies.external-link }}">{{ policies.subtitle }}</a></p>
                                     {% endif %}
+                                    {% if policies.no-link %}
+                                    <p class="title-resources"><a class="text-ink text-no-underline">{{ policies.no-link }}</a></p>
+                                    {% endif %}
                                     <!--for 508 accessibility-->
                                     {% if policies.permalink %}
                                     <p class="title-resources"><a title="policy or priority title" class="no-style" href="{{ site.baseurl }}{{ policies.permalink }}">{{ policies.subtitle }}</a></p>
