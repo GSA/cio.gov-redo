@@ -20,7 +20,6 @@
   "license": "CC0-1.0",
   "dependencies": {
     "@uswds/uswds": "3.8.0",
-    "a11y": "^0.5.1",
     "isotope-cells-by-row": "^1.1.4",
     "isotope-layout": "^3.0.6"
   }
