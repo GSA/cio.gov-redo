@@ -28,6 +28,21 @@ Agencies are required, as directed by the EO and Advancing American AI Act, to m
                     <span class="card-tag">Guidance</span>
                     <p class="title-resources">
                     <a
+                            href="{{ site.baseurl }}/assets/resources/2024-Guidance-for-AI-Use-Case-Inventories.pdf"
+                            target="_blank"
+                            style="text-decoration: none; color: black"
+                    >2024 Guidance for AI Use Case Inventories</a
+                    >
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="tablet:grid-col-3 grid-spacing policy guidance data-center-consolidation archive" style="position: absolute; left: 0px; top: 0px;">
+            <div class="shadow-1 guidance-border"  >
+                <div class="text-container">
+                    <span class="card-tag">Guidance</span>
+                    <p class="title-resources">
+                    <a
                             href="{{ site.baseurl }}/assets/resources/2023-Guidance-for-AI-Use-Case-Inventories.pdf"
                             target="_blank"
                             style="text-decoration: none; color: black"
