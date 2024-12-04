@@ -1,11 +1,11 @@
-.tags {
+/*.tags {
   list-style: none;
   display: inline;
   margin: 0;
   overflow: hidden;
   padding: 0; }
 
-.tag {
+ .tag {
   background: #eee;
   border-radius: 3px 0 0 3px;
   color: #333;
@@ -17,7 +17,7 @@
   margin: 5px 10px 10px 5px;
   text-decoration: none;
   -webkit-transition: color 0.2s; }
-
+ */
 .tag::before {
   background: #fff;
   border-radius: 10px;
@@ -29,7 +29,7 @@
   width: 6px;
   top: 10px; }
 
-.tag::after {
+/* .tag::after {
   background: #fff;
   border-bottom: 14px solid transparent;
   border-left: 10px solid #eee;
@@ -45,8 +45,56 @@
 
 .tag:hover::after {
   border-left-color: crimson; }
+ */
 
-.tag-spacing {
+ .tags {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline;
+  flex-wrap: wrap;
+  gap: 10px;
+  /* Controls the space between tags */
+  overflow: hidden;
+}
+
+.tag {
+  position: relative;
+  display: inline-block;
+  padding: 0 20px 0 23px;
+  background-color: #eee;
+  color: #333;
+  /* font-size: 16px; */
+  text-align: center;
+  cursor: pointer;
+  clip-path: polygon(0 0, calc(100% - 10px) 0, 99% 50%, calc(100% - 10px) 100%, 0 100%);
+  /* Creates the arrow shape */
+  transition: background-color 0.3s ease, color 0.3s ease;
+  margin: 5px 10px 10px 5px;
+}
+.tag::before {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: inset 0 1px rgba(0,0,0,.25);
+  content: "";
+  height: 6px;
+  left: 10px;
+  position: absolute;
+  width: 6px;
+  top: 10px
+}
+.tag a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.tag:hover {
+  background-color: #e74c3c;
+  /* Adjust hover color as needed */
+  color: #fff;
+}
+
+ .tag-spacing {
   margin-top:21px;
 }
 
