@@ -26,6 +26,10 @@
   },
   "overrides": {
     "cross-spawn": "^6.0.6",
-    "minimist": "1.2.8"
+    "minimist": "1.2.8",
+    "trim":">=0.0.3",
+    "tough-cookie": ">=4.1.4",
+    "got": ">=11.8.5",
+    "trim-newlines": ">=5.0.0"
   }
 }

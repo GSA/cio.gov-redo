@@ -361,13 +361,13 @@
           "agencyName": "National Archives and Records Administration",
           "agencyCode": "393",
           "cio": {
-            "firstName": "Sheena",
-            "lastName": "Burrell",
+            "firstName": "Gulam",
+            "lastName": "Shakir",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_burrell.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/sheena-burrell/",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/nara_logo.png",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/gulam-shakir/",
             "deptCIO": "1",
             "address": {
               "address1": "National Archives and Records Administration 8601 Adelphi Road College Park, MD\n 20740",
@@ -376,13 +376,13 @@
               "state": "MD",
               "zip": "20740"
             },
-            "bio_link":"sheena-burrell",
+            "bio_link":"gulam-shakir",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
-            "position": "Chief Information Officer",
-            "bio-image": "/bio_burrell.jpg",
-            "description": "Sheena Burrell was appointed the National Archives and Records Administration’s (NARA) Executive/Chief Information Officer (CIO) effective August 1, 2022. Sheena is responsible for establishing the mission, vision, and priorities for the CIO organization to support the preservation of digital and natural digital records and information for the federal government. Sheena began her NARA career in February 2019 and in April 2020, she was appointed to the Deputy Chief Information Officer (DCIO) position, where she was instrumental in leading NARA Information Technology (IT) programs and projects by being accountable for four IT divisions. As the DCIO, she helped to create the IT Strategic Plan, worked to update NARA’s IT governance processes, and collaborated to bring technological advances to NARA.<br><br>Before coming to NARA, Sheena worked for the National Aeronautics and Space Administration (NASA), where she served as an IT Business Manager, and for the Social Security Administration, where she served in a variety of IT positions.<br><br>Sheena earned a Bachelor of Science degree from Towson University. She also holds numerous industry certifications, including being certified as a Contracting Officer Representative (COR), Scaled Agile for Enterprise (SAFE), and Technology Business Management (TBM) Executive."
+            "position": "Acting Chief Information Officer",
+            "bio-image": "/nara_logo.png",
+            "description": "Gulam is NARA's Acting Chief Information Officer, since Dec 2024. Previously, Gulam was NARA’s Chief Technology Officer from 2020. In his CTO role, Gulam established agency-wide enterprise technology architectures and provided program-level IT strategic direction to mission-critical programs.<br><br>Some of Gulam’s recent achievements include exploring options for the transfer of electronic records from various cloud sources, providing secure access to partners in external agencies, migrating legacy applications to the cloud, and advising on the modernization of legacy applications that process requests to veteran’s records.<br><br>Currently, as NARA's Chief AI Officer, Gulam is leading a few AI-related pilots to improve search within the National Archives Catalog, to detect personally identifiable information (PII) within NARA records before releasing it to the public, and to create an AI-assisted first draft of descriptive metadata for NARA’s records.<br><br>In the past, Gulam has served as NARA’s Chief Data Officer and as a System Architect within Information Services since 2016. Before joining NARA, Gulam served in various technical leadership roles at DataXu, Inc., Marchex, Inc., and IBM Corporation. He has a Master of Science degree in computer science from West Virginia University."
           }
         }
       }
