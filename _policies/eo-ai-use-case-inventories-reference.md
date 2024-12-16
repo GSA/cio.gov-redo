@@ -28,7 +28,7 @@ Agencies are required, as directed by the EO and Advancing American AI Act, to m
                     <span class="card-tag">Resource</span>
                     <p class="title-resources">
                     <a
-                            href="#"
+                            href="https://github.com/ombegov/2024-Federal-AI-Use-Case-Inventory"
                             target="_blank"
                             style="text-decoration: none; color: black"
                     >Consolidated 2024 Federal AI Use Case Inventory</a
