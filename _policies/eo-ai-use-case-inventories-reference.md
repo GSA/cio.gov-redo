@@ -19,8 +19,8 @@ The consolidated 2024 Federal AI Use Case Inventory, current as of December 16, 
 This year’s inventory significantly expands on prior years’ reporting, demonstrating transparency in how the United States is investing in AI for the public good. Agencies are required to identify whether their use of AI impacts the public’s rights or safety per [OMB Memorandum M-24-10](https://www.whitehouse.gov/wp-content/uploads/2024/03/M-24-10-Advancing-Governance-Innovation-and-Risk-Management-for-Agency-Use-of-Artificial-Intelligence.pdf) and how they are implementing safeguards to mitigate the relevant risks. Per M-24-10, after December 1, 2024, if the required safeguards are not adopted for a given AI system, agencies must stop using it. The inventory offers visibility into whether agencies are still working on actions to manage risks from the use of AI by identifying where agencies have received an extension of the December 1 deadline or have granted a waiver of particular requirements.
 
 As of December 16, 2024, agencies have reported over 1700 AI use cases. 
-* The top 3 categories for AI use cases are: X.
-* [#] of these use cases were identified as rights-impacting and/or safety-impacting, per M-24-10 definitions.  
+* The top 3 categories for AI use cases are: mission-enabling (internal agency support), health and medical, and government services (includes benefits and service delivery).
+* 227 of these use cases were identified as rights-impacting and/or safety-impacting, per M-24-10 definitions.  
 
 Two hundred and six (206) rights-impacting and/or safety-impacting AI use cases received an extension for up to one year in order to achieve compliance with M-24-10’s risk management practices. The most commonly cited risk management practices that agencies requested extensions for include the requirement to conduct independent evaluations, mitigate emerging risks to rights and safety, and complete an AI impact assessment for their rights- and safety-impacting use cases. Extensions were granted based upon OMB review of:  
 * agency justifications for why they were unable to comply with the December 1st deadline;   
