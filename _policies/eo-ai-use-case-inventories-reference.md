@@ -8,15 +8,24 @@ permalink: /policies-and-priorities/Executive-Order-13960-AI-Use-Case-Inventorie
 ---
 ## Policy Overview ##
 
-Pursuant to Section 5 of  Executive Order (EO) 13960, “Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government”, and codified by the Advancing American AI Act, federal agencies are required to inventory their Artificial Intelligence (AI) use cases and share their inventories with other government agencies and the public.
+Consistent with Section 5 of Executive Order (EO) 13960, “Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government,” and pursuant to the Advancing American AI Act and OMB Memorandum M-24-10, *Advancing Governance, Innovation, and Risk Management for Agency Use of Artificial Intelligence*, Federal agencies are required to inventory their artificial intelligence (AI) use cases and share their inventories with other government agencies and the public.
 
-EO 13960 and the Advancing American AI Act calls on the CIO Council to:
+The Director of the Office of Management and Budget (OMB) is charged with issuing instructions to agencies for the collection, reporting, and publication of information about agency AI use cases. The instructions for 2024 are available [here](https://www.google.com/url?q=https://cg-f7a6dbc1-b791-40b1-9eeb-e725679c82c9.sites.pages.cloud.gov/demo/gsa/cio.gov-redo/assets/resources/2024-Guidance-for-AI-Use-Case-Inventories.pdf&sa=D&source=docs&ust=1734472828513625&usg=AOvVaw1jHRC861W7ZTFY4oCHAjSz). 
 
-1. Identify, provide guidance on, and make publicly available the criteria, format, and mechanisms for agency inventories of non-classified and non-sensitive use case of AI by agencies, and
+## 2024 AI Use Case Inventory ##
 
-2. Share the consolidated inventories with other agencies. 
+The consolidated 2024 Federal AI Use Case Inventory, current as of December 16, 2024, is available for download [here](https://www.google.com/url?q=https://github.com/ombegov/2024-Federal-AI-Use-Case-Inventory&sa=D&source=docs&ust=1734472828511564&usg=AOvVaw0yrmttajOz16KihxvaXc2n). 
 
-Agencies are required, as directed by the EO and Advancing American AI Act, to make their AI use case inventories [public](https://www.ai.gov/ai-use-case-inventories/). Agencies are to publish/post their AI use case inventories on their agency data webpage at https://[agency].gov/data/AI_Inventory.
+This year’s inventory significantly expands on prior years’ reporting, demonstrating transparency in how the United States is investing in AI for the public good. Agencies are required to identify whether their use of AI impacts the public’s rights or safety per [OMB Memorandum M-24-10](https://www.google.com/url?q=https://www.whitehouse.gov/wp-content/uploads/2024/03/M-24-10-Advancing-Governance-Innovation-and-Risk-Management-for-Agency-Use-of-Artificial-Intelligence.pdf&sa=D&source=docs&ust=1734472828515299&usg=AOvVaw035p47i5V17tLBQH2mTB3u) and how they are implementing safeguards to mitigate the relevant risks. Per M-24-10, after December 1, 2024, if the required safeguards are not adopted for a given AI system, agencies must stop using it. The inventory offers visibility into whether agencies are still working on actions to manage risks from the use of AI by identifying where agencies have received an extension of the December 1 deadline or have granted a waiver of particular requirements.
+
+As of December 16, 2024, agencies have reported over 1700 AI use cases. 
+* The top 3 categories for AI use cases are: X.
+* [#] of these use cases were identified as rights-impacting and/or safety-impacting, per M-24-10 definitions.  
+
+Two hundred and six (206) rights-impacting and/or safety-impacting AI use cases received an extension for up to one year in order to achieve compliance with M-24-10’s risk management practices. The most commonly cited risk management practices that agencies requested extensions for include the requirement to conduct independent evaluations, mitigate emerging risks to rights and safety, and complete an AI impact assessment for their rights- and safety-impacting use cases. Extensions were granted based upon OMB review of:  
+* agency justifications for why they were unable to comply with the December 1st deadline;   
+* actions the agency is taking to ensure compliance, including how they will be mitigating risks of noncompliance over the course of the extension period; and 
+* potential service interruptions to critical government processes should the extension be denied and the AI required to go offline. 
 
 ## Related Policies, Priorities and Resources ##
 
