@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI in Action: 5 Essential Findings from the 2024 Federal AI Use Case Inventory'
-excerpt: 'This year, agencies publicly reported more than 1,700 ways they are using Artificial Intelligence (AI) to advance their missions and deliver better experiences to the public. While the full listing of use cases is available [here](https://github.com/ombegov/2024-Federal-AI-Use-Case-Inventory){:target="_blank"}, I want to highlight five key takeaways you need to know:'
+excerpt: 'This year, agencies publicly reported more than 1,700 ways they are using Artificial Intelligence (AI) to advance their missions and deliver better experiences to the public. While the full listing of use cases is available here, I want to highlight five key takeaways you need to know:'
 date: 15 January 2025
 display-date: 15 January 2025
 author: Clare Martorana, Federal CIO
