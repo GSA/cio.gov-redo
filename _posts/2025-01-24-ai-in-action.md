@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'AI in Action: 5 Essential Findings from the 2024 Federal AI Use Case Inventory'
-excerpt: 'This year, agencies publicly reported more than 1,700 ways they are using Artificial Intelligence (AI) to advance their missions and deliver better experiences to the public. While the full listing of use cases is available here, I want to highlight five key takeaways you need to know:'
+excerpt: 'This year, agencies publicly reported more than 1,700 ways they are using Artificial Intelligence (AI) to advance their missions and deliver better experiences to the public.'
 date: 15 January 2025
 display-date: 15 January 2025
 author: Clare Martorana, Federal CIO
 tags: Artificial-Intelligence policy AI
 permalink: /ai-in-action/
 ---
-This year, agencies publicly reported more than 1,700 ways they are using Artificial Intelligence (AI) to advance their missions and deliver better experiences to the public. While the full listing of use cases is available here, I want to highlight five key takeaways you need to know:
+This year, agencies publicly reported more than 1,700 ways they are using Artificial Intelligence (AI) to advance their missions and deliver better experiences to the public. While the full listing of use cases is available [here](https://www.cio.gov/policies-and-priorities/Executive-Order-13960-AI-Use-Case-Inventories-Reference/){:target="_blank"}, I want to highlight five key takeaways you need to know:
 
 **1. Compared to 2023, Federal agencies have more than doubled their AI use in the last year, citing improvements to operational efficiency and the execution of their missions as key drivers for increased utilization.**
 
