@@ -41,13 +41,13 @@
           "agencyName": "Department of Transportation",
           "agencyCode": "021",
           "cio": {
-            "firstName": "Cordell",
-            "lastName": "Schachter",
+            "firstName": "",
+            "lastName": "",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio-cordell-schachter.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/cordell-schachter/",
+            "linkToPhoto": "",
+            "linkToBio": "",
             "deptCIO": "1",
             "address": {
               "address1": "",
@@ -56,13 +56,13 @@
               "state": "",
               "zip": ""
             },
-            "bio_link":"cordell-schachter",
+            "bio_link":"",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
             "position": "Chief Information Officer",
-            "bio-image": "/bio-cordell-schachter.jpg",
-            "description": "Cordell Schachter serves as Chief Information Officer for US DOT. He previously served as New York City DOT CTO for over 13 years and has served NYC for a total of 26 years in a variety of roles at several agencies.  Cordell also worked a total of 9 years at several IT companies. He led teams to tame high-risk, high-value projects and deliver high customer satisfaction. Cordell is a certified project manager and holds an MS in Management from NYU's Wagner School of Public Service, and a BA in Economics from SUNY Buffalo. He served on the board of directors of ITS America and taught \"Civic Technology for Innovation\" at NYU and at Saint Peter’s University in Jersey City, NJ."
+            "bio-image": "/dot_wide.png",
+            "description": ""
           }
         }
       }
@@ -168,8 +168,8 @@
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/opm-logo.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/guy-cavallo/",
+            "linkToPhoto": "",
+            "linkToBio": "",
             "deptCIO": "1",
             "address": {
               "address1": "Office of Personnel Management 1900 E Street, NW Room 5415 Washington, DC 20415",
@@ -178,7 +178,7 @@
               "state": "DC",
               "zip": "20415"
             },
-            "bio_link":"guy-cavallo",
+            "bio_link":"",
             "banner_subtitle": "Team and Leadership",
             "banner_title": "About Our Council",
             "leadership": false,
@@ -196,13 +196,13 @@
           "agencyName": "Department of Homeland Security",
           "agencyCode": "024",
           "cio": {
-            "firstName": "Eric",
-            "lastName": "Hysen",
+            "firstName": "",
+            "lastName": "",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_hysen.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/hysen-eric/",
+            "linkToPhoto": "",
+            "linkToBio": "",
             "deptCIO": "1",
             "address": {
               "address1": "",
@@ -211,13 +211,13 @@
               "state": "",
               "zip": ""
             },
-            "bio_link":"hysen-eric",
+            "bio_link":"",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
             "position": "Chief Information Officer",
-            "bio-image": "/bio_hysen.png",
-            "description": "Eric Hysen was sworn in as the Chief Information Officer (CIO) for the Department of Homeland Security (DHS) on Feb. 1, 2021.<br><br>As CIO, Mr. Hysen is responsible for strategically aligning the Department’s Information Technology (IT) personnel resources and assets, including security, infrastructure, and delivery, to support core DHS missions and activities.<br><br>Mr. Hysen most recently served on the Biden-Harris transition’s Technology Strategy & Delivery team, working to develop the administration’s plans to leverage technology and delivery in support of policy priorities. He previously was a Senior Fellow at the National Conference on Citizenship, where he led projects to use technology, data, and design to address pressing public policy challenges. He also worked in state government, helping to launch the California Office of Digital Innovation, and in philanthropy, supporting nonprofits working to advance immigration and criminal justice reform.<br><br>Mr. Hysen previously served as the Executive Director of the Department of Homeland Security Digital Service. In that leadership role, his teams worked to transform DHS’ most critical services by bringing top software engineering, product management, and design talent from the private sector to partner with innovators inside government. DHS Digital Service projects included immigration benefits processing, refugee admissions, and international trade.<br><br>Prior to joining DHS, Mr. Hysen was a founding member of the U.S. Digital Service in the White House. Before government, he worked as a software engineer and program manager at Google.<br><br>Mr. Hysen graduated with honors in Computer Science from Harvard University and has published research in crowdsourcing and workflow design."
+            "bio-image": "/dhs_wide.png",
+            "description": ""
           }
         }
       }
@@ -328,13 +328,13 @@
           "agencyName": "Department of Energy",
           "agencyCode": "019",
           "cio": {
-            "firstName": "Ann",
-            "lastName": "Dunkin",
+            "firstName": "",
+            "lastName": "",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio-ann-dunkin.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/ann-dunkin/",
+            "linkToPhoto": "",
+            "linkToBio": "",
             "deptCIO": "1",
             "address": {
               "address1": "",
@@ -343,13 +343,13 @@
               "state": "",
               "zip": ""
             },
-            "bio_link":"ann-dunkin",
+            "bio_link":"",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
             "position": "Chief Information Officer",
-            "bio-image": "/bio-ann-dunkin.png",
-            "description": "Ann Dunkin was most recently the Chief Strategy & Innovation Officer focused on state and local government at Dell Technologies. Prior to that, she was the Chief Information Officer (CIO) for the County of Santa Clara. Dunkin served in the Obama Administration as CIO of the United States Environmental Protection Agency (EPA). Previously, she was the Chief Technology Officer for the Palo Alto Unified School District, after a long career at Hewlett Packard in a variety of leadership roles focused on Engineering, Research & Development, IT, Manufacturing Engineering, Software Quality and Operations.<br><br>Dunkin is a published author, most recently of the book Industrial Digital Transformation, and a speaker on the topics of government technology modernization, digital transformation and organizational development. Dunkin was named one of ComputerWorld’s Premier 100 Technology Leaders for 2016, one of DC’s Top 50 Women in Technology for 2015 and 2016, and to StateScoop's Top 50 Women in Technology list for 2017. In 2018, she was inducted into Georgia Tech’s Academy of Distinguished Engineering Alumni.<br><br>Dunkin holds an M.S. and a B.S. in Industrial Engineering, both from the Georgia Institute of Technology. She is a licensed professional engineer in the states of California and Washington."
+            "bio-image": "/doe_wide.png",
+            "description": ""
           }
         }
       }
@@ -460,13 +460,13 @@
           "agencyName": "Social Security Administration",
           "agencyCode": "016",
           "cio": {
-            "firstName": "Marcela",
-            "lastName": "Escobar-Alava",
+            "firstName": "",
+            "lastName": "",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_alava.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/marcela-escobar-alava/",
+            "linkToPhoto": "",
+            "linkToBio": "",
             "deptCIO": "1",
             "address": {
               "address1": "Social Security Administration 6401 Security Boulevard 400 Altmeyer Building",
@@ -475,13 +475,13 @@
               "state": "MD",
               "zip": "21235"
             },
-            "bio_link":"marcela-escobar-alava",
+            "bio_link":"",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
             "position": "Chief Information Officer",
-            "bio-image": "/bio_alava.jpg",
-            "description": "<p>Marcela Escobar-Alava serves as the Deputy Commissioner and Chief Information Officer (CIO) for the Social Security Administration (SSA). As SSA’s senior information and technology executive, Escobar-Alava oversees the day-to-day activities of SSA’s Digital Modernization Strategy and Transformation, managing a $2B budget and a team of approximately 6,000 government and contract team members.</p><p>Prior to her role with the SSA, she served as Special Assistant to the President and Chief of Enterprise Applications for the Office of Administration where she delivered technology strategy and enterprise solutions across the Executive Office of the President. Within the Biden-Harris Administration, she also served as the Deputy Director of White House Information Technology.</p><p>Prior to her federal service, she was the transformational CIO for Monarch Companies where she led the integration of acquisitions towards a unified culture and single operating model. Prior to Monarch, she was the Chief Digital Officer for the Hispanic Scholarship Fund where she developed the digital products, technology and marketing strategies to enable the broadest reach, largest grants, donations and generational impact the organization has ever attained. Prior to HSF, she was the Divisional CIO for Sony Pictures Home Entertainment, a multi-billion-dollar division of Sony Pictures Entertainment. In that role, she oversaw the Global Information Technology strategy and direction to support and enable Home Entertainment’s business operations, including sales, marketing, manufacturing, distribution, business intelligence, finance, and digital functions.</p><p>Originally from Los Angeles, Escobar-Alava holds a Bachelor’s degree in Business Administration with an emphasis in International Business from Loyola Marymount University, and a Master’s of Business Administration in Information Systems and Operations Management from the University of Southern California. Her proudest accomplishment has been to have a progressive career while raising 3 beautiful and generous human beings, Alex, Nikki & Robert. She continues to give back as a mentor, inspirational speaker and has served and led a variety of non-profit boards and Advisory Committees at the local and national level within the STEM, Early childhood education, Higher Ed and DE&I spaces.</p>"
+            "bio-image": "/ssa_wide.png",
+            "description": ""
           }
         }
       }
@@ -666,7 +666,7 @@
             "linkToBio": "https://www.cio.gov/about/members-and-leadership/myklegard-drew/",
             "deptCIO": "1",
             "bio_link":"myklegard-drew",
-            "bio-image": "/bio_myklegard.jpg",
+            "bio-image": "/bio_myklegard_2.jpg",
             "description": " Drew Myklegard is the Deputy Federal CIO of the White House tech policy office. He is responsible for driving technology modernization and improving mission delivery by ensuring over $120B in Federal IT spending is well managed. Prior to joining the White House, Drew served as the Executive Director of Product Engineering at the Department of Veterans Affairs (VA). Drew led the implementation of VA’s Lighthouse Application Programming Interface (API) Platform which enabled over 6 million veterans to securely share their health and benefits data with approved third parties – revolutionizing how veterans manage their health care. In addition to his public service, Drew is an active member of the Army Reserves and completed one tour in Iraq.",
             "banner_subtitle": "Team and Leadership",
             "banner_title":"About Our Council",
@@ -701,7 +701,7 @@
             "bio_link":"shive-david",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
-            "bio-image": "/bio_shive_2.jpg",
+            "bio-image": "/bio_shive_3.jpg",
             "description": "David A. Shive is the Chief Information Officer for the U.S. General Services Administration.<br><br>He oversees the Office of the Chief Information Officer, managing the agency’s $600 million information technology budget and ensuring alignment with agency and administration strategic objectives and priorities.<br><br>Mr. Shive joined the U.S. General Services Administration's Office of the Chief Information Officer in November 2012. Prior to being named CIO, he was the Director of the Office of Enterprise Infrastructure, responsible for the enterprise information technology infrastructure platforms and capability that support the GSA business enterprise. He was also the Acting Director of HR and FM Systems for the GSA CFO and CPO offices.<br><br>Prior to joining GSA, he served in the District of Columbia government as a Chief Information Officer. In this role, Mr. Shive had executive responsibility for agency IT operations including financial systems, security and privacy programs, internal controls and compliance, strategic planning, enterprise architecture and performance management and measurement programs and directed the transformation of enterprise systems and processes, to public/private cloud hybrid. Mr. Shive was the recipient of the 2012 Washington, D.C., CFO Meritorious Service Award.<br><br>Mr. Shive began his career at Lockheed Martin Corporation in management and consulting roles overseeing large, customer-centric, IT organizations serving state and local, federal and international government customers. He is the recipient of numerous sector awards including the 2006 State & Local Government Executive Management award and the 2003 Management Award for Transformational Technology.<br><br>Mr. Shive is a member of the National Law Enforcement Telecommunications System Alumni Association; American Meteorological Society, DC Chapter; Project Management Institute, DC Chapter; the Air Force Association and the Government Finance Officers Association.<br><br>He holds an undergraduate degree in physics from California State University, Fresno; a master’s degree in research meteorology from the University of Maryland College Park; and a post-graduate management certificate from the Carnegie Mellon Graduate School of Industrial Management.",
             "address": {
               "address1": "General Services Administration 1275 First St, NE Washington, DC 20417",
@@ -747,13 +747,13 @@
           "agencyName": "Department of Veterans Affairs",
           "agencyCode": "029",
           "cio": {
-            "firstName": "Kurt",
-            "lastName": "DelBene",
+            "firstName": "",
+            "lastName": "",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/kurt_delbene.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/kurt-delbene/",
+            "linkToPhoto": "",
+            "linkToBio": "",
             "deptCIO": "1",
             "address": {
               "address1": "",
@@ -762,13 +762,13 @@
               "state": "",
               "zip": ""
             },
-            "bio_link":"kurt-delbene",
+            "bio_link":"",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
             "position": "Chief Information Officer",
-            "bio-image": "/kurt_delbene.png",
-            "description": "President Joseph R. Biden, Jr. nominated Kurt DelBene to serve as the Department of Veterans Affairs (VA) Assistant Secretary for Information and Technology and Chief Information Officer (CIO), and the United States Senate confirmed his nomination by voice vote on December 16, 2021. <br><br>As VA’s senior information and technology executive, Mr. DelBene oversees the day-to-day activities of VA’s Digital Transformation, managing a budget of more than $4 billion. He leads a workforce of approximately 16,000 government and contract staff who enable health care and benefits delivery to more than nine million enrolled Veterans. <br><br>Before joining VA, Mr. DelBene was a longtime executive for Microsoft and served in numerous leadership roles with increasing responsibilities over more than 25 years. Most recently, he was Executive Vice President of Corporate Strategy and Core Services Engineering and Operations and led the company’s cross-engineering and cross-business strategy, execution, and planning initiatives. <br><br>Mr. DelBene rejoined Microsoft in April 2015 after assisting former President Barack Obama with Healthcare.gov, the enrollment website for the Affordable Care Act. From December 2013 to July 2014, he served as senior advisor to the Secretary of Health and Human Services, helping assess and implement the first Open Enrollment period, including troubleshooting problems and setting the project up for long-term success. During this time, he was also the liaison to White House and Health and Human Services senior leadership. <br><br>As president of the Microsoft Office Division from 2010 to 2013, Mr. DelBene was responsible for Microsoft’s global productivity strategy for information workers. He oversaw the engineering and marketing functions for a wide range of productivity products and services, including Office, Office 365, Exchange, SharePoint, Lync, Project, and Visio. <br><br>Mr. DelBene also served as the senior vice president for the Microsoft Business Division, where he was responsible for the development of client and server software that delivers a holistic productivity experience to organizations and individuals, including authoring, collaboration, communications, information sharing, and project management. <br><br>Prior to joining Microsoft in 1992, Mr. DelBene was a management consultant with McKinsey and Company, focusing on business strategy for technology companies. He also worked as a software developer and systems engineer for AT&T Bell Laboratories, working in graphics and imaging software and network switching systems. <br><br>Mr. DelBene holds a Master of Business Administration degree from the University of Chicago, a Master of Science degree from Stanford University, and a Bachelor of Industrial Engineering from the University of Arizona. Mr. DelBene is married to U.S. Congresswoman Suzan DelBene who represents Washington’s 1st Congressional district. They have two children."
+            "bio-image": "/va_wide.jpg",
+            "description": ""
           }
         }
       }
