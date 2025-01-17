@@ -163,12 +163,12 @@
           "agencyName": "Office of Personnel Management",
           "agencyCode": "027",
           "cio": {
-            "firstName": "Guy",
-            "lastName": "Cavallo",
+            "firstName": "",
+            "lastName": "",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_Cavallo.png",
+            "linkToPhoto": "https://www.cio.gov/assets/images/members/opm-logo.jpg",
             "linkToBio": "https://www.cio.gov/about/members-and-leadership/guy-cavallo/",
             "deptCIO": "1",
             "address": {
@@ -183,8 +183,8 @@
             "banner_title": "About Our Council",
             "leadership": false,
             "position": "Chief Information Officer",
-            "bio-image": "/bio_Cavallo.png",
-            "description": "Guy Cavallo serves as the Chief Information Officer of the Office of Personnel Management (OPM). In this capacity he is the senior executive leading OPM’s enterprise information technology (IT) services, including the development and execution of current state and future IT strategic plans, and the day to day management oversight of the agency’s technology services. He also serves as the executive leading OPM’s all IT modernization efforts<br><br>He previously served as the Deputy Chief Information Officer at the U.S. Small Business Administration (SBA). He was a key leader in SBA’s leveraging the cloud to quickly implement the CARES Act Payroll Protection Program and the Economic Injury Disaster Loan programs. Those programs distributed over $450B in a short period of time to America’s small businesses and citizens. For his successful accomplishments at SBA, he received both the <b><em>Federal 100 award</em></b> and was twice selected for the <b><em>FedScoop 50 award for Federal IT Leadership</em></b>.<br><br>With a career split almost evenly between the public and private sectors, prior to returning to the federal government, Mr. Cavallo served as a Senior Government Advisor at the Microsoft Corporation.  At Microsoft he assisted government organizations across the US in modernizing their delivery of citizen services.  His largest impact project was as the National Co-Lead of Microsoft’s American Recovery and Reinvestment Act solution for managing the new grant program.<br><br>Mr. Cavallo received a Bachelor of Arts degree from the University of Michigan."
+            "bio-image": "/opm-logo.jpg",
+            "description": ""
           }
         }
       }
@@ -617,32 +617,7 @@
           }
         }
       }
-    }, {
-      "title": "Office of Management and Budget CIO Information",
-      "content": {
-        "agency": {
-          "agencyName": "Office of Management and Budget",
-          "agencyCode": "",
-          "cio": {
-            "leadership": true,
-            "firstName": "Clare",
-            "lastName": "Martorana",
-            "email": "",
-            "phone": "",
-            "position": "Federal Chief Information Officer",
-            "dateAppointed": "",
-            "linkToPhoto": "",
-            "linkToBio": "",
-            "deptCIO": "1",
-            "bio_link":"martorana-clare",
-            "banner_subtitle": "Team and Leadership",
-            "banner_title":"About Our Council",
-            "bio-image": "/martorana-clare-c.JPG",
-            "description": "Throughout her career, Clare Martorana worked to improve and simplify the digital experiences people have when interacting with businesses and government. Martorana most recently served as Chief Information Officer of the U.S. Office of Personnel Management, where for the past two years she stabilized and secured agency operations to deliver better digital-first services for the Federal workforce. Martorana began her public service career as a member of the U.S. Digital Service team at the U.S. Department of Veterans Affairs, establishing the agency’s enterprise-wide Digital Modernization effort to deliver for veterans the 21st-century digital experience they deserve. Prior to joining the government, Martorana was President at Everyday Health and Senior Vice President and General Manager and editor-at-large at WebMD.            "
-          }
-        }
-      }
-    }, 
+    },
     {
       "title": "Department of Labor CIO Information",
       "content": {
@@ -901,14 +876,14 @@
       }
     },
     {
-      "title": "Chief Information Officer, Office of Management and Budget",
+      "title": "Acting Federal Chief Information Officer, Office of Management and Budget",
       "content": {
         "agency": {
           "agencyName": "Office of Management and Budget",
           "cio": {
             "firstName": "Drew",
             "lastName": "Myklegard",
-            "position": "Deputy Federal Chief Information Officer",
+            "position": "Acting Federal Chief Information Officer",
             "leadership": true,
             "dateAppointed": "",
             "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_myklegard.jpg",
