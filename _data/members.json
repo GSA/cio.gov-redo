@@ -163,8 +163,8 @@
           "agencyName": "Office of Personnel Management",
           "agencyCode": "027",
           "cio": {
-            "firstName": "Melvin",
-            "lastName": "Brown II",
+            "firstName": "Greg",
+            "lastName": "Hogan",
             "email": "",
             "phone": "",
             "dateAppointed": "",
@@ -178,13 +178,13 @@
               "state": "DC",
               "zip": "20415"
             },
-            "bio_link":"brown-melvin",
+            "bio_link":"hogan-greg",
             "banner_subtitle": "Team and Leadership",
             "banner_title": "About Our Council",
             "leadership": false,
             "position": "Chief Information Officer",
-            "bio-image": "/bio_brown.jpg",
-            "description": "Melvin Brown II was appointed as the Chief Information Officer (CIO) for the U.S. Office of Personnel Management (OPM) on January 12, 2025. In this role, he oversees a $200 million IT portfolio, guiding a dynamic workforce of 300 federal employees and 400 contractors. As CIO, Melvin is responsible for steering OPM’s information technology strategy and policy, ensuring the agency remains at the forefront of federal IT innovation and transformation. His leadership has been instrumental in modernizing OPM’s digital infrastructure and enhancing operational efficiency.<br><br>Prior to his current position, Melvin served as the Deputy Chief Information Officer (DCIO) at OPM for four years. In this capacity, he played a vital role in shaping the agency’s IT operations and preparing for future challenges. His career also includes a notable tenure as Director of the Enterprise Business Management Office within the Office of the Chief Information Officer at the Small Business Administration (SBA), where he spearheaded technology-driven initiatives to streamline agency processes. Earlier, Melvin held various leadership positions at the Department of Homeland Security (DHS), further demonstrating his expertise in managing complex IT environments. His technology journey began at the Federal Aviation Administration (FAA), where he worked as an IT Program Manager, laying the foundation for his accomplished career.<br><br>In addition to his federal service, Melvin actively contributes to professional and community organizations. He holds leadership roles in the American Council for Technology (ACT), the Industry Advisory Council (IAC), the Advanced Technology Academic Research Center (ATARC) and FinOps Foundation Board member. His commitment to advancing the IT profession extends beyond his federal responsibilities, reflecting his dedication to fostering innovation and collaboration across the field.<br><br>Melvin, a proud United States Marine Corps veteran, served from 1984 to 1991, a transformative period that shaped his strong sense of discipline, leadership, and dedication to service. His outstanding contributions to federal IT have earned him widespread recognition and acclaim. In 2024, he was honored as the <b>Top Government Executive of the Year</b> by ACT-IAC, and in 2023, he was named a <b>Top Fed100 Winner</b> by Federal Computer Week, an esteemed award celebrating the most innovative and impactful IT leaders in government. Additionally, he has been featured in numerous magazines and media outlets as an industry thought leader, sharing his expertise on IT modernization and optimization strategies.<br><br>Melvin's academic achievements are equally impressive. He holds two Master of Science degrees, one in Cybersecurity Policy from the University of Maryland Global Campus and another in Social and Organizational Learning from George Mason University. He also earned a Bachelor of Science in Business Administration from Strayer University. For 14 years, he served as an adjunct professor at the University of Phoenix, where he taught graduate and undergraduate courses in business management, further showcasing his passion for education and mentorship."
+            "bio-image": "/agency_OPM.png",
+            "description": ""
           }
         }
       }
