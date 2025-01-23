@@ -23,7 +23,7 @@
               "state": "DC",
               "zip": "20416"
             },
-            "bio_link":"washington-gary",
+            "bio_link":"https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-information-officer",
             "banner_subtitle": "Team and Leadership",
             "banner_title":"About Our Council",
             "leadership": false,
@@ -56,7 +56,7 @@
               "state": "",
               "zip": ""
             },
-            "bio_link":"dot",
+            "bio_link":"https://www.transportation.gov/cio",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
@@ -89,7 +89,7 @@
               "state": "DC",
               "zip": "20016"
             },
-            "bio_link":"arcadi-tony",
+            "bio_link":"https://home.treasury.gov/about/offices/management/chief-information-officer",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
@@ -122,7 +122,7 @@
               "state": "DC",
               "zip": "20240"
             },
-            "bio_link": "darren-ash",
+            "bio_link": "https://www.doi.gov/ocio",
             "banner_subtitle": "Team and Leadership",
             "banner_title": "About Our Council",
             "leadership": false,
@@ -145,7 +145,7 @@
             "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_ijaz.png",
             "linkToBio": "https://www.cio.gov/about/members-and-leadership/sairah-ijaz/",
             "deptCIO": "1",
-            "bio_link":"sairah-ijaz",
+            "bio_link":"https://www.hud.gov/program_offices/cio",
             "banner_subtitle": "Team and Leadership",
             "banner_title":"About Our Council",
             "leadership": false,
@@ -178,7 +178,7 @@
               "state": "DC",
               "zip": "20415"
             },
-            "bio_link":"hogan-greg",
+            "bio_link":"https://www.opm.gov/about-us/who-we-are/",
             "banner_subtitle": "Team and Leadership",
             "banner_title": "About Our Council",
             "leadership": false,
@@ -211,7 +211,7 @@
               "state": "",
               "zip": ""
             },
-            "bio_link":"dhs",
+            "bio_link":"https://www.dhs.gov/office-chief-information-officer",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
@@ -244,7 +244,7 @@
               "state": "DC",
               "zip": "20310"
             },
-            "bio_link":"garciga-leonel",
+            "bio_link":"https://www.army.mil/cio",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
@@ -277,7 +277,7 @@
               "state": "DC",
               "zip": "20004"
             },
-            "bio_link":"noga-vaughn",
+            "bio_link":"https://www.epa.gov/aboutepa/about-epas-chief-information-officer",
             "banner_subtitle": "Team and Leadership",
             "banner_title":"About Our Council",
             "leadership": false,
@@ -310,7 +310,7 @@
               "state": "DC",
               "zip": "20202"
             },
-            "bio_link":"thomas-flagg",
+            "bio_link":"https://www.ed.gov/about/ed-offices/ocio/office-of-the-chief-information-officer",
             "banner_subtitle": "Team and Leadership",
             "banner_title":"About Our Council",
             "leadership": false,
@@ -343,7 +343,7 @@
               "state": "",
               "zip": ""
             },
-            "bio_link":"doe",
+            "bio_link":"https://www.energy.gov/cio/office-chief-information-officer",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
@@ -376,7 +376,7 @@
               "state": "MD",
               "zip": "20740"
             },
-            "bio_link":"gulam-shakir",
+            "bio_link":"https://www.archives.gov/about/organization/senior-staff",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
@@ -409,7 +409,7 @@
               "state": "DC",
               "zip": "20201"
             },
-            "bio_link":"jennifer-wendel",
+            "bio_link":"https://www.hhs.gov/about/agencies/asa/ocio/index.html",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
@@ -442,7 +442,7 @@
               "state": "DC",
               "zip": "20530"
             },
-            "bio_link":"rogers-melinda",
+            "bio_link":"https://www.justice.gov/jmd/office-chief-information-officer",
             "banner_subtitle": "Team and Leadership",
             "banner_title":"About Our Council",
             "leadership": false,
@@ -475,7 +475,7 @@
               "state": "MD",
               "zip": "21235"
             },
-            "bio_link":"ssa",
+            "bio_link":"https://www.ssa.gov/org/orgOCIO.htm",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
@@ -508,7 +508,7 @@
               "state": "DC",
               "zip": "20523"
             },
-            "bio_link":"gray-jason",
+            "bio_link":"https://www.usaid.gov/about-us/organization/bureau-management",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
@@ -541,7 +541,7 @@
               "state": "MD",
               "zip": "20852"
             },
-            "bio_link":"flanders-scott",
+            "bio_link":"https://www.nrc.gov/about-nrc/organization/ociofuncdesc.html",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
@@ -574,7 +574,7 @@
               "state": "VA",
               "zip": "22230"
             },
-            "bio_link":"terry-carpenter",
+            "bio_link":"https://new.nsf.gov/ocio",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
@@ -607,7 +607,7 @@
               "state": "",
               "zip": ""
             },
-            "bio_link":"stephen-kucharski",
+            "bio_link":"https://www.sba.gov/about-sba/sba-locations/headquarters-offices/office-chief-information-officer",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
@@ -640,7 +640,7 @@
               "state": "DC",
               "zip": "20210"
             },
-            "bio_link": "louis-charlier",
+            "bio_link": "https://www.dol.gov/agencies/oasam/centers-offices/ocio",
             "banner_subtitle": "Team and Leadership",
             "banner_title": "About Our Leadership",
             "leadership": false,
@@ -762,7 +762,7 @@
               "state": "",
               "zip": ""
             },
-            "bio_link":"va",
+            "bio_link":"https://digital.va.gov/office-of-information-and-technology/",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
@@ -795,7 +795,7 @@
               "state": "",
               "zip": ""
             },
-            "bio_link":"brian-epley",
+            "bio_link":"https://www.commerce.gov/ocio",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
@@ -828,7 +828,7 @@
               "state": "DC",
               "zip": "20522"
             },
-            "bio_link":"/kelly-fletcher",
+            "bio_link":"https://www.state.gov/bureau-of-diplomatic-technology/leadership-bureau-of-diplomatic-technology",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
@@ -861,7 +861,7 @@
               "state": "DC",
               "zip": "20546"
             },
-            "bio_link":"jeff-seaton",
+            "bio_link":"https://www.nasa.gov/ocio/",
             "banner_subtitle": "Team and Leadership",
             "banner_title":"About Our Council",
             "leadership": false,
@@ -894,7 +894,7 @@
               "state": "DC",
               "zip": "20350"
             },
-            "bio_link":"beavers-leslie",
+            "bio_link":"https://dodcio.defense.gov/",
             "banner_subtitle": "Team and Leadership",
             "banner_title":"About Our Council",
             "leadership": false,
@@ -924,7 +924,7 @@
               "state": "",
               "zip": ""
             },
-            "bio_link":"rathbun-jane",
+            "bio_link":"https://www.doncio.navy.mil/",
             "banner_subtitle": "Team and Leadership",
             "banner_title":"About Our Council",
             "leadership": false,
@@ -954,7 +954,7 @@
               "state": "",
               "zip": ""
             },
-            "bio_link":"goodwine-venice",
+            "bio_link":"https://www.safcn.af.mil/",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
@@ -984,7 +984,7 @@
               "state": "",
               "zip": ""
             },
-            "bio_link":"merritt-adele",
+            "bio_link":"https://www.dni.gov/index.php/who-we-are/organizations/ic-cio/ic-cio-who-we-are",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
@@ -1014,7 +1014,7 @@
               "state": "",
               "zip": ""
             },
-            "bio_link":"burns-sylvia",
+            "bio_link":"https://www.fdic.gov/about/board-directors-senior-executives",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
