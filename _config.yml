@@ -58,16 +58,6 @@ primary_navigation:
         url: /assets/files/Federal-IT-Operating-Plan-June-2022.pdf
       - name: Join the Government
         url: /entry-to-the-government/
-  - name: Programs & Events
-    children:
-      - name: 'Disruption and Discovery: AI, Data, and Quantum Symposium'
-        url: /programs-and-events/disruption-and-discovery/
-      - name: Women in IT & Cyber
-        url: /2021-women-in-IT/
-      - name: CIO Bootcamp
-        url: /programs-and-events/2020-cio-bootcamp/
-      - name: All Events
-        url: /programs-and-events/
   - name: News
     url: /news/
 
