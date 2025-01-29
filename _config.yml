@@ -54,8 +54,8 @@ primary_navigation:
         url: /zero-trust-data-security-guide-oct2024/
       - name: CIO Handbook
         url: /cio-handbook/
-      - name: Federal IT Ops Plan
-        url: /assets/files/Federal-IT-Operating-Plan-June-2022.pdf
+      # - name: Federal IT Ops Plan
+      #   url: /assets/files/Federal-IT-Operating-Plan-June-2022.pdf
       - name: Join the Government
         url: /entry-to-the-government/
   - name: Programs & Events
