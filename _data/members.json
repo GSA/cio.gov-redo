@@ -715,6 +715,32 @@
       }
     },
     {
+      "title": "Office of Management and Budget CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Office of Management and Budget",
+          "agencyCode": "",
+          "cio": {
+            "leadership": true,
+            "firstName": "Michael",
+            "lastName": "Duffy",
+            "email": "",
+            "phone": "",
+            "position": "Acting Federal Chief Information Security Officer",
+            "dateAppointed": "",
+            "linkToPhoto": "",
+            "linkToBio": "",
+            "deptCIO": "",
+            "bio_link":"duffy-michael",
+            "banner_subtitle": "Team and Leadership",
+            "banner_title":" About Our Council",
+            "bio-image": "/bio_duffy.png",
+            "description":"Michael Duffy serves as the interim Federal Chief Information Security Officer, responsible for driving cybersecurity policy development and adoption, overseeing strategy alignment and implementation efforts, and ensuring cyber program improvement and maturation across the Federal Government.<br><br>Duffy has extensive experience managing high visibility cybersecurity and critical infrastructure programs and operations, most recently at the U.S. Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency (CISA). He was the Associate Director for Capacity Building within CISA’s Cybersecurity Division where he led the management and growth of the federal cybersecurity portfolio including the government’s flagship cyber program, Continuous Diagnostics and Mitigation (CDM), which provides agencies with foundational cyber capabilities and enables interactive, operational cyber defense for the Federal IT Enterprise.<br><br>While at CISA, Duffy led interagency cybersecurity risk management efforts through through the development and execution of key federal cybersecurity policies and initiatives; managed the cyber practitioner training portfolio; and assisted federal and critical infrastructure technology executives and other national stakeholders in meeting security and technology modernization goals. He established the Federal Enterprise Improvement Team to advance and unify collective cyber defense; built CISA’s cybersecurity directives program which established the federal government as an indsutry leader in cybersecurity; and designed and matured the United States’ first government-wide shared cybersecurity services office which provides modern security capabilities to over one hundred agencies and dozens of critical infrastructure entities, and protects over four million assets.<br><br>Duffy chairs the Federal Chief Information Security Officers (CISO) Council, the primary body for interagency CISO collaboration and communication. He also serves as a tri-chair of the Committee for National Security Systems, the deputy chair of the Federal Acquisition Security Council, and as a board member of the Technology Modernization Fund, DHS’s Cyber Safety Review Board and the National Institute for Standards and Technology’s Information Security and Privacy Advisory Board to provide cybersecurity expertise and recommendations to Cabinet Secretaries. <br><br>Duffy holds a Master of Public Administration degree from the George Washington University, is a graduate of the Harvard Kennedy School’s Senior Executive Fellows program, and is a two-time recipient of the Secretary of Homeland Security’s Meritorious Service award for his contributions to national-level cybersecurity."
+          }
+        }
+      }
+    },
+    {
       "title": "Deputy Federal Chief Information Officer, Office of Management and Budget",
       "content": {
         "agency": {
@@ -740,32 +766,6 @@
               "state": "",
               "zip": ""
             }
-          }
-        }
-      }
-    },
-    {
-      "title": "Office of Management and Budget CIO Information",
-      "content": {
-        "agency": {
-          "agencyName": "Office of Management and Budget",
-          "agencyCode": "",
-          "cio": {
-            "leadership": true,
-            "firstName": "Michael",
-            "lastName": "Duffy",
-            "email": "",
-            "phone": "",
-            "position": "Acting Federal Chief Information Security Officer",
-            "dateAppointed": "",
-            "linkToPhoto": "",
-            "linkToBio": "",
-            "deptCIO": "",
-            "bio_link":"duffy-michael",
-            "banner_subtitle": "Team and Leadership",
-            "banner_title":" About Our Council",
-            "bio-image": "/bio_duffy.png",
-            "description":"Michael Duffy serves as the interim Federal Chief Information Security Officer, responsible for driving cybersecurity policy development and adoption, overseeing strategy alignment and implementation efforts, and ensuring cyber program improvement and maturation across the Federal Government.<br><br>Duffy has extensive experience managing high visibility cybersecurity and critical infrastructure programs and operations, most recently at the U.S. Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency (CISA). He was the Associate Director for Capacity Building within CISA’s Cybersecurity Division where he led the management and growth of the federal cybersecurity portfolio including the government’s flagship cyber program, Continuous Diagnostics and Mitigation (CDM), which provides agencies with foundational cyber capabilities and enables interactive, operational cyber defense for the Federal IT Enterprise.<br><br>While at CISA, Duffy led interagency cybersecurity risk management efforts through through the development and execution of key federal cybersecurity policies and initiatives; managed the cyber practitioner training portfolio; and assisted federal and critical infrastructure technology executives and other national stakeholders in meeting security and technology modernization goals. He established the Federal Enterprise Improvement Team to advance and unify collective cyber defense; built CISA’s cybersecurity directives program which established the federal government as an indsutry leader in cybersecurity; and designed and matured the United States’ first government-wide shared cybersecurity services office which provides modern security capabilities to over one hundred agencies and dozens of critical infrastructure entities, and protects over four million assets.<br><br>Duffy chairs the Federal Chief Information Security Officers (CISO) Council, the primary body for interagency CISO collaboration and communication. He also serves as a tri-chair of the Committee for National Security Systems, the deputy chair of the Federal Acquisition Security Council, and as a board member of the Technology Modernization Fund, DHS’s Cyber Safety Review Board and the National Institute for Standards and Technology’s Information Security and Privacy Advisory Board to provide cybersecurity expertise and recommendations to Cabinet Secretaries. <br><br>Duffy holds a Master of Public Administration degree from the George Washington University, is a graduate of the Harvard Kennedy School’s Senior Executive Fellows program, and is a two-time recipient of the Secretary of Homeland Security’s Meritorious Service award for his contributions to national-level cybersecurity."
           }
         }
       }
