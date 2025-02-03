@@ -20,7 +20,7 @@ One year ago, the President signed the [National Cyber Strategy](https://www.whi
 
 - Advancement of new policy on [America’s Cybersecurity Workforce](https://www.federalregister.gov/documents/2019/05/09/2019-09750/americas-cybersecurity-workforce) that recognizes the critical role of all cybersecurity practitioners and reduces barriers to rapid and sustained growth.  This established the President’s Cup, a national cyber competition aiming to identify, recognize, and reward the best cybersecurity talent in the federal executive workforce.
 
-- Updates to the [Trusted Internet Connections](https://www.whitehouse.gov/wp-content/uploads/2019/09/M-19-26.pdf) policy, which provides an agile approach allowing agencies to leverage Cloud technologies in a secure manner.
+- Updates to the [Trusted Internet Connections](https://trumpwhitehouse.archives.gov/wp-content/uploads/2019/09/M-19-26.pdf) policy, which provides an agile approach allowing agencies to leverage Cloud technologies in a secure manner.
 
 The Federal Chief Information Security Officer Council is promoting four themes to the federal workforce during Cybersecurity Awareness Month. The themes are:
 1. Mobile Device Security;

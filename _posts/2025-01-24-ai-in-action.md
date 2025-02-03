@@ -47,7 +47,7 @@ For AI currently __in operation__ within an agency:
 
 The above figures demonstrate agencies’ agility and efficiency in leveraging AI for scalable and impactful solutions.
 
-**5. Approximately 13% of Federal AI use cases could impact the public’s rights or safety, as defined by [OMB Memorandum M-24-10](https://www.whitehouse.gov/wp-content/uploads/2024/03/M-24-10-Advancing-Governance-Innovation-and-Risk-Management-for-Agency-Use-of-Artificial-Intelligence.pdf){:target="_blank"}.**
+**5. Approximately 13% of Federal AI use cases could impact the public’s rights or safety, as defined by [OMB Memorandum M-24-10](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/M-24-10-Advancing-Governance-Innovation-and-Risk-Management-for-Agency-Use-of-Artificial-Intelligence.pdf){:target="_blank"}.**
 
 For these use cases, agencies are required to implement concrete safeguards before use. The inventory provides visibility into agency approaches to AI risk management, which include a range of actions to reliably assess, test, and monitor AI’s impacts on the public and mitigate the risks of algorithmic discrimination. 
 
