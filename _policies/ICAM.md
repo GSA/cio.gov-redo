@@ -12,7 +12,7 @@ date: May 21, 2019
 
 ---
 ## Policy Overview ##
-The memorandum OMB M-19-17 in May 2019, [Identity, Credentialing, and Access Management (ICAM)](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf), sets forth the Federal Government's latest ICAM policy and overrides a number of prior OMB memos dating to 2004.
+The memorandum OMB M-19-17 in May 2019, [Identity, Credentialing, and Access Management (ICAM)](https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/10/M-19-02.pdf), sets forth the Federal Government's latest ICAM policy and overrides a number of prior OMB memos dating to 2004.
 
 Generally speaking, ICAM comprises the tools, policies, and systems that allow an organization to manage, monitor, and secure access to protected resources. To ensure secure and efficient operations, agencies of the Federal Government must be able to identify, credential, monitor, and manage subjects that access Federal resources. This includes information, information systems, facilities, and secured areas across their respective enterprises. In particular, how agencies conduct identity proofing, establish enterprise digital identities, and adopt sound processes for authentication and access control significantly affects the security and delivery of their services, as well as individuals' privacy.
 

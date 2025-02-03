@@ -34,8 +34,8 @@ We need solutions that will meet agencies where they are and deliver these outco
 
 **Calls to Action**
 
-**CIO Community:** Read and be an ambassador of the [guidance](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/){:target="_blank"}. Ensure your digital teams are taking steps to implement the near-term actions required over the coming months. 
+**CIO Community:** Read and be an ambassador of the [guidance](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf){:target="_blank"}. Ensure your digital teams are taking steps to implement the near-term actions required over the coming months. 
 
-**Federal Employees:** Read the [guidance](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/){:target="_blank"} and be empowered to drive change in your agencies to deliver a better digital experience for your friends, neighbors, and communities.  
+**Federal Employees:** Read the [guidance](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf){:target="_blank"} and be empowered to drive change in your agencies to deliver a better digital experience for your friends, neighbors, and communities.  
 
-**Industry Partners:** Read the [guidance](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/){:target="_blank"} and pitch solutions that will help your agency customers be compliant. Do not pitch what we don't need.
+**Industry Partners:** Read the [guidance](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf){:target="_blank"} and pitch solutions that will help your agency customers be compliant. Do not pitch what we don't need.
