@@ -31,7 +31,7 @@ Office of Management and Budget<br/>
 
 **Steven Hernandez, Co-Chair**<br/>
 Chief Information Security Officer<br/>
-Department  of Education
+Agency for International Aid
 
 The [Connect.gov Federal CISO Council Page](https://community.connect.gov/x/JgLbRw) **(Connect.gov login required)** provides tools and resources to encourage information sharing and collaboration.
 
