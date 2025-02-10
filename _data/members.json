@@ -196,7 +196,7 @@
           "agencyName": "Department of Homeland Security",
           "agencyCode": "024",
           "cio": {
-            "firstName": "",
+            "firstName": "Vacant",
             "lastName": "",
             "email": "",
             "phone": "",
@@ -777,7 +777,7 @@
           "agencyName": "Department of Veterans Affairs",
           "agencyCode": "029",
           "cio": {
-            "firstName": "",
+            "firstName": "Vacant",
             "lastName": "",
             "email": "",
             "phone": "",
