@@ -460,8 +460,8 @@
           "agencyName": "Social Security Administration",
           "agencyCode": "016",
           "cio": {
-            "firstName": "Brian",
-            "lastName": "Peltier",
+            "firstName": "Michael",
+            "lastName": "Russo",
             "email": "",
             "phone": "",
             "dateAppointed": "",
@@ -479,7 +479,7 @@
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
-            "position": "Acting Chief Information Officer",
+            "position": "Chief Information Officer",
             "bio-image": "/ssa_wide.png",
             "description": ""
           }
