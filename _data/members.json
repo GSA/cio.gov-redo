@@ -592,8 +592,8 @@
           "agencyName": "Small Business Administration",
           "agencyCode": "028",
           "cio": {
-            "firstName": "Stephen",
-            "lastName": "Kucharski",
+            "firstName": "Marcus",
+            "lastName": "Alzona",
             "email": "",
             "phone": "",
             "dateAppointed": "",
@@ -611,7 +611,7 @@
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
-            "position": "Acting Chief Information Officer",
+            "position": "Chief Information Officer",
             "bio-image": "/sba-seal-placeholder.png",
             "description": ""
           }
