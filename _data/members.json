@@ -41,8 +41,8 @@
           "agencyName": "Department of Transportation",
           "agencyCode": "021",
           "cio": {
-            "firstName": "Jack",
-            "lastName": "Albright",
+            "firstName": "Pavan",
+            "lastName": "Pidugu",
             "email": "",
             "phone": "",
             "dateAppointed": "",
@@ -60,7 +60,7 @@
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
-            "position": "Acting Chief Information Officer",
+            "position": "Chief Information Officer",
             "bio-image": "/dot_wide.png",
             "description": ""
           }
@@ -559,8 +559,8 @@
           "agencyName": "National Science Foundation",
           "agencyCode": "422",
           "cio": {
-            "firstName": "Terry",
-            "lastName": "Carpenter",
+            "firstName": "Clyde",
+            "lastName": "Richards",
             "email": "",
             "phone": "",
             "dateAppointed": "",
@@ -578,9 +578,9 @@
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
-            "position": "Chief Information Officer",
+            "position": "Acting Chief Information Officer",
             "bio-image": "/seals/NSF Seal.jpg",
-            "description": "Mr. Carpenter was recently named the Chief Information Officer for the National Science Foundation. He is responsible for leading the merger of centralized IT functions into a new consolidated Office of the Chief Information Officer (CIO) at NSF. Previously he was responsible for large IT portfolios of services and systems in several agencies and components of the Department of Defense. He has over 32 years of experience leading IT systems development and large-scale operations in the federal government and commercial industry. He conducted academic research on artificial intelligence for natural language interfaces at the A.I. duPont Institute Applied Science and Engineering Lab (ASEL) and taught college courses as an Adjunct Instructor in computer science for Albright College.  He has a Master and Bachelor of Science in Computer Science from the University of Delaware and U.S. Coast Guard Academy."
+            "description": ""
           }
         }
       }
