@@ -41,8 +41,8 @@
           "agencyName": "Department of Transportation",
           "agencyCode": "021",
           "cio": {
-            "firstName": "Jack",
-            "lastName": "Albright",
+            "firstName": "Pavan",
+            "lastName": "Pidugu",
             "email": "",
             "phone": "",
             "dateAppointed": "",
@@ -60,7 +60,7 @@
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
-            "position": "Acting Chief Information Officer",
+            "position": "Chief Information Officer",
             "bio-image": "/dot_wide.png",
             "description": ""
           }
