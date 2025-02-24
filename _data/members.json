@@ -322,14 +322,14 @@
       }
     },
     {
-      "title": "Department of Energy Acting CIO Information",
+      "title": "Department of Energy CIO Information",
       "content": {
         "agency": {
           "agencyName": "Department of Energy",
           "agencyCode": "019",
           "cio": {
-            "firstName": "Vacant",
-            "lastName": "",
+            "firstName": "Ryan",
+            "lastName": "Riedel",
             "email": "",
             "phone": "",
             "dateAppointed": "",
@@ -347,7 +347,7 @@
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
-            "position": "Acting Chief Information Officer",
+            "position": "Chief Information Officer",
             "bio-image": "/doe_wide.png",
             "description": ""
           }
