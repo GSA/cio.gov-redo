@@ -3,11 +3,10 @@ title: Resources
 subtitle: 'The Call to Serve: Help Us Tackle the Nation’s Tech Challenges'
 description:
 layout: defaultwithbanner
-author: Clare Martorana, Federal Chief Information Officer
 permalink: /entry-to-the-government/
 ---
 
-Technology enables the Government to deliver on its mission. We need technologists at the table collaborating with our Nation's leaders and providing expertise on how best to launch products and services that are secure by design, digital by default, and accessible to people of all abilities.
+Technology enables the Government to deliver on its mission. We need technologists at the table collaborating with our Nation's leaders and providing expertise on how best to launch products and services that are secure by design, digital by default.
 
 Working together, we can deliver better digital experiences to over 400 million people counting on us.
 
@@ -36,33 +35,13 @@ There's a place for everyone. We look forward to you joining us -- you'll never 
     </tr>
     <tr>
       <td>Entry Level</td>
-      <td><a href="https://digitalcorps.gsa.gov/" aria-label="U.S. Digital Corps, opens in a new window" target="_blank" class="custom-visited">U.S. Digital Corps</a></td>
-      <td>Two‑year fellowship for early‑career technologists where you will work every day to make a difference in critical impact areas for our nation.</td>
-    </tr>
-    <tr>
-      <td>Entry Level</td>
       <td><a href="https://intern.usajobs.gov/Search/Results?hp=student&wt=15328&s=salary&sd=desc&p=1" aria-label="Federal Internship Portal, opens in a new window" target="_blank" class="custom-visited">Federal Internship Portal</a></td>
       <td>One-stop shop for prospective interns to find opportunities and apply for internships in the Federal government.</td>
     </tr>
     <tr>
       <td>Entry Level</td>
-      <td><a href="https://www.pmf.gov/" aria-label="Presidential Management Fellows Program, opens in a new window" target="_blank" class="custom-visited">Presidential Management Fellows Program</a></td>
-      <td>Federal Government's flagship leadership development program for advanced degree holders across all academic disciplines with the mission to recruit and develop a cadre of future government leaders drawn from all segments of society.</td>
-    </tr>
-    <tr>
-      <td>Entry Level</td>
-      <td><a href="https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/" aria-label="USAJOBS Help Center students & recent graduates, opens in a new window" target="_blank" class="custom-visited">USAJOBS Help Center | Students &amp; recent graduates</a></td>
-      <td>Government “job board” filtered for students and recent graduates.</td>
-    </tr>
-    <tr>
-      <td>Entry Level</td>
       <td><a href="https://www.codingitforward.com/fellowship" aria-label="Coding it Forward Fellowship, opens in a new window" target="_blank" class="custom-visited">Coding it Forward Fellowship</a></td>
       <td>A 10-week summer opportunity for early-career technologists. Fellows work across cybersecurity, data, design, product, and software to build a more equitable and effective government for all.</td>
-    </tr>
-    <tr>
-      <td>Entry Level</td>
-      <td><a href="https://citp.princeton.edu/programs/public-interest-technology-summer-fellowship/" aria-label="Siegel Public Interest Technology Summer Fellowship, opens in a new window" target="_blank" class="custom-visited">Siegel Public Interest Technology Summer Fellowship</a></td>
-      <td>Program is aimed at rising juniors and seniors interested in getting first-hand experience working on technology policy at the federal, state, and local level.  Between 16 and 20 students are selected each year to participate in a paid summer fellowship with the opportunity to be placed with a government agency.</td>
     </tr>
     <tr>
       <td>Entry Level</td>
@@ -85,16 +64,6 @@ There's a place for everyone. We look forward to you joining us -- you'll never 
       <td>Apply modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective.</td>
     </tr>
     <tr>
-      <td>Senior Level</td>
-      <td><a href="https://www.xd.gov/" aria-label="xD| U.S. Census Bureau, opens in a new window" target="_blank" class="custom-visited">xD| U.S. Census Bureau</a></td>
-      <td>Emerging Technology Fellowship offers senior-level, mission-oriented technical leaders with up to a four-term to advance the delivery of data-driven services through new and transformative technologies.</td>
-    </tr>
-    <tr>
-      <td>Senior Level</td>
-      <td><a href="https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/senior-executive-service/" aria-label="USAJOBS Help Center Senior Executive Service, opens in a new window" target="_blank" class="custom-visited">USAJOBS Help Center | Senior Executive Service</a></td>
-      <td>Government “job board” filtered for individuals applying to executive positions.</td>
-    </tr>
-    <tr>
       <td>All Levels</td>
       <td><a href="https://www.usajobs.gov/" aria-label="USAJOBS - The Federal Government's official employment site, opens in a new window" target="_blank" class="custom-visited">USAJOBS - The Federal Government's official employment site</a></td>
       <td>Our government “job board” that includes leadership development programs, internships, and more traditional job postings at all levels.</td>
@@ -104,30 +73,20 @@ There's a place for everyone. We look forward to you joining us -- you'll never 
       <td><a href="https://ai.usajobs.gov/Search/Results?cmco=AI&s=relevance&sd=asc&p=1" aria-label="AI Jobs in the Federal Government, opens in a new window" target="_blank" class="custom-visited">AI Jobs in the Federal Government</a></td>
       <td>Government “job board” filtered for Artificial Intelligence opportunities.</td>
     </tr>
+      <tr>
+      <td>All Levels</td>
+      <td><a href="https://doge.gov/join" aria-label="U.S. Doge
+      Service - DHS Cyber - Mission, opens in a new window" target="_blank" class="custom-visited">U.S. Doge Service</a></td>
+      <td>The DOGE Team is looking for world-class talent to work
+      long hours identifying/eliminating waste, fraud, and
+      abuse. These are full-time, salaried positions for
+      software engineers, InfoSec engineers, and other
+      technology professionals.</td>
+    </tr>
     <tr>
       <td>All Levels</td>
       <td><a href="https://dhscs.usajobs.gov/" aria-label="USAJOBS - DHS Cyber - Mission, opens in a new window" target="_blank" class="custom-visited">USAJOBS - DHS Cyber - Mission</a></td>
       <td>Government “job board” filtered for DHS cybersecurity opportunities.</td>
-    </tr>
-    <tr>
-      <td>All Levels</td>
-      <td><a href="https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/" aria-label="USAJOBS Help Center - Veterans, opens in a new window" target="_blank" class="custom-visited">USAJOBS Help Center | Veterans</a></td>
-      <td>Government “job board” filtered for veterans’ opportunities.</td>
-    </tr>
-    <tr>
-      <td>All Levels – Individuals with a Disability</td>
-      <td><a href="https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/individuals-with-disabilities/" aria-label="USAJOBS Help Center - Individuals with disabilities, opens in a new window" target="_blank" class="custom-visited">USAJOBS Help Center | Individuals with disabilities</a></td>
-      <td>Government “job board” filtered for individuals with disabilities.</td>
-    </tr>
-    <tr>
-      <td>All Levels</td>
-      <td><a href="https://fas.org/talent-hub/impact-fellowship/" aria-label="Federation of American Scientists, opens in a new window" target="_blank" class="custom-visited">Federation of American Scientists</a></td>
-      <td>The Impact Fellowship is a selective fellowship program that supports the development and placement of emerging scientific and technical talent within high-impact roles across the federal government. Impact Fellows are serving across a variety of federal agencies in roles that augment existing government teams as they confront some of the greatest scientific and social challenges of our time.</td>
-    </tr>
-    <tr>
-      <td>All Levels</td>
-      <td><a href="https://www.techcongress.io/senior-congressional-innovation-fellows" aria-label="TechCongress Fellowships, opens in a new window" target="_blank" class="custom-visited">TechCongress Fellowships</a></td>
-      <td>Multiple fellowship opportunities for technologists to serve in policy advisor roles in the United States Congress.</td>
     </tr>
   </tbody>
 </table>
