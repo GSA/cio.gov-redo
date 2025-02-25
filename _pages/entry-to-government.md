@@ -55,11 +55,6 @@ There's a place for everyone. We look forward to you joining us -- you'll never 
     </tr>
     <tr>
       <td>Senior Level</td>
-      <td><a href="https://www.usds.gov/" aria-label="U.S. Digital Service, opens in a new window" target="_blank" class="custom-visited">U.S. Digital Service</a></td>
-      <td>Collaborate with public servants throughout the government to address some of our nation’s most critical needs and ultimately deliver a better government experience to the public.</td>
-    </tr>
-    <tr>
-      <td>Senior Level</td>
       <td><a href="https://join.tts.gsa.gov/" aria-label="GSA Technology Transformation Services, opens in a new window" target="_blank" class="custom-visited">GSA Technology Transformation Services</a></td>
       <td>Apply modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective.</td>
     </tr>
