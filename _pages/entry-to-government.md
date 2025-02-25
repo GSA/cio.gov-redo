@@ -10,7 +10,7 @@ Technology enables the Government to deliver on its mission. We need technologis
 
 Working together, we can deliver better digital experiences to over 400 million people counting on us.
 
-We have a mandate. We have bipartisan support. **All we need is you.** 
+We have a mandate. **All we need is you.** 
 
 **We the people means us, you and me** -- we are the mission-critical drivers for this change. There's no one else coming. It's up to us. 
 
