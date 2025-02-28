@@ -44,6 +44,8 @@ primary_navigation:
         url: /about/members-and-leadership/
       - name: Meetings and Operations
         url: /about/operations/
+      - name: Sitemap Test page
+        url: "/test-sitemap/"
       - name: Committees and Communities
         url: /about/members-and-leadership/#council-committees
   - name: Policies, Priorities & Resources
