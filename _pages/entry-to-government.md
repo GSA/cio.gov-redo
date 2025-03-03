@@ -54,11 +54,6 @@ There's a place for everyone. We look forward to you joining us -- you'll never 
       <td>12-month program where Fellows will  work on innovation programs across Federal agencies.</td>
     </tr>
     <tr>
-      <td>Senior Level</td>
-      <td><a href="https://join.tts.gsa.gov/" aria-label="GSA Technology Transformation Services, opens in a new window" target="_blank" class="custom-visited">GSA Technology Transformation Services</a></td>
-      <td>Apply modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective.</td>
-    </tr>
-    <tr>
       <td>All Levels</td>
       <td><a href="https://www.usajobs.gov/" aria-label="USAJOBS - The Federal Government's official employment site, opens in a new window" target="_blank" class="custom-visited">USAJOBS - The Federal Government's official employment site</a></td>
       <td>Our government “job board” that includes leadership development programs, internships, and more traditional job postings at all levels.</td>
