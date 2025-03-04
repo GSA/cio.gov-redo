@@ -777,8 +777,8 @@
           "agencyName": "Department of Veterans Affairs",
           "agencyCode": "029",
           "cio": {
-            "firstName": "Vacant",
-            "lastName": "",
+            "firstName": "Eddie",
+            "lastName": "Pool",
             "email": "",
             "phone": "",
             "dateAppointed": "",
@@ -796,7 +796,7 @@
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
-            "position": "Chief Information Officer",
+            "position": "Acting Chief Information Officer",
             "bio-image": "/va_wide.jpg",
             "description": ""
           }
