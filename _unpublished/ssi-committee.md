@@ -2,7 +2,7 @@
 title: Our Team and Leadership
 subtitle: CIO Council- Enterprise Operations Committee (E-Ops)
 layout: page
-permalink: /about/members-and-leadership/e-ops/
+#permalink: /about/members-and-leadership/e-ops/
 
 ---
 # About the Enterprise Operations Committee (E-Ops)
