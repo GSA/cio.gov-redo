@@ -625,8 +625,8 @@
           "agencyName": "Department of Labor",
           "agencyCode": "******need info******",
           "cio": {
-            "firstName": "Vacant",
-            "lastName": "",
+            "firstName": "Thomas",
+            "lastName": "Shedd",
             "email": "******need info******",
             "phone": "******need info******",
             "dateAppointed": "******need info******",
@@ -644,7 +644,7 @@
             "banner_subtitle": "Team and Leadership",
             "banner_title": "About Our Leadership",
             "leadership": false,
-            "position": "Acting Chief Information Officer",
+            "position": "Chief Information Officer",
             "bio-image": "/seals/DOL Seal.png",
             "description": "Louis (Lou) Charlier has more than 30 years of leadership and transformational experience in the military, private, and public sectors initiating and implementing enterprise-wide, IT capabilities and strategies. He currently serves as the acting Chief Information Officer at the U.S. Department of Labor. In this role, he provides strategic leadership for IT capital planning, project initiatives, talent acquisition and enterprise-wide services – ultimately advancing mission-critical work among the department’s 27 agencies, the Office of Management and Budget and other key stakeholders.<br><br>Charlier previously served as the Deputy Chief Information Officer for Administration and Strategy at the Labor Department. Under his guidance and leadership, Charlier has overseen IT program planning and execution and supports the operational infrastructure of more than 250 mission-critical applications for the Enterprise IT environment. He has also provided strategic, tactical, and managerial leadership to federal and technical staff. Most recently, he has been at the forefront of the Biden-Harris administration’s Executive Order calling for the \"Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence.\""
           }
