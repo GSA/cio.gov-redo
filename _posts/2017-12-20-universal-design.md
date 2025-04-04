@@ -20,7 +20,7 @@ Launching accessibility initiatives so that customers can learn about accessible
 
 With nearly [1 in 8](https://disabilitycompendium.org/sites/default/files/user-uploads/2016_AnnualReport.pdf) people in the U.S. known to have a disability, there is a huge incentive for businesses, and the government, to invest in accessible technology to ensure that working environments are inclusive and available to all user groups. However, organizations often overlook key design areas related to accessibility when implementing these new technologies, which leads to overspending in the long term to rectify early design decisions.
 
-The solution? [Universal Design](https://universaldesign.ie/What-is-Universal-Design/)! This approach ensures that the complete user experience is captured at every stage of the implementation process, and it’s gaining widespread popularity in the private sector. The result is a solution designed with all users in mind.
+The solution? Universal Design! This approach ensures that the complete user experience is captured at every stage of the implementation process, and it’s gaining widespread popularity in the private sector. The result is a solution designed with all users in mind.
 
 ![Universal Design is:'The design and compostion of an environment so that it can be accessed, understood and used to the greatest extent possible by all people regardless of their age, ability or disability.'](https://assets.cio.gov/assets/files/resources/UniversalDesign_Updated.png)
 
@@ -28,7 +28,7 @@ Universal Design is: "The design and composition of an environment so that it ca
 
 While Universal Design can be applied to any product, whether that be a building, service or tool, solutions designed using this approach serve not only the needs of a single minority group, but create an environment that is accessible and convenient for all. All in all, Universal Design is a good design.
 
-Universal Design is based on these [7 Principles](https://universaldesign.ie/What-is-Universal-Design/The-7-Principles/7-Principals-.pdf):
+Universal Design is based on these 7 Principles:
 
 1. [Equitable Use](https://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html#p1) – The design is useful and marketable to people with diverse abilities.
 2. [Flexibility in Use](https://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html#p2) – The design accommodates a wide range of individual preferences and abilities.

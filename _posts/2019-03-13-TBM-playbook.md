@@ -48,4 +48,4 @@ Help your organization become more familiar with the terminology, goals, and ach
 
 Assess the strengths and weaknesses and develop tactics to evolve your organization. TBM is a dynamic practice and your results will improve as your goal-setting, data collection, analysis, and decision-making mature.
 
-Interested in learning more about TBM and its applications? [Follow the federal government’s progress](https://trumpadministration.archives.performance.gov/CAP/tbm/) with TBM implementation or download the [Playbook](https://tech.gsa.gov/playbooks/tbm/).
+Interested in learning more about TBM and its applications? [Follow the federal government’s progress](https://trumpadministration.archives.performance.gov/CAP/tbm/) with TBM implementation or download the Playbook.

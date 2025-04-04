@@ -15,7 +15,7 @@ permalink: GEAR-center-challenge-now-open/
 
 The General Services Administration and Office of Management and Budget are excited to launch the Government Effectiveness Advanced Research (GEAR) Center Challenge!
 
-The challenge is the next step toward establishing an innovation hub for Government known as the GEAR Center which will aim to tackle the toughest management challenges facing government. As outlined in the [Delivering Government Solutions in the 21st Century reform plan](https://www.performance.gov/GovReform/Reform-and-Reorg-Plan-Final.pdf), the GEAR Center will ultimately bring together experts across sectors and disciplines to take a creative, data-driven, and interdisciplinary approach to new possibilities in how citizens and government interact. Modernizing the IT infrastructure of Federal Agencies is a priority of the GEAR Center, and many of these proposals will leverage the expertise of the Federal IT community.
+The challenge is the next step toward establishing an innovation hub for Government known as the GEAR Center which will aim to tackle the toughest management challenges facing government. As outlined in the Delivering Government Solutions in the 21st Century reform plan, the GEAR Center will ultimately bring together experts across sectors and disciplines to take a creative, data-driven, and interdisciplinary approach to new possibilities in how citizens and government interact. Modernizing the IT infrastructure of Federal Agencies is a priority of the GEAR Center, and many of these proposals will leverage the expertise of the Federal IT community.
 
 The challenge asks solvers to propose how they would implement a project that delivers a GEAR Center solution that creatively address issues that affect the Federal IT Community. This could include:
 
@@ -23,7 +23,7 @@ The challenge asks solvers to propose how they would implement a project that de
  * Empowering external users to access and use Government data for commercial and other public purposes.
  * Transforming the way the Federal workforce is recruited, developed, reskilled or deployed
  * Better connecting Federal programs with a quantitative and qualitative understanding of the people they serve, and capturing the voice of the customer in order to continuously improve Federal services.
- * Solvers can also suggest their own challenges and solutions to issues described in the [President’s Management Agenda](https://www.performance.gov/PMA/Presidents_Management_Agenda.pdf).
+ * Solvers can also suggest their own challenges and solutions to issues described in the President’s Management Agenda.
 
  Proposals will be evaluated on their innovation, relevance, use of the partnership model, impact, and feasibility. Grand prize winners will receive $300,000 to carry out their projects and further explore the potential of the GEAR Center model.  
 
