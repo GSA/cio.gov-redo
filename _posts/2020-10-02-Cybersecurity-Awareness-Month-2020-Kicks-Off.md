@@ -27,6 +27,6 @@ image: S.Hernandez.jpg
 <p >Security in the age of Internet of Things (IoT).</p>
 </li>
 </ol>
-<p >I hope you can join us throughout the month. Each week <a href="https://www.cio.gov/programs-and-events/2020-cybersecurity-awareness-month/" target="_blank" >CIO.gov will share information related to the themes</a> including videos, one pagers and events relevant to all federal employees.&nbsp;</p>
+<p >I hope you can join us throughout the month. Each week CIO.gov will share information related to the themes including videos, one pagers and events relevant to all federal employees.&nbsp;</p>
 <p >This year the message for the National Cybersecurity Awareness Month campaign through The Department of Homeland Security (DHS) for the public is <a href="https://www.dhs.gov/national-cyber-security-awareness-month" target="_blank">&ldquo;If You Connect It, Protect It&rdquo;</a> . The theme encourages individuals and organizations to recognize the importance of their role in protecting their part of cyberspace, stressing personal accountability and the importance of taking proactive steps to enhance cybersecurity. We will be connecting to many of these DHS resources as well throughout the month.</p>
 <p >The Federal CISO Council is excited to share National Cybersecurity Awareness Month with you and we hope you find this campaign useful and engaging. Remember to be cyber-smart when working from home, while on travel and even when we&rsquo;re back in the office.</p>

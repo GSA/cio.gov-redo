@@ -37,4 +37,4 @@ Track cost and cost allocation from the point of procurement through the lifecyc
 
 The purpose of the mapping spreadsheet is to help enable traceability on the costs associated with EIS-related products and services and consistent categorization of technology spending.
 
-Additional EIS resources can be found on the <a href="https://www.gsa.gov/technology/technology-purchasing-programs/telecommunications-and-network-services/enterprise-infrastructure-solutions/enterprise-infrastructure-solutions-resources">GSA Enterprise Infrastructure Solutions webpage</a>. 
+Additional EIS resources can be found on the GSA Enterprise Infrastructure Solutions webpage. 

@@ -13,7 +13,7 @@ HTTPS is a necessary baseline for security on the modern web. Non-secure HTTP co
 
 In June 2015, the White House required all new federal web services to support and enforce HTTPS connections over the public internet, and for agencies to migrate existing web services to HTTPS by the end of calendar year 2016. GSA’s Office of Government-wide Policy has supported the growth of HTTPS in the federal government by providing a [public HTTPS](https://pulse.cio.gov/) monitoring dashboard and thorough policy guidance and technical assistance.
 
-Federal agencies have made very significant progress towards that goal, to the point that [federal use of HTTPS](https://18f.gsa.gov/2017/01/04/tracking-the-us-governments-progress-on-moving-https/) now outpaces the private sector.
+Federal agencies have made very significant progress towards that goal, to the point that federal use of HTTPS now outpaces the private sector.
 
 This year, GSA will be taking another significant step forward in making secure communication the default for federal web services by automatically enforcing HTTPS in modern web browsers for newly issued executive branch .gov domains and their subdomains.
 
@@ -34,6 +34,6 @@ Some important notes:
 
 GSA’s DigitalGov University and 18F teams have partnered to produce three detailed video presentations on HTTPS:
 
-* [An Introduction to HTTPS](https://www.youtube.com/watch?v=d2GmcPYWm5k) (basic, a general introduction for anyone)
-* [Implementing HTTPS](https://www.youtube.com/watch?v=rnM2qAfEG-M) (advanced, more technical detail)
-* [Migrating to HTTPS](https://www.youtube.com/watch?v=X5H8JRULDOo) (advanced, focused on HSTS, certificates, and mixed content)
+* An Introduction to HTTPS (basic, a general introduction for anyone)
+* Implementing HTTPS (advanced, more technical detail)
+* Migrating to HTTPS (advanced, focused on HSTS, certificates, and mixed content)

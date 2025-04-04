@@ -9,7 +9,7 @@ tags:  2016 it-modernization
 
 permalink: 
 ---
-This [blog](https://gsablogs.gsa.gov/gsablog/2016/10/31/why-im-joining-the-technology-transformation-service/) entry was originally published on October 31st, 2016 on the GSA blog.
+This blog entry was originally published on October 31st, 2016 on the GSA blog.
 
 Some of my friends have asked what could possibly have gotten me to leave the life I love in the Bay Area and take a government job in DC. My answer is straightforward: I believe the Technology Transformation Service has an unprecedented chance to dramatically improve the way we all interact with our government.
 
