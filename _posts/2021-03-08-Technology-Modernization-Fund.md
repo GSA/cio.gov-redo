@@ -14,7 +14,7 @@ img-alt: tmf logo
 
 This week marks the three-year anniversary of the Technology Modernization Fund (TMF).  The TMF is an innovative funding vehicle that gives Federal agencies additional ways to deliver services to the American public more quickly, better secure sensitive systems and data, and use taxpayer dollars more efficiently.  
 
-When I received the call three years ago to join the TMF Board, I was thrilled.  I understood how impactful the <a href="https://tmf.cio.gov/_pages/documents/pdfs/mgt-act-final.pdf"> Modernizing Government Technology (MGT) Act </a> could be in the creation of the TMF and agency-level IT Working Capital Funds (ITWCF) enabling multi-year funding.   It was, and continues to be, humbling to have the opportunity and ability to influence and impact Federal-wide technology programs through a seat on the board. 
+When I received the call three years ago to join the TMF Board, I was thrilled.  I understood how impactful the Modernizing Government Technology (MGT) Act could be in the creation of the TMF and agency-level IT Working Capital Funds (ITWCF) enabling multi-year funding.   It was, and continues to be, humbling to have the opportunity and ability to influence and impact Federal-wide technology programs through a seat on the board. 
 
 My fellow Board members are nothing short of insightful and inquisitive, and experts in their field.  Each brings a breadth and depth of knowledge, and government and industry experience and perspective.  There is no shortage of strategic and tactical questions as agency teams ‘make their pitch’ to the Board.  The Board makes hard decisions to fund or not fund.  
 

@@ -11,7 +11,7 @@ permalink:
 ---
 HTTPS is a necessary baseline for security on the modern web. Non-secure HTTP connections lack integrity protection, and can be used to attack citizens, foreign nationals, and government staff. HTTPS provides increased confidentiality, authenticity, and integrity that mitigate these attacks.
 
-In June 2015, the White House required all new federal web services to support and enforce HTTPS connections over the public internet, and for agencies to migrate existing web services to HTTPS by the end of calendar year 2016. GSA’s Office of Government-wide Policy has supported the growth of HTTPS in the federal government by providing a [public HTTPS](https://pulse.cio.gov/) monitoring dashboard and thorough policy guidance and technical assistance.
+In June 2015, the White House required all new federal web services to support and enforce HTTPS connections over the public internet, and for agencies to migrate existing web services to HTTPS by the end of calendar year 2016. GSA’s Office of Government-wide Policy has supported the growth of HTTPS in the federal government by providing a public HTTPS monitoring dashboard and thorough policy guidance and technical assistance.
 
 Federal agencies have made very significant progress towards that goal, to the point that federal use of HTTPS now outpaces the private sector.
 

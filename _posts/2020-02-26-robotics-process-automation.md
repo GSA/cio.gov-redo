@@ -24,7 +24,7 @@ On January 15th, The Federal RPA Community of Practice released version 1.0 of t
  - balancing governance and productivity; and 
  - thinking strategically.
 
-These are the basics when considering how your agency can pilot projects with RPA. Prior to this playbook being released, the [CIO Council’s Innovation Committee](https://www.cio.gov/about/members-and-leadership/innovation-committee/) developed a white paper to provide a strategic overview of <a href= "{{ site.baseurl }}/assets/resources/robotics-process-automation-whitepaper.pdf">RPA</a> for CIOs and technology leaders throughout the federal government. This differs from the RPA playbook in that it provides a broader strategy versus discrete implementation and maturity guidance. Both of these artifacts are useful to the technology community when considering RPA. 
+These are the basics when considering how your agency can pilot projects with RPA. Prior to this playbook being released, the CIO Council’s Innovation Committee developed a white paper to provide a strategic overview of <a href= "{{ site.baseurl }}/assets/resources/robotics-process-automation-whitepaper.pdf">RPA</a> for CIOs and technology leaders throughout the federal government. This differs from the RPA playbook in that it provides a broader strategy versus discrete implementation and maturity guidance. Both of these artifacts are useful to the technology community when considering RPA. 
 
 The white paper takes a look at the benefits of RPA, use case categories, and considerations for CIOs. 
 
