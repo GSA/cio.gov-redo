@@ -145,7 +145,7 @@
             "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_ijaz.png",
             "linkToBio": "https://www.cio.gov/about/members-and-leadership/sairah-ijaz/",
             "deptCIO": "1",
-            "bio_link":"https://www.hud.gov/program_offices/cio",
+            "bio_link":"",
             "banner_subtitle": "Team and Leadership",
             "banner_title":"About Our Council",
             "leadership": false,
@@ -508,7 +508,7 @@
               "state": "DC",
               "zip": "20523"
             },
-            "bio_link":"https://www.usaid.gov/about-us/organization/bureau-management",
+            "bio_link":"",
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,

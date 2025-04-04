@@ -9,7 +9,7 @@ tags: shared-services 2018
 
 permalink: 
 ---
-This blog entry was previously published in [FCW](https://fcw.com/articles/2018/05/30/comment-payroll-cloud-gsa-angerman.aspx) on May 30, 2018.
+This blog entry was previously published in FCW on May 30, 2018.
 
 The federal government faces a pressing need to modernize and improve the way it runs its payroll business.
 

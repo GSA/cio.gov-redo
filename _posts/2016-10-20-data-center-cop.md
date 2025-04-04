@@ -21,7 +21,7 @@ Jim Walker from the NASA Shared Services Center (NSSC) provided an overview of t
 
 **Managing partner announcements**
 
-In alignment with the Office of Management and Budget (OMB) Memorandum M-16-19, OMB has [published OGP’s Definition of Significant Expansion](https://datacenters.cio.gov/policy/significant-expansion/) on [datacenters.cio.gov](https://go.usa.gov/xkVDE). The document defines the thresholds for what constitutes significant expansion of a data center.
+In alignment with the Office of Management and Budget (OMB) Memorandum M-16-19, OMB has published OGP’s Definition of Significant Expansion on [datacenters.cio.gov](https://go.usa.gov/xkVDE). The document defines the thresholds for what constitutes significant expansion of a data center.
 
 On September 28, 2016, GSA released the [Federal Data Center Inter-Agency Shared Service Provider (ISSP) Application Guidance](https://go.usa.gov/xkVD7). This memo establishes the ISSP designation process, and FY17 ISSP criteria and application deadlines. If your agency is interested in becoming an ISSP, submit the [EOI form](https://go.usa.gov/xKzrR) to the DCOI Managing Partner at [dcoi@gsa.gov](mailto:dcoi@gsa.gov) by October 27, 2016.
 

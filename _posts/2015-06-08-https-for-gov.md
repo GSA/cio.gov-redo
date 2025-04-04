@@ -21,6 +21,6 @@ A number of agency CIOs support this effort, including Frank Baitman of HHS, “
 
 With this new requirement, the Federal web community seeks to drive faster internet-wide adoption of HTTPS and promote better privacy standards for the entire browsing public.
 
-Read more about the HTTPS-Only Standard from [OMB](https://www.whitehouse.gov/blog/2015/06/08/https-everywhere-government)and [18F](https://18f.gsa.gov/2015/06/08/the-us-government-is-moving-to-https-everywhere).
+Read more about the HTTPS-Only Standard from [OMB](https://www.whitehouse.gov/blog/2015/06/08/https-everywhere-government)and 18F.
 
 The full set of changes between the proposed and final version of the policy are available on [GitHub](https://github.com/gsa/https/issues).

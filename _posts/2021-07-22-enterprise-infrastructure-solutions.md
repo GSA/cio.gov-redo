@@ -12,7 +12,7 @@ permalink: /2021-07-22-enterprise-infrastructure-solutions/
 
 Enterprise Infrastructure Solutions (EIS) is a comprehensive solution-based contract vehicle to address all federal agency IT telecommunications and infrastructure requirements. It reduces agency costs and acquisition time by leveraging an existing contract and allows agencies to focus on missions. EIS is required for GSA to fulfill its Congressional mandate to provide telecommunications services for the Federal Government.
 
-OMB announced the designation of <a href="https://www.gsa.gov/buying-selling/category-management/best-in-class">Best-in-Class</a> for the EIS contract. The BIC-designation for EIS represents a preferred governmentwide solution and provides a unique opportunity to leverage the government's buying power.
+OMB announced the designation of Best-in-Class for the EIS contract. The BIC-designation for EIS represents a preferred governmentwide solution and provides a unique opportunity to leverage the government's buying power.
 
 Awarded on July 31, 2017, the EIS contract outlines the following key objectives:
 - Simplifying the process of acquiring telecommunications and IT products and services.
@@ -37,4 +37,4 @@ Track cost and cost allocation from the point of procurement through the lifecyc
 
 The purpose of the mapping spreadsheet is to help enable traceability on the costs associated with EIS-related products and services and consistent categorization of technology spending.
 
-Additional EIS resources can be found on the <a href="https://www.gsa.gov/technology/technology-purchasing-programs/telecommunications-and-network-services/enterprise-infrastructure-solutions/enterprise-infrastructure-solutions-resources">GSA Enterprise Infrastructure Solutions webpage</a>. 
+Additional EIS resources can be found on the GSA Enterprise Infrastructure Solutions webpage. 

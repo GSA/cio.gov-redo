@@ -19,6 +19,4 @@ The document also outlines new responsibilities for the Department of Commerce (
 
 A robust public comment period is essential for the success of this new guidance. Therefore, OMB is requesting feedback from business and mission partners, consumers who receive or who have applied for government services, and the public through May 6, 2018, at which time the public comment period will close.
 
-To view the draft policy and respond to the Request for Comment, please click [HERE](https://policy.cio.gov/identity-draft/).
-
 For any questions, please contact [Jordan.C.Burris@omb.eop.gov](mailto:Jordan.C.Burris@omb.eop.gov)

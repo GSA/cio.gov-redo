@@ -25,4 +25,4 @@ CXO Fellows will learn new leadership skills, but more importantly they will lea
 
 *"An opportunity to receive guidance and make connections to propel your career in the Federal Government. The first stop if you see yourself as a future leader."* - **Mark Trupiano, IT Specialist for the Department of the Treasury, CXO Alumnus**
 
-The CXO Fellows Program is a great opportunity to invest in yourself and all it will cost you is your time, focus, and commitment to grow. Find out more about the program and how to apply [here](https://www.cfo.gov/cxo-fellows/){:target="_blank"}.
+The CXO Fellows Program is a great opportunity to invest in yourself and all it will cost you is your time, focus, and commitment to grow.
