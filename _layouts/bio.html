@@ -1,7 +1,8 @@
 ---
 layout: defaultwithbanner
 ---
-{% assign bio = site.data.members.cioInfo | where_exp: 'item', "page.url contains item.content.agency.cio.bio_link " | first %}
+{% assign current_biolink = page.url | split: '/' | last %}
+{% assign bio = site.data.members.cioInfo | where_exp: 'item', "item.content.agency.cio.bio_link contains current_biolink" | first %}
 
 {% if bio %}
   {% assign first_name = bio.content.agency.cio.firstName %}
