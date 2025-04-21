@@ -107,13 +107,13 @@
           "agencyName": "Department of the Interior",
           "agencyCode": "010",
           "cio": {
-            "firstName": "Darren",
-            "lastName": "Ash",
+            "firstName": "Vacant",
+            "lastName": "",
             "email": "",
             "phone": "",
             "dateAppointed": "",
             "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_ash.jpeg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/darren-ash/",
+            "linkToBio": "https://www.cio.gov/about/members-and-leadership/",
             "deptCIO": "1",
             "address": {
               "address1": "",
@@ -128,7 +128,7 @@
             "leadership": false,
             "position": "Chief Information Officer",
             "bio-image": "/seals/DOI Seal.jpg",
-            "description": "Darren Ash is the CIO at the U.S. Department of the Interior where he leads transformative change in securing and managing critical mission systems and data. In his role, he is responsible for an IT portfolio of over $1.6B, supporting 60,000 employees, and 2,400 operational locations.<br><br>Darren has served as the Assistant Chief Information Officer for the Farm Production and Conservation Mission Area, within the U.S. Department of Agriculture (USDA), since 2018. In this role, he was responsible for all information systems and applications of the mission area’s four agencies, including conducting comprehensive, actionable information technology strategic planning, managing shared services, leading governance, leading acquisition management, performing project and program management, budgeting, managing cost allocations and spend on cross-agency/shared projects. Darren Ash’s former positions include serving as the CIO for USDA’s Farm Service Agency, CIO of the U.S. Nuclear Regulatory Commission, and Associate CIO at the U.S. Department of Transportation. Darren started his Federal career with the Internal Revenue Service and then moved to the Department of Treasury, prior to serving at the Department of Transportation.<br><br>A native of California, he received a Bachelor of Arts in International Studies from The American University, a Master of Public Administration from Syracuse University and a Master of Science in Information Systems Technology. He and his family reside in Potomac, Maryland."
+            "description": ""
           }
         }
       }
