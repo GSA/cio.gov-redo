@@ -107,8 +107,8 @@
           "agencyName": "Department of the Interior",
           "agencyCode": "010",
           "cio": {
-            "firstName": "Vacant",
-            "lastName": "",
+            "firstName": "Nathalie",
+            "lastName": "Stevens",
             "email": "",
             "phone": "",
             "dateAppointed": "",
@@ -126,7 +126,7 @@
             "banner_subtitle": "Team and Leadership",
             "banner_title": "About Our Council",
             "leadership": false,
-            "position": "Chief Information Officer",
+            "position": "Acting Chief Information Officer",
             "bio-image": "/seals/DOI Seal.jpg",
             "description": ""
           }
