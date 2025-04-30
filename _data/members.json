@@ -493,8 +493,8 @@
           "agencyName": "Agency for International Development",
           "agencyCode": "184",
           "cio": {
-            "firstName": "Steven",
-            "lastName": "Hernandez",
+            "firstName": "Vacant",
+            "lastName": "",
             "email": "",
             "phone": "",
             "dateAppointed": "",
@@ -512,7 +512,7 @@
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
-            "position": "Acting Chief Information Officer",
+            "position": "Chief Information Officer",
             "bio-image": "/seals/USAID Seal.png",
             "description": ""
           }
