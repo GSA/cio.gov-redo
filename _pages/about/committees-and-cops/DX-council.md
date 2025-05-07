@@ -24,14 +24,6 @@ National Aeronautics and Space Administration
 Director, Digital Experience<br/>
 Office of Management and Budget (OMB) Office of the Federal CIO (OFCIO)
 
-**Lauren Bracey-Scheidt**<br/>
-Assistant Commissioner, Office of Solutions<br/>
-General Services Administration (GSA) Technology Transformation Service (TTS)
-
-**Larry Bafundo**<br/>
-Executive Director, Technology Modernization Fund<br/>
-General Services Administration (GSA)
-
 The [Connect.gov Federal DX Council Page](https://community.connect.gov/display/Egov/Digital+Experience+Council) **(login required)** provides tools and resources to encourage information sharing and collaboration.
 
 &nbsp;
