@@ -27,31 +27,6 @@ The Council holds monthly meetings with CIOs, Chief Information Security Officer
 
 > A strong digital experience is crucial for Federal agencies to fulfill their missions and best serve the American public. The public expects and deserves a simple, seamless and secure experience when interacting with government websites and digital services. Improving these interactions is a significant opportunity to make it easier to access the information and services that millions use and count on each and every day. Achieving this requires coordination across Federal agencies, programs, and the various functions involved in delivering digital experiences. The DX Council will play a critical role in coordinating government-wide efforts and assisting agencies in delivering digital experiences that meet the public’s needs and expectations.
 
--   [Innovation Committee](https://community.connect.gov/x/SRp5K) **(Connect.gov Login Required)**
-
-> The Innovation Committee is committed to providing an open forum for CIO's and improving their knowledge of the language, leading practices, and emerging technologies surrounding innovation. By championing the CIO in the area of innovation CIO's can foster cultural change and growth within their agencies. The Innovation committee strives to educate CIO's on the topic of innovation through:
-
-> -   Roundtables
-> -   Labs
-> -   Field Trips
-> -   Open Forums
-> -   Workshops
-> -   Academic Lectures
-
--   [Enterprise Operations Committee ](https://community.connect.gov/x/URp5K)(**Connect.gov Login Required)**
-
-> The Enterprise Operations (E-Ops), Committee focuses on acquisition reform and Federal IT infrastructure through execution of the following policies and initiatives:
-
-> -   Enterprise Architecture (EA) with a focus on Oracle
-> -   Secure Mobility Best Practices
-> -   Shared Services
-> -   Technology Business Management (TBM)
-> -   Zero Trust Architecture Initiative
-
--   [Workforce Committee](https://community.connect.gov/x/bQlPS) **(Connect.gov Login Required)**
-
-> The Workforce Committee's agenda encompasses the full employment life cycle: workforce planning, recruitment, and retention and career development. The committee works in partnership with the HR community to develop, implement and communicate strategies to recruit, retain and manage a fully trained and qualified IT workforce, to meet current and future mission requirements. The Workforce Committee is committed to its strategic goal of providing the Federal Government with a cadre of highly capable IT professionals with mission critical competencies to meet agency goals.
-
 ### Additional Resources
 Other government-only pages for key Council information include:
 
