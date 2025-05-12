@@ -74,13 +74,13 @@
           "agencyName": "Department of the Treasury",
           "agencyCode": "015",
           "cio": {
-            "firstName": "Jeffrey",
-            "lastName": "King",
+            "firstName": "Vacant",
+            "lastName": "",
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_arcadi.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/arcadi-tony/",
+            "linkToPhoto": "",
+            "linkToBio": "",
             "deptCIO": "1",
             "address": {
               "address1": "Department of the Treasury 1750 Pennsylvania Avenue, NW 12103 Washington, DC 20006",
@@ -93,7 +93,7 @@
             "banner_subtitle": "Team and Leadership",
             "banner_title":" About Our Council",
             "leadership": false,
-            "position": "Acting Chief Information Officer",
+            "position": "Chief Information Officer",
             "bio-image": "/seals/Treasury Seal.png",
             "description": ""
           }
