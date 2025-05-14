@@ -140,8 +140,8 @@
           "agencyName": "Department of Housing and Urban Development",
           "agencyCode": "025",
           "cio": {
-            "firstName": "Juan",
-            "lastName": "Sargeant",
+            "firstName": "Eric",
+            "lastName": "Sidle",
             "linkToPhoto": "",
             "linkToBio": "",
             "deptCIO": "1",
@@ -149,7 +149,7 @@
             "banner_subtitle": "Team and Leadership",
             "banner_title":"About Our Council",
             "leadership": false,
-            "position": "Acting Chief Information Officer",
+            "position": "Chief Information Officer",
             "bio-image": "/seals/HUD Seal.png",
             "description": ""
           }
