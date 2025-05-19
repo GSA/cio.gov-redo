@@ -20,14 +20,13 @@
   "license": "CC0-1.0",
   "dependencies": {
     "@uswds/uswds": "3.8.0",
-    "a11y": "^0.5.1",
     "isotope-cells-by-row": "^1.1.4",
     "isotope-layout": "^3.0.6"
   },
   "overrides": {
     "cross-spawn": "^6.0.6",
     "minimist": "1.2.8",
-    "trim":">=0.0.3",
+    "trim": ">=0.0.3",
     "tough-cookie": ">=4.1.4",
     "got": ">=11.8.5",
     "trim-newlines": ">=5.0.0"
