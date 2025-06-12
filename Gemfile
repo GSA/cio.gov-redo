@@ -12,7 +12,6 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 4.3.3"
 gem "execjs", "2.7.0" # https://github.com/rails/execjs/issues/99
-gem "mini_racer"
 gem "autoprefixer-rails"
 gem "webrick" # not included in jekyll directly until 4.3.0 https://github.com/jekyll/jekyll/pull/8524
 gem 'jekyll-liquify', "0.0.2"
