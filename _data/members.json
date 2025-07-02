@@ -487,39 +487,6 @@
       }
     },
     {
-      "title": "Agency for International Development CIO Information",
-      "content": {
-        "agency": {
-          "agencyName": "Agency for International Development",
-          "agencyCode": "184",
-          "cio": {
-            "firstName": "Vacant",
-            "lastName": "",
-            "email": "",
-            "phone": "",
-            "dateAppointed": "",
-            "linkToPhoto": "",
-            "linkToBio": "",
-            "deptCIO": "1",
-            "address": {
-              "address1": "Agency for International Development 1300 Pennsylvania Avenue, NW Ronald Reagan\n Building, Attn: 2PY Washington, DC 20523 Office Phone:",
-              "address2": "",
-              "city": "Washington",
-              "state": "DC",
-              "zip": "20523"
-            },
-            "bio_link":"",
-            "banner_subtitle": "Members and Leadership",
-            "banner_title":" About Our Council",
-            "leadership": false,
-            "position": "Chief Information Officer",
-            "bio-image": "/seals/USAID Seal.png",
-            "description": ""
-          }
-        }
-      }
-    },
-    {
       "title": "Nuclear Regulatory Commission CIO Information",
       "content": {
         "agency": {
