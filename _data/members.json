@@ -13,8 +13,6 @@
             "email": "Gary.S.Washington@ocio.usda.gov",
             "phone": "202-720-8833",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_washington.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/washington-gary/",
             "deptCIO": "1",
             "address": {
               "address1": "United States Department of Agriculture 1400 Independence Avenue SW Whitten Building,\n Room Washington, D.C. 20250",
@@ -46,8 +44,6 @@
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "",
-            "linkToBio": "",
             "deptCIO": "1",
             "address": {
               "address1": "",
@@ -79,8 +75,6 @@
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "",
-            "linkToBio": "",
             "deptCIO": "1",
             "address": {
               "address1": "Department of the Treasury 1750 Pennsylvania Avenue, NW 12103 Washington, DC 20006",
@@ -112,8 +106,6 @@
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_ash.jpeg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/",
             "deptCIO": "1",
             "address": {
               "address1": "",
@@ -142,8 +134,6 @@
           "cio": {
             "firstName": "Eric",
             "lastName": "Sidle",
-            "linkToPhoto": "",
-            "linkToBio": "",
             "deptCIO": "1",
             "bio_link":"https://www.hud.gov",
             "banner_subtitle": "Member and Leadership",
@@ -168,8 +158,6 @@
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "",
-            "linkToBio": "",
             "deptCIO": "1",
             "address": {
               "address1": "Office of Personnel Management 1900 E Street, NW Room 5415 Washington, DC 20415",
@@ -201,8 +189,6 @@
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "",
-            "linkToBio": "",
             "deptCIO": "1",
             "address": {
               "address1": "",
@@ -234,8 +220,6 @@
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio-garciga.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/garciga-leonel/",
             "deptCIO": "1",
             "address": {
               "address1": "Department of the Army 107 Army Pentagon Room 3E608 Washington, DC 20310 Office Phone:\n 703-695-4366 Office Fax: 703-695-3091",
@@ -267,8 +251,6 @@
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "",
-            "linkToBio": "",
             "deptCIO": "1",
             "address": {
               "address1": "1200 Pennsylvania Ave NW",
@@ -300,8 +282,6 @@
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_flagg.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/thomas-flagg/",
             "deptCIO": "1",
             "address": {
               "address1": "Department of Education 550 12th Street, SW Washington, DC 20202",
@@ -333,8 +313,6 @@
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "",
-            "linkToBio": "",
             "deptCIO": "1",
             "address": {
               "address1": "",
@@ -366,8 +344,6 @@
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/nara_logo.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/gulam-shakir/",
             "deptCIO": "1",
             "address": {
               "address1": "National Archives and Records Administration 8601 Adelphi Road College Park, MD\n 20740",
@@ -399,8 +375,6 @@
             "email": "",
             "phone": "",
             "dateAppointed": "December 4, 2023",
-            "linkToPhoto": "",
-            "linkToBio": "",
             "deptCIO": "1",
             "address": {
               "address1": "200 Independence Avenue, SW Washington, DC 20201",
@@ -432,8 +406,6 @@
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "",
-            "linkToBio": "",
             "deptCIO": "1",
             "address": {
               "address1": "Department of Justice 950 Pennsylvania Avenue, NW Washington, DC 20530-3101",
@@ -465,8 +437,6 @@
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "",
-            "linkToBio": "",
             "deptCIO": "1",
             "address": {
               "address1": "Social Security Administration 6401 Security Boulevard 400 Altmeyer Building",
@@ -498,8 +468,6 @@
             "email": "",
             "phone": "301-415-7443",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_flanders.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/flanders-scott/",
             "deptCIO": "1",
             "address": {
               "address1": "Nuclear Regulatory Commission 11555 Rockville Pike Rockville OWFN- 06E02 Rockville, MD\n 20852",
@@ -531,8 +499,6 @@
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_carpenter.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/terry-carpenter/",
             "deptCIO": "1",
             "address": {
               "address1": "National Science Foundation 4201 Wilson Boulevard Room 305 Arlington, VA 22230 Office\n Phone: 703-292-8100 Office Fax: 703-292-9084",
@@ -564,8 +530,6 @@
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/sba-seal-placeholder.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/stephen-kucharski/",
             "deptCIO": "1",
             "address": {
               "address1": "",
@@ -597,8 +561,6 @@
             "email": "******need info******",
             "phone": "******need info******",
             "dateAppointed": "******need info******",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/LouisC.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/louis-charlier/",
             "deptCIO": "1",
             "address": {
               "address1": "Department of Labor, 200 Constitution Ave NW, Washington, DC 20210",
@@ -629,8 +591,6 @@
             "position": "Federal Chief Information Officer",
             "leadership": true,
             "dateAppointed": "",
-            "linkToPhoto": "",
-            "linkToBio": "",
             "deptCIO": "1",
             "bio_link":"barbaccia-gregory",
             "bio-image": "/bio-gregb.jpeg",
@@ -662,8 +622,6 @@
             "phone": "",
             "position": "Vice-chair, Chief Information Officer",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_shive.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/shive-david/",
             "deptCIO": "1",
             "bio_link":"shive-david",
             "banner_subtitle": "Members and Leadership",
@@ -695,8 +653,6 @@
             "phone": "",
             "position": "Acting Federal Chief Information Security Officer",
             "dateAppointed": "",
-            "linkToPhoto": "",
-            "linkToBio": "",
             "deptCIO": "",
             "bio_link":"duffy-michael",
             "banner_subtitle": "Members and Leadership",
@@ -718,8 +674,6 @@
             "position": "Deputy Federal Chief Information Officer",
             "leadership": true,
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_myklegard.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/myklegard-drew/",
             "deptCIO": "1",
             "bio_link":"myklegard-drew",
             "bio-image": "/bio_myklegard_2.jpg",
@@ -749,8 +703,6 @@
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "",
-            "linkToBio": "",
             "deptCIO": "1",
             "address": {
               "address1": "",
@@ -782,8 +734,6 @@
             "email": "",
             "phone": "202-482-4797",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_epley.png",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/brian-epley/",
             "deptCIO": "1",
             "address": {
               "address1": "",
@@ -815,8 +765,6 @@
             "email": "CIO@state.gov",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/kelly-fletcher.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/kelly-fletcher/",
             "deptCIO": "1",
             "address": {
               "address1": "U.S. Department of State 2201 C Street NW Washington, DC 20522-0906",
@@ -848,8 +796,6 @@
             "email": "",
             "phone": "",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_seaton.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/jeff-seaton/",
             "deptCIO": "1",
             "address": {
               "address1": "National Aeronautics & Space Administration NASA Headquarters 300 E Street, SW,\n Mail Suite: 2N18 Washington, DC 20546-0001 Office Phone: 202-358-1824 Office Fax:\n 202-358-3017",
@@ -881,8 +827,6 @@
             "email": "osd.pentagon.dod-cio.mbx.front-office@mail.mil",
             "phone": "703-614-7323",
             "dateAppointed": "",
-            "linkToPhoto": "",
-            "linkToBio": "",
             "deptCIO": "1",
             "address": {
               "address1": "Office of the Department of Defense, Chief Information Officer 6000 Defense Pentagon\n Washington, D.C. 20301-6000",
@@ -911,8 +855,6 @@
             "firstName": "Jane Overslaugh",
             "lastName": "Rathbun",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_rathbun.jpg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/rathbun-jane/",
             "deptCIO": "",
             "address": {
               "address1": "",
@@ -941,8 +883,6 @@
             "firstName": "Dr. Keith",
             "lastName": "Hardiman",
             "dateAppointed": "",
-            "linkToPhoto": "",
-            "linkToBio": "",
             "deptCIO": "",
             "address": {
               "address1": "",
@@ -971,8 +911,6 @@
             "firstName": "Doug",
             "lastName": "Cossa",
             "dateAppointed": "",
-            "linkToPhoto": "",
-            "linkToBio": "",
             "deptCIO": "",
             "address": {
               "address1": "",
@@ -1001,8 +939,6 @@
             "firstName": "Sylvia",
             "lastName": "Burns",
             "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/bio_burns.jpeg",
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/burns-sylvia/",
             "deptCIO": "",
             "address": {
               "address1": "",
