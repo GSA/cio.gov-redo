@@ -12,7 +12,7 @@ permalink: /2021-11-10-Cybersecurity-Awareness/
 Federal agencies did it again! CIOs, CISOs, and their staff pulled together for another successful Cybersecurity Awareness Month. With this year’s overarching theme of “Do Your Part. #BeCyberSmart,” agency CIOs and CISOs did a great job educating, bringing awareness, and emphasizing the importance of cybersecurity. Here are just a few of the highlights from this year’s Cybersecurity Awareness Month:
 
 
-* The CISO Council featured four blogs on [CIO.gov]({{site.baseurl}}/programs-and-events/2021-cybersecurity-awareness-month/); a video message from [National Cyber Director Chris Inglis](https://www.youtube.com/watch?v=SJMVf78QtYs), and; an educational video on IT careers. 
+* The CISO Council featured four blogs on CIO.gov; a video message from [National Cyber Director Chris Inglis](https://www.youtube.com/watch?v=SJMVf78QtYs), and; an educational video on IT careers. 
 
 * The Department of Education held virtual weekly events that included: Panels, presentations, and guest speakers (government and private sector).
 
