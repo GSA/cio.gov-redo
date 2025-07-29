@@ -33,6 +33,7 @@ Finally, we’ve made it easier for interested parties to stay involved. Now you
 * Look at our [Policy Catalog]({{ site.baseurl }}/policies-and-priorities/) to see what’s open for comment, in revision, in development, and active in the IT policy space
 * [Browse resources]({{ site.baseurl }}/resources/)
 * [Sign up for the CIO Council bi-weekly newsletter](https://public.govdelivery.com/accounts/USGSA/subscriber/new?topic_id=USGSA_715)
+* Register for upcoming Council events
 
 
 If your agency is considering a modernization transformation or has feedback, email [feedback@gsa.gov](mailto:feedback@gsa.gov) or [check out the blog]({{ site.baseurl }}/new-look/) for more information.
