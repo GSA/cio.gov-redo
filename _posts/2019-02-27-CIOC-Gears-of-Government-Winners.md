@@ -31,4 +31,4 @@ Throughout the year, Federal employees nominated teams and individuals across th
 
 **Thomas Santucci (DOJ)** *- Led the Department of Justice’s Data Center Transformation Initiative, which optimized the data center infrastructure and improved cloud adoption resulting in $130 million  in cost savings and a projected annual cost avoidance of $30 million.*
 
-*To learn more about these outstanding public servants and their fellow recipients, visit the [Hall of Winners page](https://trumpadministration.archives.performance.gov/gearawards/) and stay tuned as their stories are highlighted on the Performance.gov blog, [Twitter](https://twitter.com/performancegov?lang=en), and [LinkedIn](https://www.linkedin.com/company/performance-gov/) pages.*
+*To learn more about these outstanding public servants and their fellow recipients, visit the [Hall of Winners page](https://trumpadministration.archives.performance.gov/gearawards/) and stay tuned as their stories are highlighted on the Performance.gov blog, [Twitter](https://twitter.com/performancegov?lang=en).*
