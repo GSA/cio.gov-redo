@@ -12,7 +12,7 @@ The Accessibility Community of Practice is the principal interagency forum to su
 
 The U.S. Access Board is responsible for developing accessibility standards that Federal agencies must apply to Federal IT development and procurement. The [Revised 508 Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines) were updated in January 2018, and apply to things such as computers, telecommunications equipment, printers, software, websites, information kiosks, and electronic documents.
 
-Review the [Executive Guide to IT Accessibility](https://section508.gov/tools/playbooks/exec-guide-accessibility) to learn more. (The Executive Guide is also [available as a PDF](https://section508.gov/sites/default/files/Executive%20Guide%20to%20Federal%20IT%20Accessibility.pdf#overlay-context=tools/playbooks).)
+Review the [Executive Guide to IT Accessibility](https://section508.gov/tools/playbooks/exec-guide-accessibility) to learn more.
 
 To learn more, please visit the CIO Council [Accessibility CoP Connect.gov page](https://community.connect.gov/x/BRSDJg) **(Connect.gov Login Required)**.
 

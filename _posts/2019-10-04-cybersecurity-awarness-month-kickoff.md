@@ -28,6 +28,4 @@ The Federal Chief Information Security Officer Council is promoting four themes 
 3. Phishing; and
 4. Home Security for Teleworking.  
 
-Each week CIO.gov will host a [video and information on a new theme]({{ site.baseurl }}/programs-and-events/2019-cybersecurity-awareness-month/).  
-
 Cybersecurity is also a critical element of our personal lives, and I encourage everyone to build their cybersecurity awareness and use available resources to protect their agencies, their families, and themselves. This year the message for National Cybersecurity Awareness Month is [“Own IT, Secure IT, Protect IT”](https://www.dhs.gov/national-cyber-security-awareness-month) and  focuses on protecting citizen privacy, consumer devices, and e-commerce.

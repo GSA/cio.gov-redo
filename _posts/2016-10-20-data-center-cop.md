@@ -11,7 +11,7 @@ permalink:
 ---
 This blog entry was originally published on October 19th, 2016 on the GSA blog.
 
-This month over one hundred government data center representatives from around the country participated in the second meeting of the [Data Center Optimization Initiative (DCOI)](https://datacenters.cio.gov/) Community of Practice (CoP). The CoP is a forum driven by the needs of the agencies and personnel charged with implementing the data center provisions of the Federal Information Technology Acquisition Reform Act (FITARA).
+This month over one hundred government data center representatives from around the country participated in the second meeting of the Data Center Optimization Initiative (DCOI) Community of Practice (CoP). The CoP is a forum driven by the needs of the agencies and personnel charged with implementing the data center provisions of the Federal Information Technology Acquisition Reform Act (FITARA).
 
 **Agencies provide perspective on data center optimization and consolidation**
 

@@ -29,6 +29,6 @@ A modern technology ecosystem for managing administrative functions, beginning w
 
 Over the past two years, the Office of Personnel Management, the General Services Administration and the federal shared service providers for payroll have been building common governmentwide standards that will allow the government to obtain a software-as-a-service solution for payroll and work schedule and leave management (WSLM).
 
-In an important step toward realizing the benefits of utilizing innovative commercial solutions, GSA released a [pre-solicitation notice](https://www.gsa.gov/about-us/newsroom/news-releases/gsa-issues-presolicitation-notice-for-solutions-to-modernize-federal-payroll) for payroll and WSLM SaaS solutions on May 18.
+In an important step toward realizing the benefits of utilizing innovative commercial solutions, GSA released a pre-solicitation notice for payroll and WSLM SaaS solutions on May 18.
 
 Payroll modernization represents a tremendous opportunity for the government -- an opportunity that sits squarely at the intersection of the cross-agency priorities outlined in the President's Management Agenda: modernizing IT, sharing quality services, making better use of data, moving from low-value to high-value work and reimagining and maximizing the skills of the workforce we need for the future. GSA is excited and well-positioned to deliver value to our partners in government and taxpayers by helping facilitate this needed modernization.

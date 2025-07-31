@@ -32,4 +32,4 @@ Washington, D.C. – Today, the Office of Management and Budget (OMB), the Chief
 
 OPM Director Dale Cabaniss explained that “by serving as a government-wide bulletin board for short-term assignments, details, and training opportunities around the Federal government, Open Opportunities will help agencies tap into the valuable talent and skills we already have and are developing within government.”
 
-To view the FY20 cybersecurity reskilling detail assignments, visit [https://openopps.usajobs.gov/community/cyber](https://openopps.usajobs.gov/community/cyber)
+
