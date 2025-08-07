@@ -33,11 +33,7 @@ Executive Office of the President (EOP)</p>
 
 <p><strong>SMAC Leadership</strong></p>
 
-<p><strong>Alen Kirkorian - Community Lead</strong><br>
-Technical Special Advisor<br>
-Department of State&nbsp;</p>
-
-<p><strong>Patrick Bevill - CISO Council Liaison&nbsp;</strong><br>
+<p><strong>Patrick Bevill - Community Lead&nbsp;</strong><br>
 Chief Information Security Officer<br>
 Federal Retirement Thrift Investment Board</p>
 </div> 
