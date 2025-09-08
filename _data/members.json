@@ -163,8 +163,8 @@
           "agencyName": "Office of Personnel Management",
           "agencyCode": "027",
           "cio": {
-            "firstName": "Greg",
-            "lastName": "Hogan",
+            "firstName": "Perryn",
+            "lastName": "Ashmore",
             "email": "",
             "phone": "",
             "dateAppointed": "",
@@ -182,7 +182,7 @@
             "banner_subtitle": "Members and Leadership",
             "banner_title": "About Our Council",
             "leadership": false,
-            "position": "Chief Information Officer",
+            "position": "Acting Chief Information Officer",
             "bio-image": "/agency_OPM.png",
             "description": ""
           }
