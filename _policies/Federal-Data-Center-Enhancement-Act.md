@@ -3,7 +3,7 @@ title: Federal Data Center Enhancement Act
 subtitle: Federal Data Center Enhancement Act
 permalink: /policies-and-priorities/federal-data-center-enhancement-act/
 layout: policy-landing
-filters: fed-policy cybersecurity workforce active
+filters: fed-policy governance cybersecurity active current
 date: September 8, 2025
 ---
 ## Federal Data Center Enhancement Act ##
