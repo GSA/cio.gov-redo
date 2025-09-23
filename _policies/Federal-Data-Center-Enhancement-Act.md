@@ -13,4 +13,5 @@ FDCEA replaced prior approaches to data center oversight. Previously the Federal
 
 Using the link below, members of the public may download information and explanatory statements related to CFO Act agency compliance with M-25-03 Section III. Requirements for Acquiring and Operating Federal Data Centers. This information was reported directly by the agencies themselves.
 
-[Download Agency Compliance Information] ({{ site.baseurl }}/assets/files/FDCEA Compliance Info_July 2025 Reporting.pdf)
+<a href="{{ site.baseurl }}/assets/files/FDCEA Compliance Info_July 2025 Reporting.pdf" target="_blank" rel="noopener">Download Agency Compliance Information</a>
+
