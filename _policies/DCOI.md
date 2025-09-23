@@ -1,6 +1,6 @@
 ---
 title: Policies & Priorities
-subtitle: Data Center Optimization Initiative
+subtitle: Archive - Data Center Optimization Initiative
 description: Requires agencies to optimize and consolidate data centers to deliver better services to the public while increasing return-on-investment to taxpayers.
 permalink: /policies-and-priorities/DCOI/
 layout: policy-landing
