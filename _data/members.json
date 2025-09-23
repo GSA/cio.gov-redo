@@ -708,36 +708,6 @@
       }
     },
     {
-      "title": "Deputy Federal Chief Information Officer, Office of Management and Budget",
-      "content": {
-        "agency": {
-          "agencyName": "Office of Management and Budget",
-          "cio": {
-            "firstName": "Vacant",
-            "lastName": "",
-            "position": "Deputy Federal Chief Information Officer",
-            "leadership": true,
-            "dateAppointed": "",
-            "linkToPhoto": "https://www.cio.gov/assets/images/members/OMB_Seal-members.jpg", 
-            "linkToBio": "https://www.cio.gov/about/members-and-leadership/myklegard-drew/",
-            "deptCIO": "1",
-            "bio_link":"myklegard-drew",
-            "bio-image": "/OMB-Seal.png",
-            "description": " Drew Myklegard is the Deputy Federal CIO of the White House tech policy office. He is responsible for driving technology modernization and improving mission delivery by ensuring over $120B in Federal IT spending is well managed. Prior to joining the White House, Drew served as the Executive Director of Product Engineering at the Department of Veterans Affairs (VA). Drew led the implementation of VA’s Lighthouse Application Programming Interface (API) Platform which enabled over 6 million veterans to securely share their health and benefits data with approved third parties – revolutionizing how veterans manage their health care. In addition to his public service, Drew is an active member of the Army Reserves and completed one tour in Iraq.",
-            "banner_subtitle": "Members and Leadership",
-            "banner_title":"About Our Council",
-            "address": {
-              "address1": "",
-              "address2": "",
-              "city": "",
-              "state": "",
-              "zip": ""
-            }
-          }
-        }
-      }
-    },
-    {
       "title": "Veterans Affairs CIO Information",
       "content": {
         "agency": {
