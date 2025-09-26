@@ -991,6 +991,36 @@
           }
         }
       }
+    },
+    {
+      "title": "U.S. Agency for International Development",
+      "content": {
+        "agency": {
+          "agencyName": "U.S. Agency for International Development",
+          "cio": {
+            "firstName": "Greg",
+            "lastName": "Barbaccia",
+            "dateAppointed": "",
+            "linkToPhoto": "",
+            "linkToBio": "",
+            "deptCIO": "",
+            "address": {
+              "address1": "",
+              "address2": "",
+              "city": "",
+              "state": "",
+              "zip": ""
+            },
+            "bio_link":"",
+            "banner_subtitle": "Members and Leadership",
+            "banner_title":" About Our Council",
+            "leadership": false,
+            "position": "Acting Chief Information Officer",
+            "bio-image": "/seals/USAID Seal.png",
+            "description": "<p>Sylvia Burns was appointed Chief Information Officer (CIO) and Chief Privacy Officer (CPO) of the Federal Deposit Insurance Corporation (FDIC) on January 16, 2020.</p><p>Ms. Burns joined the FDIC in September 2018 and led the development of the agency's multi-year IT Modernization Plan and Roadmap.  As the FDIC CIO, she is leading the implementation of the FDIC’s IT modernization and driving transformational cultural and technology changes to all aspects of the agency’s IT environment.  This includes the adoption of cloud technologies, Agile development methodologies, DevSecOps, and Product Management.  As an active member of the Federal CIO Council, she serves as one of the tri-chairs of the Enterprise Operations (E-Ops) Committee.  She’s worked extensively with OMB, NIST, DHS/CISA to promote Zero Trust Architectures and coordinated interagency participation in the development of Zero Trust Architecture standards and guidance including NIST SP-800-207.  Prior to joining the FDIC, Ms. Burns served as CIO at the U.S. Department of the Interior.  She currently serves on the board of the government-wide Technology Modernization Fund.</p><p>Ms. Burns has been previously recognized as one of the top CIO’s in the Federal Government, and women in technology in the metropolitan Washington, D.C. area.  Ms. Burns holds a Bachelor’s degree in Geology from the City University of New York at Hunter College and a Master’s degree in Business Management and Policy from the State University of New York at Stony Brook.  She is a member of the Senior Executive Service and started her government career in 1994 as a Presidential Management Intern.</p>"
+          }
+        }
+      }
     }
   ]
 }
