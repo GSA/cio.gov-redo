@@ -708,6 +708,32 @@
       }
     },
     {
+      "title": "Office of Management and Budget CIO Information",
+      "content": {
+        "agency": {
+          "agencyName": "Office of Management and Budget",
+          "agencyCode": "",
+          "cio": {
+            "leadership": true,
+            "firstName": "Jay",
+            "lastName": "Teitelbaum",
+            "email": "",
+            "phone": "",
+            "position": "Acting Deputy Federal Chief Information Officer",
+            "dateAppointed": "",
+            "linkToPhoto": "",
+            "linkToBio": "",
+            "deptCIO": "",
+            "bio_link":"jay-teitelbaum",
+            "banner_subtitle": "Members and Leadership",
+            "banner_title":" About Our Council",
+            "bio-image": "/bio_teitelbaum.png",
+            "description":"Jay Teitelbaum is the Acting Deputy Federal CIO within the Office of Management and Budget. In this role, Jay provides expert advice and guidance to OMB and Executive Branch leadership on a wide range of highly complex technology policy and implementation areas including, but not limited to technology modernization, digital service, and cybersecurity.  Jay is also responsible for the establishment of management processes and the creation of an environment conducive to the effective utilization of personnel, information technology, and financial resources necessary to support OFCIO staff.  Previously, Jay served as the Chief of Finance and Operations of the U.S. Digital Service (USDS), a team of top technologists in the Executive Office of the President, responsible for the daily operation of USDS headquarters. Prior to USDS, Jay was a civil servant at the Department of Homeland Security, where he was responsible for securing new funding and budgetary management for the Office of the Secretary and Executive Management.  Jay is passionate about building and leveraging relationships to improve government processes and services to the public.  Jay holds a master’s degree in Homeland Security and Defense from the Naval Postgraduate School. Originally from New Jersey, Jay now lives in Falls Church, VA, with his wife, Nisha, and dog, Riley."
+          }
+        }
+      }
+    },
+    {
       "title": "Veterans Affairs CIO Information",
       "content": {
         "agency": {
