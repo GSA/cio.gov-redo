@@ -328,8 +328,8 @@
           "agencyName": "Department of Energy",
           "agencyCode": "019",
           "cio": {
-            "firstName": "Vacant",
-            "lastName": "",
+            "firstName": "Dawn",
+            "lastName": "Zimmer",
             "email": "",
             "phone": "",
             "dateAppointed": "",
@@ -592,8 +592,8 @@
           "agencyName": "Department of Labor",
           "agencyCode": "******need info******",
           "cio": {
-            "firstName": "Thomas",
-            "lastName": "Shedd",
+            "firstName": "Mangala",
+            "lastName": "Kuppa",
             "email": "******need info******",
             "phone": "******need info******",
             "dateAppointed": "******need info******",
@@ -740,8 +740,8 @@
           "agencyName": "Department of Veterans Affairs",
           "agencyCode": "029",
           "cio": {
-            "firstName": "Eddie",
-            "lastName": "Pool",
+            "firstName": "Dr. Paul",
+            "lastName": "Lawrence",
             "email": "",
             "phone": "",
             "dateAppointed": "",
@@ -839,8 +839,8 @@
           "agencyName": "National Aeronautics & Space Administration",
           "agencyCode": "026",
           "cio": {
-            "firstName": "Jeff",
-            "lastName": "Seaton",
+            "firstName": "Sean",
+            "lastName": "Gallagher",
             "email": "",
             "phone": "",
             "dateAppointed": "",
@@ -858,7 +858,7 @@
             "banner_subtitle": "Members and Leadership",
             "banner_title":"About Our Council",
             "leadership": false,
-            "position": "Chief Information Officer",
+            "position": "Acting Chief Information Officer",
             "bio-image": "/seals/NASA Seal.jpg",
             "description": "Jeff Seaton is NASA’s Chief Information Officer (Acting). Prior to this appointment, he served as Deputy Chief Information Officer. Seaton came to NASA Headquarters from NASA's Langley Research Center, where he was Chief Information Officer from 2011 to 2018. During that time, he was also a member of the NASA Langley Senior Staff and the agency’s CIO Executive Council. Jeff led transformative change efforts in both the Langley and CIO enterprise across the agency to increase effectiveness and accountability of the services provided by the organization.<br><br>Jeff began his career with NASA in 1991 as a research engineer designing robotic systems for use in space-based applications. He also conducted research in the field of computer vision techniques applied to the control of robots. Jeff was a member of NASA’s 2008 Senior Executive Service Candidate Development Program and served as Langley’s Chief Technology Officer and Deputy Chief Information Officer prior to becoming CIO.<br><br>In addition to his CIO duties, Jeff was a member of the Business Services Steering Committee charged with identifying opportunities for NASA to improve the efficiency and effectiveness of all mission support services. He was also the executive champion of the Langley Emerging and Advancing Professionals employee resource group, has led Langley’s digital transformation efforts, and helped to lead Langley’s High-Performance Computing Incubator.<br><br>Seaton has applied his robotics background to student-based robotics competitions where he has served as a mentor to high school teams, helped to establish and organize competitions, and represented NASA as a national master of ceremonies. He has received numerous awards for his service to the Agency, including NASA’s Outstanding Leadership Medal in 2014.<br><br>Jeff holds B.S. and M.S. degrees in electrical engineering from Virginia Polytechnic Institute and State University (Virginia Tech)."
           }
@@ -872,8 +872,8 @@
           "agencyName": "Department of Defense",
           "agencyCode": "007",
           "cio": {
-            "firstName": "Katherine",
-            "lastName": "Arrington",
+            "firstName": "Kristen",
+            "lastName": "Davies",
             "email": "osd.pentagon.dod-cio.mbx.front-office@mail.mil",
             "phone": "703-614-7323",
             "dateAppointed": "",
@@ -891,8 +891,8 @@
             "banner_subtitle": "Members and Leadership",
             "banner_title":"About Our Council",
             "leadership": false,
-            "position": "Acting Chief Information Officer",
-            "bio-image": "/seals/DOD Seal.jpg",
+            "position": "Chief Information Officer",
+            "bio-image": "/seals/DOW Seal2025.png",
             "description": ""
           }
         }
